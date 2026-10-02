@@ -29,7 +29,12 @@ jobs:
           npm install playwright
           npx playwright install --with-deps chromium
 
-      - name: Fetch last-24h posts
+      - name: Fetch last-24h posts (9493911686)
+        run: node scripts/crawl_xueqiu_24h.js
+
+      - name: Fetch last-24h posts (1910783512)
+        env:
+          XUEQIU_USER_ID: "1910783512"
         run: node scripts/crawl_xueqiu_24h.js
 
       - name: Commit fetched data
