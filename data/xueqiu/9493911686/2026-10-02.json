@@ -3,8 +3,16 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月2日星期五 06:17:16",
+  "crawled_at_beijing": "2026年10月2日星期五 08:26:20",
   "crawled_date": "2026-10-02",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "411186171",
+      "created_at": "2026-10-02T00:11:02.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/411186171",
+      "text": "回复@Danny梁: 这两年股市涨了消费好起来了吗？ //@Danny梁:回复@斯托伯的天空:股市涨了大家也敢消费啊。跌了更加谨慎了。"
+    }
+  ]
 }
