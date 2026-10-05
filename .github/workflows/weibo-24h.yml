@@ -1,10 +1,10 @@
-name: Xueqiu 24h Fetch
+name: Weibo 24h Fetch
 
 on:
   workflow_dispatch:
   schedule:
     # every hour UTC
-    - cron: "0 * * * *"
+    - cron: "5 * * * *"
 
 permissions:
   contents: write
@@ -12,7 +12,7 @@ permissions:
 jobs:
   fetch-24h:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
@@ -29,18 +29,15 @@ jobs:
           npm install playwright
           npx playwright install --with-deps chromium
 
-      - name: Fetch last-24h posts (9493911686)
-        run: node scripts/crawl_xueqiu_24h.js
-
-      - name: Fetch last-24h posts (1910783512)
+      - name: Fetch last-24h posts (3962719063 挖地瓜的超级鹿鼎公)
         env:
-          XUEQIU_USER_ID: "1910783512"
-        run: node scripts/crawl_xueqiu_24h.js
+          WEIBO_USER_ID: "3962719063"
+        run: node scripts/crawl_weibo_24h.js
 
       - name: Commit fetched data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/xueqiu/
-          git diff --cached --quiet || git commit -m "chore: xueqiu 24h fetch"
+          git add data/weibo/
+          git diff --cached --quiet || git commit -m "chore: weibo 24h fetch"
           git push
