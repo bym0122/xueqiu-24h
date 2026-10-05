@@ -29,7 +29,6 @@ function beijingStamp(d) {
   };
 }
 
-/** Parse Weibo created_at like "Sun Oct 04 22:30:15 +0800 2026" or relative labels. */
 function parseWeiboTime(s) {
   if (!s) return null;
   const t = Date.parse(s);
@@ -71,6 +70,24 @@ function normalizeCard(card) {
   };
 }
 
+function extractPostsFromJson(j) {
+  const out = [];
+  const cards = (j && j.data && j.data.cards) || [];
+  for (const c of cards) {
+    const group = c.card_group || [c];
+    for (const item of group) {
+      const n = normalizeCard(item);
+      if (n) out.push(n);
+    }
+  }
+  const statuses = (j && j.data && j.data.statuses) || [];
+  for (const s of statuses) {
+    const n = normalizeCard(s);
+    if (n) out.push(n);
+  }
+  return out;
+}
+
 (async () => {
   const browser = await chromium.launch({
     headless: true,
@@ -86,9 +103,9 @@ function normalizeCard(card) {
     locale: "zh-CN",
     timezoneId: "Asia/Shanghai",
     extraHTTPHeaders: {
-      Accept: "application/json, text/plain, */*",
-      "X-Requested-With": "XMLHttpRequest",
-      Referer: PROFILE_URL,
+      Accept:
+        "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
     },
   });
   await context.addInitScript(() => {
@@ -104,18 +121,10 @@ function normalizeCard(card) {
     if (!/m\.weibo\.cn\/api\/container\/getIndex/i.test(url)) return;
     try {
       const j = await resp.json();
-      const cards =
-        (j.data && j.data.cards) ||
-        (j.data && j.data.cardlistInfo && j.data.cards) ||
-        [];
-      if (!Array.isArray(cards) || !cards.length) return;
-      apiHits++;
-      for (const c of cards) {
-        const group = c.card_group || [c];
-        for (const item of group) {
-          const n = normalizeCard(item);
-          if (n) harvested.push(n);
-        }
+      const posts = extractPostsFromJson(j);
+      if (posts.length) {
+        apiHits++;
+        harvested.push(...posts);
       }
     } catch (_) {}
   });
@@ -124,73 +133,122 @@ function normalizeCard(card) {
   let freshSource = "none";
 
   try {
-    console.log("Seeding mobile weibo:", PROFILE_URL);
+    console.log("Seeding m.weibo.cn home...");
+    await page.goto("https://m.weibo.cn/", {
+      waitUntil: "domcontentloaded",
+      timeout: 60000,
+    });
+    await page.waitForTimeout(2000);
+    console.log("Home title:", await page.title());
+    console.log(
+      "Home URL:",
+      page.url(),
+      "cookies:",
+      (await context.cookies()).map((c) => c.name).join(",")
+    );
+
+    const cookies = await context.cookies();
+    if (!cookies.some((c) => c.name === "SUB" || c.name === "SUBP")) {
+      console.log("No SUB cookie; trying visitor gen...");
+      try {
+        await page.goto(
+          "https://passport.weibo.com/visitor/genvisitor?cb=visitor_gray",
+          { waitUntil: "domcontentloaded", timeout: 30000 }
+        );
+        await page.waitForTimeout(1500);
+        const body = await page.content();
+        const m = body.match(/"tid":"([^"]+)"/);
+        if (m) {
+          console.log("visitor tid:", m[1].slice(0, 20) + "...");
+          await page.goto(
+            `https://passport.weibo.com/visitor/visitor?a=incarnate&t=${m[1]}&w=2&c=095&gc=&cb=cross_domain&from=weibo&_rand=${Math.random()}`,
+            { waitUntil: "domcontentloaded", timeout: 30000 }
+          );
+          await page.waitForTimeout(1500);
+        }
+      } catch (e) {
+        console.warn("visitor flow error:", e.message);
+      }
+      console.log(
+        "cookies after visitor:",
+        (await context.cookies()).map((c) => c.name).join(",")
+      );
+    }
+
+    console.log("Opening profile:", PROFILE_URL);
     await page.goto(PROFILE_URL, {
       waitUntil: "domcontentloaded",
       timeout: 60000,
     });
-    await page.waitForTimeout(3000);
+    await page.waitForTimeout(4000);
     console.log("Profile title:", await page.title());
+    console.log("Profile URL:", page.url());
 
-    for (let i = 0; i < 8; i++) {
+    const snippet = await page.evaluate(() => {
+      const t = document.body ? document.body.innerText : "";
+      return t.slice(0, 300).replace(/\s+/g, " ");
+    });
+    console.log("Page snippet:", snippet);
+
+    for (let i = 0; i < 6; i++) {
       await page.mouse.wheel(0, 1400);
-      await page.waitForTimeout(800);
+      await page.waitForTimeout(900);
     }
     await page.waitForTimeout(1500);
 
     const cutoff = Date.now() - WINDOW_MS;
     let sinceId = null;
-    for (let pageNo = 1; pageNo <= 15; pageNo++) {
+    for (let pageNo = 1; pageNo <= 12; pageNo++) {
       let apiUrl = `${API_BASE}&page=${pageNo}`;
-      if (sinceId) apiUrl += `&since_id=${sinceId}`;
-      console.log(`[api] page ${pageNo}: ${apiUrl.slice(0, 120)}...`);
-      let body;
+      if (sinceId) apiUrl += `&since_id=${encodeURIComponent(sinceId)}`;
+      console.log(`[api] page ${pageNo}`);
+      let resp;
       try {
-        body = await page.evaluate(async (u) => {
-          const r = await fetch(u, {
-            credentials: "include",
-            headers: { "X-Requested-With": "XMLHttpRequest" },
-          });
-          return { status: r.status, text: await r.text() };
-        }, apiUrl);
+        resp = await context.request.get(apiUrl, {
+          headers: {
+            Referer: PROFILE_URL,
+            "X-Requested-With": "XMLHttpRequest",
+            Accept: "application/json, text/plain, */*",
+            "MWeibo-Pwa": "1",
+            "X-XSRF-TOKEN":
+              (await context.cookies()).find((c) => c.name === "XSRF-TOKEN")
+                ?.value || "",
+          },
+          timeout: 30000,
+        });
       } catch (e) {
-        console.warn(`[api] fetch error: ${e.message}`);
+        console.warn(`[api] request error: ${e.message}`);
         break;
       }
-      if (body.status !== 200) {
-        console.warn(`[api] http ${body.status}: ${body.text.slice(0, 120)}`);
-        break;
-      }
+      const status = resp.status();
+      const text = await resp.text();
+      console.log(
+        `[api] http ${status} bodyHead=${text.slice(0, 120).replace(/\s+/g, " ")}`
+      );
+      if (status !== 200) break;
       let j;
       try {
-        j = JSON.parse(body.text);
+        j = JSON.parse(text);
       } catch (_) {
-        console.warn(`[api] not json: ${body.text.slice(0, 80)}`);
+        console.warn("[api] not json");
         break;
       }
-      const cards = (j.data && j.data.cards) || [];
+      const batch = extractPostsFromJson(j);
       const cardlistInfo = (j.data && j.data.cardlistInfo) || {};
       sinceId = cardlistInfo.since_id || null;
       let oldest = Infinity;
-      let got = 0;
-      for (const c of cards) {
-        const group = c.card_group || [c];
-        for (const item of group) {
-          const n = normalizeCard(item);
-          if (!n) continue;
-          got++;
-          harvested.push(n);
-          const ms = parseWeiboTime(item.mblog?.created_at || item.created_at);
-          if (ms) oldest = Math.min(oldest, ms);
-        }
+      for (const p of batch) {
+        harvested.push(p);
+        const ms = parseWeiboTime(p.created_at);
+        if (ms) oldest = Math.min(oldest, ms);
       }
       console.log(
-        `[api] page ${pageNo}: cards=${cards.length} posts=${got} since_id=${sinceId}`
+        `[api] posts=${batch.length} since_id=${sinceId} ok=${j.ok}`
       );
-      if (got === 0) break;
+      if (batch.length === 0) break;
       if (oldest !== Infinity && oldest < cutoff) break;
       if (!sinceId && pageNo > 1) break;
-      await page.waitForTimeout(600);
+      await page.waitForTimeout(500);
     }
 
     const map = new Map();
@@ -204,7 +262,7 @@ function normalizeCard(card) {
         (p) => new Date(p.created_at).getTime() >= cutoff
       );
       freshSource = "api+xhr";
-    } else {
+    } else if (all.length) {
       posts = all;
       freshSource = "api-no-ts";
     }
