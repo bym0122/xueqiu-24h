@@ -2,9 +2,46 @@
   "user_id": "3962719063",
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
-  "source": "api-no-ts",
-  "crawled_at_beijing": "2026年10月5日星期一 14:02:50",
+  "source": "api+xhr",
+  "crawled_at_beijing": "2026年10月5日星期一 14:10:11",
   "crawled_date": "2026-10-05",
-  "post_count": 0,
-  "posts": []
+  "post_count": 3,
+  "posts": [
+    {
+      "id": "5350643810438340",
+      "mid": "5350643810438340",
+      "created_at": "2026-10-05T04:59:17.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rlftz1Q20",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 11,
+      "attitudes": 84
+    },
+    {
+      "id": "5350643747263964",
+      "mid": "5350643747263964",
+      "created_at": "2026-10-05T04:59:02.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlftsutGI",
+      "text": "不买，也可以住好房子，可以租//@飞翔的小灰:等了八年，但人生有几个八年啊",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 11,
+      "attitudes": 115
+    },
+    {
+      "id": "5350643541742776",
+      "mid": "5350643541742776",
+      "created_at": "2026-10-05T04:58:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rlft87jni",
+      "text": "//@凯文客厅:还是实力说话，圣母自作自受，不装的吃的满嘴流油",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 1,
+      "attitudes": 39
+    }
+  ]
 }
