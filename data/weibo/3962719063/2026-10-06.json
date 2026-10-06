@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月6日星期二 11:20:30",
+  "crawled_at_beijing": "2026年10月6日星期二 12:21:41",
   "crawled_date": "2026-10-06",
-  "post_count": 8,
+  "post_count": 11,
   "posts": [
     {
       "id": "5350937174475003",
@@ -102,6 +102,42 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 5
+    },
+    {
+      "id": "5350989331960414",
+      "mid": "5350989331960414",
+      "created_at": "2026-10-06T03:52:16.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlosR8dZA",
+      "text": "回复@西风西风又见西风:看上去用不起，实际上使用成本最低，当然对于资金极度紧张的人不适合//@西风西风又见西风:家具用不起啊，最便宜的塑料也比颗粒板贵很多倍",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 32
+    },
+    {
+      "id": "5350984413088790",
+      "mid": "5350984413088790",
+      "created_at": "2026-10-06T03:32:43.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlokVcXxc",
+      "text": "到目前为止，港股电解铝股票节后的跌幅很小，甚至比恒生指数跌幅还小，而伦铝在反弹，跌幅明细收窄了",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 37,
+      "attitudes": 227
+    },
+    {
+      "id": "5350981429891236",
+      "mid": "5350981429891236",
+      "created_at": "2026-10-06T03:20:52.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rlog6Fva4",
+      "text": "不知道网友里，有没有冰箱设计师 ，用冰箱的材料设计家具，像生产冰箱一样设计家具是不是个好主意",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 18,
+      "attitudes": 127
     }
   ]
 }
