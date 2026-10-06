@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月6日星期二 09:15:15",
+  "crawled_at_beijing": "2026年10月6日星期二 10:14:58",
   "crawled_date": "2026-10-06",
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
     {
       "id": "411348414",
@@ -41,6 +41,13 @@
       "kind": "status",
       "url": "https://xueqiu.com/1910783512/411351715",
       "text": "如今，在大西洋航线，一条苏伊士的运价已经接近VLCC，两条阿芙拉的运价等于一条VLCC运价。而1条LR2等同1条阿芙拉，2条LR1等同1条苏伊士。阿能有3条苏伊士，13条阿芙拉，6条LR2和11条LR1。假设LR1和LR2全部改运脏油。那么这些油轮等同于18条VLCC。加上原有的48条V，就是64条V。"
+    },
+    {
+      "id": "411352854",
+      "created_at": "2026-10-06T01:28:31.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/411352854",
+      "text": "回复@憨憨派掌门人: 期待//@憨憨派掌门人:回复@看好股市的新人:明后天我贡献个航线全景图"
     }
   ]
 }
