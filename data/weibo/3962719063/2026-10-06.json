@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月6日星期二 20:25:21",
+  "crawled_at_beijing": "2026年10月6日星期二 21:22:32",
   "crawled_date": "2026-10-06",
-  "post_count": 17,
+  "post_count": 21,
   "posts": [
     {
       "id": "5350937174475003",
@@ -210,6 +210,54 @@
       "reposts": 10,
       "comments": 10,
       "attitudes": 140
+    },
+    {
+      "id": "5351128795450031",
+      "mid": "5351128795450031",
+      "created_at": "2026-10-06T13:06:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rls5NmRNJ",
+      "text": "回复@山有顶峰湖有岸:所以说电解铝稳定性不行//@山有顶峰湖有岸:回复@独立追随者:虽然公公又说什么供电设备 电力成本等等，但这些都不是不可解决的，不像黄金，铜，矿产类就是少，长期紧供应",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 0,
+      "attitudes": 43
+    },
+    {
+      "id": "5351121489233772",
+      "mid": "5351121489233772",
+      "created_at": "2026-10-06T12:37:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlrU0CK7O",
+      "text": "//@盲龙V://@66的一:现在不一样了，都知道中国好找工作好找婆娘",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 1,
+      "attitudes": 71
+    },
+    {
+      "id": "5351119917419173",
+      "mid": "5351119917419173",
+      "created_at": "2026-10-06T12:31:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlrRtv845",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 28,
+      "attitudes": 100
+    },
+    {
+      "id": "5351118714439210",
+      "mid": "5351118714439210",
+      "created_at": "2026-10-06T12:26:23.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlrPxiCQa",
+      "text": "神华H15港币，后来是遇上业绩大涨，分红比例增加，利率下降，三击\n我说的电解铝跟神华H15港币差不多，是指当时神华的PE，但是后面几年电解铝价格大概率守不住2.4万，大概率2.2--2.3万，现在利率又是低位，没有降息空间，所以那种说跟神华H一样可能涨三倍的，完全是意淫",
+      "source": "微博网页版",
+      "reposts": 30,
+      "comments": 49,
+      "attitudes": 361
     }
   ]
 }
