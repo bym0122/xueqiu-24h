@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月6日星期二 10:19:53",
+  "crawled_at_beijing": "2026年10月6日星期二 11:20:30",
   "crawled_date": "2026-10-06",
-  "post_count": 7,
+  "post_count": 8,
   "posts": [
     {
       "id": "5350937174475003",
@@ -90,6 +90,18 @@
       "reposts": 6,
       "comments": 3,
       "attitudes": 63
+    },
+    {
+      "id": "5350981095393429",
+      "mid": "5350981095393429",
+      "created_at": "2026-10-06T03:19:32.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlofzmD4N",
+      "text": "人类的发展进步，本质上就是食品生产制造+能源利用+医药发展",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 5
     }
   ]
 }
