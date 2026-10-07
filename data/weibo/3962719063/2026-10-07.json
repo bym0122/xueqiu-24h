@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月7日星期三 12:21:46",
+  "crawled_at_beijing": "2026年10月7日星期三 13:21:25",
   "crawled_date": "2026-10-07",
-  "post_count": 2,
+  "post_count": 7,
   "posts": [
     {
       "id": "5351325233316160",
@@ -30,6 +30,66 @@
       "reposts": 4,
       "comments": 5,
       "attitudes": 21
+    },
+    {
+      "id": "5351368115620088",
+      "mid": "5351368115620088",
+      "created_at": "2026-10-07T04:57:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlyjNnA2A",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 5,
+      "attitudes": 85
+    },
+    {
+      "id": "5351366324650799",
+      "mid": "5351366324650799",
+      "created_at": "2026-10-07T04:50:18.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlygUjvST",
+      "text": "对待恶人不择手段才是对的//@六国虹://@超级棒棒宝:工作人员放走一个人，半个月工资没了，你说能有啥办法，这些骑摩托的害死多少人了//@左岸左转转左:这些人极其嚣张，高速上你得躲着他们。必须要整治一下了，都是祸害，不把安全当一回事。//@特车2课-整备班:感觉工作人员不拿电锯，这车恐怕是停...全文",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 6,
+      "attitudes": 71
+    },
+    {
+      "id": "5351364068904563",
+      "mid": "5351364068904563",
+      "created_at": "2026-10-07T04:41:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlydgBmtZ",
+      "text": "加个钟，跟她聊聊如何避免权力世袭",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 10,
+      "attitudes": 95
+    },
+    {
+      "id": "5351361946321570",
+      "mid": "5351361946321570",
+      "created_at": "2026-10-07T04:32:54.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rly9QqwwO",
+      "text": "电解铝俺期待的收益是3年40-45%，包括分红，\n煤炭目前的期待收益率是5年35-40%，包括分红",
+      "source": "微博网页版",
+      "reposts": 48,
+      "comments": 67,
+      "attitudes": 440
+    },
+    {
+      "id": "5351361443267640",
+      "mid": "5351361443267640",
+      "created_at": "2026-10-07T04:30:53.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rly92dI3S",
+      "text": "回复@庐阳逍遥客:95%以上//@庐阳逍遥客:请教：现在许多新建楼房外立面用铝板，不知道含铝量多少？//@挖地瓜的超级鹿鼎公:回复@幸运翡翠wfyan:谢谢你的信息，我没用过，虽然以后大概率会选焊接铝板家具//@幸运翡翠wfyan:回南天不会凝露啊，我家没见过凝露//@挖地瓜的超级鹿鼎公:回复...全文",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 7,
+      "attitudes": 50
     }
   ]
 }
