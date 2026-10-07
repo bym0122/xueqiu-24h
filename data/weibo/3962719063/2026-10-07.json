@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月7日星期三 19:20:41",
+  "crawled_at_beijing": "2026年10月7日星期三 20:28:01",
   "crawled_date": "2026-10-07",
-  "post_count": 8,
+  "post_count": 9,
   "posts": [
     {
       "id": "5351325233316160",
@@ -102,6 +102,18 @@
       "reposts": 0,
       "comments": 1,
       "attitudes": 4
+    },
+    {
+      "id": "5351471719647166",
+      "mid": "5351471719647166",
+      "created_at": "2026-10-07T11:49:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlB0TEtFs",
+      "text": "回复@chengyiping88888:当然是铝板含铝量一般97--99%//@chengyiping88888:回复@chengyiping88888:如果是指铝板的含铝量，那当我没说//@挖地瓜的超级鹿鼎公:回复@庐阳逍遥客:95%以上//@庐阳逍遥客:请教：现在许多新建楼房外立面用铝板，不知道含铝量多少？//@挖地瓜的超级鹿鼎公:回复...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 39
     }
   ]
 }
