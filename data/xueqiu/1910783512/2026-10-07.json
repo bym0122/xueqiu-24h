@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月7日星期三 08:22:57",
+  "crawled_at_beijing": "2026年10月7日星期三 09:17:13",
   "crawled_date": "2026-10-07",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
     {
       "id": "411398162",
@@ -27,6 +27,13 @@
       "kind": "retweet",
       "url": "https://xueqiu.com/1910783512/411397986",
       "text": "两种市场，两种底层逻辑。一种是资产，待价而沽的资产，配置资金的资产池。一种是融资工具，为融资服务的工具。"
+    },
+    {
+      "id": "411400002",
+      "created_at": "2026-10-07T00:56:31.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/411400002",
+      "text": "回复@流水大罗卜: 不需要天赋，父母言传身教即可。//@流水大罗卜:回复@看好股市的新人:这个一般有天赋的"
     }
   ]
 }
