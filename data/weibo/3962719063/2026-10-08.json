@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 06:18:33",
+  "crawled_at_beijing": "2026年10月8日星期四 07:17:18",
   "crawled_date": "2026-10-08",
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
     {
       "id": "5351623741408694",
@@ -18,6 +18,18 @@
       "reposts": 0,
       "comments": 14,
       "attitudes": 57
+    },
+    {
+      "id": "5351640090545878",
+      "mid": "5351640090545878",
+      "created_at": "2026-10-07T22:58:09.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlFot2i0u",
+      "text": "当下美元一天支付的利息是38亿，美元短暂的强，是有代价的",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 15,
+      "attitudes": 123
     }
   ]
 }
