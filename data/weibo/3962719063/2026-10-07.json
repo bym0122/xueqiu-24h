@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月7日星期三 21:23:58",
+  "crawled_at_beijing": "2026年10月7日星期三 22:22:37",
   "crawled_date": "2026-10-07",
-  "post_count": 9,
+  "post_count": 12,
   "posts": [
     {
       "id": "5351325233316160",
@@ -114,6 +114,42 @@
       "reposts": 0,
       "comments": 1,
       "attitudes": 39
+    },
+    {
+      "id": "5351506142300790",
+      "mid": "5351506142300790",
+      "created_at": "2026-10-07T14:05:53.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlBUq9Exw",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 6,
+      "attitudes": 46
+    },
+    {
+      "id": "5351505766910925",
+      "mid": "5351505766910925",
+      "created_at": "2026-10-07T14:04:24.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlBTOsZQx",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 7,
+      "attitudes": 54
+    },
+    {
+      "id": "5351505119151825",
+      "mid": "5351505119151825",
+      "created_at": "2026-10-07T14:01:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlBSLCoO5",
+      "text": "//@盲龙V://@小猫呀呀:要不怎么能拿诺贝尔文学奖呢",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 3,
+      "attitudes": 31
     }
   ]
 }
