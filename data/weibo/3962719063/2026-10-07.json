@@ -3,8 +3,33 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月7日星期三 09:20:55",
+  "crawled_at_beijing": "2026年10月7日星期三 10:20:25",
   "crawled_date": "2026-10-07",
-  "post_count": 0,
-  "posts": []
+  "post_count": 2,
+  "posts": [
+    {
+      "id": "5351325233316160",
+      "mid": "5351325233316160",
+      "created_at": "2026-10-07T02:07:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlxcDdUGs",
+      "text": "回复@幸运翡翠wfyan:谢谢你的信息，我没用过，虽然以后大概率会选焊接铝板家具//@幸运翡翠wfyan:回南天不会凝露啊，我家没见过凝露//@挖地瓜的超级鹿鼎公:回复@ql667:缺点是一次性支出大，回南天容易凝露，所以不习惯使用除湿的还是不要用//@ql667:铝合金家具优点：1不发霉2方便清洁3轻方便搬动4环保零...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 26
+    },
+    {
+      "id": "5351324590803212",
+      "mid": "5351324590803212",
+      "created_at": "2026-10-07T02:04:28.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlxbB3mX2",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 5,
+      "attitudes": 21
+    }
+  ]
 }
