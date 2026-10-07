@@ -3,8 +3,21 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 05:24:53",
+  "crawled_at_beijing": "2026年10月8日星期四 06:18:33",
   "crawled_date": "2026-10-08",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5351623741408694",
+      "mid": "5351623741408694",
+      "created_at": "2026-10-07T21:53:11.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlEY65UsS",
+      "text": "8月美国商品贸易逆差1360多亿美元，再创新高，金额甚至超过中国的贸易顺差",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 14,
+      "attitudes": 57
+    }
+  ]
 }
