@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月7日星期三 18:22:11",
+  "crawled_at_beijing": "2026年10月7日星期三 19:20:41",
   "crawled_date": "2026-10-07",
-  "post_count": 7,
+  "post_count": 8,
   "posts": [
     {
       "id": "5351325233316160",
@@ -90,6 +90,18 @@
       "reposts": 1,
       "comments": 7,
       "attitudes": 50
+    },
+    {
+      "id": "5351463580600521",
+      "mid": "5351463580600521",
+      "created_at": "2026-10-07T11:16:46.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlANM2wdP",
+      "text": "回复@我这余生:四五线城市，房价低于7000的，买与租都可以//@我这余生:公公非核心城市，老城区房子卖掉然后租房，是否可行//@挖地瓜的超级鹿鼎公:回复@山有顶峰湖有岸:所以说电解铝稳定性不行//@山有顶峰湖有岸:回复@独立追随者:虽然公公又说什么供电设备 电力成本等等，但这些都不是不可解决的...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 4
     }
   ]
 }
