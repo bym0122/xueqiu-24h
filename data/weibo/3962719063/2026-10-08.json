@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 08:29:59",
+  "crawled_at_beijing": "2026年10月8日星期四 09:20:56",
   "crawled_date": "2026-10-08",
-  "post_count": 12,
+  "post_count": 18,
   "posts": [
     {
       "id": "5351623741408694",
@@ -150,6 +150,78 @@
       "reposts": 3,
       "comments": 2,
       "attitudes": 67
+    },
+    {
+      "id": "5351667906120852",
+      "mid": "5351667906120852",
+      "created_at": "2026-10-08T00:48:41.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlG7kpGjq",
+      "text": "//@中华之鹰01:宗教极端分子，也被打拳了，呵呵//@蘸盐: 查看图片 这不就是@四川航空 飞行员阿英嘎的异父异母的亲兄弟吗？ 查看图片  查看图片",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 5,
+      "attitudes": 68
+    },
+    {
+      "id": "5351667331498155",
+      "mid": "5351667331498155",
+      "created_at": "2026-10-08T00:46:23.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlG6p6hJN",
+      "text": "回复@机智的大狸子1023:减持后期是//@机智的大狸子1023:公公我记得您当时说过国家队减持就是买入的好时机呀？当时2月份的长电也是这个观点，您不断补仓//@挖地瓜的超级鹿鼎公:回复@蒙-山下出泉:是没法预测，但是应该看到//@蒙-山下出泉:Etf大减持这个谁也预测不到啊",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 6,
+      "attitudes": 100
+    },
+    {
+      "id": "5351667216417864",
+      "mid": "5351667216417864",
+      "created_at": "2026-10-08T00:45:55.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlG6dqVzW",
+      "text": "回复@机智的大狸子1023:看基金年底财报，有明细//@机智的大狸子1023:红利增加的品种可以看得到吗？",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 2,
+      "attitudes": 106
+    },
+    {
+      "id": "5351666888739653",
+      "mid": "5351666888739653",
+      "created_at": "2026-10-08T00:44:38.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlG5GAFA9",
+      "text": "贴广告的是公交车，劳斯莱斯，法拉利不会",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 6,
+      "attitudes": 155
+    },
+    {
+      "id": "5351665755492580",
+      "mid": "5351665755492580",
+      "created_at": "2026-10-08T00:40:08.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlG3Rn2S0",
+      "text": "当下红利ETF和有色ETF的规模差不多有1000亿和500亿",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 10,
+      "attitudes": 230
+    },
+    {
+      "id": "5351663461206156",
+      "mid": "5351663461206156",
+      "created_at": "2026-10-08T00:31:01.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlG0a53M8",
+      "text": "期待一个GAY的三观正确，真的想太多了，\n\n我虽然觉得德国选择党现在在做正确的事情，他们的党首魏德尔现在看很正常，我相信某一天，魏德尔的言行出现极大转向也是很正常的，",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 12,
+      "attitudes": 255
     }
   ]
 }
