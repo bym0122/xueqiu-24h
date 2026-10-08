@@ -3,8 +3,16 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 08:21:28",
+  "crawled_at_beijing": "2026年10月8日星期四 09:16:57",
   "crawled_date": "2026-10-08",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "411459806",
+      "created_at": "2026-10-08T01:06:23.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/411459806",
+      "text": "又睡过头了……机器人一般的生活啊。挂单$紫金黄金国际(02259)$"
+    }
+  ]
 }
