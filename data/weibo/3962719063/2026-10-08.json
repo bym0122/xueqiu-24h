@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 15:23:01",
+  "crawled_at_beijing": "2026年10月8日星期四 16:23:07",
   "crawled_date": "2026-10-08",
-  "post_count": 43,
+  "post_count": 45,
   "posts": [
     {
       "id": "5351623741408694",
@@ -522,6 +522,30 @@
       "reposts": 2,
       "comments": 38,
       "attitudes": 233
+    },
+    {
+      "id": "5351781203708909",
+      "mid": "5351781203708909",
+      "created_at": "2026-10-08T08:18:53.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlJ44fyR7",
+      "text": "那些免费在放的AI短剧靠什么赚钱，靠点击率吗，AI短剧的APP广告分成？？？",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 10,
+      "attitudes": 20
+    },
+    {
+      "id": "5351769313380221",
+      "mid": "5351769313380221",
+      "created_at": "2026-10-08T07:31:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlIKTeblH",
+      "text": "回复@C无相无我:房价已经不高了，当然再低一些也是可以的，主要是人心欲望高了，//@C无相无我:最主要生活成本太高，房价太高了//@挖地瓜的超级鹿鼎公:低生育率识各种原因综合发生的，种种因素构成低生育观念，英语也是其中一个原因，",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 20,
+      "attitudes": 88
     }
   ]
 }
