@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 21:34:43",
+  "crawled_at_beijing": "2026年10月8日星期四 22:24:00",
   "crawled_date": "2026-10-08",
-  "post_count": 65,
+  "post_count": 67,
   "posts": [
     {
       "id": "5351623741408694",
@@ -786,6 +786,30 @@
       "reposts": 10,
       "comments": 5,
       "attitudes": 100
+    },
+    {
+      "id": "5351871497897649",
+      "mid": "5351871497897649",
+      "created_at": "2026-10-08T14:17:41.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlLpHx8xr",
+      "text": "回复@Zou苏菲:不用怀疑，成都去N趟了，三星堆，都江堰都去了4趟，//@Zou苏菲:我怀疑老舅是成都的常客//@挖地瓜的超级鹿鼎公:回复@用户7876794833:人民公园正门左边那条路就有老妈蹄花，右边那条路有宜宾燃面，就是川投大厦门口，不知道现在还在不在//@用户7876794833:这么熟悉...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 17
+    },
+    {
+      "id": "5351868182037682",
+      "mid": "5351868182037682",
+      "created_at": "2026-10-08T14:04:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlLkm8y5Q",
+      "text": "回复@晨哥爱国米:我验血都好的//@晨哥爱国米:公公不怕升糖吗",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 31
     }
   ]
 }
