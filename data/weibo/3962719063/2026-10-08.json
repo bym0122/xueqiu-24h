@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 19:22:05",
+  "crawled_at_beijing": "2026年10月8日星期四 20:28:05",
   "crawled_date": "2026-10-08",
-  "post_count": 50,
+  "post_count": 57,
   "posts": [
     {
       "id": "5351623741408694",
@@ -605,6 +605,90 @@
       "source": "HUAWEI Mate 70 Pro",
       "reposts": 0,
       "comments": 6,
+      "attitudes": 100
+    },
+    {
+      "id": "5351843519794979",
+      "mid": "5351843519794979",
+      "created_at": "2026-10-08T12:26:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlKGzF67x",
+      "text": "回复@挖地瓜变富:25年前，成都往温江方向有一个查渣面，里面的泡菜和鸡片，好吃惨了//@挖地瓜变富:来一碟四川泡菜",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 2
+    },
+    {
+      "id": "5351841355006153",
+      "mid": "5351841355006153",
+      "created_at": "2026-10-08T12:17:53.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlKD5l0kp",
+      "text": "回复@杭电小胖子:咸甜都有，本地人咸为主//@杭电小胖子:浙江好像也是咸豆浆吧，起码诸暨那边是",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 15
+    },
+    {
+      "id": "5351841261947599",
+      "mid": "5351841261947599",
+      "created_at": "2026-10-08T12:17:32.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlKCW8aET",
+      "text": "回复@用户8226368443:着急啥，我说说这个完全用不了多少电解铝的家具，你都要认为我急了，你脑回路有点新奇的//@用户8226368443:鹿公着急了？//@挖地瓜的超级鹿鼎公:回复@飘叶202205:电解铝含量高，所以成本高，质量更好，承受力更强，并且回收价值也高//@飘叶202205:回复...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 23
+    },
+    {
+      "id": "5351839503486306",
+      "mid": "5351839503486306",
+      "created_at": "2026-10-08T12:10:33.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlKA6eCWK",
+      "text": "回复@独立追随者:喝过，吐了，不习惯//@独立追随者:@挖地瓜的超级鹿鼎公 老舅喝过豆汁儿没，那才叫顶",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 18
+    },
+    {
+      "id": "5351838720460618",
+      "mid": "5351838720460618",
+      "created_at": "2026-10-08T12:07:26.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlKyQ1VPk",
+      "text": "咸浆+一副烧饼油条，是我传统早餐之一，吃完舒服啊",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 13,
+      "attitudes": 75
+    },
+    {
+      "id": "5351837335290167",
+      "mid": "5351837335290167",
+      "created_at": "2026-10-08T12:01:55.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlKwBmcdh",
+      "text": "在贾冰的安利下，已经有很多北方人开始吃咸豆浆了，看抖音很多人在尝试，还爱上了\n\n我给两个建议，1油条，紫菜，虾皮葱花，所有料不要超过碗的三分之一，2加一点点醋",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 32,
+      "attitudes": 79
+    },
+    {
+      "id": "5351831945609749",
+      "mid": "5351831945609749",
+      "created_at": "2026-10-08T11:40:30.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlKnUnxlP",
+      "text": "做AI短剧最重要的是不是两个能力，\n1讲故事的能力，完整的，吸引人的故事，2做成基本上没有短板的AI短剧的能力",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 25,
       "attitudes": 100
     }
   ]
