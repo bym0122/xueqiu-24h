@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 18:23:14",
+  "crawled_at_beijing": "2026年10月8日星期四 19:22:05",
   "crawled_date": "2026-10-08",
-  "post_count": 45,
+  "post_count": 50,
   "posts": [
     {
       "id": "5351623741408694",
@@ -546,6 +546,66 @@
       "reposts": 5,
       "comments": 20,
       "attitudes": 88
+    },
+    {
+      "id": "5351820101682373",
+      "mid": "5351820101682373",
+      "created_at": "2026-10-08T10:53:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlK4O73F3",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 31
+    },
+    {
+      "id": "5351820056855739",
+      "mid": "5351820056855739",
+      "created_at": "2026-10-08T10:53:16.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlK4JsLur",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 11,
+      "comments": 6,
+      "attitudes": 56
+    },
+    {
+      "id": "5351818566828786",
+      "mid": "5351818566828786",
+      "created_at": "2026-10-08T10:47:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlK2ksEtI",
+      "text": "芯片只能是全世界最聪明的人玩的领域\n\n说找外国人改善基因的脑子是不是有问题",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 16,
+      "comments": 14,
+      "attitudes": 131
+    },
+    {
+      "id": "5351814113267886",
+      "mid": "5351814113267886",
+      "created_at": "2026-10-08T10:29:39.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlJV9dI7Q",
+      "text": "摇诸葛亮帮忙好看//@Estella91:回复@还有谁说不是呢:持械入宋封面是一个人的那版好看，另外推荐《秦始皇朕有华夏全明星阵容从摇诸葛亮开始》//@还有谁说不是呢:回复@绍兴巡抚:李景隆的别样人生，持械入宋。值得看//@绍兴巡抚:等洪武苟长生更新了，老舅还有推荐的吗",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 41
+    },
+    {
+      "id": "5351812886431077",
+      "mid": "5351812886431077",
+      "created_at": "2026-10-08T10:24:47.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlJTaqZ13",
+      "text": "杭州十四中女篮力克济源一中，获得全国高中女篮大赛冠军",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 100
     }
   ]
 }
