@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 10:20:05",
+  "crawled_at_beijing": "2026年10月8日星期四 11:21:49",
   "crawled_date": "2026-10-08",
-  "post_count": 23,
+  "post_count": 24,
   "posts": [
     {
       "id": "5351623741408694",
@@ -282,6 +282,18 @@
       "reposts": 15,
       "comments": 41,
       "attitudes": 352
+    },
+    {
+      "id": "5351691257119419",
+      "mid": "5351691257119419",
+      "created_at": "2026-10-08T02:21:27.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlGIZtS5l",
+      "text": "回复@Echo7109:我说的是毛周朱过世，文革结束，你想啥呢//@Echo7109:公公永远18",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 14,
+      "attitudes": 181
     }
   ]
 }
