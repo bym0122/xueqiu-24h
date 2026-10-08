@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 14:28:05",
+  "crawled_at_beijing": "2026年10月8日星期四 15:23:01",
   "crawled_date": "2026-10-08",
-  "post_count": 36,
+  "post_count": 43,
   "posts": [
     {
       "id": "5351623741408694",
@@ -438,6 +438,90 @@
       "reposts": 7,
       "comments": 17,
       "attitudes": 279
+    },
+    {
+      "id": "5351766712385800",
+      "mid": "5351766712385800",
+      "created_at": "2026-10-08T07:21:17.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlIGHa0EE",
+      "text": "殷鉴不远",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 5
+    },
+    {
+      "id": "5351766453652281",
+      "mid": "5351766453652281",
+      "created_at": "2026-10-08T07:20:16.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlIGhfk7L",
+      "text": "保护好贤妻良母，保护好有责任心有担当的丈夫，保护好正常婚姻，打击海王和小仙女，打击婚外情，区别保护婚生子女和非婚生子女，才是重树正常婚姻观的正确道路",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 4,
+      "attitudes": 68
+    },
+    {
+      "id": "5351765499185777",
+      "mid": "5351765499185777",
+      "created_at": "2026-10-08T07:16:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlIEJCxDH",
+      "text": "低生育率识各种原因综合发生的，种种因素构成低生育观念，英语也是其中一个原因，",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 2,
+      "attitudes": 34
+    },
+    {
+      "id": "5351764541049508",
+      "mid": "5351764541049508",
+      "created_at": "2026-10-08T07:12:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlIDc4p1y",
+      "text": "回复@飘叶202205:电解铝含量高，所以成本高，质量更好，承受力更强，并且回收价值也高//@飘叶202205:回复@挖地瓜的超级鹿鼎公:市面焊接铝成本比蜂窝高，是因为回收价值还是使用的耐用性？",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 34
+    },
+    {
+      "id": "5351762286348337",
+      "mid": "5351762286348337",
+      "created_at": "2026-10-08T07:03:43.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlIzyqDux",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 4,
+      "attitudes": 38
+    },
+    {
+      "id": "5351762106255820",
+      "mid": "5351762106255820",
+      "created_at": "2026-10-08T07:03:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlIzgqfqk",
+      "text": "//@驰名双标菌:男的女的？//@伯阳先生-段本司:面相案例",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 29
+    },
+    {
+      "id": "5351761893656168",
+      "mid": "5351761893656168",
+      "created_at": "2026-10-08T07:02:09.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlIyVfl8s",
+      "text": "一觉睡醒，指数跌这么多，，幸好持股大多数红，电解铝在期货大跌背景下，居然还没有绿，鸟幸",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 38,
+      "attitudes": 233
     }
   ]
 }
