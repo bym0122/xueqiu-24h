@@ -3,8 +3,16 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 06:15:01",
+  "crawled_at_beijing": "2026年10月9日星期五 07:14:13",
   "crawled_date": "2026-10-09",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "411603159",
+      "created_at": "2026-10-08T22:52:31.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/411603159",
+      "text": "回复@bigfatcat: 国内的车，大部分都是贴着国标的下限去的。你可以查一下比亚迪的五座车核定载重量，大部分也是贴着下限的。//@bigfatcat:回复@7X24快讯:实话实说，尊界刹车门，暴露的鸿蒙的品质失控。最简单的道理，鸿蒙一共才多少工程师？而且大部分是搞智驾座舱的，真正的硬件工程师能管控五届..."
+    }
+  ]
 }
