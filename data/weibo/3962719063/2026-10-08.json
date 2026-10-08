@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 11:21:49",
+  "crawled_at_beijing": "2026年10月8日星期四 12:21:49",
   "crawled_date": "2026-10-08",
-  "post_count": 24,
+  "post_count": 34,
   "posts": [
     {
       "id": "5351623741408694",
@@ -294,6 +294,126 @@
       "reposts": 0,
       "comments": 14,
       "attitudes": 181
+    },
+    {
+      "id": "5351721376944014",
+      "mid": "5351721376944014",
+      "created_at": "2026-10-08T04:21:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHvzt8se",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
+    },
+    {
+      "id": "5351720894334669",
+      "mid": "5351720894334669",
+      "created_at": "2026-10-08T04:19:14.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHuNibE1",
+      "text": "啥意思？",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 4
+    },
+    {
+      "id": "5351718238814791",
+      "mid": "5351718238814791",
+      "created_at": "2026-10-08T04:08:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHqvAZ83",
+      "text": "回复@若枫伊人:我本将心照明月，无奈明月照沟渠，你肯定怨恨父母小时候骂你，批评你吧//@若枫伊人:你说你明明对老婆这么好，经常在网上diss女性，何必呢还好我们女性大部分都是明事理的人，不跟你计较",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 9,
+      "attitudes": 51
+    },
+    {
+      "id": "5351717702209403",
+      "mid": "5351717702209403",
+      "created_at": "2026-10-08T04:06:33.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHpE9gLx",
+      "text": "回复@SloveL:全季和亚朵一般都有免费洗衣机和烘干机，可以少带很多衣服//@SloveL:弱弱问一下，是不是这些酒店都有免费的洗衣服务。全朵的免费洗衣帮洗服务特别省心//@挖地瓜的超级鹿鼎公:回复@一杯热馥芮白:我喜欢软的，洲际的床最软最舒服，丽思卡尔顿的床偏硬//...全文",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 2,
+      "attitudes": 22
+    },
+    {
+      "id": "5351717436655916",
+      "mid": "5351717436655916",
+      "created_at": "2026-10-08T04:05:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHpdrVvu",
+      "text": "回复@人生需要从后往前看:人造景点有啥好看的，看寺庙，看塔//@人生需要从后往前看:去正定看古镇荣国府？",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 20
+    },
+    {
+      "id": "5351716608017608",
+      "mid": "5351716608017608",
+      "created_at": "2026-10-08T04:02:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHnSxDKg",
+      "text": "傻逼一个",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 18,
+      "attitudes": 77
+    },
+    {
+      "id": "5351716245735044",
+      "mid": "5351716245735044",
+      "created_at": "2026-10-08T04:00:46.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHnio3WI",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 7,
+      "attitudes": 43
+    },
+    {
+      "id": "5351714980103512",
+      "mid": "5351714980103512",
+      "created_at": "2026-10-08T03:55:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHlg0qVy",
+      "text": "回复@一杯热馥芮白:我喜欢软的，洲际的床最软最舒服，丽思卡尔顿的床偏硬//@一杯热馥芮白:公公住这么多酒店，觉得什么品牌的酒店最舒服？床硬点的。。//@挖地瓜的超级鹿鼎公:回复@O_o年轻人:起码的//@O_o年轻人:请问公公一家每年开销大概多少？有50个吗",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 5,
+      "attitudes": 45
+    },
+    {
+      "id": "5351713960626829",
+      "mid": "5351713960626829",
+      "created_at": "2026-10-08T03:51:41.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHjC2D49",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 2,
+      "attitudes": 42
+    },
+    {
+      "id": "5351712672186619",
+      "mid": "5351712672186619",
+      "created_at": "2026-10-08T03:46:33.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlHhx9aQ3",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 2,
+      "attitudes": 65
     }
   ]
 }
