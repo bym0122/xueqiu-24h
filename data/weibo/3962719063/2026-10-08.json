@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 12:21:49",
+  "crawled_at_beijing": "2026年10月8日星期四 13:21:38",
   "crawled_date": "2026-10-08",
-  "post_count": 34,
+  "post_count": 36,
   "posts": [
     {
       "id": "5351623741408694",
@@ -414,6 +414,30 @@
       "reposts": 4,
       "comments": 2,
       "attitudes": 65
+    },
+    {
+      "id": "5351723744889061",
+      "mid": "5351723744889061",
+      "created_at": "2026-10-08T04:30:34.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlHzokvRP",
+      "text": "中国共产党在井冈山，在延安批评国民党，国民党就能进步，就能自我改正了？不可能\n\n只有三大战役摧毁国民党统治，才能改天换地建立新中国",
+      "source": "微博网页版",
+      "reposts": 11,
+      "comments": 8,
+      "attitudes": 286
+    },
+    {
+      "id": "5351722832893237",
+      "mid": "5351722832893237",
+      "created_at": "2026-10-08T04:26:56.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlHxVc8F7",
+      "text": "批判的武器，不能代替武器的批判，沈伯洋这种台独，就应该一颗导弹灭全家",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 17,
+      "attitudes": 279
     }
   ]
 }
