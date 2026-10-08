@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 09:20:56",
+  "crawled_at_beijing": "2026年10月8日星期四 10:20:05",
   "crawled_date": "2026-10-08",
-  "post_count": 18,
+  "post_count": 23,
   "posts": [
     {
       "id": "5351623741408694",
@@ -222,6 +222,66 @@
       "reposts": 3,
       "comments": 12,
       "attitudes": 255
+    },
+    {
+      "id": "5351690653140084",
+      "mid": "5351690653140084",
+      "created_at": "2026-10-08T02:19:04.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlGI1daSw",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 7
+    },
+    {
+      "id": "5351689955837493",
+      "mid": "5351689955837493",
+      "created_at": "2026-10-08T02:16:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlGGTouB7",
+      "text": "2010年中国盗窃刑事案件423万起，到2024年只有71万起了",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 9,
+      "attitudes": 56
+    },
+    {
+      "id": "5351687019825947",
+      "mid": "5351687019825947",
+      "created_at": "2026-10-08T02:04:38.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlGC9Feb1",
+      "text": "冷在风里，穷在债里\n发展初期，上升期，借债不算错，甚至是财富加速器，经济平稳期，消费衰落期，再加杠杆，借贷发展，这个就过了\n\n日本大部分中小企业，准备金大约是2年完全没有生意，还能挺住的状态",
+      "source": "微博网页版",
+      "reposts": 16,
+      "comments": 11,
+      "attitudes": 195
+    },
+    {
+      "id": "5351684385540341",
+      "mid": "5351684385540341",
+      "created_at": "2026-10-08T01:54:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlGxUnfil",
+      "text": "节前空仓的人应该挺多了",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 45,
+      "attitudes": 277
+    },
+    {
+      "id": "5351684289071256",
+      "mid": "5351684289071256",
+      "created_at": "2026-10-08T01:53:47.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlGxKC3QA",
+      "text": "我以为节后是74万吨，一看64万吨",
+      "source": "微博网页版",
+      "reposts": 15,
+      "comments": 41,
+      "attitudes": 352
     }
   ]
 }
