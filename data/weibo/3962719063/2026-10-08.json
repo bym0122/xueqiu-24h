@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月8日星期四 07:17:18",
+  "crawled_at_beijing": "2026年10月8日星期四 08:29:59",
   "crawled_date": "2026-10-08",
-  "post_count": 2,
+  "post_count": 12,
   "posts": [
     {
       "id": "5351623741408694",
@@ -30,6 +30,126 @@
       "reposts": 6,
       "comments": 15,
       "attitudes": 123
+    },
+    {
+      "id": "5351661895944413",
+      "mid": "5351661895944413",
+      "created_at": "2026-10-08T00:24:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlFXDoWpD",
+      "text": "回复@用户0t3l2g4tdi:影响消费，也影响投资//@用户0t3l2g4tdi:公公觉得美债发债英债利率这么高，对铝的影响大吗//@挖地瓜的超级鹿鼎公:回复@蒙-山下出泉:是没法预测，但是应该看到//@蒙-山下出泉:Etf大减持这个谁也预测不到啊",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 0,
+      "attitudes": 21
+    },
+    {
+      "id": "5351661772212949",
+      "mid": "5351661772212949",
+      "created_at": "2026-10-08T00:24:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlFXr9hGJ",
+      "text": "1976--2026,已经50年了，真快啊",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 88
+    },
+    {
+      "id": "5351661145162178",
+      "mid": "5351661145162178",
+      "created_at": "2026-10-08T00:21:49.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlFWqlEUW",
+      "text": "武统，应该是最快刀斩乱麻的手段，个人觉得拖着不是事",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 9,
+      "attitudes": 108
+    },
+    {
+      "id": "5351660453891429",
+      "mid": "5351660453891429",
+      "created_at": "2026-10-08T00:19:04.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlFVjgkkZ",
+      "text": "未来几个季度，红利基金增加电解铝行业的权重，应该是可以预期的事情",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 11,
+      "attitudes": 161
+    },
+    {
+      "id": "5351659934059782",
+      "mid": "5351659934059782",
+      "created_at": "2026-10-08T00:17:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlFUth28m",
+      "text": "回复@蒙-山下出泉:是没法预测，但是应该看到//@蒙-山下出泉:Etf大减持这个谁也预测不到啊",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 45
+    },
+    {
+      "id": "5351659752653555",
+      "mid": "5351659752653555",
+      "created_at": "2026-10-08T00:16:16.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlFUbb8jh",
+      "text": "回复@紫金-77:8-10%//@紫金-77:您的平庸是预期一年多少？",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 71
+    },
+    {
+      "id": "5351659472421980",
+      "mid": "5351659472421980",
+      "created_at": "2026-10-08T00:15:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlFTJaa4c",
+      "text": "国内运动品牌，个人是倾向于买鸿星尔克，毕竟个人不喜欢另外几家的老板",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 18,
+      "attitudes": 143
+    },
+    {
+      "id": "5351658634875122",
+      "mid": "5351658634875122",
+      "created_at": "2026-10-08T00:11:50.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlFSnksf0",
+      "text": "资金越大，越注重安全性，所以未来收益下降到平庸水平，也是正常合理的",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 11,
+      "attitudes": 209
+    },
+    {
+      "id": "5351657466496339",
+      "mid": "5351657466496339",
+      "created_at": "2026-10-08T00:07:12.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlFQurfZF",
+      "text": "如果当时没有ETF大减持，估计电解铝这头猪也就上天了，所以从历史经验看，没有大错，错的是对于ETF大减持的初期没有重点关注",
+      "source": "微博网页版",
+      "reposts": 19,
+      "comments": 21,
+      "attitudes": 260
+    },
+    {
+      "id": "5351657068299732",
+      "mid": "5351657068299732",
+      "created_at": "2026-10-08T00:05:37.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlFPQyP8E",
+      "text": "回复@乐观哥1991:错在与实际走势不吻合，历史经验上看没有大错，发生错误是必然的，毕竟不是股神//@乐观哥1991:回复@挖地瓜的超级鹿鼎公:错在哪公公，铝是不应该给这么高估值么",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 2,
+      "attitudes": 67
     }
   ]
 }
