@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 13:21:17",
+  "crawled_at_beijing": "2026年10月9日星期五 14:27:06",
   "crawled_date": "2026-10-09",
-  "post_count": 22,
+  "post_count": 28,
   "posts": [
     {
       "id": "5352018281759639",
@@ -270,6 +270,78 @@
       "reposts": 1,
       "comments": 8,
       "attitudes": 131
+    },
+    {
+      "id": "5352109168133983",
+      "mid": "5352109168133983",
+      "created_at": "2026-10-09T06:02:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlRB2y81h",
+      "text": "回复@美好人间4月:好多人跟你一样理解，我是说，流量和时间都被抖音，红果吸走了，谁还去玩腾讯的游戏啊//@美好人间4月:舍小家，为大家，是吗",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 37,
+      "attitudes": 110
+    },
+    {
+      "id": "5352108675306957",
+      "mid": "5352108675306957",
+      "created_at": "2026-10-09T06:00:08.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlRAfmgA5",
+      "text": "为什么欧洲总有傻逼国家来碰瓷，因为他们知道你不会真的动手，大炮架在门口轰几炮，他们才会知道，没办法，智商低，当初他们也是这么对我们的吗",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 11,
+      "attitudes": 152
+    },
+    {
+      "id": "5352107389749318",
+      "mid": "5352107389749318",
+      "created_at": "2026-10-09T05:55:02.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlRyaEUf4",
+      "text": "回复@流水高山198507:是啊，谁还玩五杀啊//@流水高山198507:短剧",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 10,
+      "attitudes": 87
+    },
+    {
+      "id": "5352107047915310",
+      "mid": "5352107047915310",
+      "created_at": "2026-10-09T05:53:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlRxCxd8i",
+      "text": "回复@pinkywater:A10起步算豪门，A8是高级白领//@pinkywater:a8已经算豪门了吗//@挖地瓜的超级鹿鼎公:舞蹈生，并非豪门婚姻喜欢的类型，不过运气好，A8也是可能得，送过男生电脑，我就一句呵呵",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 11,
+      "attitudes": 55
+    },
+    {
+      "id": "5352106687202603",
+      "mid": "5352106687202603",
+      "created_at": "2026-10-09T05:52:14.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlRx2udJ1",
+      "text": "知道我卖300股的原因了吧",
+      "source": "微博网页版",
+      "reposts": 17,
+      "comments": 75,
+      "attitudes": 269
+    },
+    {
+      "id": "5352105205567235",
+      "mid": "5352105205567235",
+      "created_at": "2026-10-09T05:46:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlRuEnmi7",
+      "text": "短剧刷的连午觉都没睡",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 72,
+      "attitudes": 222
     }
   ]
 }
