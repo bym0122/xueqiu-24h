@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 08:33:39",
+  "crawled_at_beijing": "2026年10月9日星期五 09:21:55",
   "crawled_date": "2026-10-09",
-  "post_count": 8,
+  "post_count": 15,
   "posts": [
     {
       "id": "5352018281759639",
@@ -102,6 +102,90 @@
       "reposts": 21,
       "comments": 49,
       "attitudes": 365
+    },
+    {
+      "id": "5352035902030472",
+      "mid": "5352035902030472",
+      "created_at": "2026-10-09T01:10:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlPGS8wdy",
+      "text": "回复@rpenpenr:原本200元一吨利润，涨200就是利润翻倍，如果原本20元一吨利润的，涨200，就是利润翻10倍//@rpenpenr:老舅，有个疑问，如果煤价稳步，山西陕西的煤一样受益，感觉没必要考虑新疆煤外运这条线啊，是因为价格吗",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 70
+    },
+    {
+      "id": "5352035265545115",
+      "mid": "5352035265545115",
+      "created_at": "2026-10-09T01:08:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlPFQngxl",
+      "text": "舞蹈生，并非豪门婚姻喜欢的类型，不过运气好，A8也是可能得，送过男生电脑，我就一句呵呵",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 16,
+      "attitudes": 64
+    },
+    {
+      "id": "5352033462519193",
+      "mid": "5352033462519193",
+      "created_at": "2026-10-09T01:01:16.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlPCWazm9",
+      "text": "泰国警察涉黑10年前就有，当时认为属于个案，22年开始出来很多起，尤其恶劣的是把人送往柬埔寨和缅甸的电诈集团，这个就不是个案了，应该是有组织的窝案，一般警察哪敢这么干啊，所以我当时就认为泰国已经不太安全了，尤其是个人去，如果组团或者很多人一起去，并且不走散，安全性就要好不少",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 24,
+      "attitudes": 182
+    },
+    {
+      "id": "5352032441729393",
+      "mid": "5352032441729393",
+      "created_at": "2026-10-09T00:57:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlPBi7fTr",
+      "text": "回复@机智的大狸子1023:2年前吧，反正被很多人DISS//@机智的大狸子1023:老舅最早是啥时候提醒的",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 76
+    },
+    {
+      "id": "5352031564857411",
+      "mid": "5352031564857411",
+      "created_at": "2026-10-09T00:53:43.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlPzSknDl",
+      "text": "我算是非常非常早就提醒泰国风险的人了吧",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 30,
+      "attitudes": 279
+    },
+    {
+      "id": "5352031426448282",
+      "mid": "5352031426448282",
+      "created_at": "2026-10-09T00:53:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlPzEr3uy",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 22,
+      "comments": 18,
+      "attitudes": 92
+    },
+    {
+      "id": "5352029703901852",
+      "mid": "5352029703901852",
+      "created_at": "2026-10-09T00:46:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlPwSgn36",
+      "text": "回复@浅水湾的Z:当然有，我吃过啊//@浅水湾的Z:回复@挖地瓜的超级鹿鼎公:老舅，你被骗了，温州没有小馄饨，只有大馄饨。小馄饨估计是冰冻的吧",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 62
     }
   ]
 }
