@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 09:21:55",
+  "crawled_at_beijing": "2026年10月9日星期五 10:19:47",
   "crawled_date": "2026-10-09",
-  "post_count": 15,
+  "post_count": 19,
   "posts": [
     {
       "id": "5352018281759639",
@@ -186,6 +186,54 @@
       "reposts": 0,
       "comments": 3,
       "attitudes": 62
+    },
+    {
+      "id": "5352048612874690",
+      "mid": "5352048612874690",
+      "created_at": "2026-10-09T02:01:28.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlQ1nc3PY",
+      "text": "整体而言，在煤价大涨的背景下，山西减产明显，市场给山西煤炭股估值不高",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 22,
+      "attitudes": 217
+    },
+    {
+      "id": "5352047470709034",
+      "mid": "5352047470709034",
+      "created_at": "2026-10-09T01:56:56.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlPZx2Ys2",
+      "text": "我觉得山西煤炭可以小赌一下，尤其主焦大涨的背景下，喷吹是不是也可以搞一点点",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 31,
+      "attitudes": 239
+    },
+    {
+      "id": "5352045084149049",
+      "mid": "5352045084149049",
+      "created_at": "2026-10-09T01:47:27.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlPVGhpm9",
+      "text": "商业地产回到高位，也是要减持的，分红烂的拿不住",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 30,
+      "attitudes": 238
+    },
+    {
+      "id": "5352044740741614",
+      "mid": "5352044740741614",
+      "created_at": "2026-10-09T01:46:05.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlPV836Vw",
+      "text": "300股互联网公司，玩了个寂寞，融资多，分红少，不玩了",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 68,
+      "attitudes": 318
     }
   ]
 }
