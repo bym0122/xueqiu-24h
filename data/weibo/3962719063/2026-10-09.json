@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 18:23:08",
+  "crawled_at_beijing": "2026年10月9日星期五 19:21:00",
   "crawled_date": "2026-10-09",
-  "post_count": 43,
+  "post_count": 46,
   "posts": [
     {
       "id": "5352018281759639",
@@ -522,6 +522,42 @@
       "reposts": 3,
       "comments": 32,
       "attitudes": 182
+    },
+    {
+      "id": "5352183891756599",
+      "mid": "5352183891756599",
+      "created_at": "2026-10-09T10:59:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlTxz7mYf",
+      "text": "不见得涵养好，我已经拉黑人家了，//@腾财之路-艾行:不急不躁，涵养好得惊人//@挖地瓜的超级鹿鼎公:回复@木东ADong:20多年不坏这几个字看不到吗//@木东ADong:所以你还是没回答我的问题，具体哪些地方差？",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 8,
+      "attitudes": 36
+    },
+    {
+      "id": "5352181228373201",
+      "mid": "5352181228373201",
+      "created_at": "2026-10-09T10:48:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlTtgz8fD",
+      "text": "回复@木东ADong:20多年不坏这几个字看不到吗//@木东ADong:所以你还是没回答我的问题，具体哪些地方差？//@挖地瓜的超级鹿鼎公:我是不是没有亲戚朋友啊，不知道人家也烧饭吗，不去人家家吃饭吗，我第一只电饭煲用了整整23年，几乎每天烧饭，质量用的我自己都服气了//@木东ADong:还有想问一下您既然只用...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 8,
+      "attitudes": 30
+    },
+    {
+      "id": "5352176558014559",
+      "mid": "5352176558014559",
+      "created_at": "2026-10-09T10:29:52.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlTlJxCX5",
+      "text": "回复@3-9118:能不买尽量不买，一定要买也就买了，日系车做家庭买菜车还是可以的//@3-9118:@挖地瓜的超级鹿鼎公 公公买日系车可以吗//@挖地瓜的超级鹿鼎公:回复@iebnekoc:我90年买的那只松下288美元,14年买的那只2600人民币，都是不算最高端的//@iebnekoc:听说福库的电饭煲非常好吃，我朋友是这么和我说...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 48
     }
   ]
 }
