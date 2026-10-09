@@ -3,8 +3,21 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月10日星期六 06:20:21",
+  "crawled_at_beijing": "2026年10月10日星期六 07:18:47",
   "crawled_date": "2026-10-10",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5352367155578084",
+      "mid": "5352367155578084",
+      "created_at": "2026-10-09T23:07:15.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlYj9np76",
+      "text": "短剧在台湾也杀疯了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 27
+    }
+  ]
 }
