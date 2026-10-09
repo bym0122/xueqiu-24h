@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 19:21:00",
+  "crawled_at_beijing": "2026年10月9日星期五 20:25:16",
   "crawled_date": "2026-10-09",
-  "post_count": 46,
+  "post_count": 48,
   "posts": [
     {
       "id": "5352018281759639",
@@ -558,6 +558,30 @@
       "reposts": 0,
       "comments": 4,
       "attitudes": 48
+    },
+    {
+      "id": "5352202397026980",
+      "mid": "5352202397026980",
+      "created_at": "2026-10-09T12:12:33.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlU1ptu2o",
+      "text": "回复@淡夜的忧伤:也没什么坏事，就是恨国，人无辜进去一年，难免偏激//@淡夜的忧伤:回复@用户7316989175:他做过什么坏事？//@挖地瓜的超级鹿鼎公:回复@用户7871211542:把天地侠影送进去的就是这家公司//@用户7871211542:能说说为什么不买广汇能源吗？",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 19
+    },
+    {
+      "id": "5352194534802576",
+      "mid": "5352194534802576",
+      "created_at": "2026-10-09T11:41:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlTOJk9mU",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 7,
+      "attitudes": 78
     }
   ]
 }
