@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 20:25:16",
+  "crawled_at_beijing": "2026年10月9日星期五 21:24:25",
   "crawled_date": "2026-10-09",
-  "post_count": 48,
+  "post_count": 50,
   "posts": [
     {
       "id": "5352018281759639",
@@ -582,6 +582,30 @@
       "reposts": 4,
       "comments": 7,
       "attitudes": 78
+    },
+    {
+      "id": "5352217889735973",
+      "mid": "5352217889735973",
+      "created_at": "2026-10-09T13:14:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlUqoEQLP",
+      "text": "汾过魏乃文文徵明-----来来来，喊牛B就对了",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 4,
+      "attitudes": 47
+    },
+    {
+      "id": "5352210135515616",
+      "mid": "5352210135515616",
+      "created_at": "2026-10-09T12:43:17.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlUdTn8Ry",
+      "text": "//@盲龙V://@作家圆圆://@乾坤流浪过客:历史教训无数，有人不信",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 13,
+      "comments": 4,
+      "attitudes": 58
     }
   ]
 }
