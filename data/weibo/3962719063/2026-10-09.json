@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 16:22:55",
+  "crawled_at_beijing": "2026年10月9日星期五 17:22:37",
   "crawled_date": "2026-10-09",
-  "post_count": 34,
+  "post_count": 38,
   "posts": [
     {
       "id": "5352018281759639",
@@ -414,6 +414,54 @@
       "reposts": 3,
       "comments": 17,
       "attitudes": 100
+    },
+    {
+      "id": "5352158602990396",
+      "mid": "5352158602990396",
+      "created_at": "2026-10-09T09:18:32.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlSSMcxWc",
+      "text": "回复@woshimucai25:没有，贵有贵的理由，不是IH的煮饭不好吃//@woshimucai25:公公是不是多打了个0//@挖地瓜的超级鹿鼎公:回复@人见人爱塞里斯:以前推的是松下，现在推苏珀尔和美的的IH的，2000--4000的//@人见人爱塞里斯:上次推荐的电饭煲是哪款？//@挖地瓜的超级鹿鼎公:回复...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 7
+    },
+    {
+      "id": "5352150939207425",
+      "mid": "5352150939207425",
+      "created_at": "2026-10-09T08:48:05.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlSGpCDgR",
+      "text": "回复@人见人爱塞里斯:以前推的是松下，现在推苏珀尔和美的的IH的，2000--4000的//@人见人爱塞里斯:上次推荐的电饭煲是哪款？//@挖地瓜的超级鹿鼎公:回复@嘉嘉who:小天鹅啊，经济实惠，12公斤洗烘套装大概也就8000左右//@嘉嘉who:鹿公您好！您神通广大，帮忙推荐下什么洗衣机好用家里的洗衣...全文",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 16,
+      "attitudes": 67
+    },
+    {
+      "id": "5352149749074667",
+      "mid": "5352149749074667",
+      "created_at": "2026-10-09T08:43:21.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlSEuC4JB",
+      "text": "回复@嘉嘉who:小天鹅啊，经济实惠，12公斤洗烘套装大概也就8000左右//@嘉嘉who:鹿公您好！您神通广大，帮忙推荐下什么洗衣机好用家里的洗衣机不行了想重新买一台新的。上次买了您推荐的电饭煲，挺好用的。",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 14,
+      "attitudes": 55
+    },
+    {
+      "id": "5352144691792740",
+      "mid": "5352144691792740",
+      "created_at": "2026-10-09T08:23:15.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlSwl7wna",
+      "text": "哈哈哈哈",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 8,
+      "attitudes": 76
     }
   ]
 }
