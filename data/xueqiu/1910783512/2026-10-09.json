@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 20:18:22",
+  "crawled_at_beijing": "2026年10月9日星期五 21:18:58",
   "crawled_date": "2026-10-09",
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
     {
       "id": "411603159",
@@ -41,6 +41,13 @@
       "kind": "retweet",
       "url": "https://xueqiu.com/1910783512/411692813",
       "text": "回复@Simplebest: 今天这个不算，红的猥琐//@Simplebest:回复@看好股市的新人:足够硬"
+    },
+    {
+      "id": "411736004",
+      "created_at": "2026-10-09T13:01:10.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/411736004",
+      "text": "买卖依据完全不依靠基本的价值判断。"
     }
   ]
 }
