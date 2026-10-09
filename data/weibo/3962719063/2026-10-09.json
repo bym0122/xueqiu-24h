@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 22:23:53",
+  "crawled_at_beijing": "2026年10月9日星期五 23:20:55",
   "crawled_date": "2026-10-09",
-  "post_count": 54,
+  "post_count": 56,
   "posts": [
     {
       "id": "5352018281759639",
@@ -654,6 +654,30 @@
       "reposts": 8,
       "comments": 9,
       "attitudes": 100
+    },
+    {
+      "id": "5352242100044538",
+      "mid": "5352242100044538",
+      "created_at": "2026-10-09T14:50:18.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlV3s0bAm",
+      "text": "回复@用户7341796479:杭州太大，我说的店可能跟你距离几十里地，所以看大众点评吧，礼品淘宝搜索杭州特产//@用户7341796479:老舅，过两天去杭州办事，准备呆1到2天，请问：1.有无很有当地特色的小馆子推荐？2.想给家人捎带些礼物（纪念品），有无合适的地方去选购？谢谢老舅了！",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 25
+    },
+    {
+      "id": "5352238258064809",
+      "mid": "5352238258064809",
+      "created_at": "2026-10-09T14:35:03.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlUXfxQ1z",
+      "text": "马斯克C位，一分10秒，梁文锋也粉墨登场 挖地瓜的超级鹿鼎公的微博视频",
+      "source": "微博视频号",
+      "reposts": 8,
+      "comments": 5,
+      "attitudes": 69
     }
   ]
 }
