@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 21:24:25",
+  "crawled_at_beijing": "2026年10月9日星期五 22:23:53",
   "crawled_date": "2026-10-09",
-  "post_count": 50,
+  "post_count": 54,
   "posts": [
     {
       "id": "5352018281759639",
@@ -606,6 +606,54 @@
       "reposts": 13,
       "comments": 4,
       "attitudes": 58
+    },
+    {
+      "id": "5352234419230463",
+      "mid": "5352234419230463",
+      "created_at": "2026-10-09T14:19:48.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlUR3CJgr",
+      "text": "不喝了，天王老子来了也不喝了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 27
+    },
+    {
+      "id": "5352230770447068",
+      "mid": "5352230770447068",
+      "created_at": "2026-10-09T14:05:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlULb1SiM",
+      "text": "2026年10月9日CCI指数\n5500大卡 998 （+5）\n5000大卡 900 （+5）\n4500大卡 807 （+2）",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 1,
+      "attitudes": 103
+    },
+    {
+      "id": "5352222317874006",
+      "mid": "5352222317874006",
+      "created_at": "2026-10-09T13:31:43.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlUxxx2o6",
+      "text": "沪铝夜盘大涨",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 43,
+      "attitudes": 307
+    },
+    {
+      "id": "5352220556267175",
+      "mid": "5352220556267175",
+      "created_at": "2026-10-09T13:24:43.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlUuHqint",
+      "text": "//@侏罗纪木质素:来吧 有的是耐心",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 9,
+      "attitudes": 100
     }
   ]
 }
