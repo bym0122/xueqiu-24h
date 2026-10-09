@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 14:20:20",
+  "crawled_at_beijing": "2026年10月9日星期五 15:17:42",
   "crawled_date": "2026-10-09",
-  "post_count": 4,
+  "post_count": 5,
   "posts": [
     {
       "id": "411603159",
@@ -34,6 +34,13 @@
       "kind": "status",
       "url": "https://xueqiu.com/1910783512/411635015",
       "text": "市场每天都在告诉你，基本面没用，基本面没用，要博弈，要博弈。但我坚信，基本有用。"
+    },
+    {
+      "id": "411692813",
+      "created_at": "2026-10-09T06:46:14.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/411692813",
+      "text": "回复@Simplebest: 今天这个不算，红的猥琐//@Simplebest:回复@看好股市的新人:足够硬"
     }
   ]
 }
