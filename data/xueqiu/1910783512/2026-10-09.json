@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 21:18:58",
+  "crawled_at_beijing": "2026年10月9日星期五 22:17:46",
   "crawled_date": "2026-10-09",
-  "post_count": 6,
+  "post_count": 7,
   "posts": [
     {
       "id": "411603159",
@@ -48,6 +48,13 @@
       "kind": "retweet",
       "url": "https://xueqiu.com/1910783512/411736004",
       "text": "买卖依据完全不依靠基本的价值判断。"
+    },
+    {
+      "id": "411739853",
+      "created_at": "2026-10-09T13:41:52.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/411739853",
+      "text": "筹码博弈是最差的一种选择。很遗憾，现在就是这种选择。"
     }
   ]
 }
