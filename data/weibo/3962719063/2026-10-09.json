@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月9日星期五 10:19:47",
+  "crawled_at_beijing": "2026年10月9日星期五 11:21:37",
   "crawled_date": "2026-10-09",
-  "post_count": 19,
+  "post_count": 22,
   "posts": [
     {
       "id": "5352018281759639",
@@ -234,6 +234,42 @@
       "reposts": 9,
       "comments": 68,
       "attitudes": 318
+    },
+    {
+      "id": "5352062384866336",
+      "mid": "5352062384866336",
+      "created_at": "2026-10-09T02:56:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlQnAkpXi",
+      "text": "牛B",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 50,
+      "attitudes": 100
+    },
+    {
+      "id": "5352061418080393",
+      "mid": "5352061418080393",
+      "created_at": "2026-10-09T02:52:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlQm1xU4V",
+      "text": "沪铝实际已经翻红，比昨天15点收盘涨了130了，国内需求确实可以",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 26,
+      "attitudes": 288
+    },
+    {
+      "id": "5352059415300028",
+      "mid": "5352059415300028",
+      "created_at": "2026-10-09T02:44:24.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlQiNmeMk",
+      "text": "回复@清风明月朝雾晨露:煤炭上涨，以及铝价下跌//@清风明月朝雾晨露:公公，为啥最近神火涨云铝跌呢？两个差价接近5毛了",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 8,
+      "attitudes": 131
     }
   ]
 }
