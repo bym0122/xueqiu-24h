@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月10日星期六 12:20:18",
+  "crawled_at_beijing": "2026年10月10日星期六 13:19:37",
   "crawled_date": "2026-10-10",
-  "post_count": 11,
+  "post_count": 13,
   "posts": [
     {
       "id": "5352367155578084",
@@ -138,6 +138,30 @@
       "reposts": 7,
       "comments": 7,
       "attitudes": 158
+    },
+    {
+      "id": "5352460736004674",
+      "mid": "5352460736004674",
+      "created_at": "2026-10-10T05:19:05.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rm0K5pc5A",
+      "text": "看他是输出观点还是输出有数据支持的观点，能不能分清楚整体与个案//@戈斯猫独立设计:怎么量化对方的认知水平",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 2
+    },
+    {
+      "id": "5352458802959488",
+      "mid": "5352458802959488",
+      "created_at": "2026-10-10T05:11:25.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/Rm0GYcpTG",
+      "text": "认知低的人，分不清事实与观点，他们的情绪永远大于事实，立场永远大于逻辑\n\n认知低的人，很少认错，这种人，你对他好，他一切理解为你自愿的，你喜欢付出，一旦你停止对他好，他会反过来骂你没有良心，在他的世界里，他的得失才是衡量一切的标准。\n\n认知能力低的人，总是缺乏同理心，缺乏逻辑，缺乏对 ...全文",
+      "source": "微博网页版",
+      "reposts": 27,
+      "comments": 8,
+      "attitudes": 100
     }
   ]
 }
