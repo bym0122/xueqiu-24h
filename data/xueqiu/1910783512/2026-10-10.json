@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月10日星期六 10:14:39",
+  "crawled_at_beijing": "2026年10月10日星期六 11:15:01",
   "crawled_date": "2026-10-10",
-  "post_count": 4,
+  "post_count": 6,
   "posts": [
     {
       "id": "411761693",
@@ -34,6 +34,20 @@
       "kind": "status",
       "url": "https://xueqiu.com/1910783512/411764542",
       "text": "一张空头支票，换取一个人情，何乐而不为。"
+    },
+    {
+      "id": "411772119",
+      "created_at": "2026-10-10T02:59:53.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/411772119",
+      "text": "回复@财务人李菡: 到明年大概90-100。//@财务人李菡:回复@看好股市的新人:想请教新人老师，油价长期中枢会在什么位置"
+    },
+    {
+      "id": "411771681",
+      "created_at": "2026-10-10T02:53:59.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/1910783512/411771681",
+      "text": "都这么大的输出量了，油价还这么高，油佬们现在唯一想法就是，最大限度把油弄出来。"
     }
   ]
 }
