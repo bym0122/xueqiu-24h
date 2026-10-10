@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月10日星期六 21:19:25",
+  "crawled_at_beijing": "2026年10月10日星期六 22:18:29",
   "crawled_date": "2026-10-10",
-  "post_count": 32,
+  "post_count": 33,
   "posts": [
     {
       "id": "5352367155578084",
@@ -390,6 +390,18 @@
       "reposts": 12,
       "comments": 25,
       "attitudes": 331
+    },
+    {
+      "id": "5352584077380451",
+      "mid": "5352584077380451",
+      "created_at": "2026-10-10T13:29:13.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rm3X1uXZx",
+      "text": "今年国内家电，汽车卖的都不行啊",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 77,
+      "attitudes": 185
     }
   ]
 }
