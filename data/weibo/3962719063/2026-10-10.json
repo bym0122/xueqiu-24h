@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月10日星期六 16:20:12",
+  "crawled_at_beijing": "2026年10月10日星期六 17:19:34",
   "crawled_date": "2026-10-10",
-  "post_count": 27,
+  "post_count": 32,
   "posts": [
     {
       "id": "5352367155578084",
@@ -330,6 +330,66 @@
       "reposts": 0,
       "comments": 4,
       "attitudes": 26
+    },
+    {
+      "id": "5352519893254832",
+      "mid": "5352519893254832",
+      "created_at": "2026-10-10T09:14:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rm2hvdEJi",
+      "text": "回复@一个字都不能用sobxnizjsneksk:西湖景致六吊桥，一支杨柳一株桃//@一个字都不能用sobxnizjsneksk:老舅，春天杭州什么味道，南昌是樟树花和柚子花，更香，太喜欢了",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 9
+    },
+    {
+      "id": "5352519175245486",
+      "mid": "5352519175245486",
+      "created_at": "2026-10-10T09:11:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rm2glm0AC",
+      "text": "回复@腌菜汤糕:九号食堂一般，徐州的把子肉很好，当然品种主要是肉//@腌菜汤糕:虎纠有个九号食堂，现炒快餐，基本能满足公公说的要求，生意也不错！",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 16
+    },
+    {
+      "id": "5352517003382862",
+      "mid": "5352517003382862",
+      "created_at": "2026-10-10T09:02:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rm2cQec2i",
+      "text": "请个阿姨，来家里烧一餐三菜一汤，人工可能都要100块，如果边上有小餐饮店，点三菜一汤，可能也就150，最多200块，问题是小餐饮店菜洗的不干净，油又重，如果这些小餐饮店能推出家庭版，特干净少油版就好了",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 24,
+      "attitudes": 94
+    },
+    {
+      "id": "5352513073319647",
+      "mid": "5352513073319647",
+      "created_at": "2026-10-10T08:47:04.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rm26vdVAH",
+      "text": "回复@观自在0283:社会的一粒灰尘，有时候对于个人，就是泰山压顶，没办法的//@观自在0283:老舅，40岁面临不稳定的职场环境，可以给点意见吗？总想学点什么干点什么，但是又好像做不了什么了。",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 7,
+      "attitudes": 56
+    },
+    {
+      "id": "5352511498355711",
+      "mid": "5352511498355711",
+      "created_at": "2026-10-10T08:40:49.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rm23Xz3Hx",
+      "text": "半夜里，朋友去药店给你买好药，冒着寒夜送到你家，这得多大人情啊\n但是，外卖小哥也就收你10块钱，甚至不用10块。\n交易有时候，是成本最低的",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 25,
+      "attitudes": 331
     }
   ]
 }
