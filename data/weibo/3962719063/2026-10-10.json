@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月10日星期六 14:24:43",
+  "crawled_at_beijing": "2026年10月10日星期六 15:20:15",
   "crawled_date": "2026-10-10",
-  "post_count": 23,
+  "post_count": 27,
   "posts": [
     {
       "id": "5352367155578084",
@@ -282,6 +282,54 @@
       "reposts": 0,
       "comments": 4,
       "attitudes": 57
+    },
+    {
+      "id": "5352485986241869",
+      "mid": "5352485986241869",
+      "created_at": "2026-10-10T06:59:26.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rm1oOqbNj",
+      "text": "唯物主义无神论国家官方论证法力的证件",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 6,
+      "attitudes": 63
+    },
+    {
+      "id": "5352484092510407",
+      "mid": "5352484092510407",
+      "created_at": "2026-10-10T06:51:54.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rm1lLax4r",
+      "text": "贫道拿着桃木剑，落地美利坚，我说受邀做法事，翻译说女巫在巡检----歌曲贫道的歌词有点逗",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 36
+    },
+    {
+      "id": "5352478480534848",
+      "mid": "5352478480534848",
+      "created_at": "2026-10-10T06:29:37.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rm1cI2f8A",
+      "text": "很少有少女上来就我要找A8,A9，18岁的女生，会把25岁的当老男人，大多数是吃了爱情的苦，成了适婚女性，才会说我要找XXXX",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 9,
+      "attitudes": 135
+    },
+    {
+      "id": "5352477566177530",
+      "mid": "5352477566177530",
+      "created_at": "2026-10-10T06:25:59.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rm1bepV3A",
+      "text": "回复@手写青蛙:有没有可能吃了爱情的苦，回头找实在的钱//@手写青蛙:张口就要a8，你说她恋爱脑//@挖地瓜的超级鹿鼎公:回复@阿喵胡乱说:在没有真正进入谈婚论嫁阶段，最好不要有大额金钱特别贵重礼品往来，//@阿喵胡乱说:给男朋友送个电脑就是恋爱脑了吗也要看男朋友给她买了什么吧谈...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 26
     }
   ]
 }
