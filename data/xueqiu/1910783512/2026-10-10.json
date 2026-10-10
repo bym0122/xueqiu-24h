@@ -3,8 +3,16 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月10日星期六 08:22:51",
+  "crawled_at_beijing": "2026年10月10日星期六 09:17:04",
   "crawled_date": "2026-10-10",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "411761693",
+      "created_at": "2026-10-10T00:43:52.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/411761693",
+      "text": "一切都是为了中期。"
+    }
+  ]
 }
