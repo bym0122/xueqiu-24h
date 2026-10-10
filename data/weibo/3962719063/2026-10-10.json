@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月10日星期六 07:18:47",
+  "crawled_at_beijing": "2026年10月10日星期六 08:31:15",
   "crawled_date": "2026-10-10",
-  "post_count": 1,
+  "post_count": 5,
   "posts": [
     {
       "id": "5352367155578084",
@@ -18,6 +18,54 @@
       "reposts": 0,
       "comments": 6,
       "attitudes": 27
+    },
+    {
+      "id": "5352381705356399",
+      "mid": "5352381705356399",
+      "created_at": "2026-10-10T00:05:04.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RlYGCmtrx",
+      "text": "守住道德底线，对于整个社会的运作是有利的\n司马懿破洛水之誓，是司马氏灭亡的起因，婚恋中去道德化，必然带来信任崩塌，就再也不会有山盟海誓，就会只剩相互提防，不欢而散。\n\n人生最大的伤悲，就是找不到一个可以背靠背完全信任的人，一个成年人最心安的的事情，就是你可以找到一个可以托孤的人，",
+      "source": "微博网页版",
+      "reposts": 31,
+      "comments": 22,
+      "attitudes": 319
+    },
+    {
+      "id": "5352379621050109",
+      "mid": "5352379621050109",
+      "created_at": "2026-10-09T23:56:47.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlYDg4pbf",
+      "text": "回复@悠悠鹤望兰:这里是两种断句，一种是包含两个人名，一种是叙事（风入林，则，徐徐向前，对汾（河）过魏（国），乃，文文徵明）//@悠悠鹤望兰:没看懂//@挖地瓜的超级鹿鼎公:汾过魏乃文文徵明-----来来来，喊牛B就对了",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 8,
+      "attitudes": 48
+    },
+    {
+      "id": "5352377937038322",
+      "mid": "5352377937038322",
+      "created_at": "2026-10-09T23:50:05.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlYAxtwZk",
+      "text": "回复@Matthew_c7:正解，一定要潜移默化的输出意识形态//@Matthew_c7:我觉得短剧输出文化正当时！！而且要对各个地区精准输出。",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 5,
+      "attitudes": 78
+    },
+    {
+      "id": "5352377637142992",
+      "mid": "5352377637142992",
+      "created_at": "2026-10-09T23:48:54.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RlYA3tYdy",
+      "text": "回复@爸爸我要要喝奶:部分商品，部分品牌//@爸爸我要要喝奶:论质量有可能小日子的还是要比咱好一些",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 40
     }
   ]
 }
