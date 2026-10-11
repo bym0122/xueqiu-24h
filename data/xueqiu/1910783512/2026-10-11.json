@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月11日星期日 10:13:59",
+  "crawled_at_beijing": "2026年10月11日星期日 11:15:28",
   "crawled_date": "2026-10-11",
-  "post_count": 6,
+  "post_count": 7,
   "posts": [
     {
       "id": "411818401",
@@ -48,6 +48,13 @@
       "kind": "retweet",
       "url": "https://xueqiu.com/1910783512/411817304",
       "text": "搞那么多标准干嘛，事后从重罚效果更好。像断轴的车如果导致人员伤亡，死一个人赔一个亿，看看还有哪个企业敢降低安全标准，"
+    },
+    {
+      "id": "411822848",
+      "created_at": "2026-10-11T02:39:19.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/411822848",
+      "text": "这事有什么值得称道的。"
     }
   ]
 }
