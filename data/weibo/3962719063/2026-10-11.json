@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月11日星期日 13:19:44",
+  "crawled_at_beijing": "2026年10月11日星期日 14:25:16",
   "crawled_date": "2026-10-11",
-  "post_count": 4,
+  "post_count": 10,
   "posts": [
     {
       "id": "5352741209900780",
@@ -54,6 +54,78 @@
       "reposts": 2,
       "comments": 40,
       "attitudes": 179
+    },
+    {
+      "id": "5352835516730178",
+      "mid": "5352835516730178",
+      "created_at": "2026-10-11T06:08:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmauzsePg",
+      "text": "接上一条\n\n当然，我不否认我们的人才选拔制度，有很多问题，协和4+就是典型的政策漏洞，确确实实很多已经坐上高位的人才，渐渐变化成了门阀，这个我们确实需要发动群众，把学术界的垃圾点出来，挖出来，把清白还给学术界，把唯才是用贯彻到底",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 3,
+      "attitudes": 94
+    },
+    {
+      "id": "5352834377189669",
+      "mid": "5352834377189669",
+      "created_at": "2026-10-11T06:03:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmasJuamp",
+      "text": "回复@一杯热馥芮白:呵呵，歼36，歼50是美国人搞出来的吗，直流中压弹射是美国人搞出来的吗。远距离高压输电是美国人搞出来的吗，虽然我们不能盲目自大，看不到他人之长处，但是真用不着妄自菲薄，留下来的人才也不少//@一杯热馥芮白:在我们现有体制下，人才出走是大概率，留下来为国家做贡献的，要好好...全文",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 31
+    },
+    {
+      "id": "5352832475860043",
+      "mid": "5352832475860043",
+      "created_at": "2026-10-11T05:56:16.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmapFoAsP",
+      "text": "秋天的杭州市真的舒服",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 13,
+      "attitudes": 100
+    },
+    {
+      "id": "5352832324601547",
+      "mid": "5352832324601547",
+      "created_at": "2026-10-11T05:55:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmapqjj4v",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 4,
+      "attitudes": 26
+    },
+    {
+      "id": "5352831553110631",
+      "mid": "5352831553110631",
+      "created_at": "2026-10-11T05:52:35.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmaobd3dt",
+      "text": "谢谢辛苦做出来",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 4,
+      "attitudes": 85
+    },
+    {
+      "id": "5352830774019011",
+      "mid": "5352830774019011",
+      "created_at": "2026-10-11T05:49:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmamVgRwL",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 5,
+      "attitudes": 57
     }
   ]
 }
