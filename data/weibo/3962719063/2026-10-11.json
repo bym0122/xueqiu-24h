@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月11日星期日 19:18:33",
+  "crawled_at_beijing": "2026年10月11日星期日 20:24:25",
   "crawled_date": "2026-10-11",
-  "post_count": 10,
+  "post_count": 11,
   "posts": [
     {
       "id": "5352741209900780",
@@ -126,6 +126,18 @@
       "reposts": 2,
       "comments": 5,
       "attitudes": 57
+    },
+    {
+      "id": "5352917181403388",
+      "mid": "5352917181403388",
+      "created_at": "2026-10-11T11:32:51.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmcCi5T5i",
+      "text": "生老病死，爱别离，恨长久，求不得，放不下\n\n人生八苦",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 18,
+      "comments": 40,
+      "attitudes": 281
     }
   ]
 }
