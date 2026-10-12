@@ -3,8 +3,57 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月12日星期一 07:19:08",
+  "crawled_at_beijing": "2026年10月12日星期一 08:32:09",
   "crawled_date": "2026-10-12",
-  "post_count": 0,
-  "posts": []
+  "post_count": 4,
+  "posts": [
+    {
+      "id": "5353112983572810",
+      "mid": "5353112983572810",
+      "created_at": "2026-10-12T00:30:54.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmhI6eZrY",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 1
+    },
+    {
+      "id": "5353112170661538",
+      "mid": "5353112170661538",
+      "created_at": "2026-10-12T00:27:40.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmhGN2M5Y",
+      "text": "基础金属，电力，石油化工，农产品，劳动力成本，构成通胀的基石",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 9,
+      "attitudes": 98
+    },
+    {
+      "id": "5353110742502544",
+      "mid": "5353110742502544",
+      "created_at": "2026-10-12T00:22:00.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmhEuav1C",
+      "text": "放个屁先，国内的输入性通胀可能要开始了",
+      "source": "微博网页版",
+      "reposts": 17,
+      "comments": 43,
+      "attitudes": 214
+    },
+    {
+      "id": "5353101305316399",
+      "mid": "5353101305316399",
+      "created_at": "2026-10-11T23:44:30.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rmhpgmj2n",
+      "text": "红魔败家子，好看啊，推荐",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 29,
+      "attitudes": 186
+    }
+  ]
 }
