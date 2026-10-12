@@ -3,72 +3,87 @@ const fs = require("fs");
 const path = require("path");
 
 const POST_URL = (process.env.XUEQIU_POST_URL || "").trim();
-const COUNT = 20;
-const MAX_COMMENT_PAGES = Number(process.env.MAX_COMMENT_PAGES || 100);
-const MAX_REPLY_PAGES = Number(process.env.MAX_REPLY_PAGES || 50);
-const SCROLL_ROUNDS = Number(process.env.SCROLL_ROUNDS || 12);
-const DELAY_MS = Number(process.env.REQUEST_DELAY_MS || 350);
-
+const PAGE_SIZE = 20;
+const MAX_COMMENT_PAGES = Math.max(1, Number(process.env.MAX_COMMENT_PAGES || 100));
+const MAX_REPLY_PAGES = Math.max(1, Number(process.env.MAX_REPLY_PAGES || 50));
+const SCROLL_ROUNDS = 10;
+const DELAY_MS = 250;
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-const uniqueById = items => {
-  const map = new Map();
-  for (const item of items || []) {
-    if (item && item.id != null) map.set(String(item.id), item);
-  }
-  return [...map.values()];
-};
-function extractPostId(url) {
+
+function postIdFrom(url) {
   const u = new URL(url);
   if (!/(^|\.)xueqiu\.com$/i.test(u.hostname)) throw new Error("Only xueqiu.com post URLs are supported");
-  const parts = u.pathname.split("/").filter(Boolean);
-  const id = [...parts].reverse().find(x => /^\d{5,}$/.test(x));
+  const id = u.pathname.split("/").filter(Boolean).reverse().find(x => /^\d{5,}$/.test(x));
   if (!id) throw new Error("Cannot extract numeric post ID from URL");
   return id;
 }
-function findArray(obj, preferredKeys) {
-  if (!obj || typeof obj !== "object") return [];
-  const roots = [obj, obj.data, obj.result, obj.data && obj.data.data].filter(x => x && typeof x === "object");
-  for (const root of roots) {
-    for (const key of preferredKeys) if (Array.isArray(root[key])) return root[key];
+function arraysIn(obj, out, depth) {
+  if (!obj || typeof obj !== "object" || depth > 5) return out;
+  if (Array.isArray(obj)) { if (obj.length && obj.some(x => x && typeof x === "object" && x.id != null)) out.push(obj); return out; }
+  for (const [k, v] of Object.entries(obj)) {
+    if (Array.isArray(v) && /list|comment|repl|status|item|result/i.test(k) && v.some(x => x && typeof x === "object" && x.id != null)) out.push(v);
+    else if (v && typeof v === "object") arraysIn(v, out, depth + 1);
   }
-  for (const root of roots) {
-    for (const key of ["list", "items", "comments", "replies", "statuses", "results"]) {
-      if (Array.isArray(root[key])) return root[key];
-    }
-  }
-  return [];
+  return out;
+}
+function getList(json) {
+  const candidates = arraysIn(json, [], 0);
+  candidates.sort((a,b) => b.length - a.length);
+  return candidates[0] || [];
 }
 function totalFrom(obj) {
-  const roots = [obj, obj && obj.data, obj && obj.result].filter(Boolean);
-  for (const root of roots) {
-    for (const key of ["total", "total_count", "count", "totalCount", "reply_count", "comment_count"]) {
-      const n = Number(root[key]);
-      if (Number.isFinite(n) && n >= 0) return n;
+  const seen = new Set();
+  function walk(o, depth) {
+    if (!o || typeof o !== "object" || depth > 4 || seen.has(o)) return null;
+    seen.add(o);
+    for (const k of ["total", "total_count", "totalCount", "comment_count", "comments_count", "reply_count", "comment_reply_count"]) {
+      const n = Number(o[k]);
+      if (o[k] != null && Number.isFinite(n) && n >= 0) return n;
     }
+    for (const v of Object.values(o)) if (v && typeof v === "object") { const n = walk(v, depth + 1); if (n !== null) return n; }
+    return null;
   }
-  return null;
+  return walk(obj, 0);
 }
-function replyCount(item) {
-  for (const key of ["reply_count", "replyCount", "reply_status_count", "reply_num", "child_count"]) {
-    const n = Number(item && item[key]);
+function countReplies(x) {
+  for (const k of ["reply_count", "comment_reply_count", "replyCount", "reply_num", "child_count"]) {
+    const n = Number(x && x[k]);
     if (Number.isFinite(n) && n > 0) return n;
   }
   return 0;
 }
-function cleanUrl(url) {
-  try { const u = new URL(url); return u.origin + u.pathname; } catch (_) { return String(url || "").slice(0, 200); }
+function safeObservedUrl(raw) {
+  try {
+    const u = new URL(raw);
+    for (const k of [...u.searchParams.keys()]) if (/token|cookie|secret|authorization|access_key/i.test(k)) u.searchParams.set(k, "[redacted]");
+    return u.toString();
+  } catch (_) { return String(raw || "").slice(0, 300); }
+}
+function mapById(items) {
+  const m = new Map();
+  for (const x of items || []) if (x && x.id != null) m.set(String(x.id), x);
+  return m;
+}
+function mergeById(...arrays) {
+  const m = new Map();
+  for (const a of arrays) for (const x of a || []) if (x && x.id != null) {
+    const key = String(x.id);
+    const prev = m.get(key) || {};
+    m.set(key, { ...prev, ...x });
+  }
+  return [...m.values()];
 }
 
 (async () => {
-  let browser;
-  const startedAt = new Date().toISOString();
+  let browser = null;
+  let outputFile = null;
+  let postId = null;
   const errors = [];
-  const observed = [];
-  const rawCommentResponses = [];
-  let postId = "unknown";
-  let outputFile = "";
+  const observedUrls = [];
+  const commentResponses = [];
+  const startedAt = new Date().toISOString();
   const result = {
-    schema_version: 1,
+    schema_version: 2,
     platform: "xueqiu",
     post_url: POST_URL,
     post_id: null,
@@ -89,24 +104,19 @@ function cleanUrl(url) {
     },
     post: null,
     comments: [],
-    diagnostics: { observed_comment_api_urls: [], errors: [] }
+    diagnostics: { observed_comment_api_urls: [], errors: [], notes: [] }
   };
 
   try {
     if (!POST_URL) throw new Error("Missing XUEQIU_POST_URL");
-    postId = extractPostId(POST_URL);
+    postId = postIdFrom(POST_URL);
     result.post_id = postId;
     outputFile = path.join(process.cwd(), "data", "xueqiu_comments", postId + ".json");
 
-    browser = await chromium.launch({
-      headless: true,
-      args: ["--no-sandbox", "--disable-dev-shm-usage", "--disable-blink-features=AutomationControlled"]
-    });
+    browser = await chromium.launch({ headless: true, args: ["--no-sandbox", "--disable-dev-shm-usage", "--disable-blink-features=AutomationControlled"] });
     const context = await browser.newContext({
       userAgent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-      locale: "zh-CN",
-      timezoneId: "Asia/Shanghai",
-      viewport: { width: 1440, height: 1000 }
+      locale: "zh-CN", timezoneId: "Asia/Shanghai", viewport: { width: 1440, height: 1000 }
     });
     await context.addInitScript(() => {
       Object.defineProperty(navigator, "webdriver", { get: () => undefined });
@@ -118,76 +128,80 @@ function cleanUrl(url) {
 
     page.on("response", async response => {
       const url = response.url();
-      if (!/xueqiu\.com/i.test(url) || !/(comment|repl|discussion|status)/i.test(url)) return;
+      if (!/xueqiu\.com/i.test(url) || !/(comment|repl|discussion)/i.test(url)) return;
       const ct = response.headers()["content-type"] || "";
       if (!ct.includes("json")) return;
-      const safeUrl = cleanUrl(url);
-      if (observed.length < 300 && !observed.includes(safeUrl)) observed.push(safeUrl);
+      const safeUrl = safeObservedUrl(url);
+      if (!observedUrls.includes(safeUrl) && observedUrls.length < 500) observedUrls.push(safeUrl);
       try {
         const json = await response.json();
-        const list = findArray(json, ["list", "comments", "replies", "statuses", "items"]);
-        if (list.length && /comment|repl|discussion/i.test(url)) {
-          rawCommentResponses.push({ url: safeUrl, list, total: totalFrom(json), status: response.status() });
-        }
+        const list = getList(json);
+        if (list.length) commentResponses.push({ url: safeUrl, list, total: totalFrom(json), status: response.status() });
       } catch (_) {}
     });
 
-    console.log("[page] opening post", POST_URL);
+    console.log("[page] opening post " + POST_URL);
     await page.goto(POST_URL, { waitUntil: "domcontentloaded", timeout: 60000 });
-    await sleep(3500);
-    try {
-      result.post = await page.evaluate(() => {
-        const title = document.title || "";
-        const text = (document.body && document.body.innerText || "").slice(0, 6000);
-        const canonical = document.querySelector('link[rel="canonical"]');
-        return { title, canonical_url: canonical ? canonical.href : location.href, visible_text_excerpt: text };
-      });
-    } catch (e) { errors.push("post_metadata: " + e.message); }
+    await sleep(3000);
+    result.post = await page.evaluate(() => {
+      const title = document.title || "";
+      const text = (document.body && document.body.innerText || "").slice(0, 6000);
+      const canonical = document.querySelector('link[rel="canonical"]');
+      return { title, canonical_url: canonical ? canonical.href : location.href, visible_text_excerpt: text };
+    }).catch(e => ({ error: e.message }));
 
-    // Let the page load its own discussion requests. This is also a fallback source if the API changes.
     for (let i = 0; i < SCROLL_ROUNDS; i++) {
-      try { await page.mouse.wheel(0, 1100); } catch (_) {}
-      await sleep(700);
+      await page.mouse.wheel(0, 1000).catch(() => {});
+      await sleep(600);
     }
+    await sleep(1000);
 
-    const requestJson = async (endpoint, params) => {
-      const qs = new URLSearchParams(params).toString();
-      const url = "https://xueqiu.com/" + endpoint + "?" + qs;
-      return await page.evaluate(async url => {
-        try {
-          const r = await fetch(url, { credentials: "include", headers: { "x-requested-with": "XMLHttpRequest", "accept": "application/json, text/plain, */*" } });
-          const text = await r.text();
-          let json = null;
-          try { json = JSON.parse(text); } catch (_) {}
-          return { ok: r.ok, status: r.status, url: r.url, json, body_excerpt: json ? "" : text.slice(0, 240) };
-        } catch (e) { return { ok: false, status: 0, url, error: String(e) }; }
-      }, url);
+    const apiRequest = async url => {
+      try {
+        const response = await context.request.get(url, {
+          timeout: 20000,
+          headers: { "referer": POST_URL, "accept": "application/json, text/plain, */*", "x-requested-with": "XMLHttpRequest" }
+        });
+        const body = await response.text();
+        let json = null;
+        try { json = JSON.parse(body); } catch (_) {}
+        return { ok: response.ok(), status: response.status(), url, json, excerpt: json ? "" : body.slice(0, 180) };
+      } catch (e) { return { ok: false, status: 0, url, json: null, error: e.message }; }
+    };
+    const makePageUrl = (base, pageNo, targetId) => {
+      const u = new URL(base);
+      u.searchParams.set("page", String(pageNo));
+      if (u.searchParams.has("count")) u.searchParams.set("count", String(PAGE_SIZE));
+      else if (u.searchParams.has("size")) u.searchParams.set("size", String(PAGE_SIZE));
+      else u.searchParams.set("count", String(PAGE_SIZE));
+      if (targetId != null) {
+        if (u.searchParams.has("status_id")) u.searchParams.set("status_id", String(targetId));
+        else if (u.searchParams.has("id")) u.searchParams.set("id", String(targetId));
+        else u.searchParams.set("id", String(targetId));
+      }
+      return u.toString();
     };
 
-    const mainById = new Map();
+    const capturedMain = commentResponses.filter(x => /\/statuses\/v3\/comments\.json/i.test(x.url) || /\/statuses\/comments\.json/i.test(x.url));
+    let mainBase = capturedMain.length ? capturedMain[0].url : "https://xueqiu.com/statuses/v3/comments.json?id=" + postId + "&count=" + PAGE_SIZE + "&page=1&sort=created_at";
     let expectedMain = null;
+    const mainMap = new Map();
     let mainApiWorked = false;
 
     for (let p = 1; p <= MAX_COMMENT_PAGES; p++) {
       result.completeness.main_comment_pages_attempted++;
-      let res = await requestJson("statuses/comments.json", { status_id: postId, page: String(p), count: String(COUNT), sort: "time" });
-      let list = res.json ? findArray(res.json, ["list", "comments", "items"]) : [];
-      if (!res.ok || !res.json || !list.length) {
-        if (p === 1) {
-          const alt = await requestJson("statuses/comments.json", { id: postId, page: String(p), count: String(COUNT) });
-          const altList = alt.json ? findArray(alt.json, ["list", "comments", "items"]) : [];
-          if (alt.ok && altList.length) { res = alt; list = altList; }
-        }
-      }
+      const url = makePageUrl(mainBase, p, postId);
+      const res = await apiRequest(url);
+      let list = res.json ? getList(res.json) : [];
       if (res.ok && res.json && (list.length || totalFrom(res.json) === 0)) {
         mainApiWorked = true;
         result.completeness.main_comment_pages_successful++;
         const total = totalFrom(res.json);
         if (total !== null) expectedMain = total;
-        for (const item of list) if (item && item.id != null) mainById.set(String(item.id), item);
-        if (!list.length || list.length < COUNT || (expectedMain !== null && mainById.size >= expectedMain)) break;
+        for (const x of list) if (x && x.id != null) mainMap.set(String(x.id), x);
+        if (!list.length || list.length < PAGE_SIZE || (expectedMain !== null && mainMap.size >= expectedMain)) break;
       } else {
-        const msg = "main_comments_page_" + p + ": HTTP " + res.status + (res.body_excerpt ? " " + res.body_excerpt : "");
+        const msg = "main_comments_page_" + p + ": HTTP " + res.status + (res.error ? " " + res.error : "") + (res.excerpt ? " " + res.excerpt : "");
         errors.push(msg);
         result.completeness.missing_or_failed.push(msg);
         break;
@@ -195,92 +209,92 @@ function cleanUrl(url) {
       await sleep(DELAY_MS);
     }
 
-    // Merge comments observed in the rendered page's own JSON responses.
-    for (const batch of rawCommentResponses) {
-      for (const item of batch.list) {
-        if (item && item.id != null && !mainById.has(String(item.id)) &&
-            (item.status_id == null || String(item.status_id) === postId || /comments\.json/i.test(batch.url))) {
-          mainById.set(String(item.id), item);
-        }
-      }
+    // Keep comments seen in the page's own v3/comments response even if a direct page request was blocked.
+    for (const batch of capturedMain) {
+      for (const x of batch.list) if (x && x.id != null) mainMap.set(String(x.id), { ...(mainMap.get(String(x.id)) || {}), ...x });
       if (batch.total !== null && batch.total !== undefined) expectedMain = Math.max(expectedMain || 0, batch.total);
     }
-
+    const comments = [...mainMap.values()];
     result.completeness.comments_expected = expectedMain;
-    const comments = [...mainById.values()];
-    const threadResults = new Map();
-    const failedThreads = [];
-    let replyCountCaptured = 0;
 
-    async function fetchThread(parentId, parentItem, depth) {
-      const key = String(parentId);
-      if (threadResults.has(key)) return threadResults.get(key);
-      if (depth > 8) {
-        failedThreads.push({ parent_id: key, reason: "depth_limit" });
-        return [];
-      }
+    // Replies are often returned as a small child_comments preview. Preserve those and try to page the full thread.
+    const threadCache = new Map();
+    const failedThreads = [];
+    let totalRepliesCaptured = 0;
+    async function fetchThread(parent, depth) {
+      const cacheKey = String(parent.id);
+      if (threadCache.has(cacheKey)) return threadCache.get(cacheKey);
+      if (depth > 8) { failedThreads.push({ parent_id: cacheKey, reason: "depth_limit" }); return []; }
+      const seed = mergeById(parent.child_comments || [], parent.replies || [], parent.reply_comment ? [parent.reply_comment] : []);
+      const expected = countReplies(parent);
+      if (expected === 0 && seed.length === 0) { threadCache.set(cacheKey, []); return []; }
       if (depth === 1) result.completeness.reply_threads_attempted++;
       else result.completeness.nested_threads_attempted++;
-      const found = new Map();
+
+      const found = mapById(seed);
       let endpointWorked = false;
-      let expected = replyCount(parentItem);
+      const targetId = parent.statusId || parent.status_id || parent.id;
+      const base = "https://xueqiu.com/statuses/v3/comments.json?id=" + encodeURIComponent(String(targetId)) + "&count=" + PAGE_SIZE + "&page=1&sort=created_at";
+      let endpoint = base;
       for (let p = 1; p <= MAX_REPLY_PAGES; p++) {
-        let res = await requestJson("statuses/replies.json", { comment_id: key, page: String(p), count: String(COUNT), sort: "time" });
-        let list = res.json ? findArray(res.json, ["list", "replies", "comments", "items"]) : [];
-        if ((!res.ok || !res.json || !list.length) && p === 1) {
-          const alt = await requestJson("statuses/replies.json", { id: key, page: String(p), count: String(COUNT) });
-          const altList = alt.json ? findArray(alt.json, ["list", "replies", "comments", "items"]) : [];
-          if (alt.ok && altList.length) { res = alt; list = altList; }
+        let res = await apiRequest(makePageUrl(endpoint, p, targetId));
+        let list = res.json ? getList(res.json) : [];
+        if (!res.ok || !res.json || (!list.length && totalFrom(res.json) !== 0)) {
+          // Legacy fallback endpoint; uses comment_id rather than status id.
+          const legacy = await apiRequest("https://xueqiu.com/statuses/replies.json?comment_id=" + encodeURIComponent(String(parent.id)) + "&page=" + p + "&count=" + PAGE_SIZE);
+          const legacyList = legacy.json ? getList(legacy.json) : [];
+          if (legacy.ok && legacy.json && (legacyList.length || totalFrom(legacy.json) === 0)) { res = legacy; list = legacyList; }
         }
         if (res.ok && res.json && (list.length || totalFrom(res.json) === 0)) {
           endpointWorked = true;
-          const total = totalFrom(res.json);
-          if (total !== null) expected = Math.max(expected || 0, total);
-          for (const item of list) if (item && item.id != null) found.set(String(item.id), item);
-          if (!list.length || list.length < COUNT || (expected > 0 && found.size >= expected)) break;
+          for (const x of list) {
+            if (!x || x.id == null) continue;
+            // Avoid mistaking the parent/main-comment list for replies if the endpoint ignores targetId.
+            if (String(x.id) === String(parent.id)) continue;
+            if (x.in_reply_to_comment_id != null && String(x.in_reply_to_comment_id) !== String(parent.id) && depth > 0) {
+              if (String(x.root_in_reply_to_status_id || "") !== String(postId)) continue;
+            }
+            found.set(String(x.id), { ...(found.get(String(x.id)) || {}), ...x });
+          }
+          if (!list.length || list.length < PAGE_SIZE || (expected > 0 && found.size >= expected)) break;
         } else {
-          if (p === 1 && expected === 0) break;
-          const msg = "replies_for_" + key + "_page_" + p + ": HTTP " + res.status;
-          errors.push(msg);
-          failedThreads.push({ parent_id: key, reason: msg, expected_replies: expected });
+          if (p === 1 && seed.length) break;
+          if (expected > 0) failedThreads.push({ parent_id: cacheKey, reason: "reply_endpoint_unavailable", http_status: res.status, expected_replies: expected });
           break;
         }
         await sleep(DELAY_MS);
       }
       const replies = [...found.values()];
-      threadResults.set(key, replies);
+      threadCache.set(cacheKey, replies);
       if (depth === 1 && endpointWorked) result.completeness.reply_threads_successful++;
-      replyCountCaptured += replies.length;
-      if (expected > replies.length) {
-        failedThreads.push({ parent_id: key, reason: "reply_count_mismatch", expected_replies: expected, captured_replies: replies.length });
-      }
+      totalRepliesCaptured += replies.length;
+      if (expected > replies.length) failedThreads.push({ parent_id: cacheKey, reason: "reply_count_mismatch", expected_replies: expected, captured_replies: replies.length });
       for (const child of replies) {
-        if (replyCount(child) > 0) child.replies = await fetchThread(child.id, child, depth + 1);
+        if (countReplies(child) > 0 || (child.child_comments && child.child_comments.length)) child.replies = await fetchThread(child, depth + 1);
         else child.replies = [];
       }
       return replies;
     }
 
-    // Some Xueqiu endpoints expose the reply count only in a separate field; try every visible parent.
     for (const comment of comments) {
-      comment.replies = await fetchThread(comment.id, comment, 1);
-      await sleep(DELAY_MS);
+      comment.replies = await fetchThread(comment, 1);
+      await sleep(100);
     }
 
     result.comments = comments.map(c => ({ ...c, replies: c.replies || [] }));
     result.completeness.main_comments_captured = result.comments.length;
-    result.completeness.replies_captured = replyCountCaptured;
-    if (!mainApiWorked && result.comments.length === 0) {
-      const msg = "No comment list could be read from the public page/API; this run is incomplete.";
-      errors.push(msg);
+    result.completeness.replies_captured = totalRepliesCaptured;
+    if (!mainApiWorked) {
+      const msg = "Direct v3 comment pagination did not return a confirmed successful page; captured page-rendered comments are retained but main pagination is unverified.";
       result.completeness.missing_or_failed.push(msg);
+      result.diagnostics.notes.push(msg);
     }
     result.completeness.missing_or_failed.push(...failedThreads);
-    const expectedReached = expectedMain === null || result.comments.length >= expectedMain;
-    const threadsClean = failedThreads.length === 0;
-    result.completeness.claimed_complete = Boolean(mainApiWorked && result.comments.length > 0 && expectedReached && threadsClean);
+    const expectedReached = expectedMain !== null && result.comments.length >= expectedMain;
+    const noKnownMismatch = failedThreads.length === 0 && errors.length === 0;
+    result.completeness.claimed_complete = Boolean(mainApiWorked && expectedReached && noKnownMismatch);
     result.status = result.completeness.claimed_complete ? "complete" : (result.comments.length ? "partial" : "failed");
-    result.diagnostics.observed_comment_api_urls = observed;
+    result.diagnostics.observed_comment_api_urls = observedUrls;
     result.diagnostics.errors = errors;
   } catch (error) {
     result.status = "failed";
@@ -290,15 +304,14 @@ function cleanUrl(url) {
   } finally {
     if (browser) try { await browser.close(); } catch (_) {}
     result.finished_at = new Date().toISOString();
-    if (!outputFile && postId !== "unknown") outputFile = path.join(process.cwd(), "data", "xueqiu_comments", postId + ".json");
+    if (!outputFile && postId) outputFile = path.join(process.cwd(), "data", "xueqiu_comments", postId + ".json");
     if (outputFile) {
       fs.mkdirSync(path.dirname(outputFile), { recursive: true });
       fs.writeFileSync(outputFile, JSON.stringify(result, null, 2) + "\n", "utf8");
-      console.log("[saved]", outputFile);
+      console.log("[saved] " + outputFile);
     }
-    console.log("[summary]", JSON.stringify({
-      status: result.status,
-      post_id: result.post_id,
+    console.log("[summary] " + JSON.stringify({
+      status: result.status, post_id: result.post_id,
       expected_comments: result.completeness.comments_expected,
       captured_comments: result.completeness.main_comments_captured,
       replies: result.completeness.replies_captured,
