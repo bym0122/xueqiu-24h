@@ -1,0 +1,65 @@
+name: Xueqiu Full Comment Threads
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_url:
+        description: "雪球帖子链接（例如 https://xueqiu.com/S/SH600900/411950093）"
+        required: true
+        type: string
+      max_comment_pages:
+        description: "主评论最大分页数"
+        required: false
+        default: "100"
+        type: string
+      max_reply_pages:
+        description: "每个讨论串最大分页数"
+        required: false
+        default: "50"
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-comments:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Playwright Chromium
+        run: |
+          npm init -y
+          npm install playwright
+          npx playwright install --with-deps chromium
+
+      - name: Crawl all available comment pages and reply threads
+        env:
+          XUEQIU_POST_URL: \${{ inputs.post_url }}
+          MAX_COMMENT_PAGES: \${{ inputs.max_comment_pages }}
+          MAX_REPLY_PAGES: \${{ inputs.max_reply_pages }}
+        run: node scripts/crawl_xueqiu_comments.js
+
+      - name: Commit JSON result (including partial results and diagnostics)
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -d data/xueqiu_comments ]; then
+            git add data/xueqiu_comments/
+            if ! git diff --cached --quiet; then
+              git commit -m "data: crawl Xueqiu comment threads"
+              git push
+            else
+              echo "No new JSON changes to commit."
+            fi
+          else
+            echo "No output directory was created."
+          fi
