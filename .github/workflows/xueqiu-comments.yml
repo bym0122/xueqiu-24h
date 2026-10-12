@@ -38,7 +38,7 @@ jobs:
         run: |
           npm init -y
           npm install playwright
-          npx playwright install --with-deps chromium
+          npx playwright install chromium
 
       - name: Crawl all available comment pages and reply threads
         env:
