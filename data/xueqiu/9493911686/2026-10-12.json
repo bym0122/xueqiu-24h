@@ -3,8 +3,16 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月12日星期一 08:23:31",
+  "crawled_at_beijing": "2026年10月12日星期一 09:19:17",
   "crawled_date": "2026-10-12",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "411867567",
+      "created_at": "2026-10-12T00:55:24.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/411867567",
+      "text": "写的很认真，很用心。但是说实话看得我有点累，太杂了。另外AI味儿过重，说人话不多。缺少核心结论，就是目前这个估值或者这个价格值不值得交易。如果没有这个结论，那就是纯记叙文，那我用AI写一篇就行了，训练多次的AI不一定写得比这差。然后，磷化工本来就是卖矿，这个大家都知道，关键是..."
+    }
+  ]
 }
