@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月12日星期一 09:23:14",
+  "crawled_at_beijing": "2026年10月12日星期一 10:21:48",
   "crawled_date": "2026-10-12",
-  "post_count": 9,
+  "post_count": 13,
   "posts": [
     {
       "id": "5353112983572810",
@@ -114,6 +114,54 @@
       "reposts": 3,
       "comments": 23,
       "attitudes": 205
+    },
+    {
+      "id": "5353137412246394",
+      "mid": "5353137412246394",
+      "created_at": "2026-10-12T02:07:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmilv9qoa",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 4,
+      "attitudes": 44
+    },
+    {
+      "id": "5353137059400376",
+      "mid": "5353137059400376",
+      "created_at": "2026-10-12T02:06:34.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmikVDrsY",
+      "text": "工商银行继续新高了，这能持久吗",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 37,
+      "attitudes": 182
+    },
+    {
+      "id": "5353128440628181",
+      "mid": "5353128440628181",
+      "created_at": "2026-10-12T01:32:18.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmi722DpX",
+      "text": "回复@oakling2019:就业保在国内了，虽然工资低了点//@oakling2019:百草枯",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 10,
+      "attitudes": 164
+    },
+    {
+      "id": "5353126866980803",
+      "mid": "5353126866980803",
+      "created_at": "2026-10-12T01:26:04.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmi4uti1B",
+      "text": "也可能是杨白劳的女儿",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 14,
+      "attitudes": 133
     }
   ]
 }
