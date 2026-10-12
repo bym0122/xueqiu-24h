@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月12日星期一 21:36:23",
+  "crawled_at_beijing": "2026年10月12日星期一 22:26:19",
   "crawled_date": "2026-10-12",
-  "post_count": 35,
+  "post_count": 39,
   "posts": [
     {
       "id": "5353112983572810",
@@ -426,6 +426,54 @@
       "reposts": 2,
       "comments": 15,
       "attitudes": 100
+    },
+    {
+      "id": "5353322368205128",
+      "mid": "5353322368205128",
+      "created_at": "2026-10-12T14:22:54.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmn9OyqwM",
+      "text": "//@用户4078601968:这种女人对穆斯林一无所知，对伊斯兰教毫无了解，对白帽黑袍竟然充满向往，非常令人费解，可能民族和谐久了，以为一切都不新鲜了，要尝试不同的味道，称之为独立思考人生自主。//@念起念觉:喜欢就好别回来，千万别回来。一路走到黑",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 1,
+      "attitudes": 3
+    },
+    {
+      "id": "5353322047604707",
+      "mid": "5353322047604707",
+      "created_at": "2026-10-12T14:21:39.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmn9ivUkz",
+      "text": "就是完全不讲理的泼妇",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 6
+    },
+    {
+      "id": "5353321466431912",
+      "mid": "5353321466431912",
+      "created_at": "2026-10-12T14:19:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmn8mqZew",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 5,
+      "attitudes": 31
+    },
+    {
+      "id": "5353318924160645",
+      "mid": "5353318924160645",
+      "created_at": "2026-10-12T14:09:14.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rmn4ghsnb",
+      "text": "雪球神火预增公告下500多条评论，说明筹码都在散户手上，主力没货，也许涨得动力没有，但是也没有砸盘的动力",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 5,
+      "comments": 42,
+      "attitudes": 170
     }
   ]
 }
