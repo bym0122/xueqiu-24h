@@ -223,7 +223,6 @@ function mergeById(...arrays) {
       const list = res.json ? getList(res.json) : [];
       const nextCursor = res.json ? nextCursorFrom(res.json, list, mainCursor) : null;
       const discussionCount = res.json ? discussionCountFrom(res.json) : null;
-      if (discussionCount !== null) result.completeness.discussion_items_expected = Math.max(result.completeness.discussion_items_expected || 0, discussionCount);
       result.diagnostics.pagination_pages.push({
         kind: "main", page: p, http_status: res.status, returned: list.length,
         first_id: list[0] && list[0].id != null ? String(list[0].id) : null,
@@ -231,7 +230,9 @@ function mergeById(...arrays) {
         cursor_in: mainCursor, cursor_out: nextCursor,
         json_keys: res.json && typeof res.json === "object" ? Object.keys(res.json) : [],
         next_max_id: res.json && res.json.next_max_id != null ? res.json.next_max_id : (res.json && res.json.data && res.json.data.next_max_id != null ? res.json.data.next_max_id : null),
-        comment_tl_count: discussionCount
+        comment_tl_count: res.json && res.json.comment_tl_count != null ? res.json.comment_tl_count : null,
+        status_reply_count: res.json && res.json.status_reply_count != null ? res.json.status_reply_count : null,
+        has_filtered: res.json && res.json.has_filtered != null ? res.json.has_filtered : null
       });
       if (res.ok && res.json && (list.length || totalFrom(res.json) === 0)) {
         mainApiWorked = true;
@@ -303,8 +304,7 @@ function mergeById(...arrays) {
         let list = res.json ? getList(res.json) : [];
         let nextCursor = res.json ? nextCursorFrom(res.json, list, replyCursor) : null;
         const discussionCount = res.json ? discussionCountFrom(res.json) : null;
-        if (discussionCount !== null) result.completeness.discussion_items_expected = Math.max(result.completeness.discussion_items_expected || 0, discussionCount);
-        if (!res.ok || !res.json || (!list.length && totalFrom(res.json) !== 0)) {
+          if (!res.ok || !res.json || (!list.length && totalFrom(res.json) !== 0)) {
           const legacy = await apiRequest("https://xueqiu.com/statuses/replies.json?comment_id=" + encodeURIComponent(String(parent.id)) + "&page=" + p + "&count=" + PAGE_SIZE);
           const legacyList = legacy.json ? getList(legacy.json) : [];
           if (legacy.ok && legacy.json && (legacyList.length || totalFrom(legacy.json) === 0)) { res = legacy; list = legacyList; }
@@ -325,7 +325,9 @@ function mergeById(...arrays) {
             cursor_in: replyCursor, cursor_out: nextCursor,
             json_keys: res.json && typeof res.json === "object" ? Object.keys(res.json) : [],
             next_max_id: res.json && res.json.next_max_id != null ? res.json.next_max_id : (res.json && res.json.data && res.json.data.next_max_id != null ? res.json.data.next_max_id : null),
-            comment_tl_count: discussionCount
+            comment_tl_count: res.json && res.json.comment_tl_count != null ? res.json.comment_tl_count : null,
+        status_reply_count: res.json && res.json.status_reply_count != null ? res.json.status_reply_count : null,
+        has_filtered: res.json && res.json.has_filtered != null ? res.json.has_filtered : null
           });
           if (!list.length) break;
           if (found.size === before) break;
