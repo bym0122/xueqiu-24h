@@ -82,10 +82,23 @@ function nextCursorFrom(json, list, currentCursor) {
 function discussionCountFrom(json) {
   const roots = [json, json && json.data, json && json.result].filter(x => x && typeof x === "object");
   for (const root of roots) {
-    const n = Number(root.comment_tl_count);
-    if (root.comment_tl_count != null && Number.isFinite(n) && n >= 0) return n;
+    const n = Number(root.status_reply_count);
+    if (root.status_reply_count != null && Number.isFinite(n) && n >= 0) return n;
   }
   return null;
+}
+function uniqueTreeCount(items) {
+  const seen = new Set();
+  function walk(nodes) {
+    for (const node of nodes || []) {
+      if (!node || node.id == null) continue;
+      const key = String(node.id);
+      if (!seen.has(key)) seen.add(key);
+      walk(node.replies || []);
+    }
+  }
+  walk(items);
+  return seen.size;
 }
 function safeObservedUrl(raw) {
   try {
@@ -223,6 +236,7 @@ function mergeById(...arrays) {
       const list = res.json ? getList(res.json) : [];
       const nextCursor = res.json ? nextCursorFrom(res.json, list, mainCursor) : null;
       const discussionCount = res.json ? discussionCountFrom(res.json) : null;
+      if (discussionCount !== null) result.completeness.discussion_items_expected = Math.max(result.completeness.discussion_items_expected || 0, discussionCount);
       result.diagnostics.pagination_pages.push({
         kind: "main", page: p, http_status: res.status, returned: list.length,
         first_id: list[0] && list[0].id != null ? String(list[0].id) : null,
@@ -304,6 +318,7 @@ function mergeById(...arrays) {
         let list = res.json ? getList(res.json) : [];
         let nextCursor = res.json ? nextCursorFrom(res.json, list, replyCursor) : null;
         const discussionCount = res.json ? discussionCountFrom(res.json) : null;
+      if (discussionCount !== null) result.completeness.discussion_items_expected = Math.max(result.completeness.discussion_items_expected || 0, discussionCount);
           if (!res.ok || !res.json || (!list.length && totalFrom(res.json) !== 0)) {
           const legacy = await apiRequest("https://xueqiu.com/statuses/replies.json?comment_id=" + encodeURIComponent(String(parent.id)) + "&page=" + p + "&count=" + PAGE_SIZE);
           const legacyList = legacy.json ? getList(legacy.json) : [];
@@ -345,7 +360,8 @@ function mergeById(...arrays) {
       threadCache.set(cacheKey, replies);
       if (depth === 1 && endpointWorked) result.completeness.reply_threads_successful++;
       totalRepliesCaptured += replies.length;
-      if (expected > replies.length) failedThreads.push({ parent_id: cacheKey, reason: "reply_count_mismatch", expected_replies: expected, captured_replies: replies.length });
+      const capturedThreadItems = uniqueTreeCount(replies);
+      if (expected > capturedThreadItems) failedThreads.push({ parent_id: cacheKey, reason: "reply_count_mismatch", expected_replies: expected, captured_replies: capturedThreadItems });
       for (const child of replies) {
         if (countReplies(child) > 0 || (child.child_comments && child.child_comments.length)) child.replies = await fetchThread(child, depth + 1);
         else child.replies = [];
