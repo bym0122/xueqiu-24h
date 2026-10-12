@@ -6,8 +6,6 @@ const POST_URL = (process.env.XUEQIU_POST_URL || "").trim();
 const PAGE_SIZE = 20;
 const MAX_COMMENT_PAGES = Math.max(1, Number(process.env.MAX_COMMENT_PAGES || 100));
 const MAX_REPLY_PAGES = Math.max(1, Number(process.env.MAX_REPLY_PAGES || 50));
-const SCROLL_ROUNDS = 10;
-const DELAY_MS = 250;
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 function postIdFrom(url) {
@@ -32,18 +30,22 @@ function getList(json) {
   return candidates[0] || [];
 }
 function totalFrom(obj) {
-  const seen = new Set();
-  function walk(o, depth) {
-    if (!o || typeof o !== "object" || depth > 4 || seen.has(o)) return null;
-    seen.add(o);
-    for (const k of ["total", "total_count", "totalCount", "comment_count", "comments_count", "reply_count", "comment_reply_count"]) {
-      const n = Number(o[k]);
-      if (o[k] != null && Number.isFinite(n) && n >= 0) return n;
+  const roots = [
+    obj,
+    obj && obj.data,
+    obj && obj.result,
+    obj && obj.pagination,
+    obj && obj.meta,
+    obj && obj.data && obj.data.pagination,
+    obj && obj.data && obj.data.meta
+  ].filter(x => x && typeof x === "object" && !Array.isArray(x));
+  for (const root of roots) {
+    for (const k of ["total", "total_count", "totalCount", "total_num", "totalNum", "comments_count", "comment_count"]) {
+      const n = Number(root[k]);
+      if (root[k] != null && Number.isFinite(n) && n >= 0) return n;
     }
-    for (const v of Object.values(o)) if (v && typeof v === "object") { const n = walk(v, depth + 1); if (n !== null) return n; }
-    return null;
   }
-  return walk(obj, 0);
+  return null;
 }
 function countReplies(x) {
   for (const k of ["reply_count", "comment_reply_count", "replyCount", "reply_num", "child_count"]) {
@@ -68,8 +70,7 @@ function mergeById(...arrays) {
   const m = new Map();
   for (const a of arrays) for (const x of a || []) if (x && x.id != null) {
     const key = String(x.id);
-    const prev = m.get(key) || {};
-    m.set(key, { ...prev, ...x });
+    m.set(key, { ...(m.get(key) || {}), ...x });
   }
   return [...m.values()];
 }
@@ -83,27 +84,14 @@ function mergeById(...arrays) {
   const commentResponses = [];
   const startedAt = new Date().toISOString();
   const result = {
-    schema_version: 2,
-    platform: "xueqiu",
-    post_url: POST_URL,
-    post_id: null,
-    started_at: startedAt,
-    finished_at: null,
-    status: "running",
+    schema_version: 3, platform: "xueqiu", post_url: POST_URL, post_id: null,
+    started_at: startedAt, finished_at: null, status: "running",
     completeness: {
-      claimed_complete: false,
-      main_comment_pages_attempted: 0,
-      main_comment_pages_successful: 0,
-      reply_threads_attempted: 0,
-      reply_threads_successful: 0,
-      nested_threads_attempted: 0,
-      comments_expected: null,
-      main_comments_captured: 0,
-      replies_captured: 0,
-      missing_or_failed: []
+      claimed_complete: false, main_comment_pages_attempted: 0, main_comment_pages_successful: 0,
+      reply_threads_attempted: 0, reply_threads_successful: 0, nested_threads_attempted: 0,
+      comments_expected: null, main_comments_captured: 0, replies_captured: 0, missing_or_failed: []
     },
-    post: null,
-    comments: [],
+    post: null, comments: [],
     diagnostics: { observed_comment_api_urls: [], errors: [], notes: [] }
   };
 
@@ -142,25 +130,26 @@ function mergeById(...arrays) {
 
     console.log("[page] opening post " + POST_URL);
     await page.goto(POST_URL, { waitUntil: "domcontentloaded", timeout: 60000 });
-    await sleep(3000);
+    await sleep(2500);
     result.post = await page.evaluate(() => {
-      const title = document.title || "";
-      const text = (document.body && document.body.innerText || "").slice(0, 6000);
       const canonical = document.querySelector('link[rel="canonical"]');
-      return { title, canonical_url: canonical ? canonical.href : location.href, visible_text_excerpt: text };
+      return {
+        title: document.title || "",
+        canonical_url: canonical ? canonical.href : location.href,
+        visible_text_excerpt: (document.body && document.body.innerText || "").slice(0, 6000)
+      };
     }).catch(e => ({ error: e.message }));
-
-    for (let i = 0; i < SCROLL_ROUNDS; i++) {
+    for (let i = 0; i < 8; i++) {
       await page.mouse.wheel(0, 1000).catch(() => {});
-      await sleep(600);
+      await sleep(500);
     }
-    await sleep(1000);
+    await sleep(700);
 
     const apiRequest = async url => {
       try {
         const response = await context.request.get(url, {
           timeout: 20000,
-          headers: { "referer": POST_URL, "accept": "application/json, text/plain, */*", "x-requested-with": "XMLHttpRequest" }
+          headers: { referer: POST_URL, accept: "application/json, text/plain, */*", "x-requested-with": "XMLHttpRequest" }
         });
         const body = await response.text();
         let json = null;
@@ -176,30 +165,37 @@ function mergeById(...arrays) {
       else u.searchParams.set("count", String(PAGE_SIZE));
       if (targetId != null) {
         if (u.searchParams.has("status_id")) u.searchParams.set("status_id", String(targetId));
-        else if (u.searchParams.has("id")) u.searchParams.set("id", String(targetId));
         else u.searchParams.set("id", String(targetId));
       }
       return u.toString();
     };
 
     const capturedMain = commentResponses.filter(x => /\/statuses\/v3\/comments\.json/i.test(x.url) || /\/statuses\/comments\.json/i.test(x.url));
-    let mainBase = capturedMain.length ? capturedMain[0].url : "https://xueqiu.com/statuses/v3/comments.json?id=" + postId + "&count=" + PAGE_SIZE + "&page=1&sort=created_at";
+    const mainBase = capturedMain.length
+      ? capturedMain[0].url
+      : "https://xueqiu.com/statuses/v3/comments.json?id=" + postId + "&count=" + PAGE_SIZE + "&page=1&sort=created_at";
     let expectedMain = null;
     const mainMap = new Map();
     let mainApiWorked = false;
+    let mainPaginationExhausted = false;
 
     for (let p = 1; p <= MAX_COMMENT_PAGES; p++) {
       result.completeness.main_comment_pages_attempted++;
-      const url = makePageUrl(mainBase, p, postId);
-      const res = await apiRequest(url);
-      let list = res.json ? getList(res.json) : [];
+      const res = await apiRequest(makePageUrl(mainBase, p, postId));
+      const list = res.json ? getList(res.json) : [];
       if (res.ok && res.json && (list.length || totalFrom(res.json) === 0)) {
         mainApiWorked = true;
         result.completeness.main_comment_pages_successful++;
         const total = totalFrom(res.json);
         if (total !== null) expectedMain = total;
-        for (const x of list) if (x && x.id != null) mainMap.set(String(x.id), x);
-        if (!list.length || list.length < PAGE_SIZE || (expectedMain !== null && mainMap.size >= expectedMain)) break;
+        const before = mainMap.size;
+        for (const x of list) if (x && x.id != null) mainMap.set(String(x.id), { ...(mainMap.get(String(x.id)) || {}), ...x });
+        if (!list.length || list.length < PAGE_SIZE) { mainPaginationExhausted = true; break; }
+        if (mainMap.size === before) {
+          result.diagnostics.notes.push("Main comments pagination stopped because a page repeated IDs; completeness cannot be inferred from this alone.");
+          break;
+        }
+        if (expectedMain !== null && mainMap.size >= expectedMain) { mainPaginationExhausted = true; break; }
       } else {
         const msg = "main_comments_page_" + p + ": HTTP " + res.status + (res.error ? " " + res.error : "") + (res.excerpt ? " " + res.excerpt : "");
         errors.push(msg);
@@ -209,15 +205,15 @@ function mergeById(...arrays) {
       await sleep(DELAY_MS);
     }
 
-    // Keep comments seen in the page's own v3/comments response even if a direct page request was blocked.
+    // Merge main comments found in the rendered page's v3/comments responses, not reply-endpoint responses.
     for (const batch of capturedMain) {
       for (const x of batch.list) if (x && x.id != null) mainMap.set(String(x.id), { ...(mainMap.get(String(x.id)) || {}), ...x });
       if (batch.total !== null && batch.total !== undefined) expectedMain = Math.max(expectedMain || 0, batch.total);
     }
     const comments = [...mainMap.values()];
+    if (expectedMain === null && mainPaginationExhausted) expectedMain = comments.length;
     result.completeness.comments_expected = expectedMain;
 
-    // Replies are often returned as a small child_comments preview. Preserve those and try to page the full thread.
     const threadCache = new Map();
     const failedThreads = [];
     let totalRepliesCaptured = 0;
@@ -228,35 +224,37 @@ function mergeById(...arrays) {
       const seed = mergeById(parent.child_comments || [], parent.replies || [], parent.reply_comment ? [parent.reply_comment] : []);
       const expected = countReplies(parent);
       if (expected === 0 && seed.length === 0) { threadCache.set(cacheKey, []); return []; }
+      if (expected > 0 && seed.length >= expected) {
+        threadCache.set(cacheKey, seed);
+        totalRepliesCaptured += seed.length;
+        return seed;
+      }
       if (depth === 1) result.completeness.reply_threads_attempted++;
       else result.completeness.nested_threads_attempted++;
-
       const found = mapById(seed);
       let endpointWorked = false;
       const targetId = parent.statusId || parent.status_id || parent.id;
       const base = "https://xueqiu.com/statuses/v3/comments.json?id=" + encodeURIComponent(String(targetId)) + "&count=" + PAGE_SIZE + "&page=1&sort=created_at";
-      let endpoint = base;
       for (let p = 1; p <= MAX_REPLY_PAGES; p++) {
-        let res = await apiRequest(makePageUrl(endpoint, p, targetId));
+        let res = await apiRequest(makePageUrl(base, p, targetId));
         let list = res.json ? getList(res.json) : [];
         if (!res.ok || !res.json || (!list.length && totalFrom(res.json) !== 0)) {
-          // Legacy fallback endpoint; uses comment_id rather than status id.
           const legacy = await apiRequest("https://xueqiu.com/statuses/replies.json?comment_id=" + encodeURIComponent(String(parent.id)) + "&page=" + p + "&count=" + PAGE_SIZE);
           const legacyList = legacy.json ? getList(legacy.json) : [];
           if (legacy.ok && legacy.json && (legacyList.length || totalFrom(legacy.json) === 0)) { res = legacy; list = legacyList; }
         }
         if (res.ok && res.json && (list.length || totalFrom(res.json) === 0)) {
           endpointWorked = true;
+          const before = found.size;
           for (const x of list) {
-            if (!x || x.id == null) continue;
-            // Avoid mistaking the parent/main-comment list for replies if the endpoint ignores targetId.
-            if (String(x.id) === String(parent.id)) continue;
-            if (x.in_reply_to_comment_id != null && String(x.in_reply_to_comment_id) !== String(parent.id) && depth > 0) {
-              if (String(x.root_in_reply_to_status_id || "") !== String(postId)) continue;
-            }
+            if (!x || x.id == null || String(x.id) === String(parent.id)) continue;
+            if (x.in_reply_to_comment_id != null && String(x.in_reply_to_comment_id) !== String(parent.id) &&
+                String(x.root_in_reply_to_status_id || "") !== String(postId)) continue;
             found.set(String(x.id), { ...(found.get(String(x.id)) || {}), ...x });
           }
-          if (!list.length || list.length < PAGE_SIZE || (expected > 0 && found.size >= expected)) break;
+          if (!list.length || list.length < PAGE_SIZE) break;
+          if (found.size === before) break;
+          if (expected > 0 && found.size >= expected) break;
         } else {
           if (p === 1 && seed.length) break;
           if (expected > 0) failedThreads.push({ parent_id: cacheKey, reason: "reply_endpoint_unavailable", http_status: res.status, expected_replies: expected });
@@ -280,19 +278,18 @@ function mergeById(...arrays) {
       comment.replies = await fetchThread(comment, 1);
       await sleep(100);
     }
-
     result.comments = comments.map(c => ({ ...c, replies: c.replies || [] }));
     result.completeness.main_comments_captured = result.comments.length;
     result.completeness.replies_captured = totalRepliesCaptured;
     if (!mainApiWorked) {
-      const msg = "Direct v3 comment pagination did not return a confirmed successful page; captured page-rendered comments are retained but main pagination is unverified.";
+      const msg = "Direct v3 comment pagination did not return a confirmed successful page; rendered comments are retained but main pagination is unverified.";
       result.completeness.missing_or_failed.push(msg);
       result.diagnostics.notes.push(msg);
     }
     result.completeness.missing_or_failed.push(...failedThreads);
     const expectedReached = expectedMain !== null && result.comments.length >= expectedMain;
-    const noKnownMismatch = failedThreads.length === 0 && errors.length === 0;
-    result.completeness.claimed_complete = Boolean(mainApiWorked && expectedReached && noKnownMismatch);
+    const threadsClean = failedThreads.length === 0;
+    result.completeness.claimed_complete = Boolean(mainApiWorked && expectedReached && mainPaginationExhausted && threadsClean && errors.length === 0);
     result.status = result.completeness.claimed_complete ? "complete" : (result.comments.length ? "partial" : "failed");
     result.diagnostics.observed_comment_api_urls = observedUrls;
     result.diagnostics.errors = errors;
