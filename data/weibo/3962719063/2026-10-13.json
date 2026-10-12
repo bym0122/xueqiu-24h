@@ -3,8 +3,45 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 06:20:22",
+  "crawled_at_beijing": "2026年10月13日星期二 07:20:51",
   "crawled_date": "2026-10-13",
-  "post_count": 0,
-  "posts": []
+  "post_count": 3,
+  "posts": [
+    {
+      "id": "5353456023634122",
+      "mid": "5353456023634122",
+      "created_at": "2026-10-12T23:14:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmqDoffoS",
+      "text": "//@汉族之声:转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 1,
+      "attitudes": 15
+    },
+    {
+      "id": "5353455820472837",
+      "mid": "5353455820472837",
+      "created_at": "2026-10-12T23:13:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmqD41Z0p",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 7
+    },
+    {
+      "id": "5353452408406866",
+      "mid": "5353452408406866",
+      "created_at": "2026-10-12T22:59:39.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmqxyzh0C",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 33,
+      "comments": 5,
+      "attitudes": 45
+    }
+  ]
 }
