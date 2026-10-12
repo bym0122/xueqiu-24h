@@ -59,14 +59,33 @@ function nextCursorFrom(json, list, currentCursor) {
   const roots = [json, json && json.data, json && json.result, json && json.pagination,
     json && json.data && json.data.pagination, json && json.data && json.data.meta].filter(x => x && typeof x === "object");
   for (const root of roots) {
-    for (const k of ["next_max_id", "nextMaxId", "next_cursor", "nextCursor", "max_id", "maxId"]) {
-      const v = root[k];
-      if (v == null || String(v) === "-1" || String(v) === String(currentCursor)) continue;
-      return String(v);
+    for (const k of ["next_max_id", "nextMaxId", "next_cursor", "nextCursor"]) {
+      if (root[k] != null) {
+        const v = String(root[k]);
+        if (v === "-1" || v === String(currentCursor)) return null;
+        return v;
+      }
+    }
+  }
+  for (const root of roots) {
+    for (const k of ["max_id", "maxId"]) {
+      if (root[k] != null) {
+        const v = String(root[k]);
+        if (v === "-1" || v === String(currentCursor)) return null;
+        return v;
+      }
     }
   }
   const last = list && list.length ? list[list.length - 1] : null;
   return last && last.id != null && String(last.id) !== String(currentCursor) ? String(last.id) : null;
+}
+function discussionCountFrom(json) {
+  const roots = [json, json && json.data, json && json.result].filter(x => x && typeof x === "object");
+  for (const root of roots) {
+    const n = Number(root.comment_tl_count);
+    if (root.comment_tl_count != null && Number.isFinite(n) && n >= 0) return n;
+  }
+  return null;
 }
 function safeObservedUrl(raw) {
   try {
@@ -103,7 +122,8 @@ function mergeById(...arrays) {
     completeness: {
       claimed_complete: false, main_comment_pages_attempted: 0, main_comment_pages_successful: 0,
       reply_threads_attempted: 0, reply_threads_successful: 0, nested_threads_attempted: 0,
-      comments_expected: null, main_comments_captured: 0, replies_captured: 0, missing_or_failed: []
+      comments_expected: null, discussion_items_expected: null, discussion_items_captured: 0,
+      main_comments_captured: 0, replies_captured: 0, missing_or_failed: []
     },
     post: null, comments: [],
     diagnostics: { observed_comment_api_urls: [], errors: [], notes: [] }
@@ -202,12 +222,16 @@ function mergeById(...arrays) {
       const res = await apiRequest(requestUrl);
       const list = res.json ? getList(res.json) : [];
       const nextCursor = res.json ? nextCursorFrom(res.json, list, mainCursor) : null;
+      const discussionCount = res.json ? discussionCountFrom(res.json) : null;
+      if (discussionCount !== null) result.completeness.discussion_items_expected = Math.max(result.completeness.discussion_items_expected || 0, discussionCount);
       result.diagnostics.pagination_pages.push({
         kind: "main", page: p, http_status: res.status, returned: list.length,
         first_id: list[0] && list[0].id != null ? String(list[0].id) : null,
         last_id: list.length && list[list.length - 1].id != null ? String(list[list.length - 1].id) : null,
         cursor_in: mainCursor, cursor_out: nextCursor,
-        json_keys: res.json && typeof res.json === "object" ? Object.keys(res.json) : []
+        json_keys: res.json && typeof res.json === "object" ? Object.keys(res.json) : [],
+        next_max_id: res.json && res.json.next_max_id != null ? res.json.next_max_id : (res.json && res.json.data && res.json.data.next_max_id != null ? res.json.data.next_max_id : null),
+        comment_tl_count: discussionCount
       });
       if (res.ok && res.json && (list.length || totalFrom(res.json) === 0)) {
         mainApiWorked = true;
@@ -216,14 +240,15 @@ function mergeById(...arrays) {
         if (total !== null) expectedMain = total;
         const before = mainMap.size;
         for (const x of list) if (x && x.id != null) mainMap.set(String(x.id), { ...(mainMap.get(String(x.id)) || {}), ...x });
-        if (!list.length || list.length < PAGE_SIZE) { mainPaginationExhausted = true; break; }
+        if (!list.length) { mainPaginationExhausted = true; break; }
         if (mainMap.size === before) {
           result.diagnostics.notes.push("Main comments pagination stopped because a page repeated IDs; completeness cannot be inferred from this alone.");
           break;
         }
         if (expectedMain !== null && mainMap.size >= expectedMain) { mainPaginationExhausted = true; break; }
         if (nextCursor == null || String(nextCursor) === String(mainCursor)) {
-          result.diagnostics.notes.push("Main comments API returned no usable next cursor; pagination is incomplete.");
+          if (list.length < PAGE_SIZE) mainPaginationExhausted = true;
+          else result.diagnostics.notes.push("Main comments API returned no usable next cursor; pagination is incomplete.");
           break;
         }
         mainCursor = String(nextCursor);
@@ -277,6 +302,8 @@ function mergeById(...arrays) {
         let res = await apiRequest(makePageUrl(base, p, targetId, replyCursor));
         let list = res.json ? getList(res.json) : [];
         let nextCursor = res.json ? nextCursorFrom(res.json, list, replyCursor) : null;
+        const discussionCount = res.json ? discussionCountFrom(res.json) : null;
+        if (discussionCount !== null) result.completeness.discussion_items_expected = Math.max(result.completeness.discussion_items_expected || 0, discussionCount);
         if (!res.ok || !res.json || (!list.length && totalFrom(res.json) !== 0)) {
           const legacy = await apiRequest("https://xueqiu.com/statuses/replies.json?comment_id=" + encodeURIComponent(String(parent.id)) + "&page=" + p + "&count=" + PAGE_SIZE);
           const legacyList = legacy.json ? getList(legacy.json) : [];
@@ -296,9 +323,11 @@ function mergeById(...arrays) {
             first_id: list[0] && list[0].id != null ? String(list[0].id) : null,
             last_id: list.length && list[list.length - 1].id != null ? String(list[list.length - 1].id) : null,
             cursor_in: replyCursor, cursor_out: nextCursor,
-            json_keys: res.json && typeof res.json === "object" ? Object.keys(res.json) : []
+            json_keys: res.json && typeof res.json === "object" ? Object.keys(res.json) : [],
+            next_max_id: res.json && res.json.next_max_id != null ? res.json.next_max_id : (res.json && res.json.data && res.json.data.next_max_id != null ? res.json.data.next_max_id : null),
+            comment_tl_count: discussionCount
           });
-          if (!list.length || list.length < PAGE_SIZE) break;
+          if (!list.length) break;
           if (found.size === before) break;
           if (expected > 0 && found.size >= expected) break;
           if (nextCursor == null || String(nextCursor) === String(replyCursor)) break;
@@ -328,7 +357,20 @@ function mergeById(...arrays) {
     }
     result.comments = comments.map(c => ({ ...c, replies: c.replies || [] }));
     result.completeness.main_comments_captured = result.comments.length;
-    result.completeness.replies_captured = totalRepliesCaptured;
+    const replyIdsSeen = new Set();
+    function countReplyTree(items) {
+      let count = 0;
+      for (const item of items || []) {
+        if (item && item.id != null && !replyIdsSeen.has(String(item.id))) {
+          replyIdsSeen.add(String(item.id));
+          count++;
+          count += countReplyTree(item.replies || []);
+        }
+      }
+      return count;
+    }
+    result.completeness.replies_captured = countReplyTree(result.comments.flatMap(c => c.replies || []));
+    result.completeness.discussion_items_captured = result.completeness.main_comments_captured + result.completeness.replies_captured;
     if (!mainApiWorked) {
       const msg = "Direct v3 comment pagination did not return a confirmed successful page; rendered comments are retained but main pagination is unverified.";
       result.completeness.missing_or_failed.push(msg);
@@ -337,7 +379,9 @@ function mergeById(...arrays) {
     result.completeness.missing_or_failed.push(...failedThreads);
     const expectedReached = expectedMain !== null && result.comments.length >= expectedMain;
     const threadsClean = failedThreads.length === 0;
-    result.completeness.claimed_complete = Boolean(mainApiWorked && expectedReached && mainPaginationExhausted && threadsClean && errors.length === 0);
+    const discussionCountReached = result.completeness.discussion_items_expected === null ||
+      result.completeness.discussion_items_captured >= result.completeness.discussion_items_expected;
+    result.completeness.claimed_complete = Boolean(mainApiWorked && expectedReached && mainPaginationExhausted && threadsClean && errors.length === 0 && discussionCountReached);
     result.status = result.completeness.claimed_complete ? "complete" : (result.comments.length ? "partial" : "failed");
     result.diagnostics.observed_comment_api_urls = observedUrls;
     result.diagnostics.errors = errors;
