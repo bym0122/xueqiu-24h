@@ -295,13 +295,17 @@ function mergeById(...arrays) {
       const seed = mergeById(parent.child_comments || [], parent.replies || [], parent.reply_comment ? [parent.reply_comment] : []);
       const expected = countReplies(parent);
       if (expected === 0 && seed.length === 0) { threadCache.set(cacheKey, []); return []; }
+      if (depth === 1) result.completeness.reply_threads_attempted++;
+      else result.completeness.nested_threads_attempted++;
       if (expected > 0 && seed.length >= expected) {
         threadCache.set(cacheKey, seed);
+        for (const child of seed) {
+          if (countReplies(child) > 0 || (child.child_comments && child.child_comments.length)) child.replies = await fetchThread(child, depth + 1);
+          else child.replies = [];
+        }
         totalRepliesCaptured += seed.length;
         return seed;
       }
-      if (depth === 1) result.completeness.reply_threads_attempted++;
-      else result.completeness.nested_threads_attempted++;
       const found = mapById(seed);
       let endpointWorked = false;
       const targetId = parent.statusId || parent.status_id || parent.id;
@@ -360,12 +364,12 @@ function mergeById(...arrays) {
       threadCache.set(cacheKey, replies);
       if (depth === 1 && endpointWorked) result.completeness.reply_threads_successful++;
       totalRepliesCaptured += replies.length;
-      const capturedThreadItems = uniqueTreeCount(replies);
-      if (expected > capturedThreadItems) failedThreads.push({ parent_id: cacheKey, reason: "reply_count_mismatch", expected_replies: expected, captured_replies: capturedThreadItems });
       for (const child of replies) {
         if (countReplies(child) > 0 || (child.child_comments && child.child_comments.length)) child.replies = await fetchThread(child, depth + 1);
         else child.replies = [];
       }
+      const capturedThreadItems = uniqueTreeCount(replies);
+      if (expected > capturedThreadItems) failedThreads.push({ parent_id: cacheKey, reason: "reply_count_mismatch", expected_replies: expected, captured_replies: capturedThreadItems });
       return replies;
     }
 
