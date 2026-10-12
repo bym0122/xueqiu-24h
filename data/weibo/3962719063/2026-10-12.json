@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月12日星期一 11:22:51",
+  "crawled_at_beijing": "2026年10月12日星期一 12:23:11",
   "crawled_date": "2026-10-12",
-  "post_count": 16,
+  "post_count": 20,
   "posts": [
     {
       "id": "5353112983572810",
@@ -198,6 +198,54 @@
       "reposts": 24,
       "comments": 25,
       "attitudes": 148
+    },
+    {
+      "id": "5353163696900403",
+      "mid": "5353163696900403",
+      "created_at": "2026-10-12T03:52:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmj1TsX6P",
+      "text": "回复@卟2BBEZ2:好，我贴个图//@卟2BBEZ2:日本学生餐是怎么样的",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 12,
+      "attitudes": 52
+    },
+    {
+      "id": "5353161877358101",
+      "mid": "5353161877358101",
+      "created_at": "2026-10-12T03:45:10.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmiYXuSb3",
+      "text": "回复@沧浪之水_1987:虽然我数学成绩一向很好，但是我自知自己数学能力不高，我仅仅擅长低端的数学应用//@沧浪之水_1987:老舅的智商和能力，搞数学研究问题不大，只是没有这条路",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 65
+    },
+    {
+      "id": "5353161443510138",
+      "mid": "5353161443510138",
+      "created_at": "2026-10-12T03:43:28.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmiYgeJ98",
+      "text": "中国学生餐如果跟日本一样，校长肯定被家长群殴了--------------这不是我说的，是一个日本网友",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 36,
+      "attitudes": 125
+    },
+    {
+      "id": "5353160798373154",
+      "mid": "5353160798373154",
+      "created_at": "2026-10-12T03:40:54.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmiXdz8eS",
+      "text": "A00铝锭 无锡 23810 +150 10-12\n氧化铝 山西 2695 -5",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 15,
+      "attitudes": 171
     }
   ]
 }
