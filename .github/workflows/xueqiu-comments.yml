@@ -42,9 +42,9 @@ jobs:
 
       - name: Crawl all available comment pages and reply threads
         env:
-          XUEQIU_POST_URL: \${{ inputs.post_url }}
-          MAX_COMMENT_PAGES: \${{ inputs.max_comment_pages }}
-          MAX_REPLY_PAGES: \${{ inputs.max_reply_pages }}
+          XUEQIU_POST_URL: ${{ inputs.post_url }}
+          MAX_COMMENT_PAGES: ${{ inputs.max_comment_pages }}
+          MAX_REPLY_PAGES: ${{ inputs.max_reply_pages }}
         run: node scripts/crawl_xueqiu_comments.js
 
       - name: Commit JSON result (including partial results and diagnostics)
