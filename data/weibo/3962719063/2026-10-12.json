@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月12日星期一 15:26:09",
+  "crawled_at_beijing": "2026年10月12日星期一 16:25:25",
   "crawled_date": "2026-10-12",
-  "post_count": 23,
+  "post_count": 33,
   "posts": [
     {
       "id": "5353112983572810",
@@ -282,6 +282,126 @@
       "reposts": 0,
       "comments": 50,
       "attitudes": 160
+    },
+    {
+      "id": "5353232210597240",
+      "mid": "5353232210597240",
+      "created_at": "2026-10-12T08:24:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkOp2vmU",
+      "text": "深夜加班把命卖",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 1
+    },
+    {
+      "id": "5353231613954847",
+      "mid": "5353231613954847",
+      "created_at": "2026-10-12T08:22:18.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkNrgAPR",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 5,
+      "attitudes": 10
+    },
+    {
+      "id": "5353230647171125",
+      "mid": "5353230647171125",
+      "created_at": "2026-10-12T08:18:27.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkLSu5xj",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 4,
+      "attitudes": 9
+    },
+    {
+      "id": "5353230370347036",
+      "mid": "5353230370347036",
+      "created_at": "2026-10-12T08:17:21.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkLr1shm",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 18
+    },
+    {
+      "id": "5353230085393923",
+      "mid": "5353230085393923",
+      "created_at": "2026-10-12T08:16:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkKYmDcL",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 15
+    },
+    {
+      "id": "5353229605148500",
+      "mid": "5353229605148500",
+      "created_at": "2026-10-12T08:14:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkKclBmk",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 10,
+      "attitudes": 36
+    },
+    {
+      "id": "5353229577882008",
+      "mid": "5353229577882008",
+      "created_at": "2026-10-12T08:14:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkK9x4ta",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 17
+    },
+    {
+      "id": "5353228372807157",
+      "mid": "5353228372807157",
+      "created_at": "2026-10-12T08:09:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkIdbMgJ",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 8,
+      "comments": 3,
+      "attitudes": 40
+    },
+    {
+      "id": "5353228005021668",
+      "mid": "5353228005021668",
+      "created_at": "2026-10-12T08:07:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkHCl4mE",
+      "text": "换人成本最高",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 12,
+      "comments": 11,
+      "attitudes": 51
+    },
+    {
+      "id": "5353227602103626",
+      "mid": "5353227602103626",
+      "created_at": "2026-10-12T08:06:21.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmkGY8Pfs",
+      "text": "小时候收集的，一大堆，没有一个值钱的//@水之道知道:看样子是普通版的流通钱，可以换一碗牛肉粉。",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 10,
+      "attitudes": 27
     }
   ]
 }
