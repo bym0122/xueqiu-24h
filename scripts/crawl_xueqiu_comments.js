@@ -4,6 +4,7 @@ const path = require("path");
 
 const POST_URL = (process.env.XUEQIU_POST_URL || "").trim();
 const PAGE_SIZE = 20;
+const DELAY_MS = 250;
 const MAX_COMMENT_PAGES = Math.max(1, Number(process.env.MAX_COMMENT_PAGES || 100));
 const MAX_REPLY_PAGES = Math.max(1, Number(process.env.MAX_REPLY_PAGES || 50));
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
