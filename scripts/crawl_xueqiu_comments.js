@@ -55,6 +55,19 @@ function countReplies(x) {
   }
   return 0;
 }
+function nextCursorFrom(json, list, currentCursor) {
+  const roots = [json, json && json.data, json && json.result, json && json.pagination,
+    json && json.data && json.data.pagination, json && json.data && json.data.meta].filter(x => x && typeof x === "object");
+  for (const root of roots) {
+    for (const k of ["next_max_id", "nextMaxId", "next_cursor", "nextCursor", "max_id", "maxId"]) {
+      const v = root[k];
+      if (v == null || String(v) === "-1" || String(v) === String(currentCursor)) continue;
+      return String(v);
+    }
+  }
+  const last = list && list.length ? list[list.length - 1] : null;
+  return last && last.id != null && String(last.id) !== String(currentCursor) ? String(last.id) : null;
+}
 function safeObservedUrl(raw) {
   try {
     const u = new URL(raw);
@@ -158,12 +171,13 @@ function mergeById(...arrays) {
         return { ok: response.ok(), status: response.status(), url, json, excerpt: json ? "" : body.slice(0, 180) };
       } catch (e) { return { ok: false, status: 0, url, json: null, error: e.message }; }
     };
-    const makePageUrl = (base, pageNo, targetId) => {
+    const makePageUrl = (base, pageNo, targetId, cursor) => {
       const u = new URL(base);
-      u.searchParams.set("page", String(pageNo));
+      if (u.searchParams.has("max_id")) u.searchParams.set("max_id", String(cursor == null ? "-1" : cursor));
+      else u.searchParams.set("page", String(pageNo));
       if (u.searchParams.has("count")) u.searchParams.set("count", String(PAGE_SIZE));
       else if (u.searchParams.has("size")) u.searchParams.set("size", String(PAGE_SIZE));
-      else u.searchParams.set("count", String(PAGE_SIZE));
+      else u.searchParams.set("size", String(PAGE_SIZE));
       if (targetId != null) {
         if (u.searchParams.has("status_id")) u.searchParams.set("status_id", String(targetId));
         else u.searchParams.set("id", String(targetId));
@@ -179,11 +193,22 @@ function mergeById(...arrays) {
     const mainMap = new Map();
     let mainApiWorked = false;
     let mainPaginationExhausted = false;
-
+    let mainCursor = "-1";
+    result.diagnostics.pagination_pages = [];
+    
     for (let p = 1; p <= MAX_COMMENT_PAGES; p++) {
       result.completeness.main_comment_pages_attempted++;
-      const res = await apiRequest(makePageUrl(mainBase, p, postId));
+      const requestUrl = makePageUrl(mainBase, p, postId, mainCursor);
+      const res = await apiRequest(requestUrl);
       const list = res.json ? getList(res.json) : [];
+      const nextCursor = res.json ? nextCursorFrom(res.json, list, mainCursor) : null;
+      result.diagnostics.pagination_pages.push({
+        kind: "main", page: p, http_status: res.status, returned: list.length,
+        first_id: list[0] && list[0].id != null ? String(list[0].id) : null,
+        last_id: list.length && list[list.length - 1].id != null ? String(list[list.length - 1].id) : null,
+        cursor_in: mainCursor, cursor_out: nextCursor,
+        json_keys: res.json && typeof res.json === "object" ? Object.keys(res.json) : []
+      });
       if (res.ok && res.json && (list.length || totalFrom(res.json) === 0)) {
         mainApiWorked = true;
         result.completeness.main_comment_pages_successful++;
@@ -197,6 +222,11 @@ function mergeById(...arrays) {
           break;
         }
         if (expectedMain !== null && mainMap.size >= expectedMain) { mainPaginationExhausted = true; break; }
+        if (nextCursor == null || String(nextCursor) === String(mainCursor)) {
+          result.diagnostics.notes.push("Main comments API returned no usable next cursor; pagination is incomplete.");
+          break;
+        }
+        mainCursor = String(nextCursor);
       } else {
         const msg = "main_comments_page_" + p + ": HTTP " + res.status + (res.error ? " " + res.error : "") + (res.excerpt ? " " + res.excerpt : "");
         errors.push(msg);
@@ -235,10 +265,18 @@ function mergeById(...arrays) {
       const found = mapById(seed);
       let endpointWorked = false;
       const targetId = parent.statusId || parent.status_id || parent.id;
-      const base = "https://xueqiu.com/statuses/v3/comments.json?id=" + encodeURIComponent(String(targetId)) + "&count=" + PAGE_SIZE + "&page=1&sort=created_at";
+      const replyBaseUrl = new URL(mainBase);
+      replyBaseUrl.searchParams.set("id", String(targetId));
+      replyBaseUrl.searchParams.delete("status_id");
+      if (replyBaseUrl.searchParams.has("max_id")) replyBaseUrl.searchParams.set("max_id", "-1");
+      else replyBaseUrl.searchParams.set("page", "1");
+      const base = replyBaseUrl.toString();
+      let replyCursor = "-1";
+      if (!result.diagnostics.reply_pages) result.diagnostics.reply_pages = [];
       for (let p = 1; p <= MAX_REPLY_PAGES; p++) {
-        let res = await apiRequest(makePageUrl(base, p, targetId));
+        let res = await apiRequest(makePageUrl(base, p, targetId, replyCursor));
         let list = res.json ? getList(res.json) : [];
+        let nextCursor = res.json ? nextCursorFrom(res.json, list, replyCursor) : null;
         if (!res.ok || !res.json || (!list.length && totalFrom(res.json) !== 0)) {
           const legacy = await apiRequest("https://xueqiu.com/statuses/replies.json?comment_id=" + encodeURIComponent(String(parent.id)) + "&page=" + p + "&count=" + PAGE_SIZE);
           const legacyList = legacy.json ? getList(legacy.json) : [];
@@ -253,9 +291,18 @@ function mergeById(...arrays) {
                 String(x.root_in_reply_to_status_id || "") !== String(postId)) continue;
             found.set(String(x.id), { ...(found.get(String(x.id)) || {}), ...x });
           }
+          result.diagnostics.reply_pages.push({
+            parent_id: cacheKey, page: p, http_status: res.status, returned: list.length,
+            first_id: list[0] && list[0].id != null ? String(list[0].id) : null,
+            last_id: list.length && list[list.length - 1].id != null ? String(list[list.length - 1].id) : null,
+            cursor_in: replyCursor, cursor_out: nextCursor,
+            json_keys: res.json && typeof res.json === "object" ? Object.keys(res.json) : []
+          });
           if (!list.length || list.length < PAGE_SIZE) break;
           if (found.size === before) break;
           if (expected > 0 && found.size >= expected) break;
+          if (nextCursor == null || String(nextCursor) === String(replyCursor)) break;
+          replyCursor = String(nextCursor);
         } else {
           if (p === 1 && seed.length) break;
           if (expected > 0) failedThreads.push({ parent_id: cacheKey, reason: "reply_endpoint_unavailable", http_status: res.status, expected_replies: expected });
