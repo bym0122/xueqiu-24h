@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月12日星期一 08:32:09",
+  "crawled_at_beijing": "2026年10月12日星期一 09:23:14",
   "crawled_date": "2026-10-12",
-  "post_count": 4,
+  "post_count": 9,
   "posts": [
     {
       "id": "5353112983572810",
@@ -54,6 +54,66 @@
       "reposts": 4,
       "comments": 29,
       "attitudes": 186
+    },
+    {
+      "id": "5353125151246398",
+      "mid": "5353125151246398",
+      "created_at": "2026-10-12T01:19:15.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmi1J5efc",
+      "text": "他妈还是赵家人",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 8,
+      "attitudes": 22
+    },
+    {
+      "id": "5353122578826173",
+      "mid": "5353122578826173",
+      "created_at": "2026-10-12T01:09:02.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmhXzB25D",
+      "text": "过度内卷确实让我们的员工和企业苦不堪言，不过也正是国内的过度内卷，让其他国家更加苦不堪言，让中国快速发展起来 \n\n这就是硬币的两面性",
+      "source": "微博网页版",
+      "reposts": 15,
+      "comments": 27,
+      "attitudes": 240
+    },
+    {
+      "id": "5353120973719541",
+      "mid": "5353120973719541",
+      "created_at": "2026-10-12T01:02:39.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmhUZfBCB",
+      "text": "电解铝社会库存继续降，下周准备破60万吨吗",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 13,
+      "comments": 38,
+      "attitudes": 264
+    },
+    {
+      "id": "5353120718916497",
+      "mid": "5353120718916497",
+      "created_at": "2026-10-12T01:01:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmhUzBpAt",
+      "text": "回复@投资是个慢跑过程:低价抢单，集体巨额亏损//@投资是个慢跑过程:是因为成本吗？老舅",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 13,
+      "attitudes": 100
+    },
+    {
+      "id": "5353120125158559",
+      "mid": "5353120125158559",
+      "created_at": "2026-10-12T00:59:17.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmhTClDYz",
+      "text": "各地售电公司大洗牌时间到了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 23,
+      "attitudes": 205
     }
   ]
 }
