@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 11:16:28",
+  "crawled_at_beijing": "2026年10月13日星期二 12:17:26",
   "crawled_date": "2026-10-13",
-  "post_count": 27,
+  "post_count": 28,
   "posts": [
     {
       "id": "412014825",
@@ -195,6 +195,13 @@
       "kind": "retweet",
       "url": "https://xueqiu.com/9493911686/412052677",
       "text": "回复@木卯9527: 原计划看有点意思夫妇，但突然出太阳了，改成户外打羽毛球。//@木卯9527:回复@斯托伯的天空:看的啥？ star"
+    },
+    {
+      "id": "412063613",
+      "created_at": "2026-10-13T03:22:34.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/412063613",
+      "text": "同一个新闻，完全不同的表达方法。第一财经和金十其实经常断章取义报道！"
     }
   ]
 }
