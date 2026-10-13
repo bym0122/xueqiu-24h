@@ -3,8 +3,105 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月14日星期三 00:23:46",
+  "crawled_at_beijing": "2026年10月14日星期三 01:21:25",
   "crawled_date": "2026-10-14",
-  "post_count": 0,
-  "posts": []
+  "post_count": 8,
+  "posts": [
+    {
+      "id": "5353726631478220",
+      "mid": "5353726631478220",
+      "created_at": "2026-10-13T17:09:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmxFR6cyg",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 4,
+      "attitudes": 9
+    },
+    {
+      "id": "5353726202347911",
+      "mid": "5353726202347911",
+      "created_at": "2026-10-13T17:07:37.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmxFa9QNx",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 5
+    },
+    {
+      "id": "5353726088839706",
+      "mid": "5353726088839706",
+      "created_at": "2026-10-13T17:07:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmxEYB5BU",
+      "text": "//@来去之间:#涨姿势# //@蘸盐://@法兰西的小法师:又涨姿势了//@颜文字君:冷知识增加了|･ω･)//@真十内:学习了//@枕前冰_月光茶与雀翎花:互联网还是好，这知识我又学到了//@西寄园主人:他这个叫包葫芦头，意思是你们看着捐，剩下不够的差多少他自己一个人包圆。",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 4
+    },
+    {
+      "id": "5353721870684497",
+      "mid": "5353721870684497",
+      "created_at": "2026-10-13T16:50:24.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmxyb2S4h",
+      "text": "有钱，有改善需要，啥时候都可以出手//@耗子跌入米缸:改善型的现在适合出手吗//@挖地瓜的超级鹿鼎公:愚者千思，偶有一得//@frankzuo198008:老舅的判断还是准。 评论配图 //@挖地瓜的超级鹿鼎公:回复@JOJO不想当牛马:还早//@JOJO不想当牛马:恭喜退休",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 8
+    },
+    {
+      "id": "5353720893409321",
+      "mid": "5353720893409321",
+      "created_at": "2026-10-13T16:46:31.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmxwBeiV3",
+      "text": "回复@段毅博:买房也不贷款，永远准备5年生活费的备用金//@段毅博:老舅，极其保守的财务纪录能详细说说吗？//@挖地瓜的超级鹿鼎公:我也穷过，只不过我一直遵循极其保守的财务纪律，也感谢05-07年大牛市//@雨打芭蕉听你:因为公公没有受穷过",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 1,
+      "attitudes": 15
+    },
+    {
+      "id": "5353719555425435",
+      "mid": "5353719555425435",
+      "created_at": "2026-10-13T16:41:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmxurmLp1",
+      "text": "全是盗版，我说放弃版权了//@乌鸦公路:老舅，网上有很多你的书《鹿鼎公全集》，黄色书皮，我也买了一本从头看到尾，相亲问下有没有正版你授权过的//@挖地瓜的超级鹿鼎公:回复@闻香识女人er:可以用啊，分红4%是合理，不是低估，除非你是长江电力，国投电力，华能水电//...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 10
+    },
+    {
+      "id": "5353718627435399",
+      "mid": "5353718627435399",
+      "created_at": "2026-10-13T16:37:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmxsWvchN",
+      "text": "我也穷过，只不过我一直遵循极其保守的财务纪律，也感谢05-07年大牛市//@雨打芭蕉听你:因为公公没有受穷过",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 6,
+      "attitudes": 30
+    },
+    {
+      "id": "5353716838302211",
+      "mid": "5353716838302211",
+      "created_at": "2026-10-13T16:30:23.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmxq3yPMD",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 9,
+      "attitudes": 15
+    }
+  ]
 }
