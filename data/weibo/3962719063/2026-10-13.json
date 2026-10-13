@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 07:20:51",
+  "crawled_at_beijing": "2026年10月13日星期二 08:33:42",
   "crawled_date": "2026-10-13",
-  "post_count": 3,
+  "post_count": 5,
   "posts": [
     {
       "id": "5353456023634122",
@@ -42,6 +42,30 @@
       "reposts": 33,
       "comments": 5,
       "attitudes": 45
+    },
+    {
+      "id": "5353466576766410",
+      "mid": "5353466576766410",
+      "created_at": "2026-10-12T23:55:57.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmqUpsofE",
+      "text": "都在讨论编制人拿走大部分退休金涨幅，估计编制内的退休金要封顶或者（控制了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 35,
+      "comments": 129,
+      "attitudes": 765
+    },
+    {
+      "id": "5353465981436076",
+      "mid": "5353465981436076",
+      "created_at": "2026-10-12T23:53:34.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmqTs61Aw",
+      "text": "盗了四张美图，春夏秋冬",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 14,
+      "attitudes": 145
     }
   ]
 }
