@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 16:24:55",
+  "crawled_at_beijing": "2026年10月13日星期二 17:23:56",
   "crawled_date": "2026-10-13",
-  "post_count": 19,
+  "post_count": 23,
   "posts": [
     {
       "id": "5353456023634122",
@@ -234,6 +234,54 @@
       "reposts": 0,
       "comments": 6,
       "attitudes": 20
+    },
+    {
+      "id": "5353608619231811",
+      "mid": "5353608619231811",
+      "created_at": "2026-10-13T09:20:23.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmuBvCJCb",
+      "text": "2026年10月13日CCI指数\n5500大卡 1013 （+5）\n5000大卡 915 （+5）\n4500大卡 820 （+5）",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 2,
+      "attitudes": 28
+    },
+    {
+      "id": "5353607517179064",
+      "mid": "5353607517179064",
+      "created_at": "2026-10-13T09:16:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmuzJu7Bm",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 6,
+      "attitudes": 28
+    },
+    {
+      "id": "5353605376770825",
+      "mid": "5353605376770825",
+      "created_at": "2026-10-13T09:07:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmuwhspoR",
+      "text": "我的意思是高度太高，低一点，养老金差异就小了//@零七八零:现在不都是封顶的么，社平三倍",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 8,
+      "attitudes": 48
+    },
+    {
+      "id": "5353600209389323",
+      "mid": "5353600209389323",
+      "created_at": "2026-10-13T08:46:58.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmunWDoAH",
+      "text": "最简单的控制养老金贫富差距过大的办法，就是养老金缴纳金额封顶，\n比如正常10000工资，企业缴纳1600，个人缴纳800，\n如果高工资50000元，企业缴纳封顶3200，个人缴纳封顶1600，这样既减少企业负担，又控制了养老金贫富差距过大的问题",
+      "source": "微博网页版",
+      "reposts": 15,
+      "comments": 79,
+      "attitudes": 324
     }
   ]
 }
