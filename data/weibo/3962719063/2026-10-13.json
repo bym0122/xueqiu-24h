@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 17:23:56",
+  "crawled_at_beijing": "2026年10月13日星期二 18:23:26",
   "crawled_date": "2026-10-13",
-  "post_count": 23,
+  "post_count": 24,
   "posts": [
     {
       "id": "5353456023634122",
@@ -282,6 +282,18 @@
       "reposts": 15,
       "comments": 79,
       "attitudes": 324
+    },
+    {
+      "id": "5353617960732860",
+      "mid": "5353617960732860",
+      "created_at": "2026-10-13T09:57:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmuQA34Ek",
+      "text": "全放个人账户，贫富差距更大//@心怀宇宙的孙连城:其实问题很简单，取消现收现付制度，取消统筹制度。公司和个人交的钱全放个人账户里面，谁也不占谁的便宜。还有最重要的一点个人账户必须做实//@挖地瓜的超级鹿鼎公:我的意思是高度太高，低一点，养老金差异就小了//@零七八零:现在不都是封顶的么，社平...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 12,
+      "attitudes": 31
     }
   ]
 }
