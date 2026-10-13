@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 19:23:00",
+  "crawled_at_beijing": "2026年10月13日星期二 20:28:43",
   "crawled_date": "2026-10-13",
-  "post_count": 24,
+  "post_count": 27,
   "posts": [
     {
       "id": "5353456023634122",
@@ -294,6 +294,42 @@
       "reposts": 1,
       "comments": 12,
       "attitudes": 31
+    },
+    {
+      "id": "5353655194880369",
+      "mid": "5353655194880369",
+      "created_at": "2026-10-13T12:25:27.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmvODktBD",
+      "text": "搞出小贷公司，这个我个人就很不理解",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 26
+    },
+    {
+      "id": "5353654167015681",
+      "mid": "5353654167015681",
+      "created_at": "2026-10-13T12:21:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmvMYtr69",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 0,
+      "attitudes": 12
+    },
+    {
+      "id": "5353653306133642",
+      "mid": "5353653306133642",
+      "created_at": "2026-10-13T12:17:57.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmvLApJDI",
+      "text": "海底捞小自助火锅比海底捞好吃，品种多，俺盗的图",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 39
     }
   ]
 }
