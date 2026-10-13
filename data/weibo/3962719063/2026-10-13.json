@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 15:26:12",
+  "crawled_at_beijing": "2026年10月13日星期二 16:24:55",
   "crawled_date": "2026-10-13",
-  "post_count": 18,
+  "post_count": 19,
   "posts": [
     {
       "id": "5353456023634122",
@@ -222,6 +222,18 @@
       "reposts": 2,
       "comments": 16,
       "attitudes": 205
+    },
+    {
+      "id": "5353594162260027",
+      "mid": "5353594162260027",
+      "created_at": "2026-10-13T08:22:56.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rmuec9tW3",
+      "text": "有些媒体就是下流无耻，还满满恶意，故意选择不雅角度的照片，报道郑钦文夺冠",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 20
     }
   ]
 }
