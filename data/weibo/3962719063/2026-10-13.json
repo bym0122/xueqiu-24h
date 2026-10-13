@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 20:28:43",
+  "crawled_at_beijing": "2026年10月13日星期二 21:28:28",
   "crawled_date": "2026-10-13",
-  "post_count": 27,
+  "post_count": 29,
   "posts": [
     {
       "id": "5353456023634122",
@@ -330,6 +330,30 @@
       "reposts": 0,
       "comments": 4,
       "attitudes": 39
+    },
+    {
+      "id": "5353658151078981",
+      "mid": "5353658151078981",
+      "created_at": "2026-10-13T12:37:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmvTp4wGV",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 10,
+      "comments": 8,
+      "attitudes": 100
+    },
+    {
+      "id": "5353656934207560",
+      "mid": "5353656934207560",
+      "created_at": "2026-10-13T12:32:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmvRrhEzS",
+      "text": "//@痴呆彪傻苶二愣:其实，整个互联网都是靠着垄断渠道和流量赚钱的。",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 32,
+      "comments": 19,
+      "attitudes": 100
     }
   ]
 }
