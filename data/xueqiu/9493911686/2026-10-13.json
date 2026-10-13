@@ -3,8 +3,23 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 07:15:05",
+  "crawled_at_beijing": "2026年10月13日星期二 08:24:24",
   "crawled_date": "2026-10-13",
-  "post_count": 0,
-  "posts": []
+  "post_count": 2,
+  "posts": [
+    {
+      "id": "412014825",
+      "created_at": "2026-10-13T00:18:23.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/412014825",
+      "text": "我觉得可以，多基本几次。 但你说了又不算，扯啥犊子呢。 倒是某些自媒体今晚又有材料可以胡说八道了。 查看图片"
+    },
+    {
+      "id": "412014396",
+      "created_at": "2026-10-13T00:14:11.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/412014396",
+      "text": "纳斯达克刚回调，韩指崩了。所谓AI产业链，其实算是看老美脸色。这玩意儿就是老美搞出来的，话语权也在老美。华尔街和硅谷觉得吃亏了，那就得让你们全部吐出来。"
+    }
+  ]
 }
