@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 08:33:42",
+  "crawled_at_beijing": "2026年10月13日星期二 09:23:12",
   "crawled_date": "2026-10-13",
-  "post_count": 5,
+  "post_count": 7,
   "posts": [
     {
       "id": "5353456023634122",
@@ -66,6 +66,30 @@
       "reposts": 3,
       "comments": 14,
       "attitudes": 145
+    },
+    {
+      "id": "5353484517901812",
+      "mid": "5353484517901812",
+      "created_at": "2026-10-13T01:07:15.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rmrnlx9CA",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 17,
+      "comments": 8,
+      "attitudes": 55
+    },
+    {
+      "id": "5353484256019548",
+      "mid": "5353484256019548",
+      "created_at": "2026-10-13T01:06:12.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmrmVpfXu",
+      "text": "现在一线城市医院退休金最高，因为年收入高，交的就高，还有年金，公务员不一定比得过，还有就是电力的退休金高，虽然企业不怎么赚钱，但是行业职工收入还是保障的很好的，尤其沿海",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 36,
+      "attitudes": 200
     }
   ]
 }
