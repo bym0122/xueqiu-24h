@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月13日星期二 10:21:46",
+  "crawled_at_beijing": "2026年10月13日星期二 11:21:49",
   "crawled_date": "2026-10-13",
-  "post_count": 7,
+  "post_count": 10,
   "posts": [
     {
       "id": "5353456023634122",
@@ -90,6 +90,42 @@
       "reposts": 6,
       "comments": 36,
       "attitudes": 200
+    },
+    {
+      "id": "5353512923302161",
+      "mid": "5353512923302161",
+      "created_at": "2026-10-13T03:00:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rms7adR2F",
+      "text": "享受到一点点，30号报道，算了半月工资//@云路皆通途:只是没有享受干部待遇",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 18,
+      "attitudes": 103
+    },
+    {
+      "id": "5353512499938535",
+      "mid": "5353512499938535",
+      "created_at": "2026-10-13T02:58:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rms6tFHsX",
+      "text": "有用，96年之前算视同缴费//@跟十年修行:老舅的档案还有用嘛",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 14,
+      "attitudes": 99
+    },
+    {
+      "id": "5353512049576766",
+      "mid": "5353512049576766",
+      "created_at": "2026-10-13T02:56:39.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rms5KEblY",
+      "text": "终于把自己档案找到了，当年也是国家分配干部，档案却在区就业中心找到，不过终于找到也算不错了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 50,
+      "attitudes": 314
     }
   ]
 }
