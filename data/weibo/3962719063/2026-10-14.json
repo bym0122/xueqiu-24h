@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月14日星期三 18:33:40",
+  "crawled_at_beijing": "2026年10月14日星期三 19:32:47",
   "crawled_date": "2026-10-14",
-  "post_count": 44,
+  "post_count": 49,
   "posts": [
     {
       "id": "5353726631478220",
@@ -534,6 +534,66 @@
       "reposts": 1,
       "comments": 1,
       "attitudes": 5
+    },
+    {
+      "id": "5354000766470185",
+      "mid": "5354000766470185",
+      "created_at": "2026-10-14T11:18:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmEO0r9bP",
+      "text": "我知道可能不大，但是我希望有这样的勇士将军出现//@tanzhifu01755:这事可能性不大，主要是中国政府的道德底线现在全球最高。不过做个威慑，没什么不好。",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 46
+    },
+    {
+      "id": "5354000532640050",
+      "mid": "5354000532640050",
+      "created_at": "2026-10-14T11:17:42.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmENDb4Ns",
+      "text": "回复@老田聊股:以牙还牙，以血还血，去看看1937年12月的日本东京，他们的所谓人民是怎么庆祝南京大屠杀的，去看看现在的日本，是怎么描述南京大屠杀的//@老田聊股:我最尊敬的公公，咱们打入东京也不能屠杀平民啊，否则和日本战犯何异？",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 6,
+      "comments": 3,
+      "attitudes": 44
+    },
+    {
+      "id": "5353996904830523",
+      "mid": "5353996904830523",
+      "created_at": "2026-10-14T11:03:17.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmEHMkgDF",
+      "text": "#日本称第三国进入争议岛屿不可接受#终有一天我们会进入东京，以报南京大屠杀的深海血仇。\n\n任何将军能够进东京，展开东京大屠杀，我个人都将其历史排位放到中华上下五千年第一名将，超越霍去病的封狼居胥",
+      "source": "微博搜索",
+      "reposts": 16,
+      "comments": 25,
+      "attitudes": 229
+    },
+    {
+      "id": "5353992871740019",
+      "mid": "5353992871740019",
+      "created_at": "2026-10-14T10:47:16.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmEBh7iEP",
+      "text": "金鸡滩煤矿\n2026年10月14日12:00起，\n混煤执行870元/吨，涨20元\n精煤执行950元/吨；涨20元\n块煤执行980元/吨。涨20元",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 100
+    },
+    {
+      "id": "5353989621156370",
+      "mid": "5353989621156370",
+      "created_at": "2026-10-14T10:34:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmEw24QP8",
+      "text": "继续涨\n2026年10月14日CCI指数\n5500大卡 1018 （+5）\n5000大卡 920 （+5）\n4500大卡 824 （+4）",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 25,
+      "attitudes": 136
     }
   ]
 }
