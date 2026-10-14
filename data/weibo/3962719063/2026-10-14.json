@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月14日星期三 12:33:40",
+  "crawled_at_beijing": "2026年10月14日星期三 13:30:38",
   "crawled_date": "2026-10-14",
-  "post_count": 17,
+  "post_count": 18,
   "posts": [
     {
       "id": "5353726631478220",
@@ -210,6 +210,18 @@
       "reposts": 0,
       "comments": 8,
       "attitudes": 92
+    },
+    {
+      "id": "5353902637582075",
+      "mid": "5353902637582075",
+      "created_at": "2026-10-14T04:48:42.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmCfJvOrx",
+      "text": "生日快乐🎂//@讨杯酒喝的泡泡邮递员:舅舅，我今天过生日，能不能祝我生日快乐",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 8,
+      "comments": 11,
+      "attitudes": 149
     }
   ]
 }
