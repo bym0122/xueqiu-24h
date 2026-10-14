@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月14日星期三 11:30:48",
+  "crawled_at_beijing": "2026年10月14日星期三 12:33:40",
   "crawled_date": "2026-10-14",
-  "post_count": 13,
+  "post_count": 17,
   "posts": [
     {
       "id": "5353726631478220",
@@ -162,6 +162,54 @@
       "reposts": 1,
       "comments": 83,
       "attitudes": 242
+    },
+    {
+      "id": "5353888033278305",
+      "mid": "5353888033278305",
+      "created_at": "2026-10-14T03:50:40.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/RmBSbdKPT",
+      "text": "四年前的文章再分享\n\n我的投资就是追求持仓现金流，跌的越深，红利再投获得现金流越强劲，本就有就不错分红的股票（重点：持仓股票业绩不能下降，上升当然更好），获得的收益越大，股价如果1块钱一股，那么分红可买到的股票越多，未来分红带来的现金流就越疯狂。\n\n当你以一个低估的价格买入企业后，股 ...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 203,
+      "comments": 114,
+      "attitudes": 700
+    },
+    {
+      "id": "5353887416451338",
+      "mid": "5353887416451338",
+      "created_at": "2026-10-14T03:48:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmBRbr4hQ",
+      "text": "回复@nonerule8:每次有赚就好//@nonerule8:蒙电我吃了5个点跑了，每次都跑太快不过也是后视镜视角就是了。",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 8,
+      "attitudes": 100
+    },
+    {
+      "id": "5353886363947397",
+      "mid": "5353886363947397",
+      "created_at": "2026-10-14T03:44:02.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmBPugyTH",
+      "text": "回复@谢不肉-_-:是的//@谢不肉-_-:评论区都是观点，谁也说服不了谁，只愿意相信自己想相信的",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 5,
+      "comments": 12,
+      "attitudes": 100
+    },
+    {
+      "id": "5353885867969519",
+      "mid": "5353885867969519",
+      "created_at": "2026-10-14T03:42:04.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmBOGxreD",
+      "text": "回复@淘金taojing:领导有手有脚，也能自己搞定的，何况她单位有食堂//@淘金taojing:不给领导煮早饭了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 8,
+      "attitudes": 92
     }
   ]
 }
