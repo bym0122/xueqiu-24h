@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月14日星期三 10:29:45",
+  "crawled_at_beijing": "2026年10月14日星期三 11:30:48",
   "crawled_date": "2026-10-14",
-  "post_count": 8,
+  "post_count": 13,
   "posts": [
     {
       "id": "5353726631478220",
@@ -102,6 +102,66 @@
       "reposts": 4,
       "comments": 9,
       "attitudes": 15
+    },
+    {
+      "id": "5353880720247217",
+      "mid": "5353880720247217",
+      "created_at": "2026-10-14T03:21:37.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmBGo12jn",
+      "text": "我也不信刚进入行业不久的车企，就能100%，或者98%没问题，但是对于一个多方面超越行业领先国际的企业，应该扶持，而不是打压，\n有过，有不对，督促改进，才是正确的做法",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 37,
+      "attitudes": 208
+    },
+    {
+      "id": "5353879223930273",
+      "mid": "5353879223930273",
+      "created_at": "2026-10-14T03:15:40.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmBDYgurv",
+      "text": "最近的电力真的猛，猛电尤其，可惜俺一股没有\n\n国投，长电都近期新高了",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 49,
+      "attitudes": 225
+    },
+    {
+      "id": "5353878884452556",
+      "mid": "5353878884452556",
+      "created_at": "2026-10-14T03:14:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmBDqiGjq",
+      "text": "回复@风吹剑起:嗯，半夜起来追了三小时//@风吹剑起:最近追剧是不是太猛啊！",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 13,
+      "attitudes": 61
+    },
+    {
+      "id": "5353876859392225",
+      "mid": "5353876859392225",
+      "created_at": "2026-10-14T03:06:16.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmBA9Dplv",
+      "text": "刹车评测的事情，我为什么不谈，因为我不信一个利益相关方的评测，一个字都不信",
+      "source": "微博网页版",
+      "reposts": 14,
+      "comments": 69,
+      "attitudes": 445
+    },
+    {
+      "id": "5353876129844655",
+      "mid": "5353876129844655",
+      "created_at": "2026-10-14T03:03:22.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmByYFj2L",
+      "text": "早上一觉睡到10点半",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 83,
+      "attitudes": 242
     }
   ]
 }
