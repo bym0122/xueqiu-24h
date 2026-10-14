@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月14日星期三 19:32:47",
+  "crawled_at_beijing": "2026年10月14日星期三 20:39:07",
   "crawled_date": "2026-10-14",
-  "post_count": 49,
+  "post_count": 51,
   "posts": [
     {
       "id": "5353726631478220",
@@ -594,6 +594,30 @@
       "reposts": 4,
       "comments": 25,
       "attitudes": 136
+    },
+    {
+      "id": "5354011826847952",
+      "mid": "5354011826847952",
+      "created_at": "2026-10-14T12:02:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmF5QsJsQ",
+      "text": "//@罗霸道本尊:转发微博",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 4,
+      "attitudes": 45
+    },
+    {
+      "id": "5354008141365609",
+      "mid": "5354008141365609",
+      "created_at": "2026-10-14T11:47:55.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmEZU5JfX",
+      "text": "回复@超级玛丽葫芦娃:火电上网电价大涨//@超级玛丽葫芦娃:公公，火电股价为啥何同煤炭价格一起涨啊？在下实在想不通啊",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 5,
+      "attitudes": 100
     }
   ]
 }
