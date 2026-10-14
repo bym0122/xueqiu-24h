@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月14日星期三 14:38:10",
+  "crawled_at_beijing": "2026年10月14日星期三 15:40:27",
   "crawled_date": "2026-10-14",
-  "post_count": 26,
+  "post_count": 34,
   "posts": [
     {
       "id": "5353726631478220",
@@ -318,6 +318,102 @@
       "reposts": 34,
       "comments": 79,
       "attitudes": 511
+    },
+    {
+      "id": "5353945654362768",
+      "mid": "5353945654362768",
+      "created_at": "2026-10-14T07:39:38.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmDn7iiXe",
+      "text": "美国抓捕委内瑞拉总统跟俄罗斯入侵乌克兰，本质上是一样一样的，但是有多少国家谴责美国，制裁美国呢\n\n这国际社会，本质就是丛林",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 11
+    },
+    {
+      "id": "5353938216026347",
+      "mid": "5353938216026347",
+      "created_at": "2026-10-14T07:10:04.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmDb7phJ9",
+      "text": "回复@鹤见谜:我是活期，一般人定期更好，我不在乎几个碎银子的利息，我是随时准备有钱去股灾救场子的//@鹤见谜:公公，请问存银行的钱怎么处理比较好？活期、大额存单、定期、R1/R2的理财，您一般怎么选择？",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 11,
+      "attitudes": 100
+    },
+    {
+      "id": "5353937788994575",
+      "mid": "5353937788994575",
+      "created_at": "2026-10-14T07:08:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmDaqBJTN",
+      "text": "回复@ertlnnh:这个不是我问的，是别人问完发给我的//@ertlnnh:老舅问ai自称“我是一名股民”，颇有种武侠片里，天下有名的高手在饭店，假装是一个路过的平平无奇的武者，问店小二“你对那个高手怎么看？”的感觉//@挖地瓜的超级鹿鼎公:回复@云麓法师晓:最后部分不太吻合，俺在基本面没有改变的...全文",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 3,
+      "attitudes": 43
+    },
+    {
+      "id": "5353935231783377",
+      "mid": "5353935231783377",
+      "created_at": "2026-10-14T06:58:13.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmD6j7tW9",
+      "text": "年收入低于15万的普通家庭，有钱，存银行是第一选择，股市只适合完全的闲钱，当然模拟仓玩玩也是挺好的",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 13,
+      "comments": 40,
+      "attitudes": 318
+    },
+    {
+      "id": "5353933587612208",
+      "mid": "5353933587612208",
+      "created_at": "2026-10-14T06:51:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmD3EvWhy",
+      "text": "回复@云麓法师晓:最后部分不太吻合，俺在基本面没有改变的情况下，即使账面亏损，也不止损//@云麓法师晓:舅公没有要补充的吗？",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 31,
+      "comments": 12,
+      "attitudes": 100
+    },
+    {
+      "id": "5353932433919167",
+      "mid": "5353932433919167",
+      "created_at": "2026-10-14T06:47:06.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmD1Ngryn",
+      "text": "AI总结的很好",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 130,
+      "comments": 38,
+      "attitudes": 338
+    },
+    {
+      "id": "5353931435674328",
+      "mid": "5353931435674328",
+      "created_at": "2026-10-14T06:43:08.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmD0bnO9q",
+      "text": "普通雪球网友关系，从未认为你表姐是骗子//@用户7440140564:我不知道公公和云蒙之间的渊源！但是我说的是真实的，不是段子！云蒙她确实是我表姐，经历也是真实的！从辞职成立了基金后，确实亏很惨！但是也不是什么骗子！//@挖地瓜的超级鹿鼎公:回复@用户7440140564:我不懂科技股，没法给出建议，你可以...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 22,
+      "attitudes": 100
+    },
+    {
+      "id": "5353930659731221",
+      "mid": "5353930659731221",
+      "created_at": "2026-10-14T06:40:03.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmCYVEPxb",
+      "text": "求而不得很痛苦，必须放下，人生不得意之事十之八九，长想一二",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 33,
+      "comments": 35,
+      "attitudes": 241
     }
   ]
 }
