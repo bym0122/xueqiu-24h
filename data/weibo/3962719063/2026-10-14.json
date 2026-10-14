@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月14日星期三 20:39:07",
+  "crawled_at_beijing": "2026年10月14日星期三 21:38:03",
   "crawled_date": "2026-10-14",
-  "post_count": 51,
+  "post_count": 57,
   "posts": [
     {
       "id": "5353726631478220",
@@ -618,6 +618,78 @@
       "reposts": 4,
       "comments": 5,
       "attitudes": 100
+    },
+    {
+      "id": "5354034820812894",
+      "mid": "5354034820812894",
+      "created_at": "2026-10-14T13:33:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmFGW3ptc",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 1,
+      "attitudes": 15
+    },
+    {
+      "id": "5354034392732234",
+      "mid": "5354034392732234",
+      "created_at": "2026-10-14T13:32:15.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmFGfbsMi",
+      "text": "//@莉莉给我冲:当年肯定是不信就杀呗! 现在说什么宗教自由？//@学探诊五三:可笑提这个宗教自由的权利。问问这帮阿塞拜疆的msl，他们所信的宗教是在什么时候选择的，为什么要选择这个宗教，而不选择别的宗教，是否进行过深思熟虑的比较后进行了选择，是否真正行使了选择的权利。",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 0,
+      "attitudes": 8
+    },
+    {
+      "id": "5354033280720091",
+      "mid": "5354033280720091",
+      "created_at": "2026-10-14T13:27:50.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmFEs31kn",
+      "text": "能虔诚认错，还是好男儿",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 4,
+      "attitudes": 64
+    },
+    {
+      "id": "5354025144552716",
+      "mid": "5354025144552716",
+      "created_at": "2026-10-14T12:55:30.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmFrkj6mU",
+      "text": "如果你不想被像南京那样的对待，泰国人还是闭嘴比较好，哈哈\n--------------------------\n这是最近一个日本人，在X的发言，日本人并非不知道1937年12月南京发生了什么，他妈的这帮畜生只是假装不知道，来糊弄中国人，糊弄全世界，这仇，你们不想报，我想",
+      "source": "微博网页版",
+      "reposts": 18,
+      "comments": 26,
+      "attitudes": 186
+    },
+    {
+      "id": "5354023595280171",
+      "mid": "5354023595280171",
+      "created_at": "2026-10-14T12:49:21.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmFoPm9C3",
+      "text": "还没提//@7焕彩7:提出50个之后还有208，现在接近300 //@都叫我老许:哪位大神记得 上次老舅多少仙金？",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 8,
+      "attitudes": 77
+    },
+    {
+      "id": "5354035814599617",
+      "mid": "5354035814599617",
+      "created_at": "2026-10-14T13:37:54.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmFIxjizn",
+      "text": "精选上面六个小字",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
     }
   ]
 }
