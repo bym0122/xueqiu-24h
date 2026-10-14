@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月14日星期三 16:35:00",
+  "crawled_at_beijing": "2026年10月14日星期三 17:33:56",
   "crawled_date": "2026-10-14",
-  "post_count": 41,
+  "post_count": 43,
   "posts": [
     {
       "id": "5353726631478220",
@@ -498,6 +498,30 @@
       "reposts": 0,
       "comments": 3,
       "attitudes": 27
+    },
+    {
+      "id": "5353974282587755",
+      "mid": "5353974282587755",
+      "created_at": "2026-10-14T09:33:24.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmE7iaRbZ",
+      "text": "回复@影-C:我怎么知道，反正我的股票逆市是经常的，顺市也是经常的//@影-C:请教下公公心里既然有了这个念头，你会减电解铝吗，指数往下，电解铝肯定不好过，还是硬扛，这个心态怎么修炼出来",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 1
+    },
+    {
+      "id": "5353970514267561",
+      "mid": "5353970514267561",
+      "created_at": "2026-10-14T09:18:25.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmE1dhUbD",
+      "text": "变化\n最近抖音老是看到有女人说，她老公怎么怎么对她好，怎么怎么给她花钱，怎么这么照顾家庭，但是却出轨了\n\n我记得我小时候总是听部分女人说，她老公怎么怎么对她不好，怎么怎么不给她花钱，怎么怎么不照顾家庭孩子，还怎么怎么出轨了\n\n这世界变化的太快，我这种落伍的人看不懂",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 11,
+      "attitudes": 85
     }
   ]
 }
