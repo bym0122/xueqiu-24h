@@ -320,8 +320,8 @@ function mergeById(...arrays) {
       const replyBaseUrl = new URL(mainBase);
       replyBaseUrl.searchParams.set("id", String(targetId));
       replyBaseUrl.searchParams.delete("status_id");
-      if (replyBaseUrl.searchParams.has("max_id")) replyBaseUrl.searchParams.set("max_id", "-1");
-      else replyBaseUrl.searchParams.set("page", "1");
+      replyBaseUrl.searchParams.delete("max_id");
+      replyBaseUrl.searchParams.set("page", "1");
       const base = replyBaseUrl.toString();
       let replyCursor = "-1";
       if (!result.diagnostics.reply_pages) result.diagnostics.reply_pages = [];
@@ -376,8 +376,14 @@ function mergeById(...arrays) {
           if (!list.length) break;
           if (found.size === before) break;
           if (expected > 0 && found.size >= expected) break;
-          if (nextCursor == null || String(nextCursor) === String(replyCursor)) break;
-          replyCursor = String(nextCursor);
+          if (nextCursor == null || String(nextCursor) === String(replyCursor)) {
+            // This endpoint may be page-based even when its response cursor is missing.
+            if (expected > 0 && found.size < expected && list.length > 0) {
+              replyCursor = String(list[list.length - 1].id);
+            } else break;
+          } else {
+            replyCursor = String(nextCursor);
+          }
         } else {
           if (p === 1 && seed.length) break;
           if (expected > 0) failedThreads.push({ parent_id: cacheKey, reason: "reply_endpoint_unavailable", http_status: res.status, expected_replies: expected });
