@@ -329,6 +329,23 @@ function mergeById(...arrays) {
         let res = await apiRequest(makePageUrl(base, p, targetId, replyCursor));
         let list = res.json ? getList(res.json) : [];
         let nextCursor = res.json ? nextCursorFrom(res.json, list, replyCursor) : null;
+        // Xueqiu's v3 endpoint can return next_max_id=-1 while the thread reports more replies.
+        // Also query the legacy page-based replies endpoint and merge any distinct reply IDs.
+        if (expected > 0 && found.size < expected) {
+          const legacy = await apiRequest("https://xueqiu.com/statuses/replies.json?comment_id=" + encodeURIComponent(String(parent.id)) + "&page=" + p + "&count=" + PAGE_SIZE);
+          const legacyList = legacy.json ? getList(legacy.json) : [];
+          if (legacy.ok && legacy.json && legacyList.length) {
+            const mergedList = mergeById(list, legacyList).filter(x => x && x.id != null && String(x.id) !== String(parent.id));
+            const addsNew = mergedList.some(x => !found.has(String(x.id)));
+            if (addsNew) {
+              list = mergedList;
+              if (nextCursor == null || String(nextCursor) === String(replyCursor)) {
+                const last = list[list.length - 1];
+                if (last && last.id != null && String(last.id) !== String(replyCursor)) nextCursor = String(last.id);
+              }
+            }
+          }
+        }
         const discussionCount = res.json ? discussionCountFrom(res.json) : null;
       if (discussionCount !== null) result.completeness.discussion_items_expected = Math.max(result.completeness.discussion_items_expected || 0, discussionCount);
           if (!res.ok || !res.json || (!list.length && totalFrom(res.json) !== 0)) {
