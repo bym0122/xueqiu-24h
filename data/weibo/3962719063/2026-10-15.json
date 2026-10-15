@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月15日星期四 13:30:43",
+  "crawled_at_beijing": "2026年10月15日星期四 14:39:02",
   "crawled_date": "2026-10-15",
-  "post_count": 4,
+  "post_count": 14,
   "posts": [
     {
       "id": "5354189490489767",
@@ -54,6 +54,126 @@
       "reposts": 3,
       "comments": 161,
       "attitudes": 476
+    },
+    {
+      "id": "5354291047174057",
+      "mid": "5354291047174057",
+      "created_at": "2026-10-15T06:32:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmMmcu6iB",
+      "text": "今天被一把砸到",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 40,
+      "attitudes": 129
+    },
+    {
+      "id": "5354290111582876",
+      "mid": "5354290111582876",
+      "created_at": "2026-10-15T06:28:23.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmMkH6DMg",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 3,
+      "attitudes": 20
+    },
+    {
+      "id": "5354289188309716",
+      "mid": "5354289188309716",
+      "created_at": "2026-10-15T06:24:43.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmMjcyRJG",
+      "text": "全靠四大行硬撑，否则现在沪市起码120点",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 30,
+      "attitudes": 202
+    },
+    {
+      "id": "5354284755715650",
+      "mid": "5354284755715650",
+      "created_at": "2026-10-15T06:07:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmMc3nYTU",
+      "text": "//@罗霸道本尊:本人参与监督案例：常德市桃源县夫妻离婚分割财产，丈母娘不在场也没签字的情况下，法官通过一纸调解书把丈母娘独立产权的房产调解给女婿，二审常德市中院法官在没有任何证据之下，用“理应”作为法律依据，却故意漏删掉掉引用民法典里面最重要法律依据“共有”二字，判调解书生效。 我...全文",
+      "source": "微博网页版",
+      "reposts": 20,
+      "comments": 7,
+      "attitudes": 100
+    },
+    {
+      "id": "5354284540496938",
+      "mid": "5354284540496938",
+      "created_at": "2026-10-15T06:06:15.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmMbI25h8",
+      "text": "横批牛马做梦",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 9,
+      "attitudes": 100
+    },
+    {
+      "id": "5354284091705488",
+      "mid": "5354284091705488",
+      "created_at": "2026-10-15T06:04:28.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmMaZ79FS",
+      "text": "大家可以关注一下最近的几个重要ETF，沪深300，有色，红利的基金申购赎回变化，回毕竟清晰的看出某队有没有出手",
+      "source": "微博网页版",
+      "reposts": 36,
+      "comments": 45,
+      "attitudes": 434
+    },
+    {
+      "id": "5354282372828521",
+      "mid": "5354282372828521",
+      "created_at": "2026-10-15T05:57:38.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmM8dbRPj",
+      "text": "还有五分之三的大水电，拿着看",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 45,
+      "attitudes": 380
+    },
+    {
+      "id": "5354281990362406",
+      "mid": "5354281990362406",
+      "created_at": "2026-10-15T05:56:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmM7B1whg",
+      "text": "回复@我吃饱的时候不饿Llj2017927:都有，喷吹多//@我吃饱的时候不饿Llj2017927:喷吹还是动力煤？",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 6,
+      "attitudes": 127
+    },
+    {
+      "id": "5354281906734547",
+      "mid": "5354281906734547",
+      "created_at": "2026-10-15T05:55:47.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmM7ssfXJ",
+      "text": "回复@凌风_2098:个人理解26年2.3万上下，27年2.2--2.3万//@凌风_2098:请教公公怎么看电解铝的未来几年价格中枢呀",
+      "source": "微博网页版",
+      "reposts": 11,
+      "comments": 8,
+      "attitudes": 110
+    },
+    {
+      "id": "5354280183925648",
+      "mid": "5354280183925648",
+      "created_at": "2026-10-15T05:48:56.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmM4GgteU",
+      "text": "回复@wen198111:我压根不看创业板，所以没有答案//@wen198111:@挖地瓜的超级鹿鼎公   创业板指数支撑点在什么位置？2500和2700吗",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 13,
+      "attitudes": 103
     }
   ]
 }
