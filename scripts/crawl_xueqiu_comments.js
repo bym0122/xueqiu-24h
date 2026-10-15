@@ -62,7 +62,11 @@ function nextCursorFrom(json, list, currentCursor) {
     for (const k of ["next_max_id", "nextMaxId", "next_cursor", "nextCursor"]) {
       if (root[k] != null) {
         const v = String(root[k]);
-        if (v === "-1" || v === String(currentCursor)) return null;
+        if (v === "-1") {
+          const last = list && list.length ? list[list.length - 1] : null;
+          return last && last.id != null && String(last.id) !== String(currentCursor) ? String(last.id) : null;
+        }
+        if (v === String(currentCursor)) return null;
         return v;
       }
     }
@@ -71,7 +75,11 @@ function nextCursorFrom(json, list, currentCursor) {
     for (const k of ["max_id", "maxId"]) {
       if (root[k] != null) {
         const v = String(root[k]);
-        if (v === "-1" || v === String(currentCursor)) return null;
+        if (v === "-1") {
+          const last = list && list.length ? list[list.length - 1] : null;
+          return last && last.id != null && String(last.id) !== String(currentCursor) ? String(last.id) : null;
+        }
+        if (v === String(currentCursor)) return null;
         return v;
       }
     }
