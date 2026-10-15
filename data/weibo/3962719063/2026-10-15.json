@@ -3,8 +3,21 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月15日星期四 07:28:05",
+  "crawled_at_beijing": "2026年10月15日星期四 08:39:14",
   "crawled_date": "2026-10-15",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5354189490489767",
+      "mid": "5354189490489767",
+      "created_at": "2026-10-14T23:48:33.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmJIp23pt",
+      "text": "市场之所以有效，是因为市场隔一段时间就让那些NB变成SB，把那些SB变成NB",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 31,
+      "comments": 73,
+      "attitudes": 634
+    }
+  ]
 }
