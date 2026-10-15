@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月15日星期四 18:33:44",
+  "crawled_at_beijing": "2026年10月15日星期四 19:31:41",
   "crawled_date": "2026-10-15",
-  "post_count": 16,
+  "post_count": 24,
   "posts": [
     {
       "id": "5354189490489767",
@@ -198,6 +198,102 @@
       "reposts": 2,
       "comments": 17,
       "attitudes": 94
+    },
+    {
+      "id": "5354358642050609",
+      "mid": "5354358642050609",
+      "created_at": "2026-10-15T11:00:41.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmO7e8Bsl",
+      "text": "回复@AZBBF:0.46//@AZBBF:公公易拉罐今年你预计能分红多少？",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 23,
+      "attitudes": 65
+    },
+    {
+      "id": "5354358135065141",
+      "mid": "5354358135065141",
+      "created_at": "2026-10-15T10:58:41.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmO6plfFP",
+      "text": "回复@山有顶峰湖有岸:你眼神不好吧//@山有顶峰湖有岸:公公竟然买回来了",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 60
+    },
+    {
+      "id": "5354357937146681",
+      "mid": "5354357937146681",
+      "created_at": "2026-10-15T10:57:54.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmO65tZb3",
+      "text": "回复@机智的大狸子1023:游戏仓8.5%//@机智的大狸子1023:截止今天公公年收益多少了",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 15,
+      "attitudes": 78
+    },
+    {
+      "id": "5354356677543212",
+      "mid": "5354356677543212",
+      "created_at": "2026-10-15T10:52:54.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmO43vEkI",
+      "text": "今年全靠华能蒙电和长江电力，否则收益就被打绿了",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 58,
+      "attitudes": 259
+    },
+    {
+      "id": "5354356292454328",
+      "mid": "5354356292454328",
+      "created_at": "2026-10-15T10:51:21.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmO3raitW",
+      "text": "回复@山有顶峰湖有岸://@山有顶峰湖有岸:公公，我终于懂了你为什么买长江电力了，这个就是做空大盘的。",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 7,
+      "attitudes": 86
+    },
+    {
+      "id": "5354355337199957",
+      "mid": "5354355337199957",
+      "created_at": "2026-10-15T10:47:33.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmO1Tud2l",
+      "text": "回复@大道至简-MT:2015年我天天大赚啊，不知道我是PSA王之王吗//@大道至简-MT:这个跌幅就前三了，2015年不比这个厉害吗？天天千古跌停//@挖地瓜的超级鹿鼎公:回复@chengyiping88888:绝对值前三，比例排不进前100//@chengyiping88888:老舅，今天单日亏损绝对额和比例排进您...全文",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 6,
+      "attitudes": 64
+    },
+    {
+      "id": "5354353364043751",
+      "mid": "5354353364043751",
+      "created_at": "2026-10-15T10:39:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmNYIgXXN",
+      "text": "回复@chengyiping88888:绝对值前三，比例排不进前100//@chengyiping88888:老舅，今天单日亏损绝对额和比例排进您炒股史上前五了吗？",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 10,
+      "attitudes": 91
+    },
+    {
+      "id": "5354353134930394",
+      "mid": "5354353134930394",
+      "created_at": "2026-10-15T10:38:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmNYlkGCu",
+      "text": "回复@高山流水Greenhill:呵呵，你啥也不知道//@高山流水Greenhill:险资入场了",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 9,
+      "attitudes": 80
     }
   ]
 }
