@@ -3,8 +3,81 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月16日星期五 05:32:59",
+  "crawled_at_beijing": "2026年10月16日星期五 06:29:42",
   "crawled_date": "2026-10-16",
-  "post_count": 0,
-  "posts": []
+  "post_count": 6,
+  "posts": [
+    {
+      "id": "5354522614170941",
+      "mid": "5354522614170941",
+      "created_at": "2026-10-15T21:52:16.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmSnHhv3f",
+      "text": "//@沈良-宏观价值投资://@玩糖的:转发微博",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 4,
+      "attitudes": 43
+    },
+    {
+      "id": "5354522385842423",
+      "mid": "5354522385842423",
+      "created_at": "2026-10-15T21:51:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmSnkovSD",
+      "text": "//@汪海林:没有giegie演得好",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 19
+    },
+    {
+      "id": "5354521803096640",
+      "mid": "5354521803096640",
+      "created_at": "2026-10-15T21:49:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmSmocZzO",
+      "text": "经济基础决定上层建筑",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 9,
+      "attitudes": 50
+    },
+    {
+      "id": "5354521385500812",
+      "mid": "5354521385500812",
+      "created_at": "2026-10-15T21:47:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmSlIn50M",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 0,
+      "attitudes": 25
+    },
+    {
+      "id": "5354520792269078",
+      "mid": "5354520792269078",
+      "created_at": "2026-10-15T21:45:02.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmSkL9wi2",
+      "text": "女人出门非得搞个巨大的行李箱，很多甚至放火车行李架上都属于不安全，纯属找事",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 12,
+      "attitudes": 64
+    },
+    {
+      "id": "5354519835967680",
+      "mid": "5354519835967680",
+      "created_at": "2026-10-15T21:41:14.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmSjdp2sU",
+      "text": "缅甸股市今年涨幅接近100%，所以不要说什么缅A，真的不配",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 22,
+      "attitudes": 145
+    }
+  ]
 }
