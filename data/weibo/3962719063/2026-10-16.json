@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月16日星期五 16:33:36",
+  "crawled_at_beijing": "2026年10月16日星期五 17:32:50",
   "crawled_date": "2026-10-16",
-  "post_count": 35,
+  "post_count": 37,
   "posts": [
     {
       "id": "5354522614170941",
@@ -426,6 +426,30 @@
       "reposts": 3,
       "comments": 2,
       "attitudes": 98
+    },
+    {
+      "id": "5354690548074534",
+      "mid": "5354690548074534",
+      "created_at": "2026-10-16T08:59:35.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmWKyxSyq",
+      "text": "回复@芝丫:自己的钱包自己负责//@芝丫:回复@挖地瓜的超级鹿鼎公: 我投入10万  亏了4万  继续抗还是跳出来",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 4,
+      "attitudes": 47
+    },
+    {
+      "id": "5354685545842825",
+      "mid": "5354685545842825",
+      "created_at": "2026-10-16T08:39:42.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmWCuovZ7",
+      "text": "回复@雪松船长:张三母亲肝癌，陪同治疗三年，除了一个45平米的老破小，张三已经负债15万，人工移植需要60万，张三还有一个6岁的女儿，一个商店做营业员的妻子，以及半瘫痪的岳父，你说张三该不该卖掉房子去救母亲，另一个李四，5亿身价，母亲癌症，他拿出100万治疗费，只去看过一次，病床前坐了10分钟...全文",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 9,
+      "attitudes": 91
     }
   ]
 }
