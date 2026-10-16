@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月16日星期五 08:38:57",
+  "crawled_at_beijing": "2026年10月16日星期五 09:32:20",
   "crawled_date": "2026-10-16",
-  "post_count": 6,
+  "post_count": 8,
   "posts": [
     {
       "id": "5354522614170941",
@@ -78,6 +78,30 @@
       "reposts": 2,
       "comments": 22,
       "attitudes": 145
+    },
+    {
+      "id": "5354577000138449",
+      "mid": "5354577000138449",
+      "created_at": "2026-10-16T01:28:23.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmTNq0A13",
+      "text": "恭喜，另外不要在别人的主贴上发//@Alive9508:老舅报喜，2:45分，我们有了女鹅，6.9斤 //@挖地瓜的超级鹿鼎公:经济基础决定上层建筑",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 30
+    },
+    {
+      "id": "5354576485026674",
+      "mid": "5354576485026674",
+      "created_at": "2026-10-16T01:26:20.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmTMAl5Fo",
+      "text": "2026-10-14 510310 沪深300ETF易方达 1215694.4\n\n2026-10-15 510310 沪深300ETF易方达 1672624.4\n\n看懂了没有",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 51,
+      "attitudes": 180
     }
   ]
 }
