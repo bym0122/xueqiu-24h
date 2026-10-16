@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月16日星期五 22:29:08",
+  "crawled_at_beijing": "2026年10月16日星期五 23:25:30",
   "crawled_date": "2026-10-16",
-  "post_count": 44,
+  "post_count": 45,
   "posts": [
     {
       "id": "412542848",
@@ -314,6 +314,13 @@
       "kind": "retweet",
       "url": "https://xueqiu.com/9493911686/412674630",
       "text": "当我的室友知道我的女生不是那一位时，他其实挺放松的，我也觉得压力小。 因为这样我们就完全不会成为竞争对手了。"
+    },
+    {
+      "id": "412689180",
+      "created_at": "2026-10-16T14:58:17.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/412689180",
+      "text": "回复@欧-巴不是叔: 还是美股好做得多啊，//@欧-巴不是叔:回复@斯托伯的天空:资源大涨了"
     }
   ]
 }
