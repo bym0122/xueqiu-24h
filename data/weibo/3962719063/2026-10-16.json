@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月16日星期五 14:37:09",
+  "crawled_at_beijing": "2026年10月16日星期五 15:38:27",
   "crawled_date": "2026-10-16",
-  "post_count": 18,
+  "post_count": 25,
   "posts": [
     {
       "id": "5354522614170941",
@@ -222,6 +222,90 @@
       "reposts": 4,
       "comments": 20,
       "attitudes": 187
+    },
+    {
+      "id": "5354666210885700",
+      "mid": "5354666210885700",
+      "created_at": "2026-10-16T07:22:51.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmW7j3Ipu",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 8,
+      "attitudes": 43
+    },
+    {
+      "id": "5354664851669274",
+      "mid": "5354664851669274",
+      "created_at": "2026-10-16T07:17:27.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmW5770fM",
+      "text": "这个畜生，还戴口罩，这么恨国就不要回国啊//@凯喜博士DrCash://@蘸盐://@超大善舞精灵:把照片发给驻莫斯科大使馆教育处，毕业了能不能学位认证都不好说//@懒得注册:他道歉不是知道自己错了，而是知道自己要死了//@青麟明白://@蘸盐:道歉是因为其他中国留学生联系了中国驻俄罗斯大使馆？...全文",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 21,
+      "attitudes": 85
+    },
+    {
+      "id": "5354664197097453",
+      "mid": "5354664197097453",
+      "created_at": "2026-10-16T07:14:52.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmW43tMn3",
+      "text": "回复@jasonqiqi:有没有可能我比你和其他人看的更透彻//@jasonqiqi:公公，你在华为汽车问题上有点坚持啊，我觉得你有点被迷惑了",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 27,
+      "attitudes": 100
+    },
+    {
+      "id": "5354662601687950",
+      "mid": "5354662601687950",
+      "created_at": "2026-10-16T07:08:32.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmW1u7570",
+      "text": "所以我炒股为生，却经常劝人不要炒股",
+      "source": "微博搜索",
+      "reposts": 8,
+      "comments": 24,
+      "attitudes": 100
+    },
+    {
+      "id": "5354660934192279",
+      "mid": "5354660934192279",
+      "created_at": "2026-10-16T07:01:54.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmVYNhABp",
+      "text": "回复@猫吃猫哆哩:没有啊，就是想看三季报//@猫吃猫哆哩:老舅又回紫金了吗",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 3,
+      "attitudes": 83
+    },
+    {
+      "id": "5354660529441054",
+      "mid": "5354660529441054",
+      "created_at": "2026-10-16T07:00:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmVY8DC34",
+      "text": "挂着的单子，差一分钱没卖掉，哎，运气不好",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 37,
+      "attitudes": 186
+    },
+    {
+      "id": "5354660428778516",
+      "mid": "5354660428778516",
+      "created_at": "2026-10-16T06:59:54.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmVXYAPGY",
+      "text": "三季报发布时间，都是前一天晚上\n神火10.20\n中孚10.21\n宝丰 10.22\n中煤，紫金10.24\n粤高速10.27\n陕煤，华能10.28\n潞安，云天化，陕西能源10.29\n云铝10.30\n长电，山煤，新城，中海油10.31",
+      "source": "微博网页版",
+      "reposts": 52,
+      "comments": 50,
+      "attitudes": 279
     }
   ]
 }
