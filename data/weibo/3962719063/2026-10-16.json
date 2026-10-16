@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月16日星期五 09:32:20",
+  "crawled_at_beijing": "2026年10月16日星期五 10:31:09",
   "crawled_date": "2026-10-16",
-  "post_count": 8,
+  "post_count": 13,
   "posts": [
     {
       "id": "5354522614170941",
@@ -102,6 +102,66 @@
       "reposts": 6,
       "comments": 51,
       "attitudes": 180
+    },
+    {
+      "id": "5354592699154632",
+      "mid": "5354592699154632",
+      "created_at": "2026-10-16T02:30:45.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmUcJCpxm",
+      "text": "当胡编给某个人，或者某个组织洗白的时候，我心中对于是非，就有了自己的答案",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 2
+    },
+    {
+      "id": "5354591966729916",
+      "mid": "5354591966729916",
+      "created_at": "2026-10-16T02:27:51.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmUbyseL2",
+      "text": "转发微博",
+      "source": "微博搜索",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 10
+    },
+    {
+      "id": "5354580360823144",
+      "mid": "5354580360823144",
+      "created_at": "2026-10-16T01:41:43.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmTSQ3s8w",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 10,
+      "attitudes": 73
+    },
+    {
+      "id": "5354580275626584",
+      "mid": "5354580275626584",
+      "created_at": "2026-10-16T01:41:24.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmTSHnBJm",
+      "text": "网友@WinjayYu 制作贡献的ETF份额图",
+      "source": "微博网页版",
+      "reposts": 29,
+      "comments": 50,
+      "attitudes": 336
+    },
+    {
+      "id": "5354579724340394",
+      "mid": "5354579724340394",
+      "created_at": "2026-10-16T01:39:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmTROid8m",
+      "text": "回复@经常发烧友:因为2025年之前，中国每年有超百万吨级别的新增产能，25年合计增加4200万吨产能//@经常发烧友:回复@挖地瓜的超级鹿鼎公:为什么比之前几年高了",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 0,
+      "attitudes": 100
     }
   ]
 }
