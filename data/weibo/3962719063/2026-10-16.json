@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月16日星期五 15:38:27",
+  "crawled_at_beijing": "2026年10月16日星期五 16:33:36",
   "crawled_date": "2026-10-16",
-  "post_count": 25,
+  "post_count": 35,
   "posts": [
     {
       "id": "5354522614170941",
@@ -306,6 +306,126 @@
       "reposts": 52,
       "comments": 50,
       "attitudes": 279
+    },
+    {
+      "id": "5354682668024253",
+      "mid": "5354682668024253",
+      "created_at": "2026-10-16T08:28:15.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmWxQxFtr",
+      "text": "卖楼花是霍英东先生第一个搞出来的//@A网球中心:好像预售是他发明的",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 16
+    },
+    {
+      "id": "5354682251741089",
+      "mid": "5354682251741089",
+      "created_at": "2026-10-16T08:26:37.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmWxb7iW5",
+      "text": "2026/10/16  CCTD环渤海动力煤现货\n5500K 1025  (+5）\n5000K 929    (+4）\n4500K 833    (+3）",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 5,
+      "attitudes": 45
+    },
+    {
+      "id": "5354682110971499",
+      "mid": "5354682110971499",
+      "created_at": "2026-10-16T08:26:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmWwX44Jl",
+      "text": "//@子夜梦廊:论地狱笑话这一块，还得看国人",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 23
+    },
+    {
+      "id": "5354681581961934",
+      "mid": "5354681581961934",
+      "created_at": "2026-10-16T08:23:57.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmWw68eo6",
+      "text": "安监也许会沉默，但是并不会放松，我个人理解",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 7,
+      "attitudes": 80
+    },
+    {
+      "id": "5354680885446575",
+      "mid": "5354680885446575",
+      "created_at": "2026-10-16T08:21:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmWuYmQTZ",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 4,
+      "attitudes": 34
+    },
+    {
+      "id": "5354680701159132",
+      "mid": "5354680701159132",
+      "created_at": "2026-10-16T08:20:27.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmWuG4RxG",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 1,
+      "attitudes": 51
+    },
+    {
+      "id": "5354680541775010",
+      "mid": "5354680541775010",
+      "created_at": "2026-10-16T08:19:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmWuq7rLc",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 7,
+      "attitudes": 53
+    },
+    {
+      "id": "5354680391828816",
+      "mid": "5354680391828816",
+      "created_at": "2026-10-16T08:19:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmWub7FL2",
+      "text": "//@电影票房://@sven_shi:主要淄博经历的事情大家不太了解。23年淄博有个案子，是女孩子拿着发生性关系的全程录音告未婚夫强奸，警方上去刑拘之后，按照流程本来是男方根据女方要求给笔钱，换强奸缓刑不坐牢。但那个案子最后拖了两年搞了无罪，女孩子拿着录音诉强奸弄得整个系...全文",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 2,
+      "attitudes": 20
+    },
+    {
+      "id": "5354679589671072",
+      "mid": "5354679589671072",
+      "created_at": "2026-10-16T08:16:02.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/RmWsSEzT2",
+      "text": "10月16日，国家发展改革委、国家能源局会同有关部门在山西太原召开加快煤矿复产增产保供工作推进会。会议要求山西省加快停产煤矿复工复产，在确保安全的基础上全力增加煤炭供应，促进煤炭市场平稳运行。要“一矿一策”制定复产计划，优化复产验收程序，推动临时停产煤矿加快复产。要督促复产煤矿优化生 ...全文",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 16,
+      "attitudes": 76
+    },
+    {
+      "id": "5354679401976761",
+      "mid": "5354679401976761",
+      "created_at": "2026-10-16T08:15:17.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RmWsA8iff",
+      "text": "金鸡滩煤矿：\n 2026年10月16日12:00起，\n混煤执行885元/吨；涨15\n精煤执行965元/吨；涨15\n块煤执行995元/吨；涨15",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 2,
+      "attitudes": 98
     }
   ]
 }
