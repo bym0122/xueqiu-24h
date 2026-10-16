@@ -3,8 +3,21 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月17日星期六 06:28:48",
+  "crawled_at_beijing": "2026年10月17日星期六 07:25:35",
   "crawled_date": "2026-10-17",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5354900563428720",
+      "mid": "5354900563428720",
+      "created_at": "2026-10-16T22:54:06.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rn2dienXW",
+      "text": "鄂尔多斯10亿吨储量的煤矿，开采权拍卖成交，单吨18元",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 12,
+      "attitudes": 101
+    }
+  ]
 }
