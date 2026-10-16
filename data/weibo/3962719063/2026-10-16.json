@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月16日星期五 17:32:50",
+  "crawled_at_beijing": "2026年10月16日星期五 18:33:06",
   "crawled_date": "2026-10-16",
-  "post_count": 37,
+  "post_count": 39,
   "posts": [
     {
       "id": "5354522614170941",
@@ -450,6 +450,30 @@
       "reposts": 6,
       "comments": 9,
       "attitudes": 91
+    },
+    {
+      "id": "5354711243031436",
+      "mid": "5354711243031436",
+      "created_at": "2026-10-16T10:21:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmXhWcIC8",
+      "text": "回复@市区农民工:我没骂，我最多调侃几句，大A是我饭碗//@市区农民工:回复@成成他DaDa:话不能这么说，老舅也在骂A股//@挖地瓜的超级鹿鼎公:我本来就是民族主义，光明正大不用质疑，对于为人民提供大量高薪职位的企业，本来就应该爱护，我不否认刹车多少有点问题，改进就行，那些试图一棍子打死本...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 19
+    },
+    {
+      "id": "5354709307362170",
+      "mid": "5354709307362170",
+      "created_at": "2026-10-16T10:14:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RmXeOuTeG",
+      "text": "都是慷他人之慨",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 2,
+      "attitudes": 24
     }
   ]
 }
