@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月17日星期六 18:26:10",
+  "crawled_at_beijing": "2026年10月17日星期六 19:26:11",
   "crawled_date": "2026-10-17",
-  "post_count": 19,
+  "post_count": 20,
   "posts": [
     {
       "id": "5354900563428720",
@@ -234,6 +234,18 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 47
+    },
+    {
+      "id": "5355075094710300",
+      "mid": "5355075094710300",
+      "created_at": "2026-10-17T10:27:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn6KNjLmA",
+      "text": "//@乔凯文:这是日本人后代还是纯正国人啊？ 太离谱了//@蘸盐:道歉是因为其他中国留学生联系了中国驻俄罗斯大使馆？ 查看图片  查看图片  查看图片  查看图片",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 6,
+      "comments": 17,
+      "attitudes": 58
     }
   ]
 }
