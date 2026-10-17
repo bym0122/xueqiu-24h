@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月17日星期六 08:39:31",
+  "crawled_at_beijing": "2026年10月17日星期六 09:31:19",
   "crawled_date": "2026-10-17",
-  "post_count": 5,
+  "post_count": 15,
   "posts": [
     {
       "id": "5354900563428720",
@@ -66,6 +66,126 @@
       "reposts": 2,
       "comments": 3,
       "attitudes": 50
+    },
+    {
+      "id": "5354939236748073",
+      "mid": "5354939236748073",
+      "created_at": "2026-10-17T01:27:47.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn3dFsjtT",
+      "text": "回复@猫叔是个技术宅:你的语文学了什么？？？//@猫叔是个技术宅:回复 @挖地瓜的超级鹿鼎公:是按照仓位排列的吗？",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 9,
+      "attitudes": 11
+    },
+    {
+      "id": "5354939067140781",
+      "mid": "5354939067140781",
+      "created_at": "2026-10-17T01:27:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn3dotXDT",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 5
+    },
+    {
+      "id": "5354938767247547",
+      "mid": "5354938767247547",
+      "created_at": "2026-10-17T01:25:55.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn3cUuppV",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 16
+    },
+    {
+      "id": "5354938706429564",
+      "mid": "5354938706429564",
+      "created_at": "2026-10-17T01:25:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn3cOqYCE",
+      "text": "//@沈良-宏观价值投资:转发微博",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 0,
+      "attitudes": 4
+    },
+    {
+      "id": "5354938611794826",
+      "mid": "5354938611794826",
+      "created_at": "2026-10-17T01:25:18.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn3cF7wUO",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 0,
+      "attitudes": 6
+    },
+    {
+      "id": "5354938204948528",
+      "mid": "5354938204948528",
+      "created_at": "2026-10-17T01:23:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rn3c0kLkY",
+      "text": "$潞安环能(SH601699)$ 三季度利润有多少，大家说说",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 22
+    },
+    {
+      "id": "5354936708632597",
+      "mid": "5354936708632597",
+      "created_at": "2026-10-17T01:17:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn39AAdJr",
+      "text": "回复@对立统一66:肯定没有了，无人轰了//@对立统一66:回复@聪明de小帅哥:水分子到底还有没有啊",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 9
+    },
+    {
+      "id": "5354936439145483",
+      "mid": "5354936439145483",
+      "created_at": "2026-10-17T01:16:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn399Cn9N",
+      "text": "回复@别昔200907:20多踏空，你让我70追吗//@别昔200907:回复@红鑫未来500:老舅知道藏格，几年前提过 老舅不是觉得藏格好还是不好，是他对有色仓位控制所以铝买的够多就不买铜了 我觉得也有对大宗商品价格的忌惮，觉得铜没有铝估值低，安全性还是铝优先",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 27
+    },
+    {
+      "id": "5354931047367978",
+      "mid": "5354931047367978",
+      "created_at": "2026-10-17T00:55:14.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn30suUKm",
+      "text": "回复@市场中的耕耘者:当然是知道了才拿，否则谁买啊，勘探公司拿出勘探报告才拍卖探矿权//@市场中的耕耘者:拿探矿权的时候是不知道储量的。//@挖地瓜的超级鹿鼎公:探矿权拿下才可以拿开采权//@baojianyong1986:公公，豆包问了是探矿权",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 35
+    },
+    {
+      "id": "5354930686656598",
+      "mid": "5354930686656598",
+      "created_at": "2026-10-17T00:53:47.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rn2ZSrVGu",
+      "text": "轰六看上去老，但是全球拥有轰六同等级或以上轰炸机的国家仅仅只有中美俄。\n\n虽然轰六机型老，但是拥有钛合金主架，复合材料机翼，涡扇18或者20发动机的轰六，就厉害多了，何况轰六现在又不需要飞到目的地上空轰炸，咱空对地导弹强啊",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 19,
+      "attitudes": 104
     }
   ]
 }
