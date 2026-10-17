@@ -3,8 +3,16 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月18日星期日 06:19:16",
+  "crawled_at_beijing": "2026年10月18日星期日 07:16:42",
   "crawled_date": "2026-10-18",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "412754070",
+      "created_at": "2026-10-17T22:46:22.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/412754070",
+      "text": "按照每载重吨运价，成品油轮已经接近甚至超过了VLCC的平均运价。阿能的优势要一点点开始显现了。阿能的苏伊士+阿芙拉+外贸成品油轮的按照载重吨换算成VLCC，相当于13条V。目前苏伊士和阿芙拉的每载重吨TCE，超过TD34。"
+    }
+  ]
 }
