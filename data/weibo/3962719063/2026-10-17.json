@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月17日星期六 07:25:35",
+  "crawled_at_beijing": "2026年10月17日星期六 08:39:31",
   "crawled_date": "2026-10-17",
-  "post_count": 1,
+  "post_count": 5,
   "posts": [
     {
       "id": "5354900563428720",
@@ -18,6 +18,54 @@
       "reposts": 4,
       "comments": 12,
       "attitudes": 101
+    },
+    {
+      "id": "5354917008507446",
+      "mid": "5354917008507446",
+      "created_at": "2026-10-16T23:59:27.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn2DOzHaS",
+      "text": "股价高点，这种新闻就多//@寞25:煤价边际成本上涨，按重资产重置成本大涨，利好估值中枢提升  我是不是太乐观了？老舅",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 65
+    },
+    {
+      "id": "5354916856203176",
+      "mid": "5354916856203176",
+      "created_at": "2026-10-16T23:58:51.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn2Dzq1Je",
+      "text": "私营企业拿下的//@价投煤飞色舞:国有资产具体化国有企业。都在一个萝里。",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 4,
+      "attitudes": 41
+    },
+    {
+      "id": "5354916765502100",
+      "mid": "5354916765502100",
+      "created_at": "2026-10-16T23:58:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn2Dqn5ly",
+      "text": "一个10亿吨储量，6亿可开采量的矿180亿，不算80亿的厂房设备，陕煤储量200亿吨，650亿设备厂房，市值2800亿//@我在故快乐:这么便宜",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 7,
+      "comments": 5,
+      "attitudes": 42
+    },
+    {
+      "id": "5354915733701195",
+      "mid": "5354915733701195",
+      "created_at": "2026-10-16T23:54:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn2BLfwQH",
+      "text": "探矿权拿下才可以拿开采权//@baojianyong1986:公公，豆包问了是探矿权",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 50
     }
   ]
 }
