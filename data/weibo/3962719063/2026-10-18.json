@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月18日星期日 06:25:00",
+  "crawled_at_beijing": "2026年10月18日星期日 07:22:56",
   "crawled_date": "2026-10-18",
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
     {
       "id": "5355254306047895",
@@ -66,6 +66,18 @@
       "reposts": 4,
       "comments": 1,
       "attitudes": 41
+    },
+    {
+      "id": "5355255917184002",
+      "mid": "5355255917184002",
+      "created_at": "2026-10-17T22:26:09.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rnbsru8T0",
+      "text": "有意思的说法",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 9,
+      "comments": 17,
+      "attitudes": 96
     }
   ]
 }
