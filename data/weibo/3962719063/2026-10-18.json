@@ -3,8 +3,69 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月18日星期日 05:25:53",
+  "crawled_at_beijing": "2026年10月18日星期日 06:25:00",
   "crawled_date": "2026-10-18",
-  "post_count": 0,
-  "posts": []
+  "post_count": 5,
+  "posts": [
+    {
+      "id": "5355254306047895",
+      "mid": "5355254306047895",
+      "created_at": "2026-10-17T22:19:45.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnbpQpnkH",
+      "text": "为什么会有校花级美女出现在相亲市场，大概率是因为之前尝过高富帅的甜，差一点的就咽不下，于是到相亲市场来碰碰运气\n\n------大超说媒说的",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 12
+    },
+    {
+      "id": "5355253274772960",
+      "mid": "5355253274772960",
+      "created_at": "2026-10-17T22:15:39.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rnbobk1Fe",
+      "text": "没实力的时候，不要说话，因为说了也没人理你\n\n有实力的时候，不需要说话，因为有人替你说\n\n为王为尊，自有大儒来替你辩经",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 5,
+      "attitudes": 42
+    },
+    {
+      "id": "5355252796883669",
+      "mid": "5355252796883669",
+      "created_at": "2026-10-17T22:13:45.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnbnpsSKV",
+      "text": "前几天还在加税500%，一转眼，老美就大批量进口俄国柴油，转弯速度之快，瞠目结舌\n\n啥是脸面，哪有脸面，全是算计，全是利益",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 42
+    },
+    {
+      "id": "5355252255818969",
+      "mid": "5355252255818969",
+      "created_at": "2026-10-17T22:11:36.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnbmxopMl",
+      "text": "政治的阴暗，普通人是无法看见的\n一旦见过，三观尽毁是最普遍的结果",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 1,
+      "attitudes": 49
+    },
+    {
+      "id": "5355251578175628",
+      "mid": "5355251578175628",
+      "created_at": "2026-10-17T22:08:55.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnblryiQY",
+      "text": "利益两个字，一个带着刀，一个带着血",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 1,
+      "attitudes": 41
+    }
+  ]
 }
