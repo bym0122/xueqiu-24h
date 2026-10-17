@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月17日星期六 20:31:31",
+  "crawled_at_beijing": "2026年10月17日星期六 21:29:52",
   "crawled_date": "2026-10-17",
-  "post_count": 20,
+  "post_count": 21,
   "posts": [
     {
       "id": "5354900563428720",
@@ -246,6 +246,18 @@
       "reposts": 6,
       "comments": 17,
       "attitudes": 58
+    },
+    {
+      "id": "5355108743512633",
+      "mid": "5355108743512633",
+      "created_at": "2026-10-17T12:41:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rn7D4eJNn",
+      "text": "回复@虽慢亦达:主要的分歧在产量，1050万吨，还是1150万吨//@虽慢亦达:1400的喷吹煤价格含税，混煤价格在500元每吨，1100万吨的产量，500万吨的喷吹煤，600万吨的喷吹煤， 大概净利润在22亿左右",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 5,
+      "attitudes": 51
     }
   ]
 }
