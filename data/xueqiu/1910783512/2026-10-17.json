@@ -3,8 +3,16 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "dom",
-  "crawled_at_beijing": "2026年10月17日星期六 17:22:29",
+  "crawled_at_beijing": "2026年10月17日星期六 18:22:11",
   "crawled_date": "2026-10-17",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "412736710",
+      "created_at": "2026-10-17T10:15:00.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/412736710",
+      "text": "1.79 :7pm DHi:/ 03/07 Q@x.sE 复制打开抖音，看看【志伟的拍摄日记的作品】你就那样看着我的眼睛 婚礼那天真的快得像一场梦 所... 网页链接"
+    }
+  ]
 }
