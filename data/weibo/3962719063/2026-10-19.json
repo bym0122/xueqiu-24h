@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月19日星期一 06:25:30",
+  "crawled_at_beijing": "2026年10月19日星期一 07:24:15",
   "crawled_date": "2026-10-19",
-  "post_count": 6,
+  "post_count": 11,
   "posts": [
     {
       "id": "5355615125243057",
@@ -78,6 +78,66 @@
       "reposts": 34,
       "comments": 29,
       "attitudes": 146
+    },
+    {
+      "id": "5355632225945880",
+      "mid": "5355632225945880",
+      "created_at": "2026-10-18T23:21:28.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnlfooWNi",
+      "text": "在川普进口俄罗斯柴油的决定之后，泽连斯基连续袭击数家俄罗斯炼油厂，这是对川普的骑脸输出啊",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 21
+    },
+    {
+      "id": "5355630493960552",
+      "mid": "5355630493960552",
+      "created_at": "2026-10-18T23:14:35.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnlcBgCjS",
+      "text": "回复@无名派_:吨利润下降是必然的，就跟22年的煤炭一样，利润下降到哪里见底很有讲究，区别很大//@无名派_:还是看利润吧，利润足够就去干",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 16
+    },
+    {
+      "id": "5355628408603546",
+      "mid": "5355628408603546",
+      "created_at": "2026-10-18T23:06:18.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rnl9eA6aS",
+      "text": "回复@布瑞克斯-芮默文:部分会，也有部分是固定价格//@布瑞克斯-芮默文:老舅，火电价格上涨，水电会跟着涨吧，幅度会一样吗//@挖地瓜的超级鹿鼎公:回复@用户0t3l2g4tdi:会，所以我有带煤的火电防御//@用户0t3l2g4tdi:谢谢公公分享。咨询下：明年电价上涨是大概率，对电解铝的盈利能力会不会有较大影响",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 16
+    },
+    {
+      "id": "5355627993892823",
+      "mid": "5355627993892823",
+      "created_at": "2026-10-18T23:04:39.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rnl8zgkHt",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 5,
+      "attitudes": 36
+    },
+    {
+      "id": "5355619012839564",
+      "mid": "5355619012839564",
+      "created_at": "2026-10-18T22:28:58.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnkU5bUHq",
+      "text": "中国一亿度电，对应14亿GDP，\n100万吨电解铝，需要135亿度电，实际产值240亿\n\n135亿度电，对应1900亿GDP\n\n谁更优先？很清晰吧，\n\n除非你的国家电用不完，不缺电，还便宜，才会用去玩电解铝",
+      "source": "微博网页版",
+      "reposts": 38,
+      "comments": 32,
+      "attitudes": 276
     }
   ]
 }
