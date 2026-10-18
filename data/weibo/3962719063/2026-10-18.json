@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月18日星期日 09:31:38",
+  "crawled_at_beijing": "2026年10月18日星期日 10:28:45",
   "crawled_date": "2026-10-18",
-  "post_count": 10,
+  "post_count": 12,
   "posts": [
     {
       "id": "5355254306047895",
@@ -126,6 +126,30 @@
       "reposts": 0,
       "comments": 3,
       "attitudes": 2
+    },
+    {
+      "id": "5355309771000935",
+      "mid": "5355309771000935",
+      "created_at": "2026-10-18T02:00:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RncRj4co7",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 27
+    },
+    {
+      "id": "5355304242908089",
+      "mid": "5355304242908089",
+      "created_at": "2026-10-18T01:38:11.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RncIoccwF",
+      "text": "记者校门口采访小学生，看看小学生的回答，跟普通人有什么不一样\n请问最快的减脂办法是什么？   回答：火化\n请问伸手不打什么人？  回答：老丈人\n请问你仔细哪部作品的那个章节  回答：武松三打白骨精\n中国足球队怎么打进世界杯   回答：让高俅出个复活甲",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 15,
+      "attitudes": 96
     }
   ]
 }
