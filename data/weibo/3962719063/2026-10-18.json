@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月18日星期日 19:25:51",
+  "crawled_at_beijing": "2026年10月18日星期日 20:31:37",
   "crawled_date": "2026-10-18",
-  "post_count": 27,
+  "post_count": 28,
   "posts": [
     {
       "id": "5355254306047895",
@@ -330,6 +330,18 @@
       "reposts": 5,
       "comments": 1,
       "attitudes": 35
+    },
+    {
+      "id": "5355460962030308",
+      "mid": "5355460962030308",
+      "created_at": "2026-10-18T12:00:56.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RngNa8waU",
+      "text": "//@Q章鱼ling:现在女的这眼光都掉茅厕里了么，还是说太饿了？",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 19,
+      "attitudes": 64
     }
   ]
 }
