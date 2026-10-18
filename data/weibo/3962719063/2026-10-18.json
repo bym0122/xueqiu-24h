@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月18日星期日 13:27:30",
+  "crawled_at_beijing": "2026年10月18日星期日 14:32:43",
   "crawled_date": "2026-10-18",
-  "post_count": 14,
+  "post_count": 20,
   "posts": [
     {
       "id": "5355254306047895",
@@ -174,6 +174,78 @@
       "reposts": 8,
       "comments": 38,
       "attitudes": 264
+    },
+    {
+      "id": "5355378181409873",
+      "mid": "5355378181409873",
+      "created_at": "2026-10-18T06:31:59.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneDE5ULT",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 1
+    },
+    {
+      "id": "5355377807851536",
+      "mid": "5355377807851536",
+      "created_at": "2026-10-18T06:30:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneD2wWxG",
+      "text": "这个真的无所谓，傻逼阿三，绿三，绿教，非裔不要来中国最重要",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 14
+    },
+    {
+      "id": "5355377325769894",
+      "mid": "5355377325769894",
+      "created_at": "2026-10-18T06:28:35.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneCgod0O",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 0,
+      "attitudes": 15
+    },
+    {
+      "id": "5355377233236079",
+      "mid": "5355377233236079",
+      "created_at": "2026-10-18T06:28:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneC7dzQP",
+      "text": "小仙女的字典里没有怕字//@侏罗纪木质素:牛逼//@王也行不行:这事我有发言权。我二哥上山掏蛇，遭遇了野熊，跳崖才活下来",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 9
+    },
+    {
+      "id": "5355374454506015",
+      "mid": "5355374454506015",
+      "created_at": "2026-10-18T06:17:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnexDiUdF",
+      "text": "微信也学百度，推广网络借贷，哎",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 19,
+      "attitudes": 73
+    },
+    {
+      "id": "5355378319822195",
+      "mid": "5355378319822195",
+      "created_at": "2026-10-18T06:32:32.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneDRFdcv",
+      "text": "呵呵",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
     }
   ]
 }
