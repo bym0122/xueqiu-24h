@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月18日星期日 14:32:43",
+  "crawled_at_beijing": "2026年10月18日星期日 15:32:04",
   "crawled_date": "2026-10-18",
-  "post_count": 20,
+  "post_count": 27,
   "posts": [
     {
       "id": "5355254306047895",
@@ -246,6 +246,90 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 0
+    },
+    {
+      "id": "5355382652013080",
+      "mid": "5355382652013080",
+      "created_at": "2026-10-18T06:49:45.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneKR8rH2",
+      "text": "回复@用户7997465717:你被拉黑了，黄皮肤，长着一颗黑心//@用户7997465717:你就吃不到，气不气人。人家吃的两嘴冒油，还不用给钱//@挖地瓜的超级鹿鼎公:呵呵",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 20,
+      "attitudes": 92
+    },
+    {
+      "id": "5355379556877091",
+      "mid": "5355379556877091",
+      "created_at": "2026-10-18T06:37:27.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneFRsR2P",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 10,
+      "attitudes": 42
+    },
+    {
+      "id": "5355379414274792",
+      "mid": "5355379414274792",
+      "created_at": "2026-10-18T06:36:53.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneFDhW4g",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 93
+    },
+    {
+      "id": "5355379355814114",
+      "mid": "5355379355814114",
+      "created_at": "2026-10-18T06:36:39.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneFxoow2",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 17,
+      "attitudes": 64
+    },
+    {
+      "id": "5355379221596745",
+      "mid": "5355379221596745",
+      "created_at": "2026-10-18T06:36:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneFk6HnX",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 7,
+      "comments": 2,
+      "attitudes": 36
+    },
+    {
+      "id": "5355379045176898",
+      "mid": "5355379045176898",
+      "created_at": "2026-10-18T06:35:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneF2lIKm",
+      "text": "我去拜爷爷奶奶的时候，真的有去拜伯父，姑姑",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 7,
+      "attitudes": 57
+    },
+    {
+      "id": "5355378822090442",
+      "mid": "5355378822090442",
+      "created_at": "2026-10-18T06:34:32.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RneEG8LOO",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 5,
+      "comments": 1,
+      "attitudes": 35
     }
   ]
 }
