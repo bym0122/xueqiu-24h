@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月18日星期日 07:22:56",
+  "crawled_at_beijing": "2026年10月18日星期日 08:39:31",
   "crawled_date": "2026-10-18",
-  "post_count": 6,
+  "post_count": 8,
   "posts": [
     {
       "id": "5355254306047895",
@@ -78,6 +78,30 @@
       "reposts": 9,
       "comments": 17,
       "attitudes": 96
+    },
+    {
+      "id": "5355285990606158",
+      "mid": "5355285990606158",
+      "created_at": "2026-10-18T00:25:39.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnceX2xGK",
+      "text": "我居然看懂了\n\n亲爱的欧阳钢蛋，你好\n那是杏花开的一天，你凌晨两点半就起床了，开始化妆，一斤白色的粉底液糊在脸上，特别的白特别的好看，带上戴上两米的红头发，戴上1.5米长的红色假睫毛，，，，，，",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 16,
+      "attitudes": 46
+    },
+    {
+      "id": "5355273420277104",
+      "mid": "5355273420277104",
+      "created_at": "2026-10-17T23:35:42.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnbUG1a5q",
+      "text": "狐假虎威是真的，根据野外红外视频拍摄，一只狐狸远远的跟着老虎，等老虎撒尿走后，狐狸走到老虎尿的地方打滚，让虎尿气息染到自己皮毛上",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 7,
+      "comments": 16,
+      "attitudes": 178
     }
   ]
 }
