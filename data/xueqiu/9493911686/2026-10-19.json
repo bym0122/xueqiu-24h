@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月19日星期一 13:28:21",
+  "crawled_at_beijing": "2026年10月19日星期一 14:35:56",
   "crawled_date": "2026-10-19",
-  "post_count": 9,
+  "post_count": 10,
   "posts": [
     {
       "id": "412805469",
@@ -69,6 +69,13 @@
       "kind": "status",
       "url": "https://xueqiu.com/9493911686/412839767",
       "text": "这个月账户又翻红了，今天港股还没开。感觉良好。大手这种搞法，典型的钝刀子割肉，很痛的。"
+    },
+    {
+      "id": "412869960",
+      "created_at": "2026-10-19T06:11:12.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/412869960",
+      "text": "仔细看节点的话，发现其实光有资金动作还不够，还要有“声音”配合。"
     }
   ]
 }
