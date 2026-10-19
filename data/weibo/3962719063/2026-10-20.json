@@ -3,8 +3,21 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月20日星期二 05:30:44",
+  "crawled_at_beijing": "2026年10月20日星期二 06:30:09",
   "crawled_date": "2026-10-20",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5355973300716134",
+      "mid": "5355973300716134",
+      "created_at": "2026-10-19T21:56:47.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rnu7w30iy",
+      "text": "最近几天，港口煤炭因为大风导致运输船无法装载，累库132万吨",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 21,
+      "attitudes": 78
+    }
+  ]
 }
