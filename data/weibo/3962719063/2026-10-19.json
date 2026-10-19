@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月19日星期一 10:31:27",
+  "crawled_at_beijing": "2026年10月19日星期一 11:32:45",
   "crawled_date": "2026-10-19",
-  "post_count": 30,
+  "post_count": 33,
   "posts": [
     {
       "id": "5355615125243057",
@@ -366,6 +366,42 @@
       "reposts": 8,
       "comments": 16,
       "attitudes": 190
+    },
+    {
+      "id": "5355691170598163",
+      "mid": "5355691170598163",
+      "created_at": "2026-10-19T03:15:42.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnmMt2vBN",
+      "text": "电解铝目前的锚点是2.16--2.2万单价，27年利润差不多是26年利润打8折，估值是8PE，50%分红比例6.25%的股息，",
+      "source": "微博网页版",
+      "reposts": 33,
+      "comments": 24,
+      "attitudes": 231
+    },
+    {
+      "id": "5355689566013252",
+      "mid": "5355689566013252",
+      "created_at": "2026-10-19T03:09:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnmJSpejW",
+      "text": "回复@Y-蔷-薇:以前借的长期贷款，一般不能提前还款的//@Y-蔷-薇:为什么有现金还要负债？",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 4,
+      "attitudes": 93
+    },
+    {
+      "id": "5355686541919127",
+      "mid": "5355686541919127",
+      "created_at": "2026-10-19T02:57:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnmF083fF",
+      "text": "0月19日Mysteel铝锭价格行情：华东23650，涨180",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 11,
+      "attitudes": 160
     }
   ]
 }
