@@ -3,9 +3,9 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月19日星期一 14:35:56",
+  "crawled_at_beijing": "2026年10月19日星期一 15:45:11",
   "crawled_date": "2026-10-19",
-  "post_count": 10,
+  "post_count": 11,
   "posts": [
     {
       "id": "412805469",
@@ -76,6 +76,13 @@
       "kind": "status",
       "url": "https://xueqiu.com/9493911686/412869960",
       "text": "仔细看节点的话，发现其实光有资金动作还不够，还要有“声音”配合。"
+    },
+    {
+      "id": "412876882",
+      "created_at": "2026-10-19T06:49:20.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/412876882",
+      "text": "回复@我没事儿: 有稳妥的快钱赚，你干嘛要去赚慢钱？ 裁判员下场和运动员比赛，这部一本万利的事儿。//@我没事儿:回复@斯托伯的天空:[已修改]国家队为啥不在老登里稳稳吃息"
     }
   ]
 }
