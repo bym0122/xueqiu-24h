@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月19日星期一 15:49:27",
+  "crawled_at_beijing": "2026年10月19日星期一 16:40:13",
   "crawled_date": "2026-10-19",
-  "post_count": 33,
+  "post_count": 37,
   "posts": [
     {
       "id": "5355615125243057",
@@ -402,6 +402,54 @@
       "reposts": 2,
       "comments": 11,
       "attitudes": 160
+    },
+    {
+      "id": "5355762135336339",
+      "mid": "5355762135336339",
+      "created_at": "2026-10-19T07:57:41.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnoCVmodZ",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 11,
+      "attitudes": 59
+    },
+    {
+      "id": "5355761324788290",
+      "mid": "5355761324788290",
+      "created_at": "2026-10-19T07:54:28.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnoBCk5Eu",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 6,
+      "attitudes": 72
+    },
+    {
+      "id": "5355761005758535",
+      "mid": "5355761005758535",
+      "created_at": "2026-10-19T07:53:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnoB6oa3B",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 6,
+      "attitudes": 71
+    },
+    {
+      "id": "5355760674671753",
+      "mid": "5355760674671753",
+      "created_at": "2026-10-19T07:51:53.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnoAzjBkR",
+      "text": "睡醒不看盘，看大明总旗跑横店",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 12,
+      "attitudes": 161
     }
   ]
 }
