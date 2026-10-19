@@ -3,8 +3,16 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "xhr",
-  "crawled_at_beijing": "2026年10月19日星期一 07:18:49",
+  "crawled_at_beijing": "2026年10月19日星期一 08:29:11",
   "crawled_date": "2026-10-19",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "412805469",
+      "created_at": "2026-10-19T00:24:19.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/412805469",
+      "text": "老A赌徒们一看日韩这开盘估计又吓着了老A：“放心，我不会让大家焦虑太久的。”"
+    }
+  ]
 }
