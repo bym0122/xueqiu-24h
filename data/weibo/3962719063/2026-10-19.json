@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月19日星期一 19:33:25",
+  "crawled_at_beijing": "2026年10月19日星期一 20:41:12",
   "crawled_date": "2026-10-19",
-  "post_count": 37,
+  "post_count": 38,
   "posts": [
     {
       "id": "5355615125243057",
@@ -450,6 +450,18 @@
       "reposts": 1,
       "comments": 12,
       "attitudes": 161
+    },
+    {
+      "id": "5355818170191832",
+      "mid": "5355818170191832",
+      "created_at": "2026-10-19T11:40:21.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rnq5j0NU4",
+      "text": "回复@小猪跳芭蕾笑嘻嘻:找不到，因为女人基本上很少肯为男人花钱//@小猪跳芭蕾笑嘻嘻:那反问一下，女的有800万，可以找多大的小鲜肉",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 21,
+      "attitudes": 100
     }
   ]
 }
