@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月20日星期二 06:30:09",
+  "crawled_at_beijing": "2026年10月20日星期二 07:30:22",
   "crawled_date": "2026-10-20",
-  "post_count": 1,
+  "post_count": 4,
   "posts": [
     {
       "id": "5355973300716134",
@@ -18,6 +18,42 @@
       "reposts": 2,
       "comments": 21,
       "attitudes": 78
+    },
+    {
+      "id": "5355994798358670",
+      "mid": "5355994798358670",
+      "created_at": "2026-10-19T23:22:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnuGbz4tg",
+      "text": "是的，股价已经提前7个月见顶，并已经回落35%//@呵呵-哒-_:铝利润是不是见顶了",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 51
+    },
+    {
+      "id": "5355994247071172",
+      "mid": "5355994247071172",
+      "created_at": "2026-10-19T23:20:01.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnuFitFxa",
+      "text": "周期股\n市场走预期，所以周期股利润见顶，股价见顶应该卖\n因为市场走预期，所以要抢先一步，利润见顶前，就开始卖，不要等周期走完卖，就来不及了，被人抢着走在前\n因为总有人抢先一步，所以要在利润上升期还没走完，就抢在抢先一步得人之前卖\n\n现在就是这个样子，反之见底也类似，",
+      "source": "微博网页版",
+      "reposts": 20,
+      "comments": 21,
+      "attitudes": 112
+    },
+    {
+      "id": "5355985531307270",
+      "mid": "5355985531307270",
+      "created_at": "2026-10-19T22:45:23.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rnurf5u50",
+      "text": "回复@妙真1976:按照你的逻辑，神华22年27,28的时候应该卖掉//@妙真1976:卖在低市盈率，周期股呀，明显顶已经到过了，现在是，下跌反弹而已。",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 7,
+      "attitudes": 93
     }
   ]
 }
