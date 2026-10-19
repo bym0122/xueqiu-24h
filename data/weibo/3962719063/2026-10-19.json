@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月19日星期一 20:41:12",
+  "crawled_at_beijing": "2026年10月19日星期一 21:47:23",
   "crawled_date": "2026-10-19",
-  "post_count": 38,
+  "post_count": 42,
   "posts": [
     {
       "id": "5355615125243057",
@@ -461,6 +461,54 @@
       "source": "微博网页版",
       "reposts": 2,
       "comments": 21,
+      "attitudes": 100
+    },
+    {
+      "id": "5355848198784046",
+      "mid": "5355848198784046",
+      "created_at": "2026-10-19T13:39:39.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnqRJAR8a",
+      "text": "回复@再盗号我要骂人了:哈哈哈哈哈//@再盗号我要骂人了:见之前：为了800万，这个男人一定要拿下！ 见之后：我突然发现我也不是那么爱钱。",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 26
+    },
+    {
+      "id": "5355847431489284",
+      "mid": "5355847431489284",
+      "created_at": "2026-10-19T13:36:36.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnqQv6fqI",
+      "text": "盲猜是姐姐吧，不是哥哥",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 22
+    },
+    {
+      "id": "5355847062392440",
+      "mid": "5355847062392440",
+      "created_at": "2026-10-19T13:35:09.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnqPUa2nK",
+      "text": "神火三季度每股收益3.38元，挺好的，老老实实等明年分红",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 21,
+      "attitudes": 191
+    },
+    {
+      "id": "5355844783836184",
+      "mid": "5355844783836184",
+      "created_at": "2026-10-19T13:26:06.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnqMeg5XW",
+      "text": "2026年10月19日CCI指数\n5500大卡 1033 （+5）\n5000大卡 934 （+4）\n4500大卡 835 （+3）",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 2,
       "attitudes": 100
     }
   ]
