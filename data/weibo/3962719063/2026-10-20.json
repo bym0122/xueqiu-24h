@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月20日星期二 21:41:54",
+  "crawled_at_beijing": "2026年10月20日星期二 22:33:43",
   "crawled_date": "2026-10-20",
-  "post_count": 33,
+  "post_count": 35,
   "posts": [
     {
       "id": "5355973300716134",
@@ -402,6 +402,30 @@
       "reposts": 3,
       "comments": 5,
       "attitudes": 63
+    },
+    {
+      "id": "5356215023962422",
+      "mid": "5356215023962422",
+      "created_at": "2026-10-20T13:57:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnApogCO2",
+      "text": "大同下雪了，网友在城墙上拍的，很漂亮，好有感觉",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 19,
+      "attitudes": 138
+    },
+    {
+      "id": "5356214215248352",
+      "mid": "5356214215248352",
+      "created_at": "2026-10-20T13:54:05.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnAo5m1kQ",
+      "text": "东北人总是嘲笑南方人买猪肉都是一点点，但是看数据吉林，黑龙江，山东的人均猪肉消费量不及全国第八的浙江，更不要说跟全国第三的广东比，差的远了\n\n当然，冠亚军是不靠海的南方，重庆和四川",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 46,
+      "attitudes": 150
     }
   ]
 }
