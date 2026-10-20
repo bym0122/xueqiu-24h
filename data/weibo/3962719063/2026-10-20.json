@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月20日星期二 19:31:34",
+  "crawled_at_beijing": "2026年10月20日星期二 20:39:02",
   "crawled_date": "2026-10-20",
-  "post_count": 32,
+  "post_count": 33,
   "posts": [
     {
       "id": "5355973300716134",
@@ -390,6 +390,18 @@
       "reposts": 1,
       "comments": 3,
       "attitudes": 68
+    },
+    {
+      "id": "5356189160313654",
+      "mid": "5356189160313654",
+      "created_at": "2026-10-20T12:14:32.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnzJG1jAW",
+      "text": "回复@HHD2026:我已经减了不少了，主要是中煤H的盒饭吃起来很舒服，比股息还舒服//@HHD2026:鹿公好。虽然您中煤h成本低，从比较的角度看股息并不占优势，为啥您一直留有较大仓位？//@挖地瓜的超级鹿鼎公:回复@吃息等风来://@吃息等风来:图片评论 评论配图",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 5,
+      "attitudes": 63
     }
   ]
 }
