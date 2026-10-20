@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月20日星期二 09:36:00",
+  "crawled_at_beijing": "2026年10月20日星期二 10:30:49",
   "crawled_date": "2026-10-20",
-  "post_count": 15,
+  "post_count": 18,
   "posts": [
     {
       "id": "5355973300716134",
@@ -186,6 +186,42 @@
       "reposts": 3,
       "comments": 7,
       "attitudes": 128
+    },
+    {
+      "id": "5356036408215801",
+      "mid": "5356036408215801",
+      "created_at": "2026-10-20T02:07:33.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnvLiytiV",
+      "text": "回复@Zzzone佳佳:懂红利，还是懂科技都不重要，比较长期年化收益率，差不多收益率，叠加比最大回撤//@Zzzone佳佳:回复@呵呵-哒-_:鹿公懂红利，张坤不懂红利。 但是看张坤的蓝筹，他选的都是高roe，白酒腾讯，吃了一口海油；再看亚洲精选，他把这一轮的ai科技也吃的很透，从台积电到谷歌到海力士都吃到...全文",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 16,
+      "attitudes": 116
+    },
+    {
+      "id": "5356036018936536",
+      "mid": "5356036018936536",
+      "created_at": "2026-10-20T02:06:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnvKFBuNG",
+      "text": "回复@白沙湖2012:铝价下来，海外投资利润没有了，谁去啊，大把现金，分红比例肯定要提高//@白沙湖2012:公公早，请教一下，上篇提到预期绿铝未来盈利下限是回到25年的70亿，对应12PE，按40%分红率，现价对应股息率只有3.2%，低于4%的合理范围，我的这个理解是否有问题？//@挖地瓜的超级鹿鼎公:回复...全文",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 4,
+      "attitudes": 84
+    },
+    {
+      "id": "5356035315075399",
+      "mid": "5356035315075399",
+      "created_at": "2026-10-20T02:03:12.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnvJxlilh",
+      "text": "红利股走的真软啊",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 52,
+      "attitudes": 223
     }
   ]
 }
