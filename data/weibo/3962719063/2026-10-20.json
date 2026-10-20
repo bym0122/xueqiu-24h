@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月20日星期二 13:32:04",
+  "crawled_at_beijing": "2026年10月20日星期二 14:37:22",
   "crawled_date": "2026-10-20",
-  "post_count": 22,
+  "post_count": 25,
   "posts": [
     {
       "id": "5355973300716134",
@@ -270,6 +270,42 @@
       "reposts": 1,
       "comments": 13,
       "attitudes": 122
+    },
+    {
+      "id": "5356098876082934",
+      "mid": "5356098876082934",
+      "created_at": "2026-10-20T06:15:46.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rnxo3pwrQ",
+      "text": "今天俺的股票都被杀，煤价高位，铝价高位，但是股票却早早的提前几个月被杀下来了\n\n只有神华，陕煤这两个煤炭股里的异类还是坚挺的不像话",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 86,
+      "attitudes": 357
+    },
+    {
+      "id": "5356088481287039",
+      "mid": "5356088481287039",
+      "created_at": "2026-10-20T05:34:28.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rnx7i5oOH",
+      "text": "暖冬没有变啊//@山花烂漫ooo:博主以前说过暖冬的，不知道这话是不是根据情况改变了//@自由如风abc:老舅陕能可以考虑加仓了吧//@挖地瓜的超级鹿鼎公:回复@北京小小夏:对的//@北京小小夏:反之利润见底前股价先见底",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 5,
+      "comments": 7,
+      "attitudes": 100
+    },
+    {
+      "id": "5356088259511628",
+      "mid": "5356088259511628",
+      "created_at": "2026-10-20T05:33:35.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rnx6VDUpm",
+      "text": "中煤也是三月见顶，跌这么多了，借着出政策了杀底来了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 38,
+      "attitudes": 341
     }
   ]
 }
