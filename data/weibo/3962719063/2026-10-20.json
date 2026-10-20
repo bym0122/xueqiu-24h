@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月20日星期二 12:31:08",
+  "crawled_at_beijing": "2026年10月20日星期二 13:32:04",
   "crawled_date": "2026-10-20",
-  "post_count": 18,
+  "post_count": 22,
   "posts": [
     {
       "id": "5355973300716134",
@@ -222,6 +222,54 @@
       "reposts": 1,
       "comments": 52,
       "attitudes": 223
+    },
+    {
+      "id": "5356080055714193",
+      "mid": "5356080055714193",
+      "created_at": "2026-10-20T05:00:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnwTHnYwp",
+      "text": "给你看看游戏仓建仓时间点和价格，你去看看当时的神华，陕煤啥股价 查看图片 //@我吃饱的时候不饿Llj2017927:为啥中煤仓位比山煤和陕煤高 //@挖地瓜的超级鹿鼎公:回复@紧跟E大:中煤煤矿除了大海则，其他都不如陕煤，分红因为煤化工投资又不够高//@紧跟E大:为啥陕煤涨这么好，中煤跌这么差",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 5,
+      "attitudes": 101
+    },
+    {
+      "id": "5356077899055990",
+      "mid": "5356077899055990",
+      "created_at": "2026-10-20T04:52:24.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnwQdBZSm",
+      "text": "回复@北京小小夏:对的//@北京小小夏:反之利润见底前股价先见底",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 5,
+      "attitudes": 92
+    },
+    {
+      "id": "5356077740985385",
+      "mid": "5356077740985385",
+      "created_at": "2026-10-20T04:51:47.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnwPY48lj",
+      "text": "A00铝锭 无锡 23530 -120 10-20\n氧化铝 山西 2680 0",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 146
+    },
+    {
+      "id": "5356077391808417",
+      "mid": "5356077391808417",
+      "created_at": "2026-10-20T04:50:24.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnwPp7As1",
+      "text": "红楼--缉恶成圣，这片子里面的几个女子的建模真的无敌好看",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 13,
+      "attitudes": 122
     }
   ]
 }
