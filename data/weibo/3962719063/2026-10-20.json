@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月20日星期二 14:37:22",
+  "crawled_at_beijing": "2026年10月20日星期二 15:41:34",
   "crawled_date": "2026-10-20",
-  "post_count": 25,
+  "post_count": 26,
   "posts": [
     {
       "id": "5355973300716134",
@@ -306,6 +306,18 @@
       "reposts": 4,
       "comments": 38,
       "attitudes": 341
+    },
+    {
+      "id": "5356108493619604",
+      "mid": "5356108493619604",
+      "created_at": "2026-10-20T06:53:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnxDzfbCI",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 19,
+      "comments": 31,
+      "attitudes": 118
     }
   ]
 }
