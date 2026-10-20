@@ -3,8 +3,57 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月21日星期三 04:31:24",
+  "crawled_at_beijing": "2026年10月21日星期三 05:31:39",
   "crawled_date": "2026-10-21",
-  "post_count": 0,
-  "posts": []
+  "post_count": 4,
+  "posts": [
+    {
+      "id": "5356323900227826",
+      "mid": "5356323900227826",
+      "created_at": "2026-10-20T21:09:56.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnDf00XgC",
+      "text": "回复@一枚能化研究员:怎么可能，我对于回南天是无所谓的，空调24小时除湿就好//@一枚能化研究员:公公，你一定没在回南天去厦门和珠海//@挖地瓜的超级鹿鼎公:回复@虚掩的门---2022:不不不，我最喜欢的是厦门，杭州，珠海，苏州，成都，重庆，排名就是次序//@虚掩的门---2022:鹿鼎公，对我们山西情...全文",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 2,
+      "attitudes": 11
+    },
+    {
+      "id": "5356323560228234",
+      "mid": "5356323560228234",
+      "created_at": "2026-10-20T21:08:35.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnDes0Xnc",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 10
+    },
+    {
+      "id": "5356322811805761",
+      "mid": "5356322811805761",
+      "created_at": "2026-10-20T21:05:36.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnDdf7zLb",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 5
+    },
+    {
+      "id": "5356320791986181",
+      "mid": "5356320791986181",
+      "created_at": "2026-10-20T20:57:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnD9Z8kHb",
+      "text": "回复@虚掩的门---2022:不不不，我最喜欢的是厦门，杭州，珠海，苏州，成都，重庆，排名就是次序//@虚掩的门---2022:鹿鼎公，对我们山西情有独钟啊！",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 3,
+      "attitudes": 13
+    }
+  ]
 }
