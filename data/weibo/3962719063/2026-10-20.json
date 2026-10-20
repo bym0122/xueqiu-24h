@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月20日星期二 18:31:21",
+  "crawled_at_beijing": "2026年10月20日星期二 19:31:34",
   "crawled_date": "2026-10-20",
-  "post_count": 28,
+  "post_count": 32,
   "posts": [
     {
       "id": "5355973300716134",
@@ -342,6 +342,54 @@
       "reposts": 2,
       "comments": 26,
       "attitudes": 94
+    },
+    {
+      "id": "5356174616562117",
+      "mid": "5356174616562117",
+      "created_at": "2026-10-20T11:16:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rnzmdrx6B",
+      "text": "回复@吃息等风来://@吃息等风来:图片评论 评论配图",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 34
+    },
+    {
+      "id": "5356174163317022",
+      "mid": "5356174163317022",
+      "created_at": "2026-10-20T11:14:56.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/RnzludUUm",
+      "text": "近日，国家矿山安全监察局印发《煤矿安全监管监察行政处罚裁量权基准》。\n\n该裁量基准旨在规范煤矿安全监管监察行政处罚裁量，统一执法处罚标尺，推动严格规范公正文明执法，保护煤矿企业合法权益。文件分为总则、细则、轻微违法行为可以不予行政处罚事项清单三大部分。\n\n总则明确裁量适用原则、从轻减 ...全文",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 4,
+      "attitudes": 47
+    },
+    {
+      "id": "5356173286966898",
+      "mid": "5356173286966898",
+      "created_at": "2026-10-20T11:11:27.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rnzk4tepk",
+      "text": "//@罗霸道本尊://@摩诃般若么么龙:转发微博",
+      "source": "微博网页版",
+      "reposts": 11,
+      "comments": 1,
+      "attitudes": 20
+    },
+    {
+      "id": "5356173131777037",
+      "mid": "5356173131777037",
+      "created_at": "2026-10-20T11:10:50.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnzjP7shT",
+      "text": "2026年10月20日CCI指数\n5500大卡 1038 （+5）\n5000大卡 937 （+3）\n4500大卡 837 （+2）",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 68
     }
   ]
 }
