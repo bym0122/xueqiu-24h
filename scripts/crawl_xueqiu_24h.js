@@ -188,7 +188,7 @@ function domScrape(uid) {
         } catch (e) { out.error = "fetch:" + e.message; break; }
         out.http = r.status;
         const raw = await r.text();
-        out.bodyHead = raw.slice(0, 60).replace(/\s+/g, " ");
+        out.bodyHead = raw.slice(0, 500).replace(/\s+/g, " ");
         if (r.status !== 200) { out.error = "http:" + r.status; break; }
         let j;
         try { j = JSON.parse(raw); } catch (e) { out.error = "json:" + out.bodyHead.slice(0, 30); break; }
@@ -225,7 +225,10 @@ function domScrape(uid) {
     await page.goto(PROFILE_URL, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForTimeout(4000);
     profileTitle = await page.title();
+    const profileText = await page.locator("body").innerText().catch(() => "");
+    const profileTextHead = profileText.replace(/\s+/g, " ").trim().slice(0, 600);
     console.log("Profile title:", profileTitle);
+    console.log("Profile visible text:", profileTextHead || "(empty)");
 
     // Scroll to trigger lazy feed loading (drives the page's own XHR).
     for (let i = 0; i < 6; i++) {
