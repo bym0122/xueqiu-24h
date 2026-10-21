@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月21日星期三 21:40:58",
+  "crawled_at_beijing": "2026年10月21日星期三 22:34:33",
   "crawled_date": "2026-10-21",
-  "post_count": 26,
+  "post_count": 30,
   "posts": [
     {
       "id": "5356323900227826",
@@ -318,6 +318,54 @@
       "reposts": 3,
       "comments": 3,
       "attitudes": 54
+    },
+    {
+      "id": "5356577362023997",
+      "mid": "5356577362023997",
+      "created_at": "2026-10-21T13:57:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnJPO8ux7",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 4,
+      "attitudes": 62
+    },
+    {
+      "id": "5356576791334538",
+      "mid": "5356576791334538",
+      "created_at": "2026-10-21T13:54:50.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnJOT5BaO",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 8,
+      "attitudes": 36
+    },
+    {
+      "id": "5356575692952377",
+      "mid": "5356575692952377",
+      "created_at": "2026-10-21T13:50:28.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnJN7co2Z",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 18,
+      "attitudes": 44
+    },
+    {
+      "id": "5356574231235347",
+      "mid": "5356574231235347",
+      "created_at": "2026-10-21T13:44:40.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnJKL5bmX",
+      "text": "2026年10月21日CCI指数\n5500大卡 1040 （+2）\n5000大卡 937 （+0）\n4500大卡 837 （+0）",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 11,
+      "attitudes": 136
     }
   ]
 }
