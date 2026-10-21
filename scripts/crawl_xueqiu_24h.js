@@ -173,6 +173,7 @@ function domScrape(uid) {
 
   let posts = [];
   let freshSource = "none";
+  let profileTitle = "";
 
   async function manualApiFetch() {
     return await page.evaluate(async (uid) => {
@@ -223,7 +224,8 @@ function domScrape(uid) {
     console.log(`Opening: ${PROFILE_URL}`);
     await page.goto(PROFILE_URL, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForTimeout(4000);
-    console.log("Profile title:", await page.title());
+    profileTitle = await page.title();
+    console.log("Profile title:", profileTitle);
 
     // Scroll to trigger lazy feed loading (drives the page's own XHR).
     for (let i = 0; i < 6; i++) {
@@ -359,6 +361,14 @@ function domScrape(uid) {
     fs.writeFileSync(outputFile, JSON.stringify(mergedFile, null, 2), "utf8");
     console.log(`Posts: source=${freshSource} captured=${posts.length} new=${newPosts.length}.`);
     console.log(`Saved to: ${outputFile}`);
+
+    // 静默失败检测:抓到 0 条但又不是"确实 24h 没发帖",就标记失败,让 Action 变红而不是写个空文件。
+    const wafBlocked = /Verification|验证/i.test(profileTitle || "");
+    const silentZero = posts.length === 0 && !/none-in-24h/.test(freshSource);
+    if (wafBlocked || silentZero) {
+      console.error(`DEGRADED: wafBlocked=${wafBlocked} silentZero=${silentZero} profileTitle="${profileTitle}" source=${freshSource}`);
+      process.exitCode = 1;
+    }
     await browser.close();
   }
 })();

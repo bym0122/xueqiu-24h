@@ -1,10 +1,11 @@
 name: Xueqiu 24h Fetch
 
 on:
+  # 定时抓取已停用:GitHub 机房 IP 被雪球风控拦死(400 请登录 / ACW 挑战),
+  # 每小时跑只会写 0 条。改由手机端本地抓取:
+  #   xq24 --push
+  # 保留手动触发,方便在别的网络环境(如家宽/代理)下应急。
   workflow_dispatch:
-  schedule:
-    # every hour UTC
-    - cron: "0 * * * *"
 
 permissions:
   contents: write
