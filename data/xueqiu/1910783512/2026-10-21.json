@@ -2,11 +2,11 @@
   "user_id": "1910783512",
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
-  "source": "dom",
-  "crawled_at_beijing": "2026年10月21日星期三 15:36:55",
+  "source": "termux+xq",
+  "crawled_at_beijing": "2026年10月21日星期三 17:00:05",
   "crawled_date": "2026-10-21",
   "pages_fetched": 1,
-  "post_count": 20,
+  "post_count": 21,
   "posts": [
     {
       "id": "413165356",
@@ -147,8 +147,13 @@
       "kind": "retweet",
       "url": "https://xueqiu.com/1910783512/413165940",
       "text": "说明你不会看财报啊。 大熊市，不仅季度要同比增长，还要环比增长，还要环比增速也增长。 油运未来三个季度，是同比和环比都大增，关键是，估值很可能创A股有史以来新低。 宁德拿什么和油运比？"
+    },
+    {
+      "id": "413210983",
+      "created_at": "2026-10-21T07:45:34.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/413210983",
+      "text": "或许人本身就是更高维度生命创造的一种能够自我繁衍的机器人。"
     }
-  ],
-  "fetch_status": "blocked_by_xueqiu_access_control",
-  "fetch_diagnostic": "Access challenge page: 访问提示 - 雪球"
+  ]
 }
