@@ -2,8 +2,8 @@
   "user_id": "1910783512",
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
-  "source": "termux+xq",
-  "crawled_at_beijing": "2026年10月21日星期三 11:55:15",
+  "source": "dom",
+  "crawled_at_beijing": "2026年10月21日星期三 15:20:37",
   "crawled_date": "2026-10-21",
   "pages_fetched": 1,
   "post_count": 20,
@@ -148,5 +148,7 @@
       "url": "https://xueqiu.com/1910783512/413165940",
       "text": "说明你不会看财报啊。 大熊市，不仅季度要同比增长，还要环比增长，还要环比增速也增长。 油运未来三个季度，是同比和环比都大增，关键是，估值很可能创A股有史以来新低。 宁德拿什么和油运比？"
     }
-  ]
+  ],
+  "fetch_status": "blocked_by_xueqiu_access_control",
+  "fetch_diagnostic": "Access challenge page: 访问提示 - 雪球"
 }

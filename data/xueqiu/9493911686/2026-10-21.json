@@ -2,8 +2,8 @@
   "user_id": "9493911686",
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
-  "source": "termux+xq",
-  "crawled_at_beijing": "2026年10月21日星期三 11:55:15",
+  "source": "dom",
+  "crawled_at_beijing": "2026年10月21日星期三 15:20:19",
   "crawled_date": "2026-10-21",
   "pages_fetched": 1,
   "post_count": 19,
@@ -141,5 +141,7 @@
       "url": "https://xueqiu.com/9493911686/413091686",
       "text": "这个问题本身就是个产品问题，但大家热议的焦点根本就不在产品本身，而且对过去某种极端情绪的反噬。\n企业就是企业，产品就是产品，你用苹果也好，用HW也好，不管怎么评价产品本身，都不应该涉及到什么郑智问题。但是有一波人喜欢把这些事往郑智上靠，这就很扯淡，也很阴险，属于扣帽子搞内斗..."
     }
-  ]
+  ],
+  "fetch_status": "blocked_by_xueqiu_access_control",
+  "fetch_diagnostic": "Access challenge page: 访问提示 - 雪球"
 }
