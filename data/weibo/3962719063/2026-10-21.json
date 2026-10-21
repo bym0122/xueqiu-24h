@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月21日星期三 19:33:44",
+  "crawled_at_beijing": "2026年10月21日星期三 20:39:23",
   "crawled_date": "2026-10-21",
-  "post_count": 22,
+  "post_count": 26,
   "posts": [
     {
       "id": "5356323900227826",
@@ -270,6 +270,54 @@
       "reposts": 27,
       "comments": 59,
       "attitudes": 427
+    },
+    {
+      "id": "5356552135643480",
+      "mid": "5356552135643480",
+      "created_at": "2026-10-21T12:16:52.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnJb7nG7S",
+      "text": "回复@自由如风abc:合理，符合预期//@自由如风abc:老舅宝丰还有吗，三季度业绩如何解读//@挖地瓜的超级鹿鼎公:回复@护城小兵ooo:常规在十月底发//@护城小兵ooo:为啥云铝分红迟迟不发",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 48
+    },
+    {
+      "id": "5356550747325203",
+      "mid": "5356550747325203",
+      "created_at": "2026-10-21T12:11:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnJ8SuJCr",
+      "text": "网友@吃息等风来 的库存图",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 5,
+      "comments": 8,
+      "attitudes": 100
+    },
+    {
+      "id": "5356549925242667",
+      "mid": "5356549925242667",
+      "created_at": "2026-10-21T12:08:05.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnJ7ylZR9",
+      "text": "大明，我不是万寿帝君，逻辑在线，就是只有一百多集//@沉默不语的高山:公公再推荐一部短剧，红楼很不错，可以看完了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 10,
+      "attitudes": 57
+    },
+    {
+      "id": "5356549407244335",
+      "mid": "5356549407244335",
+      "created_at": "2026-10-21T12:06:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnJ6IuoA7",
+      "text": "回复@护城小兵ooo:常规在十月底发//@护城小兵ooo:为啥云铝分红迟迟不发",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 3,
+      "attitudes": 54
     }
   ]
 }
