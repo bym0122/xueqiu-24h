@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月21日星期三 08:39:34",
+  "crawled_at_beijing": "2026年10月21日星期三 09:36:45",
   "crawled_date": "2026-10-21",
-  "post_count": 9,
+  "post_count": 11,
   "posts": [
     {
       "id": "5356323900227826",
@@ -114,6 +114,30 @@
       "reposts": 6,
       "comments": 19,
       "attitudes": 269
+    },
+    {
+      "id": "5356379537410009",
+      "mid": "5356379537410009",
+      "created_at": "2026-10-21T00:51:01.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnEGJv5Gh",
+      "text": "国家统计局数据显示，2026年9月中国氧化铝产量840.0万吨，同比增长5.5%；1-9月累计产量7003.6万吨，同比增长3.9%",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 20,
+      "attitudes": 274
+    },
+    {
+      "id": "5356379293352541",
+      "mid": "5356379293352541",
+      "created_at": "2026-10-21T00:50:03.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnEGle49f",
+      "text": "据国际铝业协会（IAI），2026年9月全球原铝产量为601.4万吨，去年同期为610万吨，前一个月修正值为618.8万吨。9月原铝日均产量为20.05万吨，前一个月修正值为19.96万吨。预计9月中国原铝产量为375万吨，前一个月修正值为387万吨。",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 11,
+      "attitudes": 232
     }
   ]
 }
