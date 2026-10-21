@@ -340,10 +340,15 @@ function domScrape(uid) {
 
     const now = new Date();
     const stamp = beijingStamp(now);
+    const wafBlocked = /Verification|验证|访问提示|请登录/i.test(profileTitle || "");
+    const silentZero = posts.length === 0 && !/none-in-24h/.test(freshSource);
+    const fetchStatus = wafBlocked ? "blocked_by_xueqiu_access_control" : (silentZero ? "degraded_zero_posts" : "ok");
+    const fetchDiagnostic = wafBlocked ? `Access challenge page: ${profileTitle}` : (silentZero ? `No posts from source=${freshSource}` : null);
     fs.mkdirSync(dataDir, { recursive: true });
     const output = {
       user_id: USER_ID, profile_url: PROFILE_URL, window: "last-24h",
-      source: freshSource, crawled_at_beijing: stamp.time, crawled_date: stamp.date,
+      source: freshSource, fetch_status: fetchStatus, fetch_diagnostic: fetchDiagnostic,
+      crawled_at_beijing: stamp.time, crawled_date: stamp.date,
       post_count: newPosts.length, posts: newPosts
     };
     const outputFile = path.join(dataDir, `${stamp.date}.json`);
@@ -355,6 +360,9 @@ function domScrape(uid) {
         for (const p of newPosts) if (!have.has(p.id)) prev.posts.push(p);
         prev.post_count = (prev.posts || []).length;
         prev.crawled_at_beijing = stamp.time;
+        prev.source = output.source;
+        prev.fetch_status = output.fetch_status;
+        prev.fetch_diagnostic = output.fetch_diagnostic;
         mergedFile = prev;
       } catch (_) {}
     }
@@ -363,10 +371,8 @@ function domScrape(uid) {
     console.log(`Saved to: ${outputFile}`);
 
     // 静默失败检测:抓到 0 条但又不是"确实 24h 没发帖",就标记失败,让 Action 变红而不是写个空文件。
-    const wafBlocked = /Verification|验证/i.test(profileTitle || "");
-    const silentZero = posts.length === 0 && !/none-in-24h/.test(freshSource);
     if (wafBlocked || silentZero) {
-      console.error(`DEGRADED: wafBlocked=${wafBlocked} silentZero=${silentZero} profileTitle="${profileTitle}" source=${freshSource}`);
+      console.error(`DEGRADED: status=${fetchStatus} wafBlocked=${wafBlocked} silentZero=${silentZero} profileTitle="${profileTitle}" source=${freshSource}`);
       process.exitCode = 1;
     }
     await browser.close();

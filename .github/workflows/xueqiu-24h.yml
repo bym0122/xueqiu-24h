@@ -31,17 +31,30 @@ jobs:
           npx playwright install --with-deps chromium
 
       - name: Fetch last-24h posts (9493911686)
+        id: fetch_9493911686
+        continue-on-error: true
         run: node scripts/crawl_xueqiu_24h.js
 
       - name: Fetch last-24h posts (1910783512)
+        id: fetch_1910783512
+        continue-on-error: true
         env:
           XUEQIU_USER_ID: "1910783512"
         run: node scripts/crawl_xueqiu_24h.js
 
-      - name: Commit fetched data
+      - name: Commit fetched data and diagnostics
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/xueqiu/
           git diff --cached --quiet || git commit -m "chore: xueqiu 24h fetch"
           git push
+
+      - name: Report fetch failures after saving diagnostics
+        if: always()
+        run: |
+          if [[ "${{ steps.fetch_9493911686.outcome }}" == "failure" || "${{ steps.fetch_1910783512.outcome }}" == "failure" ]]; then
+            echo "::error::At least one Xueqiu author fetch failed. Diagnostics were committed where possible; see fetch_status in each JSON file."
+            exit 1
+          fi
