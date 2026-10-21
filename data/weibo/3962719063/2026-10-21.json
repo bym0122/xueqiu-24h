@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月21日星期三 09:36:45",
+  "crawled_at_beijing": "2026年10月21日星期三 10:31:25",
   "crawled_date": "2026-10-21",
-  "post_count": 11,
+  "post_count": 15,
   "posts": [
     {
       "id": "5356323900227826",
@@ -138,6 +138,54 @@
       "reposts": 2,
       "comments": 11,
       "attitudes": 232
+    },
+    {
+      "id": "5356403214522016",
+      "mid": "5356403214522016",
+      "created_at": "2026-10-21T02:25:06.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnFiViYnK",
+      "text": "这行情，确实没啥好看的，受伤的股票，估计也跌不深，涨起来也难得很，吃息佬，老老实实吃息吧，打游戏好过看盘",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 28,
+      "attitudes": 150
+    },
+    {
+      "id": "5356397082447534",
+      "mid": "5356397082447534",
+      "created_at": "2026-10-21T02:00:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnF92agIm",
+      "text": "双休变单休",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 36,
+      "attitudes": 124
+    },
+    {
+      "id": "5356396333762288",
+      "mid": "5356396333762288",
+      "created_at": "2026-10-21T01:57:46.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnF7PfMK4",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 15,
+      "comments": 10,
+      "attitudes": 100
+    },
+    {
+      "id": "5356393379140302",
+      "mid": "5356393379140302",
+      "created_at": "2026-10-21T01:46:01.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnF33ClOe",
+      "text": "哈哈哈哈",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 12,
+      "comments": 15,
+      "attitudes": 171
     }
   ]
 }
