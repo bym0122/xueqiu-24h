@@ -3,8 +3,45 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月22日星期四 06:31:32",
+  "crawled_at_beijing": "2026年10月22日星期四 07:28:54",
   "crawled_date": "2026-10-22",
-  "post_count": 0,
-  "posts": []
+  "post_count": 3,
+  "posts": [
+    {
+      "id": "5356721054942305",
+      "mid": "5356721054942305",
+      "created_at": "2026-10-21T23:28:05.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnNzzkJIB",
+      "text": "2004年才是//@呵呵-哒-_:公公，今年是价投最难做的一年吗？",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 2
+    },
+    {
+      "id": "5356709859557818",
+      "mid": "5356709859557818",
+      "created_at": "2026-10-21T22:43:36.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnNhvE6qm",
+      "text": "到目前为止，电解铝现货价格，至今没有偏离我的预期",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 26,
+      "attitudes": 379
+    },
+    {
+      "id": "5356709596103915",
+      "mid": "5356709596103915",
+      "created_at": "2026-10-21T22:42:33.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/RnNh5pBUf",
+      "text": "红利股投资，要紧盯分红，紧盯公司收益前景，业绩下降可能有没有，会下降到哪里，业绩底线在哪里，这个底线的时候，现在的股价值不值，股价会到哪里，怎么应对。\n\n怎么样让自己买的便宜，怎么样让自己的成本下降到无忧无虑的地步，怎么样防止自己踏空，怎么样防止便宜货眼睁睁溜走，都要做好准备，心理 ...全文",
+      "source": "微博网页版",
+      "reposts": 122,
+      "comments": 59,
+      "attitudes": 499
+    }
+  ]
 }
