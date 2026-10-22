@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月22日星期四 08:40:49",
+  "crawled_at_beijing": "2026年10月22日星期四 09:35:55",
   "crawled_date": "2026-10-22",
-  "post_count": 13,
+  "post_count": 18,
   "posts": [
     {
       "id": "5356721054942305",
@@ -162,6 +162,66 @@
       "reposts": 60,
       "comments": 73,
       "attitudes": 644
+    },
+    {
+      "id": "5356747892196032",
+      "mid": "5356747892196032",
+      "created_at": "2026-10-22T01:14:44.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnOgR9dhS",
+      "text": "有些企业，做的很好，利润很好，但是对员工真的不行，这种一心只为老板赚钱得企业文化，很垃圾",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 75,
+      "attitudes": 397
+    },
+    {
+      "id": "5356745914319399",
+      "mid": "5356745914319399",
+      "created_at": "2026-10-22T01:06:51.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnOdFi7FJ",
+      "text": "回复@欢颜女生:做人要厚道1974//@欢颜女生:厚道？在雪球的名字？//@挖地瓜的超级鹿鼎公:回复@Volcano2020丶:新城可以看厚道，他研究的比较深，毕竟财务总监，财务水平绝壁在线，当初我是看他套住了去研究了一下新城的//@Volcano2020丶:厚叔说明年分红可期//...全文",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 1,
+      "attitudes": 95
+    },
+    {
+      "id": "5356745614426315",
+      "mid": "5356745614426315",
+      "created_at": "2026-10-22T01:05:40.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnOdbizub",
+      "text": "电解铝库存继续下降，中国不内卷的行业，全球新增有限，53万吨，10月底能不能破50万吨",
+      "source": "微博网页版",
+      "reposts": 18,
+      "comments": 41,
+      "attitudes": 320
+    },
+    {
+      "id": "5356743146343345",
+      "mid": "5356743146343345",
+      "created_at": "2026-10-22T00:55:52.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnO9cqCc1",
+      "text": "回复@Volcano2020丶:新城可以看厚道，他研究的比较深，毕竟财务总监，财务水平绝壁在线，当初我是看他套住了去研究了一下新城的//@Volcano2020丶:厚叔说明年分红可期//@挖地瓜的超级鹿鼎公:预期没有这么高，3年翻倍足以，没有足够分红，确实不敢重仓//...全文",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 10,
+      "attitudes": 100
+    },
+    {
+      "id": "5356742372493983",
+      "mid": "5356742372493983",
+      "created_at": "2026-10-22T00:52:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnO7XasNx",
+      "text": "回复@用户6894203568:不知道，一个记号，看看先//@用户6894203568:那云天化呢",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 90
     }
   ]
 }
