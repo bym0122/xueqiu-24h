@@ -1,0 +1,39 @@
+name: CTFI Daily Fetch
+
+on:
+  schedule:
+    # 上海航运交易所 T+1 发布(实测次日午后才有),所以跑两次兜底:
+    #   08:30 CST = 00:30 UTC   → 补前一天的
+    #   22:30 CST = 14:30 UTC   → 抓当天的
+    - cron: "30 0 * * *"
+    - cron: "30 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-ctfi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch CTFI
+        run: node scripts/crawl_ctfi.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/shipping/ctfi/
+          git diff --cached --quiet && echo "无新数据" && exit 0
+          git commit -m "chore: ctfi daily fetch ($(date -u +%F))"
+          git push
