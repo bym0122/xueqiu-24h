@@ -3,8 +3,9 @@ name: Weibo 24h Fetch
 on:
   workflow_dispatch:
   schedule:
-    # every hour UTC
-    - cron: "5 * * * *"
+    # 每 20 分钟一次（UTC）。原来 1 小时一次会漏掉密集发帖时段的部分内容。
+    # 微博接口按 page 翻页，抓到 24h 窗口为止，频率越高覆盖越完整。
+    - cron: "5,25,45 * * * *"
 
 permissions:
   contents: write
