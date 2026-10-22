@@ -3,8 +3,45 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月23日星期五 04:25:49",
+  "crawled_at_beijing": "2026年10月23日星期五 04:57:35",
   "crawled_date": "2026-10-23",
-  "post_count": 0,
-  "posts": []
+  "post_count": 3,
+  "posts": [
+    {
+      "id": "5357045327069336",
+      "mid": "5357045327069336",
+      "created_at": "2026-10-22T20:56:38.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnW0AtF3y",
+      "text": "美国全球抽水还是很成功的，法国乱了欧洲，韩国，中国股市崩了，印尼股债汇三杀，中东打啊，杀啊不停，资金大幅流出，连小日子的汇率都让老美保住了，厉害，不愧是华尔街",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 0,
+      "attitudes": 2
+    },
+    {
+      "id": "5357043930366012",
+      "mid": "5357043930366012",
+      "created_at": "2026-10-22T20:51:05.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnVYl1xdq",
+      "text": "日本也好，土鸡也好，都跟传统的地痞没什么两样，不打一顿，肯定把你当软柿子捏的",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 10
+    },
+    {
+      "id": "5357042909053088",
+      "mid": "5357042909053088",
+      "created_at": "2026-10-22T20:47:01.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnVWGBZ7y",
+      "text": "全球穆斯林国家一年出生伊斯兰教徒新生儿5000万，\n印度一年出生2000万，其中印度教1700万，穆斯林300万\n欧盟一年出生350万\n中国26年出生人口应该低于800万\n\n没有人口，你怎么努力都没用，以后整个世界都是伊斯兰教徒和印度教",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 2,
+      "attitudes": 16
+    }
+  ]
 }
