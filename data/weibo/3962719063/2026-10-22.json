@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月22日星期四 19:34:05",
+  "crawled_at_beijing": "2026年10月22日星期四 20:40:20",
   "crawled_date": "2026-10-22",
-  "post_count": 36,
+  "post_count": 41,
   "posts": [
     {
       "id": "5356721054942305",
@@ -438,6 +438,66 @@
       "reposts": 6,
       "comments": 2,
       "attitudes": 36
+    },
+    {
+      "id": "5356911227571348",
+      "mid": "5356911227571348",
+      "created_at": "2026-10-22T12:03:46.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnSwivLEw",
+      "text": "回复@捡地瓜的小学徒:煤价是9月份开始大涨的，你去看看潞安华能，9月1号开始大跌到现在//@捡地瓜的小学徒:公公，请问见顶了为啥还加仓山西煤呢？",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 20,
+      "attitudes": 100
+    },
+    {
+      "id": "5356908346082772",
+      "mid": "5356908346082772",
+      "created_at": "2026-10-22T11:52:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnSrEpwpe",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 11,
+      "comments": 21,
+      "attitudes": 103
+    },
+    {
+      "id": "5356908001103513",
+      "mid": "5356908001103513",
+      "created_at": "2026-10-22T11:50:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnSr64D4B",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 5,
+      "attitudes": 66
+    },
+    {
+      "id": "5356907361731544",
+      "mid": "5356907361731544",
+      "created_at": "2026-10-22T11:48:24.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnSq47gs8",
+      "text": "这波煤炭差不多见顶了，金鸡滩昨天大降50，差不多了，不过我不认为这波下行动力煤会跌破880",
+      "source": "微博网页版",
+      "reposts": 23,
+      "comments": 39,
+      "attitudes": 277
+    },
+    {
+      "id": "5356905526722910",
+      "mid": "5356905526722910",
+      "created_at": "2026-10-22T11:41:06.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnSn6scW2",
+      "text": "2026年10月22日CCI指数\n5500大卡 1040 （-）\n5000大卡 937 （-）\n4500大卡 837 （-）",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 8,
+      "attitudes": 111
     }
   ]
 }
