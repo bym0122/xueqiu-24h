@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月22日星期四 13:32:24",
+  "crawled_at_beijing": "2026年10月22日星期四 14:40:19",
   "crawled_date": "2026-10-22",
-  "post_count": 22,
+  "post_count": 30,
   "posts": [
     {
       "id": "5356721054942305",
@@ -270,6 +270,102 @@
       "reposts": 2,
       "comments": 54,
       "attitudes": 225
+    },
+    {
+      "id": "5356828336850391",
+      "mid": "5356828336850391",
+      "created_at": "2026-10-22T06:34:23.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnQmBsK6b",
+      "text": "千万不要上杠杆，现在有杠杆的是不是哭死😭",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 48,
+      "attitudes": 183
+    },
+    {
+      "id": "5356823985260295",
+      "mid": "5356823985260295",
+      "created_at": "2026-10-22T06:17:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnQfAm4rt",
+      "text": "回复@淘金taojing:不要问了，很容易让你们晕头转向的，毕竟我在减持水电股//@淘金taojing:@挖地瓜的超级鹿鼎公 还有多少仙晶",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 41,
+      "attitudes": 200
+    },
+    {
+      "id": "5356823540664616",
+      "mid": "5356823540664616",
+      "created_at": "2026-10-22T06:15:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnQeS2MTC",
+      "text": "40°//@小臭昆虫:40 //@挖地瓜的超级鹿鼎公:回复@人潮中喜欢只属于你的那画面:角1是80°//@人潮中喜欢只属于你的那画面:跌完了不管了，放松一下，算个180内的加减法A股 评论配图",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 21,
+      "attitudes": 57
+    },
+    {
+      "id": "5356822688959202",
+      "mid": "5356822688959202",
+      "created_at": "2026-10-22T06:11:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnQduBAHg",
+      "text": "回复@人潮中喜欢只属于你的那画面:角1是80°//@人潮中喜欢只属于你的那画面:跌完了不管了，放松一下，算个180内的加减法A股 评论配图",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 51,
+      "attitudes": 57
+    },
+    {
+      "id": "5356820640302525",
+      "mid": "5356820640302525",
+      "created_at": "2026-10-22T06:03:47.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnQac1gHr",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 8,
+      "attitudes": 75
+    },
+    {
+      "id": "5356820310786193",
+      "mid": "5356820310786193",
+      "created_at": "2026-10-22T06:02:29.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnQ9F3iwx",
+      "text": "今天ETF应该巨量申购了",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 63,
+      "attitudes": 332
+    },
+    {
+      "id": "5356814734722966",
+      "mid": "5356814734722966",
+      "created_at": "2026-10-22T05:40:20.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnQ0FjOES",
+      "text": "A00铝锭 无锡 23700 +90 10-22\n氧化铝 山西 2680 0",
+      "source": "微博网页版",
+      "reposts": 14,
+      "comments": 34,
+      "attitudes": 297
+    },
+    {
+      "id": "5356813027639706",
+      "mid": "5356813027639706",
+      "created_at": "2026-10-22T05:33:32.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnPXUw3r4",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 15,
+      "comments": 12,
+      "attitudes": 120
     }
   ]
 }
