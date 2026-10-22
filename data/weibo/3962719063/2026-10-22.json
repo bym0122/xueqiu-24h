@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月22日星期四 15:45:08",
+  "crawled_at_beijing": "2026年10月22日星期四 16:37:56",
   "crawled_date": "2026-10-22",
-  "post_count": 31,
+  "post_count": 36,
   "posts": [
     {
       "id": "5356721054942305",
@@ -378,6 +378,66 @@
       "reposts": 7,
       "comments": 23,
       "attitudes": 228
+    },
+    {
+      "id": "5356852187497643",
+      "mid": "5356852187497643",
+      "created_at": "2026-10-22T08:09:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnQZ4vstJ",
+      "text": "转发微博",
+      "source": "微博搜索",
+      "reposts": 6,
+      "comments": 13,
+      "attitudes": 73
+    },
+    {
+      "id": "5356851836753007",
+      "mid": "5356851836753007",
+      "created_at": "2026-10-22T08:07:46.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnQYvskLt",
+      "text": "国中哈士奇跟中国人在推特对线？",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 10,
+      "attitudes": 100
+    },
+    {
+      "id": "5356851589284439",
+      "mid": "5356851589284439",
+      "created_at": "2026-10-22T08:06:46.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnQY6CXj1",
+      "text": "回复@云淡风轻_113:啥玩意寿命长，就学啥，比如乌龟//@云淡风轻_113:问个题外话，老舅你平时怎么运动养生？//@挖地瓜的超级鹿鼎公:回复@淘金taojing:不要问了，很容易让你们晕头转向的，毕竟我在减持水电股//@淘金taojing:@挖地瓜的超级鹿鼎公 还有多少仙晶",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 20,
+      "attitudes": 84
+    },
+    {
+      "id": "5356851219923582",
+      "mid": "5356851219923582",
+      "created_at": "2026-10-22T08:05:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnQXvFDzM",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 13,
+      "attitudes": 85
+    },
+    {
+      "id": "5356850985307599",
+      "mid": "5356850985307599",
+      "created_at": "2026-10-22T08:04:23.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnQX8mgKr",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 2,
+      "attitudes": 36
     }
   ]
 }
