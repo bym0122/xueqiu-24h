@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月22日星期四 12:32:43",
+  "crawled_at_beijing": "2026年10月22日星期四 13:32:24",
   "crawled_date": "2026-10-22",
-  "post_count": 19,
+  "post_count": 22,
   "posts": [
     {
       "id": "5356721054942305",
@@ -234,6 +234,42 @@
       "reposts": 11,
       "comments": 156,
       "attitudes": 609
+    },
+    {
+      "id": "5356811667374254",
+      "mid": "5356811667374254",
+      "created_at": "2026-10-22T05:28:08.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnPVIuWnA",
+      "text": "回复@_老发糕:怪不得//@_老发糕:舅，中煤昨天的公告，全市安全生产重大事故隐患挂牌督办公告〔2026〕33号，大海则煤矿要检修",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 34
+    },
+    {
+      "id": "5356811192632969",
+      "mid": "5356811192632969",
+      "created_at": "2026-10-22T05:26:16.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnPUXb2Xf",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 2,
+      "attitudes": 14
+    },
+    {
+      "id": "5356810802302799",
+      "mid": "5356810802302799",
+      "created_at": "2026-10-22T05:24:43.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnPUk9F3V",
+      "text": "一觉睡醒，杀的血流成河啊，还好吃息佬的胆子大",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 54,
+      "attitudes": 225
     }
   ]
 }
