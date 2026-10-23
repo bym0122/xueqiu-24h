@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月23日星期五 19:44:14",
+  "crawled_at_beijing": "2026年10月23日星期五 20:42:38",
   "crawled_date": "2026-10-23",
-  "post_count": 21,
+  "post_count": 22,
   "posts": [
     {
       "id": "5357045327069336",
@@ -258,6 +258,18 @@
       "reposts": 3,
       "comments": 9,
       "attitudes": 91
+    },
+    {
+      "id": "5357271708338233",
+      "mid": "5357271708338233",
+      "created_at": "2026-10-23T11:56:11.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Ro1TIyZ9D",
+      "text": "2026年10月23日CCI指数\n5500大卡 1040 （-）\n5000大卡 937 （-）\n4500大卡 837 （-）",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 8,
+      "attitudes": 101
     }
   ]
 }
