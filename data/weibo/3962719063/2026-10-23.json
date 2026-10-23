@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月23日星期五 17:46:18",
+  "crawled_at_beijing": "2026年10月23日星期五 18:35:35",
   "crawled_date": "2026-10-23",
-  "post_count": 12,
+  "post_count": 15,
   "posts": [
     {
       "id": "5357045327069336",
@@ -150,6 +150,42 @@
       "reposts": 3,
       "comments": 50,
       "attitudes": 487
+    },
+    {
+      "id": "5357251227557559",
+      "mid": "5357251227557559",
+      "created_at": "2026-10-23T10:34:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Ro1mGvI47",
+      "text": "回复@捂耳听风者:产量会损失，环比肯定好//@捂耳听风者:老舅 山煤国际和喷吹三季度业绩会差吗",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 1
+    },
+    {
+      "id": "5357250971702832",
+      "mid": "5357250971702832",
+      "created_at": "2026-10-23T10:33:47.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Ro1mh78Z2",
+      "text": "新城",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 11
+    },
+    {
+      "id": "5357241047718307",
+      "mid": "5357241047718307",
+      "created_at": "2026-10-23T09:54:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Ro16gwnSP",
+      "text": "中煤业绩差，预期中的事情，毕竟产量大跌，成本摆在那里\n\n而且四季度可能更差，虽然山西产能可以恢复，但是大海则停产，对于中煤是又是一个打击，如果停产时间不是很长，影响不大的话，四季度业绩环比会增长，但是如果停产时间过长，就难说了\n\n反正股价也被砸下来了，我无所谓了，等明年吧",
+      "source": "微博网页版",
+      "reposts": 21,
+      "comments": 33,
+      "attitudes": 195
     }
   ]
 }
