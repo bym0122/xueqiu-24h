@@ -1,0 +1,26 @@
+{
+  "schema_version": "supplemental_v1",
+  "platform": "xueqiu",
+  "author_id": "9493911686",
+  "author_name": "斯托伯的天空",
+  "report_date": "2026-10-23",
+  "report_cutoff_local": "2026-10-23T19:21:01+08:00",
+  "retrieved_at_local": "2026-10-23T19:21:01+08:00",
+  "retrieval_method": "Public profile timeline and individual public post page extraction; no comments collected.",
+  "note": "Supplemental archive for posts absent from the repository snapshot at the stated cutoff. Raw platform text is preserved separately from the author's attributable text; embedded replies/quotes are not automatically treated as the author's opinion.",
+  "source_directory": "data/xueqiu/9493911686/",
+  "records_declared": 1,
+  "records_parsed": 1,
+  "records": [
+    {
+      "id": "413648263",
+      "created_at_local": "2026-10-23 19:16 CST",
+      "kind": "original",
+      "url": "https://www.xueqiu.com/9493911686/413648263",
+      "author_text": "写完了，自取。\n\n今天黄金，煤炭，煤化工，电解铝都聊一聊。\n\n尊重知识，尊重逻辑。\n\n$紫金黄金国际(02259)$ $中国海洋石油(00883)$ $云铝股份(SZ000807)$\n\n其实我能感到市场就差最后几跌了，结果大手又来托……哎，一万句……",
+      "raw_text": "写完了，自取。\n\n今天黄金，煤炭，煤化工，电解铝都聊一聊。\n\n尊重知识，尊重逻辑。\n\n$紫金黄金国际(02259)$ $中国海洋石油(00883)$ $云铝股份(SZ000807)$\n\n其实我能感到市场就差最后几跌了，结果大手又来托……哎，一万句……",
+      "content_status": "visible post text complete; referenced longer discussion/article body is not included in this status",
+      "context_note": "仅能确认作者提及黄金、煤炭、煤化工、电解铝，并表达对市场托底的失望；该帖没有具体价位或仓位指令。"
+    }
+  ]
+}
