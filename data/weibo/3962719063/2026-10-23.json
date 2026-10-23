@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月23日星期五 13:53:52",
+  "crawled_at_beijing": "2026年10月23日星期五 14:32:30",
   "crawled_date": "2026-10-23",
-  "post_count": 5,
+  "post_count": 9,
   "posts": [
     {
       "id": "5357045327069336",
@@ -66,6 +66,54 @@
       "reposts": 1,
       "comments": 4,
       "attitudes": 42
+    },
+    {
+      "id": "5357189778637568",
+      "mid": "5357189778637568",
+      "created_at": "2026-10-23T06:30:38.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnZLzAf1C",
+      "text": "杀白马，见底，是常规，今天四大行和陕煤，长电被杀了",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 16,
+      "attitudes": 100
+    },
+    {
+      "id": "5357181958095297",
+      "mid": "5357181958095297",
+      "created_at": "2026-10-23T05:59:33.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnZyXxXXj",
+      "text": "A00铝锭 无锡 23660 -40 10-23\n氧化铝 山西 2680",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 15,
+      "attitudes": 230
+    },
+    {
+      "id": "5357180888550112",
+      "mid": "5357180888550112",
+      "created_at": "2026-10-23T05:55:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnZxezSh2",
+      "text": "炒股要跟着国家走，跟着党走\n他们走，我就走，他们来，我就来",
+      "source": "微博网页版",
+      "reposts": 41,
+      "comments": 94,
+      "attitudes": 746
+    },
+    {
+      "id": "5357180670705723",
+      "mid": "5357180670705723",
+      "created_at": "2026-10-23T05:54:25.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnZwT2XAD",
+      "text": "昨晚没睡好，一早陪老娘看病，回到家直接躺平，睡了2个小时才回魂",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 82,
+      "attitudes": 417
     }
   ]
 }
