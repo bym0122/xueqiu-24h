@@ -1,0 +1,146 @@
+{
+  "schema_version": "supplemental_v1",
+  "platform": "xueqiu",
+  "author_id": "1910783512",
+  "author_name": "看好股市的新人",
+  "report_date": "2026-10-23",
+  "report_cutoff_local": "2026-10-23T19:21:01+08:00",
+  "retrieved_at_local": "2026-10-23T19:21:01+08:00",
+  "retrieval_method": "Public profile timeline and individual public post page extraction; no comments collected.",
+  "note": "Supplemental archive for posts absent from the repository snapshot at the stated cutoff. Raw platform text is preserved separately from the author's attributable text; embedded replies/quotes are not automatically treated as the author's opinion.",
+  "source_directory": "data/xueqiu/1910783512/",
+  "records_declared": 13,
+  "records_parsed": 13,
+  "records": [
+    {
+      "id": "413640621",
+      "created_at_local": "2026-10-23 18:09 CST",
+      "kind": "reply",
+      "url": "https://www.xueqiu.com/1910783512/413640621",
+      "author_text": "带女儿的还行，带儿子的后面麻烦，",
+      "raw_text": "带女儿的还行，带儿子的后面麻烦，",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "回复链涉及婚恋/家庭话题；非投资观点。"
+    },
+    {
+      "id": "413643007",
+      "created_at_local": "2026-10-23 18:31 CST",
+      "kind": "reply",
+      "url": "https://www.xueqiu.com/1910783512/413643007",
+      "author_text": "A股也行。😊",
+      "raw_text": "A股也行。😊",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "回复他人关于美股/ETF的讨论；上下文不作为作者立场。"
+    },
+    {
+      "id": "413644232",
+      "created_at_local": "2026-10-23 18:42 CST",
+      "kind": "reply",
+      "url": "https://www.xueqiu.com/1910783512/413644232",
+      "author_text": "上饶电厂一台机子是去年年底投运的，一台是3月末投运的，如果是这个原因的话，上半年的业绩应该有体现了。",
+      "raw_text": "上饶电厂一台机子是去年年底投运的，一台是3月末投运的，如果是这个原因的话，上半年的业绩应该有体现了。",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "回复能源电厂成本/运费讨论；具体公司和成本数据需独立核验。"
+    },
+    {
+      "id": "413644528",
+      "created_at_local": "2026-10-23 18:44 CST",
+      "kind": "reply",
+      "url": "https://www.xueqiu.com/1910783512/413644528",
+      "author_text": "这里挣钱不是目的，造福于人民才是宗旨。",
+      "raw_text": "回复@股市小萌新Jimmy: 这里挣钱不是目的，造福于人民才是宗旨。// @股市小萌新Jimmy:回复@看好股市的新人:所以很多时候逻辑就很奇怪，明明全球第一了，还是挣不到钱",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "对话链包含他人评论；作者可归因文字为前一句。非明确交易观点。"
+    },
+    {
+      "id": "413645061",
+      "created_at_local": "2026-10-23 18:48 CST",
+      "kind": "status",
+      "url": "https://www.xueqiu.com/1910783512/413645061",
+      "author_text": "三季度，长协煤同比增长5%，净利润才增长3%，这煤炭也不让人省心啊。🤦",
+      "raw_text": "三季度，长协煤同比增长5%，净利润才增长3%，这煤炭也不让人省心啊。🤦\n\n引用：中国神华2026年第三季度报告新闻摘要（营业收入同比+10.9%，归母净利润同比+3.2%）。",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "引用中国神华三季报新闻摘要；以公司正式报告为事实源，不能把快讯全文归因给作者。"
+    },
+    {
+      "id": "413645250",
+      "created_at_local": "2026-10-23 18:50 CST",
+      "kind": "status",
+      "url": "https://www.xueqiu.com/1910783512/413645250",
+      "author_text": "今天怎么这多金融口的出来争相亮相。😄",
+      "raw_text": "今天怎么这多金融口的出来争相亮相。😄\n\n引用：中国人民银行副行长宣昌能会见法国财政总署署长杜蒙的快讯。",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "轻度评论金融官员公开活动，未表达明确资产方向。"
+    },
+    {
+      "id": "413646022",
+      "created_at_local": "2026-10-23 18:56 CST",
+      "kind": "reply",
+      "url": "https://www.xueqiu.com/1910783512/413646022",
+      "author_text": "我只关心，操盘的换没换？但从今天的操盘风格看，180度的转变。",
+      "raw_text": "回复@haoyunjinnian: 我只关心，操盘的换没换？但从今天的操盘风格看，180度的转变。",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "对市场操作风格变化的推测；无证据确认操盘人员更换。"
+    },
+    {
+      "id": "413646362",
+      "created_at_local": "2026-10-23 19:00 CST",
+      "kind": "reply",
+      "url": "https://www.xueqiu.com/1910783512/413646362",
+      "author_text": "好久不见学长了，这里只留下学长的传说。🌸",
+      "raw_text": "回复@回归煤球当NewKing: 好久不见学长了，这里只留下学长的传说。🌸",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "对话中出现基金经理三季报持仓讨论，但上下文归因有限。"
+    },
+    {
+      "id": "413646628",
+      "created_at_local": "2026-10-23 19:01 CST",
+      "kind": "reply",
+      "url": "https://www.xueqiu.com/1910783512/413646628",
+      "author_text": "兖矿有澳煤，国际定价。",
+      "raw_text": "回复@沃要天天发财: 兖矿有澳煤，国际定价。",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "补充兖矿煤炭定价逻辑；不能单凭此句推断作者对兖矿的买卖态度。"
+    },
+    {
+      "id": "413646857",
+      "created_at_local": "2026-10-23 19:04 CST",
+      "kind": "status",
+      "url": "https://www.xueqiu.com/1910783512/413646857",
+      "author_text": "科技投资者和红利投资者如此对立，谁导致的？这种对立情绪下，市场怎么好？反观美股，你抄你的，我抄我的，科技吃大肉，承受大波动，传统股也能有汤喝，但平稳。这才是正经市场的本色。",
+      "raw_text": "科技投资者和红利投资者如此对立，谁导致的？这种对立情绪下，市场怎么好？反观美股，你抄你的，我抄我的，科技吃大肉，承受大波动，传统股也能有汤喝，但平稳。这才是正经市场的本色。",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "对A股风格分化的观点，不含明确买卖指令。"
+    },
+    {
+      "id": "413647635",
+      "created_at_local": "2026-10-23 19:10 CST",
+      "kind": "reply",
+      "url": "https://www.xueqiu.com/1910783512/413647635",
+      "author_text": "ETF大家都会看了，新一轮护盘肯定不主要买ETF了。",
+      "raw_text": "回复@格林是潘: ETF大家都会看了，新一轮护盘肯定不主要买ETF了。// @格林是潘:回复@剑神一笑--陆小凤:除非证金在市面上扫了现货，否则以今天几个ETF的量能不可能有这种效果",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "关于政策资金托底工具的推测，尚无证据证明后续资金使用方式。"
+    },
+    {
+      "id": "413648560",
+      "created_at_local": "2026-10-23 19:19 CST",
+      "kind": "status",
+      "url": "https://www.xueqiu.com/1910783512/413648560",
+      "author_text": "也是周期股。PE和PB就显得太高了。",
+      "raw_text": "也是周期股。PE和PB就显得太高了。\n\n引用：巨化股份2026年第三季度报告页面。",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "对周期股估值的谨慎判断；未提供具体估值阈值。"
+    },
+    {
+      "id": "413648700",
+      "created_at_local": "2026-10-23 19:20 CST",
+      "kind": "reply",
+      "url": "https://www.xueqiu.com/1910783512/413648700",
+      "author_text": "如果只买ETF，为啥就四大行和极少数几只红利股创新高呢？",
+      "raw_text": "回复@庆阳春: 如果只买ETF，为啥就四大行和极少数几只红利股创新高呢？// @庆阳春:回复@看好股市的新人:etf 已经是比较公平的办法了，不然谁知道你为啥就买特定那几个呢？",
+      "content_status": "visible post text captured; quoted/reply context separated in context_note",
+      "context_note": "对ETF公平性与市场广度的质疑；属于讨论性观点，不是买卖信号。"
+    }
+  ]
+}
