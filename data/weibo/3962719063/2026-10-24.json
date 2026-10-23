@@ -3,8 +3,57 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月24日星期六 04:35:36",
+  "crawled_at_beijing": "2026年10月24日星期六 05:34:40",
   "crawled_date": "2026-10-24",
-  "post_count": 0,
-  "posts": []
+  "post_count": 4,
+  "posts": [
+    {
+      "id": "5357417053290664",
+      "mid": "5357417053290664",
+      "created_at": "2026-10-23T21:33:43.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Ro5G9dO3e",
+      "text": "这是第三次，前面两次都错了//@Lkroro:这你别管，总会对一次，对一次就封神，而且人家说三次顶背离，说了要崩盘呢没说吧//@贾拉拉巴德滴大神:公公这几年预测几次美股要崩了？",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 2
+    },
+    {
+      "id": "5357414666993933",
+      "mid": "5357414666993933",
+      "created_at": "2026-10-23T21:24:15.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Ro5Citlrn",
+      "text": "对毛不易的好感度直接降为负值，🧠是个好东西",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 14
+    },
+    {
+      "id": "5357413538463872",
+      "mid": "5357413538463872",
+      "created_at": "2026-10-23T21:19:46.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Ro5AtzvQ4",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 8
+    },
+    {
+      "id": "5357411126739198",
+      "mid": "5357411126739198",
+      "created_at": "2026-10-23T21:10:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Ro5wAshaK",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 8
+    }
+  ]
 }
