@@ -1,0 +1,65 @@
+{
+  "schema_version": "supplemental_v1",
+  "report_date": "2026-10-23",
+  "report_cutoff_local": "2026-10-23 18:08:00 +08:00",
+  "author": {
+    "platform": "xueqiu",
+    "id": "9493911686",
+    "verified_nickname": "斯托伯的天空",
+    "profile_url": "https://xueqiu.com/u/9493911686"
+  },
+  "reason": "The Actions source snapshot was captured at 15:32 CST and its newest post was 14:42 CST. Five additional posts were retrieved from the public author timeline and individual post pages, published 17:23–17:51 CST before the report cutoff. This file supplements but does not overwrite the Actions snapshot.",
+  "retrieval_method": "Firecrawl public page extraction; only the author's own post text and embedded conversation context were retained; comments were not analyzed.",
+  "posts": [
+    {
+      "id": "413633897",
+      "published_at_local": "2026-10-23 17:23:00 +08:00",
+      "post_type": "original",
+      "raw_text": "我去，原来今天是拉高出货。我不怀好意的早上挂了一个跌停板，还真让我说对了，国内黄金股三季度普遍业绩不行，我的直觉还是准，因为这些公司普遍就是有水分，只是程度问题。紫金黄金国际是必选项和优选项。",
+      "url": "https://xueqiu.com/9493911686/413633897",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_post_text",
+      "note": "作者称曾挂跌停价卖单，但正文未明确标的；不得将其归因到赤峰黄金或紫金黄金国际。关于黄金股三季报普遍不佳的说法仍需逐家官方财报验证。"
+    },
+    {
+      "id": "413634482",
+      "published_at_local": "2026-10-23 17:27:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "赤峰是庄股，我第一次看她就知道了，贼绿茶。",
+      "context_text": "韭菜-陈：斯大这么及时看财报？这个票庄有点厉害？去年我4—9月持有过，卖了股价才突突突地涨。",
+      "url": "https://xueqiu.com/9493911686/413634482",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413635433",
+      "published_at_local": "2026-10-23 17:35:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "现在就是一个明显的选项摆在眼前，但是一看评论区还有很多人想去赌赤峰反弹反转。这就是做投资和投机的区别吧。我可以少赚点，但是我要稳稳的赚下去。资金买的贵不贵我还没去算，但我认为影响很小，赤峰这些在紫金面前是小卡拉米。",
+      "context_text": "作者在前一条帖子中称：今天可能是拉高出货，自己早上挂过跌停板卖单，并认为国内黄金股三季度普遍业绩不佳，紫金黄金国际是其优选。",
+      "url": "https://xueqiu.com/9493911686/413635433",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413636381",
+      "published_at_local": "2026-10-23 17:42:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "聊啥？三季报AH全部摆一起看，紫黄那是断档领先啊，还有啥可聊的啊。",
+      "context_text": "June若水：斯大可以聊聊紫金黄金国际吗。",
+      "url": "https://xueqiu.com/9493911686/413636381",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413637553",
+      "published_at_local": "2026-10-23 17:51:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "熟能生巧啊，云铝、紫金之类的熟人，我基本瞟一眼财报就知道咋回事，稍微数字有点不对劲儿我马上就发现了。",
+      "context_text": "June若水：你咋分析速度这么快哈哈哈哈。",
+      "url": "https://xueqiu.com/9493911686/413637553",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    }
+  ]
+}
