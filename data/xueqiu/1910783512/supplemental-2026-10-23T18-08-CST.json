@@ -1,0 +1,146 @@
+{
+  "schema_version": "supplemental_v1",
+  "report_date": "2026-10-23",
+  "report_cutoff_local": "2026-10-23 18:08:00 +08:00",
+  "author": {
+    "platform": "xueqiu",
+    "id": "1910783512",
+    "verified_nickname": "看好股市的新人",
+    "profile_url": "https://xueqiu.com/u/1910783512"
+  },
+  "reason": "The Actions source snapshot was captured at 15:32 CST and its newest post was 15:16 CST. These 13 posts were individually retrieved from their public post pages and published 16:23–17:50 CST before the report cutoff. This file supplements but does not overwrite the Actions snapshot.",
+  "retrieval_method": "Firecrawl public page extraction; post body only; no comments section analyzed.",
+  "posts": [
+    {
+      "id": "413637388",
+      "published_at_local": "2026-10-23 17:50:00 +08:00",
+      "post_type": "original",
+      "raw_text": "红海现在应该是日租金最高的了，湾外跌进60了。航线，又要重新平衡了。😅",
+      "url": "https://xueqiu.com/1910783512/413637388",
+      "embedded_quoted_post_author": "葡萄爱Alex",
+      "embedded_quoted_post_url": "https://xueqiu.com/3304449576/413635297",
+      "embedded_quoted_post_text": "[@葡萄爱Alex：](https://www.xueqiu.com/3304449576)\n\n**VLCC 新增 5 笔成交**\n\n[$中远海能(SH600026)$](https://xueqiu.com/S/SH600026) [$XD招商轮(SH601872)$](https://xueqiu.com/S/SH601872) 我还真以为油佬和租家不着急呢，单子这一下全砸过来了\n\n**1\\. Atokos (2025)**\n\n船型 Modern (Scrubber) · DWT 320,000 · CII A\n\n状态 On Subs\n\n租家 Pertamina\n\n经营 Dynacom\n\n航线(装卸区) RSea → Indonesia\n\n货量 270,000 mts\n\nRvTCE USD 1,226,492/天\n\nActTCE USD 966,313/天\n\nRV/Total 39.89/50.44 天\n\n空驶 0.14 天（占 0.3%）\n\n航程 压载 7,299 nm / 重载 4,949 nm　←　压载里程比 59.6%\n\n本笔费率(Rate) 无法还原（缺 LastDone/涨跌幅）\n\n来向/开放日 Nagoya - 03 Oct 2026\n\n航速 压载/重载 13.1 - 12.0 kn\n\n压载比 时长 50.0%（占航次 50.4 天）· 里程 59.6%\n\n时段分布 压载/重载/港口 50% / 34% / 16%\n\n预计受载窗口(推算) 2026-10-26 ~ 30 Oct\n\n└ 开放日 10-03 + 压载 23.2 天 + 空闲 0.1 天；5 天窗口，非合同受载期，误差约 ±1 周\n\n报告时间 23 Oct 2026 09:54 LT\n\n接口发布 2026-10-23 08:55 UTC（北京 16:55）\n\n━━━━━━━━━━\n\n**2\\. Sea Majesty (2017)**\n\n船型 Modern (Scrubber) · DWT 308,207 · CII C\n\n状态 On Subs\n\n租家 Bahri Oil Transportation\n\n经营 Pantheon Tankers Management\n\n航线(装卸区) RSea → Korea\n\n货量 270,000 mts\n\n基准运价 USD 23.27/mt（WS100）\n\nRvTCE USD 851,583/天\n\nActTCE USD 810,040/天\n\nRV/Total 50.21/52.75 天\n\n空驶 0.01 天（占 0%）\n\n航程 压载 7,168 nm / 重载 7,031 nm　←　压载里程比 50.5%\n\n本笔费率(Rate) WS 745.00　←「DHT Panther (2016)」的 Last Done 直接引用本笔\n\n折合运费 USD 173.36/mt（整船 USD 46.81M）\n\n来向/开放日 Mizushima - 13 Oct 2026\n\n航速 压载/重载 14.1 - 12.0 kn\n\n压载比 时长 40.0%（占航次 52.8 天）· 里程 50.5%\n\n时段分布 压载/重载/港口 40% / 46% / 14%\n\n预计受载窗口(推算) 2026-11-03 ~ 07 Nov\n\n└ 开放日 10-13 + 压载 21.2 天 + 空闲 0.0 天；5 天窗口，非合同受载期，误差约 ±1 周\n\n上一条成交 WS 745.00 (2026) - 270,000 mts（21 Oct 2026 15:38 · RSea/Korea）\n\n报告时间 21 Oct 2026 16:28 LT\n\n接口发布 2026-10-23 08:43 UTC（北京 16:43）\n\n━━━━━━━━━━\n\n**3\\. Front Empire (2018)**\n\n船型 Modern (Scrubber) · DWT 299,993 · CII C\n\n状态 On Subs\n\n租家 Bahri Oil Transportation\n\n经营 Frontline\n\n航线(装卸区) RSea → Korea\n\n货量 270,000 mts\n\n基准运价 USD 23.27/mt（WS100）\n\nRvTCE USD 823,167/天\n\nActTCE USD 885,037/天\n\nRV/Total 51.74/48.36 天\n\n空驶 0.79 天（占 1.6%）\n\n航程 压载 5,293 nm / 重载 7,031 nm　←　压载里程比 42.9%\n\n本笔费率(Rate) WS 745.00　←「Sea Majesty (2017)」的 Last Done 直接引用本笔\n\n折合运费 USD 173.36/mt（整船 USD 46.81M）\n\n来向/开放日 Sri Racha - 18 Oct 2026\n\n航速 压载/重载 13.2 - 12.0 kn\n\n压载比 时长 35.0%（占航次 48.4 天）· 里程 42.9%\n\n时段分布 压载/重载/港口 35% / 50% / 15%\n\n预计受载窗口(推算) 2026-11-04 ~ 08 Nov\n\n└ 开放日 10-18 + 压载 16.7 天 + 空闲 0.8 天；5 天窗口，非合同受载期，误差约 ±1 周\n\n上一条成交 WS 920.00 (2026) - 270,000 mts（12 Oct 2026 16:18 · RSea/Korea）\n\n报告时间 21 Oct 2026 15:38 LT\n\n接口发布 2026-10-23 08:43 UTC（北京 16:43）\n\n━━━━━━━━━━\n\n**4\\. DHT Panther (2016)**\n\n船型 Modern (Scrubber) · DWT 299,629 · CII C\n\n状态 On Subs\n\n租家 S-Oil\n\n经营 Mercuria\n\n航线(装卸区) RSea → Korea\n\n货量 274,000 mts\n\n基准运价 USD 23.27/mt（WS100）\n\nRvTCE USD 771,974/天\n\nActTCE USD 697,016/天\n\nRV/Total 51.43/56.75 天\n\n空驶 1.53 天（占 2.7%）\n\n航程 压载 7,973 nm / 重载 7,032 nm　←　压载里程比 53.1%\n\n本笔费率(Rate) WS 692.85　← 由 WS 745.00 (2026) - 270,000 mts ↓跌 7% 推算\n\n折合运费 USD 161.23/mt（整船 USD 44.18M）\n\n来向/开放日 Yosu - 08 Oct 2026\n\n航速 压载/重载 13.3 - 12.0 kn\n\n压载比 时长 44.0%（占航次 56.8 天）· 里程 53.1%\n\n时段分布 压载/重载/港口 44% / 43% / 13%\n\n预计受载窗口(推算) 2026-11-03 ~ 07 Nov\n\n└ 开放日 10-08 + 压载 25.0 天 + 空闲 1.5 天；5 天窗口，非合同受载期，误差约 ±1 周\n\n上一条成交 WS 745.00 (2026) - 270,000 mts（21 Oct 2026 16:28 · RSea/Korea）\n\n报告时间 22 Oct 2026 11:10 LT\n\n接口发布 2026-10-23 08:40 UTC（北京 16:40）\n\n━━━━━━━━━━\n\n**5\\. New Vigorous (2012)**\n\n船型 Modern (VLSFO) · DWT 318,506 · CII C\n\n状态 Fixed\n\n租家 Petrobras\n\n经营 AMCL\n\n航线(装卸区) Brazil → China\n\n货量 260,000 mts\n\n基准运价 USD 38.51/mt（WS100）\n\nRvTCE USD 87,319/天\n\nActTCE USD 86,101/天\n\nRV/Total 84.59/88.82 天\n\n空驶 4.68 天（占 5.3%）\n\n航程 压载 10,998 nm / 重载 11,518 nm　←　压载里程比 48.8%\n\n本笔费率(Rate) WS 120.00　←「Front Beaver (2023)」的 Last Done 直接引用本笔\n\n折合运费 USD 46.21/mt（整船 USD 12.02M）\n\n来向/开放日 Quanzhou - 16 Jul 2026\n\n航速 压载/重载 14.3 - 12.5 kn\n\n压载比 时长 37.0%（占航次 88.8 天）· 里程 48.8%\n\n时段分布 压载/重载/港口 37% / 43% / 20%\n\n预计受载窗口(推算) 2026-08-21 ~ 25 Aug\n\n└ 开放日 07-16 + 压载 32.0 天 + 空闲 4.7 天；5 天窗口，非合同受载期，误差约 ±1 周\n\n上一条成交 WS 110.00 (2026) - 260,000 mts（21 Jul 2026 13:59 · Brazil/China）\n\n报告时间 23 Jul 2026 15:21 LT\n\n接口发布 2026-07-23 14:22 UTC（北京 22:22）\n\n数据源 Tankers International · VLCC fixtures\n\nVLCC 新增 5 笔成交\n\n[$中远海能(SH600026)$](https://xueqiu.com/S/SH600026) [$XD招商轮(SH601872)$](https://xueqiu.com/S/SH601872) 我还真以为油佬和租家不着急呢，单子这一下全砸过来了\n\n1\\. Atokos (2025)\n\n船型 Modern (Scrubber) · DWT 320,000 · CII A\n\n状态 On Subs\n\n租家 Pertamina\n\n经营 Dynacom\n\n航线(装卸区) RSea → Indonesia<...",
+      "source_kind": "public_page_supplement",
+      "content_status": "author_text_and_embedded_quote_saved"
+    },
+    {
+      "id": "413635270",
+      "published_at_local": "2026-10-23 17:33:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "这种可能性不能说完全不存在，但可能性不大。因为油轮市场，我们别说话语权了，连市场份额才10%左右。这点市场份额，在高景气周期打压自己的公司，没让自己的公司赚和全球同业同样多的钱，那么未来更新船的钱谁出，维持市场份额的钱哪来？如果，市场份额进一步减少，以后运油岂不更看外国船东的脸色？一般，只有在全球行业中占有巨大市场份额，不需要再看外国公司脸色行业，国内才会要求让利。",
+      "context_text": "泡着：油运会不会也这样，都是央企，运价高到一定程度会被强制要求降低费用。",
+      "url": "https://xueqiu.com/1910783512/413635270",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413634516",
+      "published_at_local": "2026-10-23 17:27:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "应该是买不到油，而不是油价太高。油价高，维持生产的现金流，应该比减产的现金流更好。",
+      "context_text": "话秋风：原油进口问题有一部分因素是山东的本地炼化厂油价成本高，没利润停了不少。",
+      "url": "https://xueqiu.com/1910783512/413634516",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413634087",
+      "published_at_local": "2026-10-23 17:24:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "阿塞拜疆人除了硬扛下去，没有后路的。",
+      "context_text": "心定则神闲：大家都担心朗子扛不住了，‘哐当’一声，突然跪地上了。",
+      "url": "https://xueqiu.com/1910783512/413634087",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413634022",
+      "published_at_local": "2026-10-23 17:23:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "国内目前没有一家原油开采上市公司的净利润对油价能够体现高弹性的。",
+      "context_text": "鑫鑫鑫财富：石油公司股票比期货稳妥，可惜国内都不怎么涨。",
+      "url": "https://xueqiu.com/1910783512/413634022",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413633878",
+      "published_at_local": "2026-10-23 17:22:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "二季度，中海油的净利润完全没有体现出油价上涨应有的弹性。2026年，中海油净利润同比上涨41.58%，而布油由去年同期的66.71，上涨到96.7，涨幅45%；对比一下2022年，当年中海油净利润同比上涨102%，而布油由2021年的70.95，上涨到22年的99.04，油价涨幅39.59%。",
+      "context_text": "夜袭韭菜村：一直拿了点海油对冲其他持仓，发现压根啥也没对冲上。",
+      "url": "https://xueqiu.com/1910783512/413633878",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413632951",
+      "published_at_local": "2026-10-23 17:16:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "原油供应不足。看一下中国最近月的原油进口量，离22年月均，还差不少。22年布油均价100刀，这个价格水平下，中国进口的原油不太会补库的。",
+      "context_text": "Lemon--M：请教下当下高油价的主导原因，是梅姨升级带来的风险溢价，还是真实供需带来的？",
+      "url": "https://xueqiu.com/1910783512/413632951",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413630693",
+      "published_at_local": "2026-10-23 17:00:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "国内现在还有敢讲真话的宏观分析师吗？",
+      "context_text": "woals：说真的市场现在其实对宏观和油价太太太乐观了，我都没想到股市跌成这样，还能乐观成这样。",
+      "url": "https://xueqiu.com/1910783512/413630693",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413629278",
+      "published_at_local": "2026-10-23 16:50:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "22年，布油100，需求减少了？原油消费非常刚性，原油成本在整个经济成本中的占比很低，低成本占比的高刚性需求，需求的价格弹性很低。",
+      "context_text": "woals：看了库存情况，最乐观的情况也就想俄乌之后22-25的四年情况了，100-82-80-68；他认为需求被杀死可能是油价下跌原因。",
+      "url": "https://xueqiu.com/1910783512/413629278",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413627977",
+      "published_at_local": "2026-10-23 16:43:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "油价这个位置，但大部分化工产品好像没啥传导。",
+      "context_text": "戒骄戒躁123：煤化工也算是比较好的收益行业了。不过市场时候对终端消费疲软的担忧更甚。",
+      "url": "https://xueqiu.com/1910783512/413627977",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413627464",
+      "published_at_local": "2026-10-23 16:40:00 +08:00",
+      "post_type": "original",
+      "raw_text": "我有些好奇，很明显，高油价不是短期内会结束的事。而市场绝大部分的品种和高油价都呈负相关的。为什么不配些油运，来对冲高油价呢？",
+      "url": "https://xueqiu.com/1910783512/413627464",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_post_text"
+    },
+    {
+      "id": "413625547",
+      "published_at_local": "2026-10-23 16:25:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "如果在下一次加息前，金价不能远离这个低点，那么临近下一次降息，这个低点很可能破。破的话，下跌空间又打开了。",
+      "context_text": "看好股市的新人：另外，先看3900之上这个低点破不破？",
+      "url": "https://xueqiu.com/1910783512/413625547",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    },
+    {
+      "id": "413625197",
+      "published_at_local": "2026-10-23 16:23:00 +08:00",
+      "post_type": "reply",
+      "raw_text": "另外，先看3900之上这个低点破不破？",
+      "context_text": "看好股市的新人：这波金走的最好幅度最大的的一段恰恰是降息周期。",
+      "url": "https://xueqiu.com/1910783512/413625197",
+      "source_kind": "public_page_supplement",
+      "content_status": "full_author_reply_and_context"
+    }
+  ]
+}
