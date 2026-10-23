@@ -1,0 +1,72 @@
+{
+  "schema_version": "supplemental_v1",
+  "platform": "weibo",
+  "author_id": "3962719063",
+  "author_name": "挖地瓜的超级鹿鼎公",
+  "report_date": "2026-10-23",
+  "report_cutoff_local": "2026-10-23T19:21:01+08:00",
+  "retrieved_at_local": "2026-10-23T19:21:01+08:00",
+  "retrieval_method": "Public profile timeline and individual public post page extraction; no comments collected.",
+  "note": "Supplemental archive for posts absent from the repository snapshot at the stated cutoff. Raw platform text is preserved separately from the author's attributable text; embedded replies/quotes are not automatically treated as the author's opinion.",
+  "source_directory": "data/weibo/3962719063/",
+  "records_declared": 6,
+  "records_parsed": 6,
+  "records": [
+    {
+      "id": "5357251864303401",
+      "created_at_local": "2026-10-23 18:37:20 CST",
+      "kind": "reply/quote",
+      "url": "https://m.weibo.cn/status/Ro1nIi3vH?mblogid=Ro1nIi3vH",
+      "author_text": "减了啊，40多万股减到现在负的成本",
+      "raw_text": "减了啊，40多万股减到现在负的成本//@戈斯猫独立设计:老舅在这波上涨中为什么没有减持中煤？",
+      "context_note": "回复他人询问中煤能源上涨期间为何减持；引用上下文不等于作者的独立投资判断。"
+    },
+    {
+      "id": "5357254603964625",
+      "created_at_local": "2026-10-23 18:48:12 CST",
+      "kind": "original",
+      "url": "https://m.weibo.cn/status/Ro1s8gDnz?mblogid=Ro1s8gDnz",
+      "author_text": "这是游戏仓今年中煤的交易图整体上减仓了9万股，成本降至负数，7月最后一笔盒饭减仓，是因为6月产量大跌后仓促不赚钱走人，后面就没敢进场，但又因为煤价上涨不甘清仓，所以剩下20万股就拿着了，",
+      "raw_text": "这是游戏仓今年中煤的交易图整体上减仓了9万股，成本降至负数，7月最后一笔盒饭减仓，是因为6月产量大跌后仓促不赚钱走人，后面就没敢进场，但又因为煤价上涨不甘清仓，所以剩下20万股就拿着了，",
+      "content_status": "text captured; accompanying image is present on the original post but not parsed as structured data",
+      "context_note": "作者公开描述其个人中煤能源交易记录：减仓9万股、剩余20万股、成本降至负数；属于作者个人账户/游戏仓表述，不自动转成用户操作建议。"
+    },
+    {
+      "id": "5357256361379706",
+      "created_at_local": "2026-10-23 18:55:11 CST",
+      "kind": "reply/quote",
+      "url": "https://m.weibo.cn/status/Ro1uY5MVk?mblogid=Ro1uY5MVk",
+      "author_text": "这种肯定没问题，买卖都在，完成式，没有引导",
+      "raw_text": "回复@缘0705:这种肯定没问题，买卖都在，完成式，没有引导//@缘0705:老舅，帖这种图片会不会违规？要注意呀",
+      "context_note": "回复关于发布已完成交易图是否违规的提问；不是市场方向判断。"
+    },
+    {
+      "id": "5357256644231592",
+      "created_at_local": "2026-10-23 18:56:19 CST",
+      "kind": "repost_with_comment",
+      "url": "https://m.weibo.cn/status/Ro1vqhKPu?mblogid=Ro1vqhKPu",
+      "author_text": "这里最应该学习的是，价格越高，减持越多，云铝就是这点没有做好，教训深刻",
+      "raw_text": "这里最应该学习的是，价格越高，减持越多，云铝就是这点没有做好，教训深刻",
+      "context_note": "转引作者自己的中煤交易图帖；明确反思云铝未能在价格上行时充分减持。"
+    },
+    {
+      "id": "5357256856307537",
+      "created_at_local": "2026-10-23 18:57:09 CST",
+      "kind": "reply/quote",
+      "url": "https://m.weibo.cn/status/Ro1vLqsSt?mblogid=Ro1vLqsSt",
+      "author_text": "不知道",
+      "raw_text": "回复@yri叁月:不知道//@yri叁月:老舅，周一中煤h还会跌吗",
+      "context_note": "作者明确表示不知道中煤H股下周一是否继续下跌；不应归纳成看多或看空。"
+    },
+    {
+      "id": "5357257153578373",
+      "created_at_local": "2026-10-23 18:58:21 CST",
+      "kind": "original/news_copy_no_explicit_stance",
+      "url": "https://m.weibo.cn/status/Ro1wff0TH?mblogid=Ro1wff0TH",
+      "author_text": "【紫金矿业：第三季度净利润同比增长25.97% 受益于主营金属及副产品价格大幅上涨】财联社10月23日电，紫金矿业(601899.SH)公告称，第三季度实现营业收入892.74亿元，同比增长3.22%；归属于上市公司股东的净利润183.56亿元，同比增长25.97%。前三季度实现营业收入2834.53亿元，同比增长11.51%；归属于上市公司股东的净利润575.26亿元，同比增长51.93%。业绩增长主要得益于：一是深入贯彻“提质、上产、控本、增效”工作总方针，统筹强化生产组织与运营管理，重点矿种产量稳步释放；二是吨矿付现成本增速得到有效控制；三是受益于主营金属及副产品价格大幅上涨，矿产品毛利率同比显著提升，充分享受价格上涨红利。小财注：公司Q3净利润183.56亿，Q2净利润190.9亿，据此计算，Q3净利润环比下降3%",
+      "raw_text": "【紫金矿业：第三季度净利润同比增长25.97% 受益于主营金属及副产品价格大幅上涨】财联社10月23日电，紫金矿业(601899.SH)公告称，第三季度实现营业收入892.74亿元，同比增长3.22%；归属于上市公司股东的净利润183.56亿元，同比增长25.97%。前三季度实现营业收入2834.53亿元，同比增长11.51%；归属于上市公司股东的净利润575.26亿元，同比增长51.93%。业绩增长主要得益于：一是深入贯彻“提质、上产、控本、增效”工作总方针，统筹强化生产组织与运营管理，重点矿种产量稳步释放；二是吨矿付现成本增速得到有效控制；三是受益于主营金属及副产品价格大幅上涨，矿产品毛利率同比显著提升，充分享受价格上涨红利。小财注：公司Q3净利润183.56亿，Q2净利润190.9亿，据此计算，Q3净利润环比下降3%",
+      "content_status": "full visible text captured from public status page; no personal opinion appended",
+      "context_note": "该条为作者发布的财联社业绩摘要，未添加个人评价；只作为作者转发/发布的材料，不视为作者明确看多紫金。"
+    }
+  ]
+}
