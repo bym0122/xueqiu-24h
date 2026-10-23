@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月23日星期五 14:32:30",
+  "crawled_at_beijing": "2026年10月23日星期五 15:25:22",
   "crawled_date": "2026-10-23",
-  "post_count": 9,
+  "post_count": 12,
   "posts": [
     {
       "id": "5357045327069336",
@@ -114,6 +114,42 @@
       "reposts": 0,
       "comments": 82,
       "attitudes": 417
+    },
+    {
+      "id": "5357195190864196",
+      "mid": "5357195190864196",
+      "created_at": "2026-10-23T06:52:08.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnZUj3COE",
+      "text": "官家在底部买的成交量不太够，所以磨底估计逃不过，3574应该是底部区域，不是底",
+      "source": "微博网页版",
+      "reposts": 47,
+      "comments": 106,
+      "attitudes": 677
+    },
+    {
+      "id": "5357193983165438",
+      "mid": "5357193983165438",
+      "created_at": "2026-10-23T06:47:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RnZSmdhts",
+      "text": "回复@霍华德马克思之道:我不是天天在发ETF变化吗//@霍华德马克思之道:请教公公：怎么看国家队来没来？他也不告诉我啊，怎么查看呢",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 17,
+      "attitudes": 165
+    },
+    {
+      "id": "5357190313676636",
+      "mid": "5357190313676636",
+      "created_at": "2026-10-23T06:32:45.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RnZMrfqsA",
+      "text": "有官家帮忙，都快",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 50,
+      "attitudes": 487
     }
   ]
 }
