@@ -3,8 +3,81 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月25日星期日 04:31:04",
+  "crawled_at_beijing": "2026年10月25日星期日 05:31:24",
   "crawled_date": "2026-10-25",
-  "post_count": 0,
-  "posts": []
+  "post_count": 6,
+  "posts": [
+    {
+      "id": "5357777966858304",
+      "mid": "5357777966858304",
+      "created_at": "2026-10-24T21:27:52.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rof4gsM9O",
+      "text": "回复@Morphling_YHZ:当然，9点睡的，4点多起床，7个小时，午睡1-2小时，一天8-9小时可以了//@Morphling_YHZ:老舅，咱五点钟就醒了吗。//@挖地瓜的超级鹿鼎公:转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
+    },
+    {
+      "id": "5357774749827574",
+      "mid": "5357774749827574",
+      "created_at": "2026-10-24T21:15:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoeZ4FeBg",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 3
+    },
+    {
+      "id": "5357774360019005",
+      "mid": "5357774360019005",
+      "created_at": "2026-10-24T21:13:33.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoeYs04Wx",
+      "text": "日本街头访问，早稲田大学计算机工作三年，月工资到手25万日元，真社畜啊\n25万日元=1万人民币",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 4
+    },
+    {
+      "id": "5357773850149411",
+      "mid": "5357773850149411",
+      "created_at": "2026-10-24T21:11:31.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoeXD0CRR",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 9
+    },
+    {
+      "id": "5357771904254499",
+      "mid": "5357771904254499",
+      "created_at": "2026-10-24T21:03:47.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoeUuhQMX",
+      "text": "靠父母的男性，几乎没人出来标榜自己是独立男性，啃老婆女友的男性则占比极少，而很多标榜独立女性的却啃父母，啃老公男友//@快把辣条还给她:男的靠爹娘掏空积蓄买房买车都没人讨论他们独不独立这个话题，因为只要是个男的社会评价体系和他们自己就默认“独立”了",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 7
+    },
+    {
+      "id": "5357769945514831",
+      "mid": "5357769945514831",
+      "created_at": "2026-10-24T20:56:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoeRkn8ET",
+      "text": "回复@SlossA:小象可以的，盒马也是可以的，咱价投，性格里总是喜欢淘高性价比的东西，现在发现浪费时间不说，还总是老拐子上了小拐子的当//@SlossA:公公可以试试小象超市",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 2
+    }
+  ]
 }
