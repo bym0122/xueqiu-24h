@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月25日星期日 06:30:23",
+  "crawled_at_beijing": "2026年10月25日星期日 07:27:49",
   "crawled_date": "2026-10-25",
-  "post_count": 13,
+  "post_count": 15,
   "posts": [
     {
       "id": "5357777966858304",
@@ -162,6 +162,30 @@
       "reposts": 1,
       "comments": 2,
       "attitudes": 39
+    },
+    {
+      "id": "5357796862460506",
+      "mid": "5357796862460506",
+      "created_at": "2026-10-24T22:42:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RofyKak5A",
+      "text": "回复@繁花似锦归来去:从小城市长大，但是没吃过猪肉，不代表没见过猪//@繁花似锦归来去:这是真正在农村长大的，了解农村人",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 38
+    },
+    {
+      "id": "5357796578820207",
+      "mid": "5357796578820207",
+      "created_at": "2026-10-24T22:41:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RofyhB0xp",
+      "text": "回复@JXLZQQ:没说不可以，但是人家智商，记忆力远超普通人，赚钱当然比普通人容易得多//@JXLZQQ:北大毕业为什么不能送外卖 清华为什么不能送快递 学历只代表过去 只有现在和将来持续创造价值才能为母校证明//@挖地瓜的超级鹿鼎公:回复@天若有情终有时:北大毕业送外卖是个别，早稲田毕业去正规大公司赚...全文",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 30
     }
   ]
 }
