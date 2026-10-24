@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月24日星期六 14:38:53",
+  "crawled_at_beijing": "2026年10月24日星期六 15:38:03",
   "crawled_date": "2026-10-24",
-  "post_count": 8,
+  "post_count": 11,
   "posts": [
     {
       "id": "5357417053290664",
@@ -102,6 +102,42 @@
       "reposts": 2,
       "comments": 38,
       "attitudes": 343
+    },
+    {
+      "id": "5357562257998191",
+      "mid": "5357562257998191",
+      "created_at": "2026-10-24T07:10:43.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Ro9slxyH5",
+      "text": "回复@一杯热馥芮白:10月底开始淡季//@一杯热馥芮白:公公，电解铝的旺季销库存，淡季积库存，下个月开始，那价格会下来吗？",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 42
+    },
+    {
+      "id": "5357559875895845",
+      "mid": "5357559875895845",
+      "created_at": "2026-10-24T07:01:16.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Ro9ovoJMh",
+      "text": "电解铝弱预期，强现实，现货价格，近期合约都强",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 24,
+      "attitudes": 210
+    },
+    {
+      "id": "5357558923527487",
+      "mid": "5357558923527487",
+      "created_at": "2026-10-24T06:57:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Ro9mYeNEX",
+      "text": "回复@Anytime保持微笑:对的，之前说过，卖股票搞成买，直接双倍卖//@Anytime保持微笑:看到老舅把卖单错下为买单，又感觉纠正//@挖地瓜的超级鹿鼎公:这里最应该学习的是，价格越高，减持越多，云铝就是这点没有做好，教训深刻",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 2,
+      "attitudes": 29
     }
   ]
 }
