@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月24日星期六 15:38:03",
+  "crawled_at_beijing": "2026年10月24日星期六 16:34:41",
   "crawled_date": "2026-10-24",
-  "post_count": 11,
+  "post_count": 14,
   "posts": [
     {
       "id": "5357417053290664",
@@ -138,6 +138,42 @@
       "reposts": 2,
       "comments": 2,
       "attitudes": 29
+    },
+    {
+      "id": "5357579597518837",
+      "mid": "5357579597518837",
+      "created_at": "2026-10-24T08:19:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Ro9UjvxZz",
+      "text": "回复@Matthew_c7:应该是，准备分财产//@Matthew_c7:额，这是准备立遗嘱前的调研吗。。。。。",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 0,
+      "attitudes": 31
+    },
+    {
+      "id": "5357575208176374",
+      "mid": "5357575208176374",
+      "created_at": "2026-10-24T08:02:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Ro9Neyj30",
+      "text": "所以后悔啊，教训深刻啊//@老曾阿牛:他们走，你没走吧？你不是一直在市场PS吗？",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 5,
+      "attitudes": 101
+    },
+    {
+      "id": "5357574800541939",
+      "mid": "5357574800541939",
+      "created_at": "2026-10-24T08:00:34.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Ro9MA2gYX",
+      "text": "亲子鉴定中心，本周一个男性同时给8个孩子做亲子鉴定，全部亲生的，8个孩子7个母亲，看来,钱给够了还是愿意生的",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 29,
+      "attitudes": 193
     }
   ]
 }
