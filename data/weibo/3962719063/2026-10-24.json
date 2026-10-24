@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月24日星期六 07:40:13",
+  "crawled_at_beijing": "2026年10月24日星期六 08:50:30",
   "crawled_date": "2026-10-24",
-  "post_count": 7,
+  "post_count": 8,
   "posts": [
     {
       "id": "5357417053290664",
@@ -90,6 +90,18 @@
       "reposts": 0,
       "comments": 30,
       "attitudes": 164
+    },
+    {
+      "id": "5357452841453468",
+      "mid": "5357452841453468",
+      "created_at": "2026-10-23T23:55:57.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Ro6BS6672",
+      "text": "不要在别人的主贴下，也就是我转发的帖子下问问题，太不礼貌了。\n\n你可以直接自己发帖问，@ 我，我有兴趣的问题，会回答的",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 38,
+      "attitudes": 343
     }
   ]
 }
