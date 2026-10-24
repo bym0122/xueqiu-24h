@@ -4,6 +4,30 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "413648700",
+      "created_at": "2026-10-23T11:20:00.000Z",
+      "kind": "retweet",
+      "url": "https://www.xueqiu.com/1910783512/413648700",
+      "text": "回复@庆阳春: 如果只买ETF，为啥就四大行和极少数几只红利股创新高呢？// @庆阳春:回复@看好股市的新人:etf 已经是比较公平的办法了，不然谁知道你为啥就买特定那几个呢？",
+      "_merged_from": "supplemental-2026-10-23T19-21-CST.json"
+    },
+    {
+      "id": "413648560",
+      "created_at": "2026-10-23T11:19:00.000Z",
+      "kind": "retweet",
+      "url": "https://www.xueqiu.com/1910783512/413648560",
+      "text": "也是周期股。PE和PB就显得太高了。\n\n引用：巨化股份2026年第三季度报告页面。",
+      "_merged_from": "supplemental-2026-10-23T19-21-CST.json"
+    },
+    {
+      "id": "413647635",
+      "created_at": "2026-10-23T11:10:00.000Z",
+      "kind": "retweet",
+      "url": "https://www.xueqiu.com/1910783512/413647635",
+      "text": "回复@格林是潘: ETF大家都会看了，新一轮护盘肯定不主要买ETF了。// @格林是潘:回复@剑神一笑--陆小凤:除非证金在市面上扫了现货，否则以今天几个ETF的量能不可能有这种效果",
+      "_merged_from": "supplemental-2026-10-23T19-21-CST.json"
+    },
+    {
       "id": "413646857",
       "created_at": "2026-10-23T11:03:42.000Z",
       "kind": "status",
@@ -142,6 +166,46 @@
       "kind": "retweet",
       "url": "https://xueqiu.com/1910783512/413629417",
       "text": "回复@学习不亏钱: 那不是要进口更多油吗？进口更多油，运价还不飙？这个最直接。//@学习不亏钱:回复@看好股市的新人:价格传导还需要观望一段时间，昨天看新闻，中石化的化工库存已经空了，看接下来化工产品能不能涨价"
+    },
+    {
+      "id": "413629278",
+      "created_at": "2026-10-23T08:50:00.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/413629278",
+      "text": "22年，布油100，需求减少了？原油消费非常刚性，原油成本在整个经济成本中的占比很低，低成本占比的高刚性需求，需求的价格弹性很低。",
+      "_merged_from": "supplemental-2026-10-23T18-08-CST.json"
+    },
+    {
+      "id": "413627977",
+      "created_at": "2026-10-23T08:43:00.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/413627977",
+      "text": "油价这个位置，但大部分化工产品好像没啥传导。",
+      "_merged_from": "supplemental-2026-10-23T18-08-CST.json"
+    },
+    {
+      "id": "413627464",
+      "created_at": "2026-10-23T08:40:00.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/1910783512/413627464",
+      "text": "我有些好奇，很明显，高油价不是短期内会结束的事。而市场绝大部分的品种和高油价都呈负相关的。为什么不配些油运，来对冲高油价呢？",
+      "_merged_from": "supplemental-2026-10-23T18-08-CST.json"
+    },
+    {
+      "id": "413625547",
+      "created_at": "2026-10-23T08:25:00.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/413625547",
+      "text": "如果在下一次加息前，金价不能远离这个低点，那么临近下一次降息，这个低点很可能破。破的话，下跌空间又打开了。",
+      "_merged_from": "supplemental-2026-10-23T18-08-CST.json"
+    },
+    {
+      "id": "413625197",
+      "created_at": "2026-10-23T08:23:00.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/413625197",
+      "text": "另外，先看3900之上这个低点破不破？",
+      "_merged_from": "supplemental-2026-10-23T18-08-CST.json"
     },
     {
       "id": "413620936",
@@ -410,5 +474,5 @@
     "latest_page": 21,
     "added": 20
   },
-  "post_count": 57
+  "post_count": 65
 }

@@ -4,6 +4,14 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "413648263",
+      "created_at": "2026-10-23T11:16:00.000Z",
+      "kind": "status",
+      "url": "https://www.xueqiu.com/9493911686/413648263",
+      "text": "写完了，自取。\n\n今天黄金，煤炭，煤化工，电解铝都聊一聊。\n\n尊重知识，尊重逻辑。\n\n$紫金黄金国际(02259)$ $中国海洋石油(00883)$ $云铝股份(SZ000807)$\n\n其实我能感到市场就差最后几跌了，结果大手又来托……哎，一万句……",
+      "_merged_from": "supplemental-2026-10-23T19-21-CST.json"
+    },
+    {
       "id": "413637553",
       "created_at": "2026-10-23T09:51:07.000Z",
       "kind": "retweet",
@@ -480,5 +488,5 @@
     "latest_page": 20,
     "added": 5
   },
-  "post_count": 67
+  "post_count": 68
 }
