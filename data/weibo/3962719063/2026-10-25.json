@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月25日星期日 20:38:19",
+  "crawled_at_beijing": "2026年10月25日星期日 21:34:56",
   "crawled_date": "2026-10-25",
-  "post_count": 28,
+  "post_count": 33,
   "posts": [
     {
       "id": "5357777966858304",
@@ -342,6 +342,66 @@
       "reposts": 0,
       "comments": 8,
       "attitudes": 72
+    },
+    {
+      "id": "5358021007121023",
+      "mid": "5358021007121023",
+      "created_at": "2026-10-25T13:33:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RologtSvd",
+      "text": "大场地，11人//@风轻轻地吹2:太厉害了，是七人场还是十一人场阿？//@挖地瓜的超级鹿鼎公:回复@ghjjg201703:暑假早上8点开始踢球，踢到晚上天黑回家//@ghjjg201703:老舅年轻时是什么身体素质？",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 3
+    },
+    {
+      "id": "5358020881292436",
+      "mid": "5358020881292436",
+      "created_at": "2026-10-25T13:33:08.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rolo45qdK",
+      "text": "食堂那时候都是八两一顿，天天踢三小时球，下雪都穿短裤踢，冰渣子超冷//@Homesun38:至今记得大学里食堂打饭，要打两份3两而不是打1份6两，因为打饭的大妈是有铲子切一块的，6两和半斤几乎没啥区别，还是两个3两来的实惠//@挖地瓜的超级鹿鼎公:回复@斌番禺的一些事一些情:差远了，现在抠抠搜搜的...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 3
+    },
+    {
+      "id": "5358019366886392",
+      "mid": "5358019366886392",
+      "created_at": "2026-10-25T13:27:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RollCsTsQ",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 0,
+      "attitudes": 20
+    },
+    {
+      "id": "5358015800940727",
+      "mid": "5358015800940727",
+      "created_at": "2026-10-25T13:12:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RolfS3WJ1",
+      "text": "回复@遇水便化龙:我结婚前118斤，腿上肌肉掐都掐不进去//@遇水便化龙:我怀疑公公小时候有个外号叫“小胖”//@挖地瓜的超级鹿鼎公:回复@斌番禺的一些事一些情:差远了，现在抠抠搜搜的盛饭，甚至不敢用大碗，高中一顿两大碗饭，三个菜，＋一整只的老鸭+火腿+笋干，学校食堂最多一餐6个2两大肉包，...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 11,
+      "attitudes": 41
+    },
+    {
+      "id": "5358015045962367",
+      "mid": "5358015045962367",
+      "created_at": "2026-10-25T13:09:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoleEp15d",
+      "text": "回复@ghjjg201703:暑假早上8点开始踢球，踢到晚上天黑回家//@ghjjg201703:老舅年轻时是什么身体素质？",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 12,
+      "attitudes": 37
     }
   ]
 }
