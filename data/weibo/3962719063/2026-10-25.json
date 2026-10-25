@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月25日星期日 11:34:40",
+  "crawled_at_beijing": "2026年10月25日星期日 12:34:19",
   "crawled_date": "2026-10-25",
-  "post_count": 19,
+  "post_count": 20,
   "posts": [
     {
       "id": "5357777966858304",
@@ -234,6 +234,18 @@
       "reposts": 24,
       "comments": 17,
       "attitudes": 134
+    },
+    {
+      "id": "5357872154414129",
+      "mid": "5357872154414129",
+      "created_at": "2026-10-25T03:42:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RohwbiwjD",
+      "text": "大部分守得住房子，守不住现金，所以，，，，//@spring桃花:公公，上海唯一一套住房，要卖掉租房吗？担心后续房价跌。请帮忙分析一下//@挖地瓜的超级鹿鼎公:所以很多女的总是找黄毛，然后后悔一辈子//@田羽萱:能够提供情绪价值哪怕是扶贫女孩们也会甘之如饴",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 5,
+      "comments": 14,
+      "attitudes": 100
     }
   ]
 }
