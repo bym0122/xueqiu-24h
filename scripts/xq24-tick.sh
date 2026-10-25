@@ -79,4 +79,24 @@ fi
 {
   echo "=== $($BIN/date '+%F %T')  时段=$NOW_HOUR 点 ==="
   "$BIN/node" "$REPO/scripts/crawl_xueqiu_deep.js" 2>&1
+
+  # 抓完立刻把数据推到 GitHub（token 现读，不落盘）
+  cd "$REPO" || exit 0
+  git add data/xueqiu/ 2>/dev/null
+  if git diff --cached --quiet 2>/dev/null; then
+    echo "  （数据无变化，不提交）"
+  else
+    git -c user.name="termux-bot" -c user.email="termux@local" commit -q -m "data: 雪球抓取 $($BIN/date +%F) $NOW_HOUR 点" || true
+    TOKEN=$("$BIN/node" -e 'const fs=require("fs");try{const c=JSON.parse(fs.readFileSync(process.env.HOME+"/.config/opencode/opencode.json","utf8"));process.stdout.write(c?.mcp?.servers?.github?.headers?.Authorization?.replace(/^Bearer /,"")||"")}catch(e){}')
+    if [ -n "$TOKEN" ]; then
+      git pull -q --rebase 2>&1 | tail -2
+      if git push -q "https://x-access-token:$TOKEN@github.com/bym0122/xueqiu-24h.git" HEAD:main 2>&1; then
+        echo "  → 已推送 GitHub"
+      else
+        echo "  → 推送失败（下次再试）"
+      fi
+    else
+      echo "  → 找不到 token，未推送"
+    fi
+  fi
 } >> "$LOG" 2>&1
