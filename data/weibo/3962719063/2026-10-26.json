@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月26日星期一 06:28:13",
+  "crawled_at_beijing": "2026年10月26日星期一 07:28:59",
   "crawled_date": "2026-10-26",
-  "post_count": 2,
+  "post_count": 4,
   "posts": [
     {
       "id": "5358147465642447",
@@ -30,6 +30,30 @@
       "reposts": 4,
       "comments": 2,
       "attitudes": 22
+    },
+    {
+      "id": "5358162616256018",
+      "mid": "5358162616256018",
+      "created_at": "2026-10-25T22:56:20.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rop4Fqftw",
+      "text": "大龄剩女根本不是找寻爱情，而是要赢下自己婚姻在亲戚，朋友，同学中的面子",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 14,
+      "attitudes": 161
+    },
+    {
+      "id": "5358161345380417",
+      "mid": "5358161345380417",
+      "created_at": "2026-10-25T22:51:16.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/Rop2CmzGV",
+      "text": "某亲子鉴定机构：\n上周出了238份报告，非亲生率24%，恢复到正常水平（上上周一个父亲八个孩子全是亲生的）\n\nA：一位男子做了妻子与小舅子的亲子鉴定，确实亲生的，女方大学生子，以母亲名义住院生子（估计医院有熟人）\n\nB：女方生育后立刻离婚，男方付抚养费，去探视总有人在旁监视，好不容易取得样品 ...全文",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 16,
+      "attitudes": 91
     }
   ]
 }
