@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月25日星期日 14:39:46",
+  "crawled_at_beijing": "2026年10月25日星期日 15:39:59",
   "crawled_date": "2026-10-25",
-  "post_count": 20,
+  "post_count": 21,
   "posts": [
     {
       "id": "5357777966858304",
@@ -246,6 +246,18 @@
       "reposts": 5,
       "comments": 14,
       "attitudes": 100
+    },
+    {
+      "id": "5357931987469004",
+      "mid": "5357931987469004",
+      "created_at": "2026-10-25T07:39:54.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Roj4Gvl1O",
+      "text": "上午爬了一下小山，回家立刻倒头就睡，2小时才还魂",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
     }
   ]
 }
