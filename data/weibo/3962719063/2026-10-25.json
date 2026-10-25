@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月25日星期日 15:39:59",
+  "crawled_at_beijing": "2026年10月25日星期日 16:34:17",
   "crawled_date": "2026-10-25",
-  "post_count": 21,
+  "post_count": 24,
   "posts": [
     {
       "id": "5357777966858304",
@@ -258,6 +258,42 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 0
+    },
+    {
+      "id": "5357934542587346",
+      "mid": "5357934542587346",
+      "created_at": "2026-10-25T07:50:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Roj8OaR5o",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 16,
+      "attitudes": 48
+    },
+    {
+      "id": "5357933487718987",
+      "mid": "5357933487718987",
+      "created_at": "2026-10-25T07:45:52.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Roj76wo3N",
+      "text": "//@股道热肠也:这招高明！//@沈良-宏观价值投资:转发微博",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 2,
+      "attitudes": 38
+    },
+    {
+      "id": "5357933052560142",
+      "mid": "5357933052560142",
+      "created_at": "2026-10-25T07:44:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Roj6paK0C",
+      "text": "//@凯喜博士DrCash://@火巳:笑疯了，不懂就问，武将是啥//@愿我精彩万分:武将不会翻",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 3,
+      "attitudes": 22
     }
   ]
 }
