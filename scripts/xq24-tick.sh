@@ -89,8 +89,9 @@ fi
     git -c user.name="termux-bot" -c user.email="termux@local" commit -q -m "data: 雪球抓取 $($BIN/date +%F) $NOW_HOUR 点" || true
     TOKEN=$("$BIN/node" -e 'const fs=require("fs");try{const c=JSON.parse(fs.readFileSync(process.env.HOME+"/.config/opencode/opencode.json","utf8"));process.stdout.write(c?.mcp?.servers?.github?.headers?.Authorization?.replace(/^Bearer /,"")||"")}catch(e){}')
     if [ -n "$TOKEN" ]; then
-      git -c rebase.autoStash=true pull -q --rebase 2>&1 | tail -2
-      if git push -q "https://x-access-token:$TOKEN@github.com/bym0122/xueqiu-24h.git" HEAD:main 2>&1; then
+      # http.version=HTTP/1.1：实测 HTTP/2 连 github.com 会卡到 133s 超时，1.1 秒过
+      git -c http.version=HTTP/1.1 -c rebase.autoStash=true pull -q --rebase 2>&1 | tail -2
+      if git -c http.version=HTTP/1.1 push -q "https://x-access-token:$TOKEN@github.com/bym0122/xueqiu-24h.git" HEAD:main 2>&1; then
         echo "  → 已推送 GitHub"
       else
         echo "  → 推送失败（下次再试）"
