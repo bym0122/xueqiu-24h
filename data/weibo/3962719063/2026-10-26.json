@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月26日星期一 11:38:01",
+  "crawled_at_beijing": "2026年10月26日星期一 12:38:21",
   "crawled_date": "2026-10-26",
-  "post_count": 25,
+  "post_count": 27,
   "posts": [
     {
       "id": "5358147465642447",
@@ -306,6 +306,30 @@
       "reposts": 4,
       "comments": 18,
       "attitudes": 162
+    },
+    {
+      "id": "5358240466473503",
+      "mid": "5358240466473503",
+      "created_at": "2026-10-26T04:05:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Ror6era3l",
+      "text": "韩国送了乌克兰1000万发155榴弹炮，乌克兰转手就把韩国卖了，把朝鲜战俘送给韩国，然后公开此事，韩国总统说乌克兰违反保密协议，乌克兰说，没有保密协议\n\n把韩国人惹急了，韩国网友捐钱给俄罗斯，在俄罗斯的炮弹上写上：来自首尔的礼物",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 22,
+      "attitudes": 173
+    },
+    {
+      "id": "5358239363369564",
+      "mid": "5358239363369564",
+      "created_at": "2026-10-26T04:01:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Ror4se8zO",
+      "text": "A00铝锭 无锡 23960 +300 10-26\n氧化铝 山西 2680 0\n\n又逼近2.4万了",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 16,
+      "attitudes": 214
     }
   ]
 }
