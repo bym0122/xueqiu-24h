@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月26日星期一 17:57:59",
+  "crawled_at_beijing": "2026年10月26日星期一 18:54:38",
   "crawled_date": "2026-10-26",
-  "post_count": 36,
+  "post_count": 42,
   "posts": [
     {
       "id": "5358147465642447",
@@ -438,6 +438,78 @@
       "reposts": 6,
       "comments": 44,
       "attitudes": 245
+    },
+    {
+      "id": "5358339380479756",
+      "mid": "5358339380479756",
+      "created_at": "2026-10-26T10:38:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RotFM20O0",
+      "text": "回复@一杯热馥芮白:职业炒股年化13%以上难度更高//@一杯热馥芮白:公公觉得考985难还是职业炒股赚钱难？",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 3,
+      "attitudes": 58
+    },
+    {
+      "id": "5358339085042551",
+      "mid": "5358339085042551",
+      "created_at": "2026-10-26T10:37:34.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RotFil9Nt",
+      "text": "极端一点，非婚内性行为，全部属于流氓罪，生孩子的就多了\n别当真，玩笑话，当然也不是全算玩笑",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 13,
+      "attitudes": 67
+    },
+    {
+      "id": "5358338641498733",
+      "mid": "5358338641498733",
+      "created_at": "2026-10-26T10:35:48.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RotEA6hT7",
+      "text": "努力就能成功背后，是很吃天赋的，没天赋，你再努力都进不了985",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 10,
+      "attitudes": 112
+    },
+    {
+      "id": "5358336317064330",
+      "mid": "5358336317064330",
+      "created_at": "2026-10-26T10:26:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RotAPtDKO",
+      "text": "完全正确",
+      "source": "微博网页版",
+      "reposts": 18,
+      "comments": 4,
+      "attitudes": 100
+    },
+    {
+      "id": "5358336178653462",
+      "mid": "5358336178653462",
+      "created_at": "2026-10-26T10:26:01.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RotABAj9Y",
+      "text": "所以婚姻中忠诚的重要性毋庸置疑",
+      "source": "微博网页版",
+      "reposts": 14,
+      "comments": 6,
+      "attitudes": 61
+    },
+    {
+      "id": "5358335698405605",
+      "mid": "5358335698405605",
+      "created_at": "2026-10-26T10:24:06.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RotzPzgGh",
+      "text": "2026年10月26日CCI指数\n5500大卡 1037 （-3）\n5000大卡 934 （-3）\n4500大卡 833 （-4）",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 66
     }
   ]
 }
