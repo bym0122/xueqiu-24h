@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月26日星期一 15:53:45",
+  "crawled_at_beijing": "2026年10月26日星期一 16:47:53",
   "crawled_date": "2026-10-26",
-  "post_count": 34,
+  "post_count": 36,
   "posts": [
     {
       "id": "5358147465642447",
@@ -414,6 +414,30 @@
       "reposts": 0,
       "comments": 43,
       "attitudes": 219
+    },
+    {
+      "id": "5358300893545208",
+      "mid": "5358300893545208",
+      "created_at": "2026-10-26T08:05:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RosFHeSgM",
+      "text": "男性青年的责任感也在下降，性开放的观念也不仅仅在女性中存在，拜金主义在整个社会蔓延，教育也是问题，没有给孩子们树立良好的婚育观念",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 24,
+      "attitudes": 120
+    },
+    {
+      "id": "5358298887884753",
+      "mid": "5358298887884753",
+      "created_at": "2026-10-26T07:57:50.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RosCsx5br",
+      "text": "女性不生孩子，然后幼师，护士，中小学教师，艺术课程教师，失业的基本上都是女性为主",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 44,
+      "attitudes": 245
     }
   ]
 }
