@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月27日星期二 06:49:11",
+  "crawled_at_beijing": "2026年10月27日星期二 07:32:48",
   "crawled_date": "2026-10-27",
-  "post_count": 7,
+  "post_count": 9,
   "posts": [
     {
       "id": "5358502482804814",
@@ -90,6 +90,30 @@
       "reposts": 4,
       "comments": 4,
       "attitudes": 66
+    },
+    {
+      "id": "5358532924801939",
+      "mid": "5358532924801939",
+      "created_at": "2026-10-26T23:27:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoyHWk9cD",
+      "text": "//@六国虹://@二枚目仔:在城里的好日子过腻了，非要去体验一下山区生活//@HJ799:这些都是有好工作的！有时间出去旅游//@wimovies:闲的，无聊去养老院孤儿院做做义工",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 1,
+      "attitudes": 6
+    },
+    {
+      "id": "5358531067774965",
+      "mid": "5358531067774965",
+      "created_at": "2026-10-26T23:20:26.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoyEWwCCF",
+      "text": "会认错是最重要的事情，不要怕丢脸，失了本心最可怕，为自己感到侥幸，最后感谢长江电力（上一个帖子是不是看不到原文）",
+      "source": "微博网页版",
+      "reposts": 14,
+      "comments": 18,
+      "attitudes": 142
     }
   ]
 }
