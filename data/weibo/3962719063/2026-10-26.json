@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月26日星期一 08:56:21",
+  "crawled_at_beijing": "2026年10月26日星期一 09:48:26",
   "crawled_date": "2026-10-26",
-  "post_count": 14,
+  "post_count": 24,
   "posts": [
     {
       "id": "5358147465642447",
@@ -174,6 +174,126 @@
       "reposts": 0,
       "comments": 2,
       "attitudes": 36
+    },
+    {
+      "id": "5358205148596346",
+      "mid": "5358205148596346",
+      "created_at": "2026-10-26T01:45:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoqbgA4iK",
+      "text": "想不到业绩不好，前些日子被砸的中煤H居然翻红",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 10,
+      "attitudes": 62
+    },
+    {
+      "id": "5358204045230235",
+      "mid": "5358204045230235",
+      "created_at": "2026-10-26T01:40:57.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Roq9ulWCD",
+      "text": "紫金的资金多空对峙，砸的猛，买的凶",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 29,
+      "attitudes": 146
+    },
+    {
+      "id": "5358201790269242",
+      "mid": "5358201790269242",
+      "created_at": "2026-10-26T01:32:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Roq5R182C",
+      "text": "回复@NewYorkfarmer:剩男是找不到，你认为蔡找不到？？？？你这个人怎么这么没有逻辑//@NewYorkfarmer:回复@Joeyu周鱼:离婚带三娃还不叫剩男？//@挖地瓜的超级鹿鼎公:回复@霍华德马克思之道:被婚姻淘汰//@霍华德马克思之道:大龄剩男呢",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 29
+    },
+    {
+      "id": "5358201436375118",
+      "mid": "5358201436375118",
+      "created_at": "2026-10-26T01:30:36.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Roq5hqKsu",
+      "text": "回复@晨888曦:当然//@晨888曦:男人也得脾气好啊//@挖地瓜的超级鹿鼎公:回复@用户7519857687:脾气好的姑娘，婚姻不容易散了//@用户7519857687:回复@挖地瓜的超级鹿鼎公:嗯。为什么顺从那么重要？",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 19
+    },
+    {
+      "id": "5358200601969627",
+      "mid": "5358200601969627",
+      "created_at": "2026-10-26T01:27:16.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Roq3W8gob",
+      "text": "回复@NewYorkfarmer:找老婆找的是跟你一心一意的坚强后盾，共同养育子女的合伙人//@NewYorkfarmer:回复@Joeyu周鱼:对于有能力的男人来说，老婆唯一的用处就是传宗接代。有了孩子之后，就不需老婆了呀！//@挖地瓜的超级鹿鼎公:回复@霍华德马克思之道:被婚姻淘汰//@霍华德马克思之道:大龄剩男呢",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 57
+    },
+    {
+      "id": "5358199100408415",
+      "mid": "5358199100408415",
+      "created_at": "2026-10-26T01:21:19.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Roq1w1Ifl",
+      "text": "@地瓜派掌门师兄  分享的图",
+      "source": "微博网页版",
+      "reposts": 17,
+      "comments": 18,
+      "attitudes": 166
+    },
+    {
+      "id": "5358196975732868",
+      "mid": "5358196975732868",
+      "created_at": "2026-10-26T01:12:52.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RopY5o3nC",
+      "text": "回复@大道至简-MT:优先选择国企//@大道至简-MT:麻烦问一下老舅，为啥对中国宏桥不感冒",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 4,
+      "attitudes": 100
+    },
+    {
+      "id": "5358196257981200",
+      "mid": "5358196257981200",
+      "created_at": "2026-10-26T01:10:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RopWVxuh2",
+      "text": "回复@捂耳听风者:新浪期货//@捂耳听风者:老舅 这是哪里看的",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 71
+    },
+    {
+      "id": "5358195979584735",
+      "mid": "5358195979584735",
+      "created_at": "2026-10-26T01:08:55.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RopWtEdqv",
+      "text": "铜铝都大涨",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 28,
+      "attitudes": 198
+    },
+    {
+      "id": "5358194772938972",
+      "mid": "5358194772938972",
+      "created_at": "2026-10-26T01:04:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RopUxckyM",
+      "text": "回复@霍华德马克思之道:被婚姻淘汰//@霍华德马克思之道:大龄剩男呢",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 18,
+      "attitudes": 78
     }
   ]
 }
