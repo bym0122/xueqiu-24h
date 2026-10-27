@@ -4,6 +4,13 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "413988126",
+      "created_at": "2026-10-27T02:03:53.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/413988126",
+      "text": "回复@斯尊: 没啥压力，抓紧暴跌吧，提前跌完。 不然等着纳斯达克倾泻而下，双创就要千股跌停了。//@斯尊:回复@斯托伯的天空:大a又上演开盘即巅峰"
+    },
+    {
       "id": "413976569",
       "created_at": "2026-10-27T01:35:17.000Z",
       "kind": "status",
@@ -130,12 +137,12 @@
       "text": "还有2.43万亿融资余额～ 准备接受下一轮暴击吧大家情绪良好，还有很多钱可以割。查看图片"
     }
   ],
-  "crawled_at_beijing": "2026年10月27日星期二 10:01:24",
+  "crawled_at_beijing": "2026年10月27日星期二 11:01:02",
   "crawled_date": "2026-10-27",
   "deep": {
     "original_pages": 1,
     "latest_page": 20,
-    "added": 2
+    "added": 1
   },
-  "post_count": 18
+  "post_count": 19
 }
