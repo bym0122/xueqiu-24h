@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月27日星期二 07:32:48",
+  "crawled_at_beijing": "2026年10月27日星期二 08:46:03",
   "crawled_date": "2026-10-27",
-  "post_count": 9,
+  "post_count": 13,
   "posts": [
     {
       "id": "5358502482804814",
@@ -114,6 +114,54 @@
       "reposts": 14,
       "comments": 18,
       "attitudes": 142
+    },
+    {
+      "id": "5358545925048433",
+      "mid": "5358545925048433",
+      "created_at": "2026-10-27T00:19:28.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Roz2Ulbkl",
+      "text": "但凡不能自学的课本，全是垃圾",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 11,
+      "comments": 38,
+      "attitudes": 438
+    },
+    {
+      "id": "5358540745343184",
+      "mid": "5358540745343184",
+      "created_at": "2026-10-26T23:58:52.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoyUymq0o",
+      "text": "某队继续入场",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 20,
+      "comments": 36,
+      "attitudes": 358
+    },
+    {
+      "id": "5358540353962531",
+      "mid": "5358540353962531",
+      "created_at": "2026-10-26T23:57:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoyTVgCPN",
+      "text": "确实如此//@悠悠鹤望兰:我之前告诉我女儿定义、公理都在教材上，言简意赅。我女儿说没有，后来一翻书，妈的，现在教材瞎他妈搞。某些脑残为了改革而改革，乱改教材，问题多多。//@挖地瓜的超级鹿鼎公://@何新老家伙:支持一下",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 63,
+      "comments": 39,
+      "attitudes": 236
+    },
+    {
+      "id": "5358535018021804",
+      "mid": "5358535018021804",
+      "created_at": "2026-10-26T23:36:08.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoyLjxEPW",
+      "text": "回复@航楠向上:跟我差不多，我理科第一，英语倒数//@航楠向上:家有理科年十，语英年级倒数的重高娃，这特么都不知道怎么搞了老舅//@挖地瓜的超级鹿鼎公:回复@居住师伟哥:你显然没有一个学啥啥不会的孩子，有些孩子，吃很聪明，做事也认真，孝顺，情商高，但是你丢一道几何图形题给他，他死活是学不...全文",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 23,
+      "attitudes": 118
     }
   ]
 }
