@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月27日星期二 21:53:54",
+  "crawled_at_beijing": "2026年10月27日星期二 23:01:51",
   "crawled_date": "2026-10-27",
-  "post_count": 46,
+  "post_count": 50,
   "posts": [
     {
       "id": "5358502482804814",
@@ -558,6 +558,54 @@
       "reposts": 0,
       "comments": 4,
       "attitudes": 32
+    },
+    {
+      "id": "5358754518275788",
+      "mid": "5358754518275788",
+      "created_at": "2026-10-27T14:08:21.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoEtlyIUs",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 11,
+      "comments": 11,
+      "attitudes": 100
+    },
+    {
+      "id": "5358754367541657",
+      "mid": "5358754367541657",
+      "created_at": "2026-10-27T14:07:45.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoEt6vDVD",
+      "text": "找护士问绝对捷径",
+      "source": "微博网页版",
+      "reposts": 15,
+      "comments": 4,
+      "attitudes": 90
+    },
+    {
+      "id": "5358753684655542",
+      "mid": "5358753684655542",
+      "created_at": "2026-10-27T14:05:02.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoEs0jx7o",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 30,
+      "comments": 10,
+      "attitudes": 110
+    },
+    {
+      "id": "5358753613611890",
+      "mid": "5358753613611890",
+      "created_at": "2026-10-27T14:04:45.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoErTf9Ci",
+      "text": "火电死不了，没看到前几天售电公司告御状吗",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 21,
+      "attitudes": 220
     }
   ]
 }
