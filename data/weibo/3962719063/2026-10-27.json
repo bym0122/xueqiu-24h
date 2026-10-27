@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月27日星期二 18:41:26",
+  "crawled_at_beijing": "2026年10月27日星期二 19:39:36",
   "crawled_date": "2026-10-27",
-  "post_count": 35,
+  "post_count": 45,
   "posts": [
     {
       "id": "5358502482804814",
@@ -426,6 +426,126 @@
       "reposts": 4,
       "comments": 3,
       "attitudes": 38
+    },
+    {
+      "id": "5358715758969471",
+      "mid": "5358715758969471",
+      "created_at": "2026-10-27T11:34:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoDsPBDmT",
+      "text": "回复@高级伴读书虫:苹果是能力圈，网易是朋友圈//@高级伴读书虫:网易苹果都是他能力圈内的",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 14
+    },
+    {
+      "id": "5358715001376452",
+      "mid": "5358715001376452",
+      "created_at": "2026-10-27T11:31:19.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoDrC5M4Q",
+      "text": "华能国际公告，2026年第三季度营业收入589.4亿元，同比下降3.29%；归母净利润12.36亿元，同比下降77.84%；扣非净利润8.16亿元，同比下降84.41%。\n\n2026年前三季度营业收入1658.49亿元，同比下降4.12%；归母净利润78.22亿元，同比下降47.29%；扣非净利润68.54亿元，同比下降51.19%。",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 15,
+      "attitudes": 54
+    },
+    {
+      "id": "5358714371704711",
+      "mid": "5358714371704711",
+      "created_at": "2026-10-27T11:28:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoDqB79tl",
+      "text": "回复@白眉z3:巴菲特在机场，航空公司上折戟多次了//@白眉z3:巴菲特这个上面翻车好多次了",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 25
+    },
+    {
+      "id": "5358711729031794",
+      "mid": "5358711729031794",
+      "created_at": "2026-10-27T11:18:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoDmkBTA6",
+      "text": "回复@TJ-Zhao:对的，他自己是两大手机公司老板，制度是真赚钱，应该买的比巴菲特早//@TJ-Zhao:回复@挖地瓜的超级鹿鼎公:他买苹果比老巴买得早，这个是真事，不是为他辩护，只说事实",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 59
+    },
+    {
+      "id": "5358711325594324",
+      "mid": "5358711325594324",
+      "created_at": "2026-10-27T11:16:43.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoDlGntl2",
+      "text": "回复@雷嘟皮:可能得，毕竟他是两大手机公司大股东//@雷嘟皮:他买苹果应该比巴菲特更早//@挖地瓜的超级鹿鼎公:回复@TJ-Zhao:抄老巴作业买苹果而已，认知中完全无视技术流现实存在//@TJ-Zhao:但是人家多年下来收益也挺好的啊",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 38
+    },
+    {
+      "id": "5358711186916798",
+      "mid": "5358711186916798",
+      "created_at": "2026-10-27T11:16:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoDlst1ng",
+      "text": "老巴买机场股票，老段看不懂跟着买",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 15,
+      "attitudes": 106
+    },
+    {
+      "id": "5358710897509896",
+      "mid": "5358710897509896",
+      "created_at": "2026-10-27T11:15:01.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoDkZvvFm",
+      "text": "回复@TJ-Zhao:买苹果确实比巴菲特早，但认知中完全无视技术流现实存在//@TJ-Zhao:但是人家多年下来收益也挺好的啊",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 7,
+      "attitudes": 47
+    },
+    {
+      "id": "5358709933083104",
+      "mid": "5358709933083104",
+      "created_at": "2026-10-27T11:11:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoDjrcW3u",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 49
+    },
+    {
+      "id": "5358709829798232",
+      "mid": "5358709829798232",
+      "created_at": "2026-10-27T11:10:46.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoDjgF6Y0",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 60
+    },
+    {
+      "id": "5358709788379419",
+      "mid": "5358709788379419",
+      "created_at": "2026-10-27T11:10:36.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoDjcz9RV",
+      "text": "//@专业戳轮胎熊律师:mark回家看//@郭叔叔看了都摇头:而且略微离谱的一个事是，有几个技术是在去年五月份他们开源周就开源了的。//@刘群MT-to-Death:非常好的视频，信息密度很高，用尽量直观的方式解释了很多DeepSeek的很多前沿创新技术",
+      "source": "微博网页版",
+      "reposts": 18,
+      "comments": 1,
+      "attitudes": 30
     }
   ]
 }
