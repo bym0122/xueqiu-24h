@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月27日星期二 19:39:36",
+  "crawled_at_beijing": "2026年10月27日星期二 20:46:24",
   "crawled_date": "2026-10-27",
-  "post_count": 45,
+  "post_count": 46,
   "posts": [
     {
       "id": "5358502482804814",
@@ -546,6 +546,18 @@
       "reposts": 18,
       "comments": 1,
       "attitudes": 30
+    },
+    {
+      "id": "5358730547826991",
+      "mid": "5358730547826991",
+      "created_at": "2026-10-27T12:33:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoDQGwQ9N",
+      "text": "回复@抬头拉车123:我个人认为做企业顶流水平，炒股票有一定水平//@抬头拉车123:鹿公，段总的水平还是很高的，他的大道也是知行合一的，他和你是同道中人",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 32
     }
   ]
 }
