@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月28日星期三 06:40:16",
+  "crawled_at_beijing": "2026年10月28日星期三 07:35:36",
   "crawled_date": "2026-10-28",
-  "post_count": 9,
+  "post_count": 15,
   "posts": [
     {
       "id": "5358880676381806",
@@ -114,6 +114,78 @@
       "reposts": 21,
       "comments": 7,
       "attitudes": 42
+    },
+    {
+      "id": "5358890738254549",
+      "mid": "5358890738254549",
+      "created_at": "2026-10-27T23:09:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoI13yDnT",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 8,
+      "attitudes": 48
+    },
+    {
+      "id": "5358889224111513",
+      "mid": "5358889224111513",
+      "created_at": "2026-10-27T23:03:37.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoHYChfAJ",
+      "text": "回复@快跑不要停:绝对不是运气，是对游戏认知到位，是对丁磊人品的认知到位，加上投入不大（对段而言）//@快跑不要停:网易真的是运气好",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 46
+    },
+    {
+      "id": "5358888573733002",
+      "mid": "5358888573733002",
+      "created_at": "2026-10-27T23:01:02.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoHXzfF7I",
+      "text": "中国人的脸很大一部分都是被这些EZG丢光的，脸土鸡国的人都知道了//@安西杂谈:崇洋媚外可耻。",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 10,
+      "attitudes": 70
+    },
+    {
+      "id": "5358887902905398",
+      "mid": "5358887902905398",
+      "created_at": "2026-10-27T22:58:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoHWucbPg",
+      "text": "//@专业戳轮胎熊律师:啊？？？//@奶霸知道:艹//@天凶:感谢综艺真人秀。家属可以起诉了//@内燃薯片:卧槽",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 3,
+      "attitudes": 35
+    },
+    {
+      "id": "5358886388762073",
+      "mid": "5358886388762073",
+      "created_at": "2026-10-27T22:52:21.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoHU2ALpL",
+      "text": "//@西门大妈:？？？这还是新中国？？？ 查看图片  //@小逻辑控pku_thu:哦，这还不是最夸张的，他们这公司招数很野蛮，去年我人在家中坐，微信冻结从天上来！还是什么云南某法院冻结，然后让联系的是北京的律师。我就纳闷这咋操作的：我在云南有啥公司或是居住地吗？连消费都没有啊！北京的...全文",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 6,
+      "attitudes": 34
+    },
+    {
+      "id": "5358885359847333",
+      "mid": "5358885359847333",
+      "created_at": "2026-10-27T22:48:16.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoHSnFjJX",
+      "text": "有色金属，网友@腌菜汤糕 的功课",
+      "source": "微博网页版",
+      "reposts": 14,
+      "comments": 7,
+      "attitudes": 165
     }
   ]
 }
