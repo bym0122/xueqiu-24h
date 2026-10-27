@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月27日星期二 08:46:03",
+  "crawled_at_beijing": "2026年10月27日星期二 09:45:42",
   "crawled_date": "2026-10-27",
-  "post_count": 13,
+  "post_count": 15,
   "posts": [
     {
       "id": "5358502482804814",
@@ -162,6 +162,30 @@
       "reposts": 1,
       "comments": 23,
       "attitudes": 118
+    },
+    {
+      "id": "5358563023131173",
+      "mid": "5358563023131173",
+      "created_at": "2026-10-27T01:27:25.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rozuud8yN",
+      "text": "five flower meet\nback  leg meet\n\n如果英语是这样的，就好学多了",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 58,
+      "attitudes": 157
+    },
+    {
+      "id": "5358561758283507",
+      "mid": "5358561758283507",
+      "created_at": "2026-10-27T01:22:23.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RozsryKUX",
+      "text": "回复@我是学习型流氓:我读书时候理科从来不听课，自己看看书就第一，现在的课本看不懂怎么学//@我是学习型流氓:怪课本干嘛，不是应该怪自己吗",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 18,
+      "attitudes": 111
     }
   ]
 }
