@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月28日星期三 19:44:44",
+  "crawled_at_beijing": "2026年10月28日星期三 20:55:00",
   "crawled_date": "2026-10-28",
-  "post_count": 66,
+  "post_count": 70,
   "posts": [
     {
       "id": "5358880676381806",
@@ -798,6 +798,54 @@
       "reposts": 35,
       "comments": 73,
       "attitudes": 332
+    },
+    {
+      "id": "5359092556366922",
+      "mid": "5359092556366922",
+      "created_at": "2026-10-28T12:31:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoNgzqIki",
+      "text": "回复@EAGLE0750:中级军官全部全国抽调//@EAGLE0750:扮演者真反了 咋办//@挖地瓜的超级鹿鼎公:找人扮演反贼，抢光藩王，支援中央//@周大师199502:大明那些光吃饭生崽的寄生虫王爷们怎么解？体系性的问题不解决，拖个几十年，只会愈演越烈 //@挖地瓜的超级鹿鼎公:赈灾西北，山西抄家，江南灭族，找到曹文...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 23
+    },
+    {
+      "id": "5359092407472768",
+      "mid": "5359092407472768",
+      "created_at": "2026-10-28T12:31:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoNgkvm0w",
+      "text": "回复@套在绿铝的淡淡:我书看完了，后面少了谋略//@套在绿铝的淡淡:公公，第二季出来了//@挖地瓜的超级鹿鼎公:大明，我不是万寿帝君，逻辑在线，就是只有一百多集//@沉默不语的高山:公公再推荐一部短剧，红楼很不错，可以看完了",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 31
+    },
+    {
+      "id": "5359092219773819",
+      "mid": "5359092219773819",
+      "created_at": "2026-10-28T12:30:14.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoNg1F0Cf",
+      "text": "回复@阳光stupid:想啥那，四季度有1100万吨我就满意//@阳光stupid:核定产能5200，上半年2700，三季度才900。还有1600的产能，四季度这个价格在保供下还是可以期待的。",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 2,
+      "attitudes": 25
+    },
+    {
+      "id": "5359091744510614",
+      "mid": "5359091744510614",
+      "created_at": "2026-10-28T12:28:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoNfgiVpQ",
+      "text": "回复@hopespringlucky:想啥呢，还10块，14以下能不能见到我都不知道//@hopespringlucky:公公能否分析一下潞安？3季度业绩不错 后续有没有机会再跌下来到10块左右？",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 4,
+      "attitudes": 49
     }
   ]
 }
