@@ -4,6 +4,20 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "414251664",
+      "created_at": "2026-10-28T06:28:16.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/414251664",
+      "text": "回复@francis的投资苦旅: 接下来长鑫在几大指数里面应该都是第一权重。//@francis的投资苦旅:回复@看好股市的新人:这个指数有问题，沪深300按流通市值做权重更真实"
+    },
+    {
+      "id": "414249190",
+      "created_at": "2026-10-28T06:17:36.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/414249190",
+      "text": "回复@traveller69: 钱只是一部分，关键是地区掌控力。//@traveller69:回复@看好股市的新人:479亿美元，"
+    },
+    {
       "id": "414246469",
       "created_at": "2026-10-28T06:05:36.000Z",
       "kind": "retweet",
@@ -284,12 +298,12 @@
       "text": "回复@小懂行: 没有LABUBU，泡泡能值现在的市值？复制不出LABUBU，也不值这个市值。//@小懂行:回复@看好股市的新人:labubu出圈对ppmt当然是好事，是企业发展的一个里程碑我觉得。只是认为labubu的成功是常态，然后以此为依据去投资的“投资客”是注定会失败的。 $泡泡玛特(09992)$"
     }
   ],
-  "crawled_at_beijing": "2026年10月28日星期三 14:16:41",
+  "crawled_at_beijing": "2026年10月28日星期三 15:06:43",
   "crawled_date": "2026-10-28",
   "deep": {
     "original_pages": 1,
     "latest_page": 21,
-    "added": 1
+    "added": 2
   },
-  "post_count": 40
+  "post_count": 42
 }
