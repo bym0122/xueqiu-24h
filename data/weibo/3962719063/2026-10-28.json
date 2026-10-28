@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月28日星期三 07:35:36",
+  "crawled_at_beijing": "2026年10月28日星期三 08:56:03",
   "crawled_date": "2026-10-28",
-  "post_count": 15,
+  "post_count": 17,
   "posts": [
     {
       "id": "5358880676381806",
@@ -186,6 +186,30 @@
       "reposts": 14,
       "comments": 7,
       "attitudes": 165
+    },
+    {
+      "id": "5358915632235710",
+      "mid": "5358915632235710",
+      "created_at": "2026-10-28T00:48:33.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoIFd9nBQ",
+      "text": "但是三季度环比是下降的//@腌菜汤糕:公公，石油天然气开采业提速了 评论配图",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 19
+    },
+    {
+      "id": "5358911999445959",
+      "mid": "5358911999445959",
+      "created_at": "2026-10-28T00:34:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoIzlDDkb",
+      "text": "回复@藏器待时学徒:氧化铝便宜了，所以成本降低，基数大了，所以增速下降//@藏器待时学徒:左边没看懂，为啥营业成本会下降？右边增长速度下降了，预期开始消失了？",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 6,
+      "comments": 2,
+      "attitudes": 72
     }
   ]
 }
