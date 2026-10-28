@@ -3,8 +3,21 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月29日星期四 04:45:03",
+  "crawled_at_beijing": "2026年10月29日星期四 05:42:37",
   "crawled_date": "2026-10-29",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5359230430740520",
+      "mid": "5359230430740520",
+      "created_at": "2026-10-28T21:39:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoQQX36DS",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 7
+    }
+  ]
 }
