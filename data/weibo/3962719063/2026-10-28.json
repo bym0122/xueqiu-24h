@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月28日星期三 08:56:03",
+  "crawled_at_beijing": "2026年10月28日星期三 09:57:16",
   "crawled_date": "2026-10-28",
-  "post_count": 17,
+  "post_count": 27,
   "posts": [
     {
       "id": "5358880676381806",
@@ -210,6 +210,126 @@
       "reposts": 6,
       "comments": 2,
       "attitudes": 72
+    },
+    {
+      "id": "5358930484005851",
+      "mid": "5358930484005851",
+      "created_at": "2026-10-28T01:47:34.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoJ3agO6v",
+      "text": "昨天的晋控煤业给了山西煤炭股上涨的勇气，虽然实际关联并不大",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 9,
+      "attitudes": 108
+    },
+    {
+      "id": "5358930041767768",
+      "mid": "5358930041767768",
+      "created_at": "2026-10-28T01:45:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoJ2s7pSo",
+      "text": "回复@Volcano2020丶:是的，这种就不会开盲盒，泡泡玛特这种你没法看清楚，潮流起来，我们这种老登就后知后觉//@Volcano2020丶:舅舅，对于这种经营信息公开透明的企业，从发电量数据出来了之后就有预期了。我发现您也喜欢投资这种定期公开经营数据的公司，很少踩雷啊",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 69
+    },
+    {
+      "id": "5358928609412303",
+      "mid": "5358928609412303",
+      "created_at": "2026-10-28T01:40:07.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoJ08Duzl",
+      "text": "两个火电居然都翻红了，市场打提前量打的太狠了",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 19,
+      "attitudes": 171
+    },
+    {
+      "id": "5358926719615269",
+      "mid": "5358926719615269",
+      "created_at": "2026-10-28T01:32:37.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoIX5ElmZ",
+      "text": "火电前面跌过了，三季报这么差，好像也跌不多啊",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 28,
+      "attitudes": 168
+    },
+    {
+      "id": "5358926235173362",
+      "mid": "5358926235173362",
+      "created_at": "2026-10-28T01:30:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoIWjlHPk",
+      "text": "哈哈哈哈",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 7,
+      "attitudes": 94
+    },
+    {
+      "id": "5358926054294346",
+      "mid": "5358926054294346",
+      "created_at": "2026-10-28T01:29:58.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoIW1i19E",
+      "text": "格力股价上跌幅不大，微跌而已",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 10,
+      "attitudes": 103
+    },
+    {
+      "id": "5358920635779760",
+      "mid": "5358920635779760",
+      "created_at": "2026-10-28T01:08:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoINhofzW",
+      "text": "回复@用户6028964104:电力从来都是整体过剩的，你敢不过剩，就会在高峰期断电，主要是今年杀价杀的过分了，这种事情每个几年就会发生一次，然后在一年左右修复//@用户6028964104:说了多次，电力过剩",
+      "source": "微博网页版",
+      "reposts": 15,
+      "comments": 10,
+      "attitudes": 161
+    },
+    {
+      "id": "5358919249562908",
+      "mid": "5358919249562908",
+      "created_at": "2026-10-28T01:02:56.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoIL2E7Ks",
+      "text": "实话实说，我倒是希望电力大跌一波，虽然我游戏仓还有200多个电力的仓位，但是便宜货我是愿意拿的",
+      "source": "微博网页版",
+      "reposts": 22,
+      "comments": 60,
+      "attitudes": 481
+    },
+    {
+      "id": "5358918404674522",
+      "mid": "5358918404674522",
+      "created_at": "2026-10-28T00:59:34.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoIJGjC3w",
+      "text": "陕煤三季报应该拿部分利润去填坑了，我个人觉得58亿确确实实少了",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 6,
+      "attitudes": 255
+    },
+    {
+      "id": "5358917740659106",
+      "mid": "5358917740659106",
+      "created_at": "2026-10-28T00:56:55.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoIIC2LsK",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 12,
+      "attitudes": 89
     }
   ]
 }
