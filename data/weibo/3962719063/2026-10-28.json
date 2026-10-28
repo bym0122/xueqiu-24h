@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月28日星期三 09:57:16",
+  "crawled_at_beijing": "2026年10月28日星期三 10:49:36",
   "crawled_date": "2026-10-28",
-  "post_count": 27,
+  "post_count": 33,
   "posts": [
     {
       "id": "5358880676381806",
@@ -330,6 +330,78 @@
       "reposts": 9,
       "comments": 12,
       "attitudes": 89
+    },
+    {
+      "id": "5358945137068082",
+      "mid": "5358945137068082",
+      "created_at": "2026-10-28T02:45:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoJqNtEJk",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 18
+    },
+    {
+      "id": "5358941225880000",
+      "mid": "5358941225880000",
+      "created_at": "2026-10-28T02:30:15.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoJkuoFEI",
+      "text": "回复@jack123456001:改名后换了刀，仿佛拿着帝兵//@jack123456001:蒙电是真猛。。。",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 10,
+      "attitudes": 85
+    },
+    {
+      "id": "5358940705785580",
+      "mid": "5358940705785580",
+      "created_at": "2026-10-28T02:28:10.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoJjEoh5O",
+      "text": "厚道是财务总监，属于基本功//@顺势而为97:厚道叔",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 0,
+      "attitudes": 100
+    },
+    {
+      "id": "5358940477195411",
+      "mid": "5358940477195411",
+      "created_at": "2026-10-28T02:27:17.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoJjhubR1",
+      "text": "很清晰啊//@用户6859357730:在公公评论区看到有网友做的图，然后用AI两三天做了个类似的，现在AI做这些效率很高。 评论配图",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 67
+    },
+    {
+      "id": "5358937559794358",
+      "mid": "5358937559794358",
+      "created_at": "2026-10-28T02:15:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoJezF5Xw",
+      "text": "有几个网友，粉丝虽然不多，但是功课做的比我好多了，各种图表，历史数据，数据变迁，做的一清二楚，佩服，佩服，这种网友，做股票大概率赚钱",
+      "source": "微博网页版",
+      "reposts": 11,
+      "comments": 54,
+      "attitudes": 498
+    },
+    {
+      "id": "5358936186159550",
+      "mid": "5358936186159550",
+      "created_at": "2026-10-28T02:10:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoJcmpQnA",
+      "text": "回复@GeorgeX365:现在也一样，本质上差不多//@GeorgeX365:舅，长协煤炭保供立法化对山西煤炭是不是利空？",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 87
     }
   ]
 }
