@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月28日星期三 16:00:13",
+  "crawled_at_beijing": "2026年10月28日星期三 16:54:00",
   "crawled_date": "2026-10-28",
-  "post_count": 53,
+  "post_count": 56,
   "posts": [
     {
       "id": "5358880676381806",
@@ -642,6 +642,42 @@
       "reposts": 9,
       "comments": 2,
       "attitudes": 100
+    },
+    {
+      "id": "5359025979131078",
+      "mid": "5359025979131078",
+      "created_at": "2026-10-28T08:07:01.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLxbCjps",
+      "text": "回复@挖地瓜变富:视频一律当动画片看，默认是假的，默认背后是丑八怪//@挖地瓜变富:还有滤镜//@挖地瓜的超级鹿鼎公:回复@克里斯炮火:我又不瞎，看不出有没有化妆//@克里斯炮火:所以有些明星的化妆师厉害，画着很厚的妆容但是给人感觉不浓//@挖地瓜的超级鹿鼎公:我也是，真的卡粉，看到涂脂抹粉厉害的就...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 40
+    },
+    {
+      "id": "5359025107508037",
+      "mid": "5359025107508037",
+      "created_at": "2026-10-28T08:03:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLvMvvbn",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 60
+    },
+    {
+      "id": "5359024704849365",
+      "mid": "5359024704849365",
+      "created_at": "2026-10-28T08:01:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLv8klxz",
+      "text": "赈灾西北，山西抄家，江南灭族，找到曹文诏，卢象升，曹变蛟，满桂，赵率教，周遇吉，给钱去西北招兵30万，超高伙食强训练，大明将士，满饷无敌",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 20,
+      "attitudes": 92
     }
   ]
 }
