@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月28日星期三 18:48:19",
+  "crawled_at_beijing": "2026年10月28日星期三 19:44:44",
   "crawled_date": "2026-10-28",
-  "post_count": 61,
+  "post_count": 66,
   "posts": [
     {
       "id": "5358880676381806",
@@ -738,6 +738,66 @@
       "reposts": 2,
       "comments": 20,
       "attitudes": 100
+    },
+    {
+      "id": "5359075147645423",
+      "mid": "5359075147645423",
+      "created_at": "2026-10-28T11:22:24.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoMOuw4Vh",
+      "text": "回复@我就看看我就说说:洪承畴去西南，物尽其用//@我就看看我就说说:先把洪承畴杀了//@挖地瓜的超级鹿鼎公:赈灾西北，山西抄家，江南灭族，找到曹文诏，卢象升，曹变蛟，满桂，赵率教，周遇吉，给钱去西北招兵30万，超高伙食强训练，大明将士，满饷无敌",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 15
+    },
+    {
+      "id": "5359074975678974",
+      "mid": "5359074975678974",
+      "created_at": "2026-10-28T11:21:43.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoMOdnPmm",
+      "text": "回复@一空-200008:估计好不到哪里去//@一空-200008:山煤呢？老舅",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 27
+    },
+    {
+      "id": "5359071815270494",
+      "mid": "5359071815270494",
+      "created_at": "2026-10-28T11:09:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoMJ7m75Y",
+      "text": "回复@拾壹壹ElevOne:最近，硫磺价格见顶，三季报很差//@拾壹壹ElevOne:鹿公什么时候盯上云天化了？",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 12,
+      "attitudes": 64
+    },
+    {
+      "id": "5359068600598754",
+      "mid": "5359068600598754",
+      "created_at": "2026-10-28T10:56:23.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoMDW2vLk",
+      "text": "回复@用户6157358740:不过前面跌了那么一大段了，下面不会很深了//@用户6157358740:云天化还没触底啊",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 67
+    },
+    {
+      "id": "5359068210531285",
+      "mid": "5359068210531285",
+      "created_at": "2026-10-28T10:54:51.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoMDj2ed7",
+      "text": "今天的三个季报，未来策略：逢低吸筹",
+      "source": "微博网页版",
+      "reposts": 35,
+      "comments": 73,
+      "attitudes": 332
     }
   ]
 }
