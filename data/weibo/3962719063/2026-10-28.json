@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月28日星期三 14:54:25",
+  "crawled_at_beijing": "2026年10月28日星期三 16:00:13",
   "crawled_date": "2026-10-28",
-  "post_count": 43,
+  "post_count": 53,
   "posts": [
     {
       "id": "5358880676381806",
@@ -522,6 +522,126 @@
       "reposts": 18,
       "comments": 2,
       "attitudes": 105
+    },
+    {
+      "id": "5359023693759060",
+      "mid": "5359023693759060",
+      "created_at": "2026-10-28T07:57:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLtvfLU0",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 13
+    },
+    {
+      "id": "5359023436074767",
+      "mid": "5359023436074767",
+      "created_at": "2026-10-28T07:56:56.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLt5puk7",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 0,
+      "attitudes": 13
+    },
+    {
+      "id": "5359022928825844",
+      "mid": "5359022928825844",
+      "created_at": "2026-10-28T07:54:55.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLsgB20k",
+      "text": "实话实说，杭州的官员去印度干嘛，这种破地方，有事也要尽量少去",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 3,
+      "attitudes": 17
+    },
+    {
+      "id": "5359022165197954",
+      "mid": "5359022165197954",
+      "created_at": "2026-10-28T07:51:53.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLr2lOdY",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 4,
+      "attitudes": 73
+    },
+    {
+      "id": "5359021873958060",
+      "mid": "5359021873958060",
+      "created_at": "2026-10-28T07:50:43.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoLqzgBFG",
+      "text": "网友@吃息等风来 整理的电解铝三年价格走势（无锡）",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 12,
+      "attitudes": 96
+    },
+    {
+      "id": "5359017706916162",
+      "mid": "5359017706916162",
+      "created_at": "2026-10-28T07:34:10.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLjQt1d0",
+      "text": "回复@克里斯炮火:我又不瞎，看不出有没有化妆//@克里斯炮火:所以有些明星的化妆师厉害，画着很厚的妆容但是给人感觉不浓//@挖地瓜的超级鹿鼎公:我也是，真的卡粉，看到涂脂抹粉厉害的就觉得丑",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 5,
+      "attitudes": 33
+    },
+    {
+      "id": "5359017308455233",
+      "mid": "5359017308455233",
+      "created_at": "2026-10-28T07:32:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLjcztAJ",
+      "text": "回复@用户7992655249:化的就没有好看的，好看她为什么要化妆啊//@用户7992655249:说白了就是化的不好看//@挖地瓜的超级鹿鼎公:我也是，真的卡粉，看到涂脂抹粉厉害的就觉得丑",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 5,
+      "attitudes": 33
+    },
+    {
+      "id": "5359017087206102",
+      "mid": "5359017087206102",
+      "created_at": "2026-10-28T07:31:41.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLiQueDs",
+      "text": "回复@用户7967346493:链接，出处在哪里//@用户7967346493:潞安集团三季度产量下滑30%//@挖地瓜的超级鹿鼎公:回复@一只上班只摸鱼的家庭妇男:算不准，不敢算，//@一只上班只摸鱼的家庭妇男:老舅晚上喷煤有预测3季度利润吗",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 30
+    },
+    {
+      "id": "5359015800344111",
+      "mid": "5359015800344111",
+      "created_at": "2026-10-28T07:26:35.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLgM1rwb",
+      "text": "我也是，真的卡粉，看到涂脂抹粉厉害的就觉得丑",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 22,
+      "attitudes": 79
+    },
+    {
+      "id": "5359015634668673",
+      "mid": "5359015634668673",
+      "created_at": "2026-10-28T07:25:56.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoLgvjAxb",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 2,
+      "attitudes": 100
     }
   ]
 }
