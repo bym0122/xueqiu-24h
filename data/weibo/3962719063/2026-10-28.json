@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月28日星期三 13:44:59",
+  "crawled_at_beijing": "2026年10月28日星期三 14:54:25",
   "crawled_date": "2026-10-28",
-  "post_count": 33,
+  "post_count": 43,
   "posts": [
     {
       "id": "5358880676381806",
@@ -402,6 +402,126 @@
       "reposts": 0,
       "comments": 1,
       "attitudes": 87
+    },
+    {
+      "id": "5359006881153868",
+      "mid": "5359006881153868",
+      "created_at": "2026-10-28T06:51:08.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoL2o4QaM",
+      "text": "回复@一只上班只摸鱼的家庭妇男:算不准，不敢算，//@一只上班只摸鱼的家庭妇男:老舅晚上喷煤有预测3季度利润吗",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 12
+    },
+    {
+      "id": "5359003469350094",
+      "mid": "5359003469350094",
+      "created_at": "2026-10-28T06:37:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoKWSDenY",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 32
+    },
+    {
+      "id": "5359003305512592",
+      "mid": "5359003305512592",
+      "created_at": "2026-10-28T06:36:56.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoKWCn84M",
+      "text": "这里支持女方，这种懒惰，奇葩的人真的不能嫁",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 49
+    },
+    {
+      "id": "5358998975939851",
+      "mid": "5358998975939851",
+      "created_at": "2026-10-28T06:19:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoKPDoVe3",
+      "text": "回复@robin的生活空间:已经接近累库时间了//@robin的生活空间:公公觉得库存有一个下降范围吗？",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 7,
+      "attitudes": 100
+    },
+    {
+      "id": "5358998618378057",
+      "mid": "5358998618378057",
+      "created_at": "2026-10-28T06:18:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoKP3z9vX",
+      "text": "男方不地道，就是想拆散，女方最初有一点点算计，但是还算可容忍范围",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 32,
+      "attitudes": 100
+    },
+    {
+      "id": "5358996506806761",
+      "mid": "5358996506806761",
+      "created_at": "2026-10-28T06:09:55.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoKLEsyKt",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 25,
+      "comments": 5,
+      "attitudes": 63
+    },
+    {
+      "id": "5358995669778665",
+      "mid": "5358995669778665",
+      "created_at": "2026-10-28T06:06:35.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoKKiF1Sp",
+      "text": "A00铝锭 无锡 23920 +40 10-28\n氧化铝 山西 2675 0",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 23,
+      "attitudes": 172
+    },
+    {
+      "id": "5358994875223268",
+      "mid": "5358994875223268",
+      "created_at": "2026-10-28T06:03:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoKJ1lUOg",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 12,
+      "attitudes": 130
+    },
+    {
+      "id": "5358994514511387",
+      "mid": "5358994514511387",
+      "created_at": "2026-10-28T06:02:00.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoKIriVCj",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 5,
+      "attitudes": 70
+    },
+    {
+      "id": "5358993998351099",
+      "mid": "5358993998351099",
+      "created_at": "2026-10-28T05:59:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoKHBz2v9",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 18,
+      "comments": 2,
+      "attitudes": 105
     }
   ]
 }
