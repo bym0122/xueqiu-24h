@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月29日星期四 07:39:58",
+  "crawled_at_beijing": "2026年10月29日星期四 08:55:15",
   "crawled_date": "2026-10-29",
-  "post_count": 1,
+  "post_count": 6,
   "posts": [
     {
       "id": "5359230430740520",
@@ -18,6 +18,66 @@
       "reposts": 1,
       "comments": 2,
       "attitudes": 7
+    },
+    {
+      "id": "5359268149595949",
+      "mid": "5359268149595949",
+      "created_at": "2026-10-29T00:09:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoRPMEgln",
+      "text": "花钱，自己家老人搬出去，找三个大汉每天每人8小时敲楼上的门，三天他就崩溃",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 24,
+      "attitudes": 167
+    },
+    {
+      "id": "5359266043267656",
+      "mid": "5359266043267656",
+      "created_at": "2026-10-29T00:00:58.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoRModI48",
+      "text": "昨天某队休息，来自@WinjayYu 的图",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 29,
+      "attitudes": 239
+    },
+    {
+      "id": "5359265474940408",
+      "mid": "5359265474940408",
+      "created_at": "2026-10-28T23:58:42.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoRLtkJe0",
+      "text": "三季度火电，山西煤都是业绩最差的时刻\n三季度也是非山西煤，电解铝，业绩最好的时刻\n\n这些我都有，精神分裂",
+      "source": "微博网页版",
+      "reposts": 28,
+      "comments": 64,
+      "attitudes": 485
+    },
+    {
+      "id": "5359264282445170",
+      "mid": "5359264282445170",
+      "created_at": "2026-10-28T23:53:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoRJyag6e",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 12,
+      "attitudes": 76
+    },
+    {
+      "id": "5359264120176997",
+      "mid": "5359264120176997",
+      "created_at": "2026-10-28T23:53:18.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoRJi0K2N",
+      "text": "余承东被黑的最惨的一次",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 22,
+      "attitudes": 105
     }
   ]
 }
