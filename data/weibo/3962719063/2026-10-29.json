@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月29日星期四 20:56:06",
+  "crawled_at_beijing": "2026年10月29日星期四 22:04:17",
   "crawled_date": "2026-10-29",
-  "post_count": 40,
+  "post_count": 41,
   "posts": [
     {
       "id": "5359230430740520",
@@ -486,6 +486,18 @@
       "reposts": 41,
       "comments": 103,
       "attitudes": 453
+    },
+    {
+      "id": "5359474970723277",
+      "mid": "5359474970723277",
+      "created_at": "2026-10-29T13:51:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoXdn329L",
+      "text": "2026年10月29日CCI指数\n5500大卡 1021 （-5）\n5000大卡 918 （-5）\n4500大卡 814 （-6）\n----------------------------------------------\n这一波880元会不会跌破，拭目以待，个人觉得跌破的难度有一些",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 83
     }
   ]
 }
