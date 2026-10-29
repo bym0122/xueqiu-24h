@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月29日星期四 13:46:07",
+  "crawled_at_beijing": "2026年10月29日星期四 14:55:25",
   "crawled_date": "2026-10-29",
-  "post_count": 11,
+  "post_count": 12,
   "posts": [
     {
       "id": "5359230430740520",
@@ -138,6 +138,18 @@
       "reposts": 5,
       "comments": 28,
       "attitudes": 278
+    },
+    {
+      "id": "5359368778547787",
+      "mid": "5359368778547787",
+      "created_at": "2026-10-29T06:49:12.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoUs5zRFx",
+      "text": "睡醒一看，几乎全红啊",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 38,
+      "attitudes": 145
     }
   ]
 }
