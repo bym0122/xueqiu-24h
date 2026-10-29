@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 06:44:35",
+  "crawled_at_beijing": "2026年10月30日星期五 07:40:15",
   "crawled_date": "2026-10-30",
-  "post_count": 3,
+  "post_count": 6,
   "posts": [
     {
       "id": "5359608057301117",
@@ -42,6 +42,42 @@
       "reposts": 1,
       "comments": 31,
       "attitudes": 127
+    },
+    {
+      "id": "5359614637377738",
+      "mid": "5359614637377738",
+      "created_at": "2026-10-29T23:06:09.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rp0QDuXhM",
+      "text": "券商银行都是属貔貅的，分红实在太抠门",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 21,
+      "attitudes": 181
+    },
+    {
+      "id": "5359614172332787",
+      "mid": "5359614172332787",
+      "created_at": "2026-10-29T23:04:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rp0PT9MRB",
+      "text": "30多一克的白银，现在只剩12了",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 19,
+      "attitudes": 195
+    },
+    {
+      "id": "5359610265338664",
+      "mid": "5359610265338664",
+      "created_at": "2026-10-29T22:48:47.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rp0JAmoPu",
+      "text": "看了下游戏仓，今年电解铝和商业地产亏了不少钱，亏了总资金的6%\n\n今年剩下的时间，能不能把这钱还给我",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 40,
+      "attitudes": 306
     }
   ]
 }
