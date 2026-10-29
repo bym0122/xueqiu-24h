@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月29日星期四 19:45:13",
+  "crawled_at_beijing": "2026年10月29日星期四 20:56:06",
   "crawled_date": "2026-10-29",
-  "post_count": 34,
+  "post_count": 40,
   "posts": [
     {
       "id": "5359230430740520",
@@ -414,6 +414,78 @@
       "reposts": 5,
       "comments": 19,
       "attitudes": 75
+    },
+    {
+      "id": "5359448677683387",
+      "mid": "5359448677683387",
+      "created_at": "2026-10-29T12:06:41.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoWwXweNB",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 14,
+      "attitudes": 82
+    },
+    {
+      "id": "5359448124035121",
+      "mid": "5359448124035121",
+      "created_at": "2026-10-29T12:04:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoWw4gVIB",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 31,
+      "comments": 12,
+      "attitudes": 156
+    },
+    {
+      "id": "5359447989034712",
+      "mid": "5359447989034712",
+      "created_at": "2026-10-29T12:03:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoWvQBUla",
+      "text": "大部分女人只有家庭，很少有国家民族观念，中国女性已经算最有家国观念的了",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 2,
+      "attitudes": 91
+    },
+    {
+      "id": "5359447166683575",
+      "mid": "5359447166683575",
+      "created_at": "2026-10-29T12:00:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoWuws2HB",
+      "text": "穷养儿志，富养女德",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 0,
+      "attitudes": 96
+    },
+    {
+      "id": "5359447027224649",
+      "mid": "5359447027224649",
+      "created_at": "2026-10-29T12:00:08.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoWuiujsB",
+      "text": "怒其不争",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 6,
+      "attitudes": 74
+    },
+    {
+      "id": "5359444385071289",
+      "mid": "5359444385071289",
+      "created_at": "2026-10-29T11:49:37.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/RoWq2lhgZ",
+      "text": "云铝股份10月30日发布2026年三季报显示，公司前三季实现营业总收入526.16亿元，同比增长19.39%；归母净利润116.12亿元，同比增长164.01%；扣非归母净利润115.37亿元，同比增长163.45%\n\n三季度与二季度基本上持平，大把现金流，现金存款以及现金等价物200多亿，市值才900亿\n\n业绩太好，又有分红，必须跌 ...全文",
+      "source": "微博网页版",
+      "reposts": 41,
+      "comments": 103,
+      "attitudes": 453
     }
   ]
 }
