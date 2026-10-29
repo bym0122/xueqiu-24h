@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月29日星期四 16:57:00",
+  "crawled_at_beijing": "2026年10月29日星期四 17:52:55",
   "crawled_date": "2026-10-29",
-  "post_count": 33,
+  "post_count": 34,
   "posts": [
     {
       "id": "5359230430740520",
@@ -402,6 +402,18 @@
       "reposts": 8,
       "comments": 9,
       "attitudes": 51
+    },
+    {
+      "id": "5359402311747106",
+      "mid": "5359402311747106",
+      "created_at": "2026-10-29T09:02:27.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoVkb7kv8",
+      "text": "回复@Evan2031:2015年工行姜董离开后，我再也不碰银行了，招行算例外，但是都看不懂//@Evan2031:请教，工行、农行这种老舅也不放心吗？//@挖地瓜的超级鹿鼎公:回复@陈屹儿:1：你去看看过去10年涨幅最好的银行股收益，跟我的收益比较一下看看。2你能看到银行坏账的分类和真实底牌吗//...全文",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 19,
+      "attitudes": 75
     }
   ]
 }
