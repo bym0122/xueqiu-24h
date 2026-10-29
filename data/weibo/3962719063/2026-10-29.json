@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月29日星期四 22:04:17",
+  "crawled_at_beijing": "2026年10月29日星期四 23:00:10",
   "crawled_date": "2026-10-29",
-  "post_count": 41,
+  "post_count": 45,
   "posts": [
     {
       "id": "5359230430740520",
@@ -498,6 +498,54 @@
       "reposts": 0,
       "comments": 4,
       "attitudes": 83
+    },
+    {
+      "id": "5359489811219270",
+      "mid": "5359489811219270",
+      "created_at": "2026-10-29T14:50:08.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoXBj57bE",
+      "text": "写作业的100个姿势",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 16,
+      "attitudes": 52
+    },
+    {
+      "id": "5359484027012128",
+      "mid": "5359484027012128",
+      "created_at": "2026-10-29T14:27:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoXrYtqaQ",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 17,
+      "comments": 6,
+      "attitudes": 106
+    },
+    {
+      "id": "5359483720304305",
+      "mid": "5359483720304305",
+      "created_at": "2026-10-29T14:25:56.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoXru1ha9",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 18,
+      "comments": 3,
+      "attitudes": 105
+    },
+    {
+      "id": "5359482412729155",
+      "mid": "5359482412729155",
+      "created_at": "2026-10-29T14:20:44.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoXpnbrYD",
+      "text": "敌人眼里的梁文锋",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 5,
+      "comments": 15,
+      "attitudes": 106
     }
   ]
 }
