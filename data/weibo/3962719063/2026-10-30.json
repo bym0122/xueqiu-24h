@@ -3,8 +3,45 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 05:44:13",
+  "crawled_at_beijing": "2026年10月30日星期五 06:44:35",
   "crawled_date": "2026-10-30",
-  "post_count": 0,
-  "posts": []
+  "post_count": 3,
+  "posts": [
+    {
+      "id": "5359608057301117",
+      "mid": "5359608057301117",
+      "created_at": "2026-10-29T22:40:00.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rp0G1uDlX",
+      "text": "云铝股东人数17.7万，看看保险公司，券商，基金的持仓，就知道这帮人玩股票的水平有多烂了，散户是自己的钱，怎么会不认真的全力以赴呢",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 9,
+      "attitudes": 50
+    },
+    {
+      "id": "5359603533480928",
+      "mid": "5359603533480928",
+      "created_at": "2026-10-29T22:22:02.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp0yJeBy0",
+      "text": "回复@情如止水5611795416:以前使用，现在不适用了，板块之间互相反向太多了//@情如止水5611795416:舅舅，指数适用于这个吗？比如本轮924启动已来的最高点×0.618？//@挖地瓜的超级鹿鼎公:回复@牵牛花花牵牛织女:不可以，你基本面都不看妈，看懂基本面，看懂行业企业盈利前景，看清估值，再用技术去套//...全文",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 0,
+      "attitudes": 27
+    },
+    {
+      "id": "5359603219955826",
+      "mid": "5359603219955826",
+      "created_at": "2026-10-29T22:20:46.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rp0ydFLXQ",
+      "text": "今天科技股看上去又是不太行的一天",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 31,
+      "attitudes": 127
+    }
+  ]
 }
