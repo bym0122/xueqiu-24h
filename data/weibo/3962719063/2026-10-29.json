@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月29日星期四 08:55:15",
+  "crawled_at_beijing": "2026年10月29日星期四 09:57:31",
   "crawled_date": "2026-10-29",
-  "post_count": 6,
+  "post_count": 11,
   "posts": [
     {
       "id": "5359230430740520",
@@ -78,6 +78,66 @@
       "reposts": 3,
       "comments": 22,
       "attitudes": 105
+    },
+    {
+      "id": "5359291481720883",
+      "mid": "5359291481720883",
+      "created_at": "2026-10-29T01:42:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoSrq7dGb",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 7,
+      "attitudes": 61
+    },
+    {
+      "id": "5359291382106777",
+      "mid": "5359291382106777",
+      "created_at": "2026-10-29T01:41:39.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoSrg8Q4h",
+      "text": "科技跌的时候，我们的股票真的很难跌",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 40,
+      "attitudes": 246
+    },
+    {
+      "id": "5359284967965854",
+      "mid": "5359284967965854",
+      "created_at": "2026-10-29T01:16:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoSgUxqhw",
+      "text": "电解铝社库三年变化来自@吃息等风来 的图",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 21,
+      "attitudes": 265
+    },
+    {
+      "id": "5359284185730984",
+      "mid": "5359284185730984",
+      "created_at": "2026-10-29T01:13:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RoSfEo2Te",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 48,
+      "comments": 15,
+      "attitudes": 249
+    },
+    {
+      "id": "5359283820038859",
+      "mid": "5359283820038859",
+      "created_at": "2026-10-29T01:11:36.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RoSf40a6L",
+      "text": "最新电解铝库存",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 28,
+      "attitudes": 278
     }
   ]
 }
