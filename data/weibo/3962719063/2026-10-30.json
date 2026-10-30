@@ -2,10 +2,10 @@
   "user_id": "3962719063",
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
-  "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 11:15:16",
+  "source": "local-chromium",
+  "crawled_at_beijing": "2026年10月30日星期五 11:35:54",
   "crawled_date": "2026-10-30",
-  "post_count": 13,
+  "post_count": 18,
   "posts": [
     {
       "id": "5359608057301117",
@@ -162,6 +162,76 @@
       "reposts": 8,
       "comments": 31,
       "attitudes": 94
+    },
+    {
+      "id": "5359681880719845",
+      "mid": "5359681880719845",
+      "created_at": "2026-10-30T03:33:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp2B631gp",
+      "text": "回复@梅观明:金什么那个药，几毛钱买的，我们没几个敢跟，眼睁睁看着去30块//@梅观明:回复@行稳慢富:光2099就得100倍了//@挖地瓜的超级鹿鼎公:你啥也不知道，我在广发的账户13年至今是这样的，但是看到007的账户我只能跪，差距太大了 查看图片 //@天天向上XU1984:他们之前个人水平，也跟你...全文",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 10,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5359681333889022",
+      "mid": "5359681333889022",
+      "created_at": "2026-10-30T03:31:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp2AdgjIa",
+      "text": "回复@女儿写给生活的诗:祝你生日快乐，家人幸福//@女儿写给生活的诗:舅，我今天农历生日，可以祝我生日快乐嘛",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 26,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5359679929846537",
+      "mid": "5359679929846537",
+      "created_at": "2026-10-30T03:25:36.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rp2xWFjx7",
+      "text": "A00铝锭 无锡 23780 +40 10-30\n氧化铝 山西 2670 -5",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 11,
+      "attitudes": 100,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5359679406344606",
+      "mid": "5359679406344606",
+      "created_at": "2026-10-30T03:23:31.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp2x6qCwm",
+      "text": "你啥也不知道，我在广发的账户13年至今是这样的，但是看到007的账户我只能跪，差距太大了 查看图片 //@天天向上XU1984:他们之前个人水平，也跟你差不多吧，有些好像没那么高，几十年年化没有30%，你的应该是30%多",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 26,
+      "attitudes": 99,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5359678070720914",
+      "mid": "5359678070720914",
+      "created_at": "2026-10-30T03:18:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp2uX31xE",
+      "text": "回复@jack123456001:丹书微信都不敢说，为了不违规，也是辛苦//@jack123456001:丹书最近好像发言确实很少了，雪球也是。//@挖地瓜的超级鹿鼎公:回复@仰望fengyou1995:丹书，山行这种水平都比我要高，就是被私募限制，无法发言，资金大了，很多仓位的腾挪没那么容易了//@仰望fengyou1995:加上王文总...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 4,
+      "attitudes": 47,
+      "pics": [],
+      "page_url": null
     }
   ]
 }
