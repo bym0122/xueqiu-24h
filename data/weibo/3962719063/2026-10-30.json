@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 16:02:29",
+  "crawled_at_beijing": "2026年10月30日星期五 16:56:49",
   "crawled_date": "2026-10-30",
-  "post_count": 29,
+  "post_count": 30,
   "posts": [
     {
       "id": "5359608057301117",
@@ -378,6 +378,18 @@
       "reposts": 94,
       "comments": 392,
       "attitudes": 1158
+    },
+    {
+      "id": "5359753825617636",
+      "mid": "5359753825617636",
+      "created_at": "2026-10-30T08:19:14.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp4t8nzp2",
+      "text": "神一样的牙医",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 35,
+      "attitudes": 186
     }
   ]
 }
