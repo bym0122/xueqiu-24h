@@ -2,8 +2,8 @@
   "user_id": "3962719063",
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
-  "source": "local-chromium",
-  "crawled_at_beijing": "2026年10月30日星期五 14:12:13",
+  "source": "api+xhr",
+  "crawled_at_beijing": "2026年10月30日星期五 14:56:25",
   "crawled_date": "2026-10-30",
   "post_count": 28,
   "posts": [
