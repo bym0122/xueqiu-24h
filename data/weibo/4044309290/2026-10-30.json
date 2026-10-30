@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 11:49:47",
+  "crawled_at_beijing": "2026年10月30日星期五 12:49:37",
   "crawled_date": "2026-10-30",
-  "post_count": 10,
+  "post_count": 11,
   "posts": [
     {
       "id": "5359670374172144",
@@ -126,6 +126,18 @@
       "reposts": 4,
       "comments": 9,
       "attitudes": 115
+    },
+    {
+      "id": "5359688191575541",
+      "mid": "5359688191575541",
+      "created_at": "2026-10-30T03:58:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/Rp2Lh6BRX",
+      "text": "回复@初一-66:我永远现在中国和中国人民这一边！//@初一-66:star你还是保号要紧",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 11
     }
   ]
 }

@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 11:49:31",
+  "crawled_at_beijing": "2026年10月30日星期五 12:49:20",
   "crawled_date": "2026-10-30",
-  "post_count": 20,
+  "post_count": 21,
   "posts": [
     {
       "id": "5359608057301117",
@@ -256,6 +256,18 @@
       "reposts": 0,
       "comments": 1,
       "attitudes": 45
+    },
+    {
+      "id": "5359689950037386",
+      "mid": "5359689950037386",
+      "created_at": "2026-10-30T04:05:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp2O709J0",
+      "text": "回复@小莲藕7087:制药方面的企业，我实在是不懂的，问道于盲啊//@小莲藕7087:舅，联邦制药点评一下，分析一下底部区域",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 7,
+      "attitudes": 96
     }
   ]
 }
