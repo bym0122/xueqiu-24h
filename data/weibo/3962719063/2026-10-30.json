@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 08:56:53",
+  "crawled_at_beijing": "2026年10月30日星期五 09:58:42",
   "crawled_date": "2026-10-30",
-  "post_count": 7,
+  "post_count": 9,
   "posts": [
     {
       "id": "5359608057301117",
@@ -90,6 +90,30 @@
       "reposts": 9,
       "comments": 13,
       "attitudes": 124
+    },
+    {
+      "id": "5359655414924100",
+      "mid": "5359655414924100",
+      "created_at": "2026-10-30T01:48:10.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp1UpkEYY",
+      "text": "回复@小狗上马路:不止 评论配图 //@小狗上马路:公公今年应该还有5%的利润吧",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 42,
+      "attitudes": 170
+    },
+    {
+      "id": "5359650864366366",
+      "mid": "5359650864366366",
+      "created_at": "2026-10-30T01:30:05.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp1N4ijTg",
+      "text": "回复@静姝-lover:这个基本面是周期范围内的，不是大的行业趋势改变，基本面变化是有大，有小，有全面根本性区分的//@静姝-lover:回复@柳柳6376797596:老舅说基本面变了",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 7,
+      "attitudes": 98
     }
   ]
 }
