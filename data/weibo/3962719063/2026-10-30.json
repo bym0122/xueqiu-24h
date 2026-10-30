@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 07:40:15",
+  "crawled_at_beijing": "2026年10月30日星期五 08:56:53",
   "crawled_date": "2026-10-30",
-  "post_count": 6,
+  "post_count": 7,
   "posts": [
     {
       "id": "5359608057301117",
@@ -78,6 +78,18 @@
       "reposts": 7,
       "comments": 40,
       "attitudes": 306
+    },
+    {
+      "id": "5359629829406912",
+      "mid": "5359629829406912",
+      "created_at": "2026-10-30T00:06:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp1f8Dtao",
+      "text": "回复@甜腻风筝爱睡觉:原材料硫磺暴涨不是基本面发生变化吗//@甜腻风筝爱睡觉:回复@挖地瓜的超级鹿鼎公:我还用涨幅段的0.618，0.5，0.382去算。。。。原来云天化属于基本面发生变化的//@挖地瓜的超级鹿鼎公:回复@我的悟道人生路:对的，第一关口早已经破了，（跌破3%，或者收盘价下面...全文",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 9,
+      "comments": 13,
+      "attitudes": 124
     }
   ]
 }
