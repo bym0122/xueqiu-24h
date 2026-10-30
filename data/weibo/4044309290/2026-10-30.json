@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 16:57:06",
+  "crawled_at_beijing": "2026年10月30日星期五 23:52:09",
   "crawled_date": "2026-10-30",
-  "post_count": 17,
+  "post_count": 21,
   "posts": [
     {
       "id": "5359670374172144",
@@ -210,6 +210,54 @@
       "reposts": 0,
       "comments": 10,
       "attitudes": 17
+    },
+    {
+      "id": "5359848598275505",
+      "mid": "5359848598275505",
+      "created_at": "2026-10-30T14:35:50.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/Rp6VZyIPT",
+      "text": "回复@念念是个大忙人呢:有这种可能性。 白银向下趋势更明显，做空赚钱概率更大。黄金支撑其实比较强，设置好止损问题不大。  即使黄金破位，那白银跌的更多，他们也是赚的。 华尔街这么做是非常聪明的交易行为。//@念念是个大忙人呢:请问斯大接下来最有可能是黄金小跌，白银大跌吗，还是黄金涨白银跌？",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 3
+    },
+    {
+      "id": "5359846102668346",
+      "mid": "5359846102668346",
+      "created_at": "2026-10-30T14:25:55.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rp6RYbc9Q",
+      "text": "黄金黄金 \n考验交易能力的时候又到了。\n华尔街有计划计划通过做空白银去接黄金～\n还是华尔街会玩。",
+      "source": "黄金超话",
+      "reposts": 2,
+      "comments": 11,
+      "attitudes": 20
+    },
+    {
+      "id": "5359840671304785",
+      "mid": "5359840671304785",
+      "created_at": "2026-10-30T14:04:20.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rp6Jd5tqV",
+      "text": "#特朗普称伊朗战事应该很快就会结束#\n美股跌这点就扛不住了？\n关键你想听就停啊？直接退兵还是咋？\n某些穷地方恐慌性卖黄金了。\n#a股#黄金",
+      "source": "黄金超话",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 16
+    },
+    {
+      "id": "5359804063419008",
+      "mid": "5359804063419008",
+      "created_at": "2026-10-30T11:38:52.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rp5Maelri",
+      "text": "A股#a股# #全力稳市场稳预期# \n本周文章已完成，欢迎阅读和关注，祝大家好运。\n美股风雨飘摇了，大家注意安全，不要到危墙下去躲雨。#纳斯达克#",
+      "source": "A股超话",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 43
     }
   ]
 }
