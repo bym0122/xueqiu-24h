@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 14:56:25",
+  "crawled_at_beijing": "2026年10月30日星期五 16:02:29",
   "crawled_date": "2026-10-30",
-  "post_count": 28,
+  "post_count": 29,
   "posts": [
     {
       "id": "5359608057301117",
@@ -366,6 +366,18 @@
       "attitudes": 235,
       "pics": [],
       "page_url": null
+    },
+    {
+      "id": "5359736474045837",
+      "mid": "5359736474045837",
+      "created_at": "2026-10-30T07:10:17.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/Rp419gYvr",
+      "text": "26年10月总结\n本月盈利正好10个\n持有295个仙晶，仓位占比 15.6%不到一点       （本月提现50个已经扣除）\n\n类现金的水电，仓位占比  14.2%\n\n电解铝           仓位占比   33.2%\n\n煤炭            仓位占比      14.2%\n\n火电         仓位占比    12.3%\n\n持有10.5%的其他股，包括商业地产，石油，煤化工 ...全文",
+      "source": "微博网页版",
+      "reposts": 94,
+      "comments": 392,
+      "attitudes": 1158
     }
   ]
 }

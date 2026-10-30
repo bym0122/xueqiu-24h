@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月30日星期五 14:56:41",
+  "crawled_at_beijing": "2026年10月30日星期五 16:02:45",
   "crawled_date": "2026-10-30",
-  "post_count": 14,
+  "post_count": 17,
   "posts": [
     {
       "id": "5359670374172144",
@@ -174,6 +174,42 @@
       "reposts": 0,
       "comments": 4,
       "attitudes": 9
+    },
+    {
+      "id": "5359744542048709",
+      "mid": "5359744542048709",
+      "created_at": "2026-10-30T07:42:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/Rp4ea8AXH",
+      "text": "回复@用户9075087474:盈亏同源。//@用户9075087474:恐怖 评论配图",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 5
+    },
+    {
+      "id": "5359734068611405",
+      "mid": "5359734068611405",
+      "created_at": "2026-10-30T07:00:44.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rp3XgA8dD",
+      "text": "看起来很吓人，其实2025年全国电力消耗量高达103682亿千瓦时（首次突破10万亿千瓦时，同比增长5.0%）。\n所以，这个规划并不是很夸张，对电力行业刺激作用有限，但是对电力建设行业刺激作用很大，特别铜铝。\n#ai#A股",
+      "source": "A股超话",
+      "reposts": 1,
+      "comments": 6,
+      "attitudes": 24
+    },
+    {
+      "id": "5359733645247215",
+      "mid": "5359733645247215",
+      "created_at": "2026-10-30T06:59:02.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/Rp3WAm12v",
+      "text": "果然是老乡别走。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 10,
+      "attitudes": 17
     }
   ]
 }
