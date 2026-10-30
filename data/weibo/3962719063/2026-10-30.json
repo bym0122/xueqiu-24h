@@ -2,10 +2,10 @@
   "user_id": "3962719063",
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
-  "source": "local-chromium",
-  "crawled_at_beijing": "2026年10月30日星期五 11:35:54",
+  "source": "api+xhr",
+  "crawled_at_beijing": "2026年10月30日星期五 11:49:31",
   "crawled_date": "2026-10-30",
-  "post_count": 18,
+  "post_count": 20,
   "posts": [
     {
       "id": "5359608057301117",
@@ -232,6 +232,30 @@
       "attitudes": 47,
       "pics": [],
       "page_url": null
+    },
+    {
+      "id": "5359684177365885",
+      "mid": "5359684177365885",
+      "created_at": "2026-10-30T03:42:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp2ENuUcB",
+      "text": "回复@新·小卡拉·米:厉害，你肯定遥遥领先于我//@新·小卡拉·米:年年落后公公 评论配图 //@挖地瓜的超级鹿鼎公:回复@小狗上马路:不止 评论配图 //@小狗上马路:公公今年应该还有5%的利润吧",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 14,
+      "attitudes": 40
+    },
+    {
+      "id": "5359683205335110",
+      "mid": "5359683205335110",
+      "created_at": "2026-10-30T03:38:37.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rp2DemnUa",
+      "text": "回复@一只上班只摸鱼的家庭妇男:祝你和你家姑娘都健健康康，快快乐乐，殷殷实实//@一只上班只摸鱼的家庭妇男:舅 我今天过生日和我姑娘同一天哦，就吃过两次蛋糕还是我姑娘带来的哈哈",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 45
     }
   ]
 }
