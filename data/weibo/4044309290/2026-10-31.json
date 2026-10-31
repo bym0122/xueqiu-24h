@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月31日星期六 14:56:47",
+  "crawled_at_beijing": "2026年10月31日星期六 21:36:57",
   "crawled_date": "2026-10-31",
-  "post_count": 8,
+  "post_count": 12,
   "posts": [
     {
       "id": "5360051464438270",
@@ -102,6 +102,54 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 14
+    },
+    {
+      "id": "5360182083191973",
+      "mid": "5360182083191973",
+      "created_at": "2026-10-31T12:40:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RpfBSdonr",
+      "text": "回复@月2鸣顾狗贼4455://@月2鸣顾狗贼4455:基金也亏的死去活来的，我妈买的基金啊，相当于全家返贫",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 3
+    },
+    {
+      "id": "5360176649735056",
+      "mid": "5360176649735056",
+      "created_at": "2026-10-31T12:19:23.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rpft6EQx2",
+      "text": "#我的成长纪念# 我达成了10万互动成就，离不开你对我的支持，愿未来仍与你相伴，一起循梦而行，向阳而生！真知灼见 拍手叫绝",
+      "source": "微博名人堂",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 14
+    },
+    {
+      "id": "5360173195462927",
+      "mid": "5360173195462927",
+      "created_at": "2026-10-31T12:05:40.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpfnxmV9J",
+      "text": "#深交所装围栏了#\n大盘再跌个五六个点，今年很大概率90%的人亏损。\n而且因为本金投入大，可能是史上散户亏损金额最大的一年。\n在这种情况下，要说几千万甚至上亿股民没有怨气，那肯定是不可能的……",
+      "source": "iPhone 16",
+      "reposts": 3,
+      "comments": 28,
+      "attitudes": 138
+    },
+    {
+      "id": "5360150031631262",
+      "mid": "5360150031631262",
+      "created_at": "2026-10-31T10:33:37.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpeMb6QmG",
+      "text": "#傅成玉被查#\n中海油原来的总经理",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 29
     }
   ]
 }

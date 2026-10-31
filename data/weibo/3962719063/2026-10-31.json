@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月31日星期六 14:56:31",
+  "crawled_at_beijing": "2026年10月31日星期六 21:36:41",
   "crawled_date": "2026-10-31",
-  "post_count": 20,
+  "post_count": 30,
   "posts": [
     {
       "id": "5360001272515327",
@@ -246,6 +246,126 @@
       "reposts": 34,
       "comments": 9,
       "attitudes": 202
+    },
+    {
+      "id": "5360195878260546",
+      "mid": "5360195878260546",
+      "created_at": "2026-10-31T13:35:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpfY7yEWC",
+      "text": "//@深海小天:犯罪分子用法律深深的震慑力了人民群众",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 4
+    },
+    {
+      "id": "5360195167325858",
+      "mid": "5360195167325858",
+      "created_at": "2026-10-31T13:32:58.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpfWYuJN0",
+      "text": "丹书今年好像也挺难，有谁知道收益",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 10,
+      "attitudes": 22
+    },
+    {
+      "id": "5360194856949950",
+      "mid": "5360194856949950",
+      "created_at": "2026-10-31T13:31:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpfWtt9ZY",
+      "text": "回复@铁三爸比:我怎么知道，9月初吃过//@铁三爸比:现在还有吗，老舅",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 3
+    },
+    {
+      "id": "5360194179569546",
+      "mid": "5360194179569546",
+      "created_at": "2026-10-31T13:29:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpfVnE9tw",
+      "text": "印度性体操",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 13
+    },
+    {
+      "id": "5360193878624660",
+      "mid": "5360193878624660",
+      "created_at": "2026-10-31T13:27:51.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpfUTAbFq",
+      "text": "波兰总理乘着总统外访，用警力把最高法院给撤了",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 35
+    },
+    {
+      "id": "5360192013205803",
+      "mid": "5360192013205803",
+      "created_at": "2026-10-31T13:20:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpfRTdrYv",
+      "text": "回复@faker2030:阿牛不是海外的第一名吗//@faker2030:阿牛更惨",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 9,
+      "attitudes": 13
+    },
+    {
+      "id": "5360191499669330",
+      "mid": "5360191499669330",
+      "created_at": "2026-10-31T13:18:24.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpfR3EzqW",
+      "text": "回复@天天向上XU1984:下一波牛市肯定轮得到，说不定就是狂牛//@天天向上XU1984:他现在还认为券商大有可为啊",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 4,
+      "attitudes": 40
+    },
+    {
+      "id": "5360191025713740",
+      "mid": "5360191025713740",
+      "created_at": "2026-10-31T13:16:31.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpfQinYp6",
+      "text": "回复@投资滚雪球:不一定，这波不抄的，下一波大概率轮到//@投资滚雪球:他明显的路径依赖了，不改变估计要有些年难以翻身",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 4,
+      "attitudes": 30
+    },
+    {
+      "id": "5360168514880249",
+      "mid": "5360168514880249",
+      "created_at": "2026-10-31T11:47:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpffZktzH",
+      "text": "回复@喜乐仙子:金鸡岭桐庐土菜馆，中山中路九米羊肉炉，吴山广场四灶儿，吃面去大学路面馆的猪肝面绝对好吃，不知道这家店还在不在，我已经有10多年没去了，老板娘还在的话应该有75岁以上了//@喜乐仙子:老舅，离西湖不太远解放路周边有没有好馆子？ 每周吃片儿川，还没找到更可口的",
+      "source": "微博网页版",
+      "reposts": 16,
+      "comments": 8,
+      "attitudes": 99
+    },
+    {
+      "id": "5360163340159065",
+      "mid": "5360163340159065",
+      "created_at": "2026-10-31T11:26:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rpf7E0Fnz",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 32,
+      "comments": 11,
+      "attitudes": 100
     }
   ]
 }
