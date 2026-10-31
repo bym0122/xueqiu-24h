@@ -3,8 +3,105 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月31日星期六 08:44:01",
+  "crawled_at_beijing": "2026年10月31日星期六 14:56:47",
   "crawled_date": "2026-10-31",
-  "post_count": 0,
-  "posts": []
+  "post_count": 8,
+  "posts": [
+    {
+      "id": "5360051464438270",
+      "mid": "5360051464438270",
+      "created_at": "2026-10-31T04:01:56.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RpcdciCB0",
+      "text": "回复@初一-66:我永远站在中国和中国人民这一边。//@初一-66:star你还是保号要紧",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 6
+    },
+    {
+      "id": "5360048205202016",
+      "mid": "5360048205202016",
+      "created_at": "2026-10-31T03:49:00.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rpc7WlPhu",
+      "text": "#针脚里的她力量#\n枪炮里的他力量。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 15
+    },
+    {
+      "id": "5360019021234454",
+      "mid": "5360019021234454",
+      "created_at": "2026-10-31T01:53:01.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/RpbmS5b8y",
+      "text": "#女孩被胁迫卖淫20多次确诊梅毒#\n在我小时候，经常都有社会无业女青年跑到学校来诱惑在校女学生出去“混”的事儿，有些也是敲诈勒索和强迫卖淫。\n但更多的其实是被无偿祸祸了。就是有些地痞流氓会让社会女跑去学校骗那些无知女生出来混社会，然后这些地痞流氓就找机会跟这些女学生上床，把她们培养成自 ...全文",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 7,
+      "attitudes": 14
+    },
+    {
+      "id": "5360017284795002",
+      "mid": "5360017284795002",
+      "created_at": "2026-10-31T01:46:08.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rpbk4k7oK",
+      "text": "#俄乌局势新进展##乌克兰# \n我就说老美并不是真的想停火，停火了它卖啥？\nCNN:\n美国国务院批准向乌克兰出售 500 枚 PAC-3 MSE“爱国者”拦截弹 + 备件/后勤，价值 21 亿美元。注意是出售，不是援助。特朗普上台后基本上就没有无偿援助了。这一次的资金来自加拿大、德国、挪威捐款，外加欧盟贷款。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 17
+    },
+    {
+      "id": "5360006882921652",
+      "mid": "5360006882921652",
+      "created_at": "2026-10-31T01:04:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/Rpb3icg3q",
+      "text": "A股的科技六月份就结束了，纳斯达克跌科技牛现在才开始转熊。A股牛短熊长，美股熊短牛长，再一次激情上演#英特尔股价暴跌20%# #美股#  看看昨晚美股，想想周一双创过去 48 小时美国 AI 相关股票遭遇大规模暴跌，英特尔 -32.9%，谷歌 -14.5%，亚马逊 -10%，闪迪 -15.8%。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 35
+    },
+    {
+      "id": "5360005440079051",
+      "mid": "5360005440079051",
+      "created_at": "2026-10-31T00:59:04.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rpb0Y0kz1",
+      "text": "#黄金又大跳水了#黄金 \n人工智能板块财报引发抛售，部分机构为补保证金，卖出容易变现的黄金和白银，形成“越跌越卖”的形势。\n叠加油荒和美联储加息预期，黄金跌成这样也有依据了。有点恐抛售过度了。\n这下大户吃爽了，看看十月份大户买了多少，视情况继续买。",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 42
+    },
+    {
+      "id": "5360004500818189",
+      "mid": "5360004500818189",
+      "created_at": "2026-10-31T00:55:20.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpaZs3qQB",
+      "text": "#金球奖公布投票详情#\n恭喜凯恩，努力认真踢球的人应该获得荣誉。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 8
+    },
+    {
+      "id": "5360003236233976",
+      "mid": "5360003236233976",
+      "created_at": "2026-10-31T00:50:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpaXpq9K0",
+      "text": "#波兰#\n这几年各种见证历史啊……\n即使政变失败，也不影响欧洲集体右转。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 14
+    }
+  ]
 }

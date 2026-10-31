@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年10月31日星期六 08:43:44",
+  "crawled_at_beijing": "2026年10月31日星期六 14:56:31",
   "crawled_date": "2026-10-31",
-  "post_count": 10,
+  "post_count": 20,
   "posts": [
     {
       "id": "5360001272515327",
@@ -126,6 +126,126 @@
       "reposts": 7,
       "comments": 29,
       "attitudes": 306
+    },
+    {
+      "id": "5360024203037264",
+      "mid": "5360024203037264",
+      "created_at": "2026-10-31T02:13:37.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpbvecK88",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 124,
+      "comments": 42,
+      "attitudes": 516
+    },
+    {
+      "id": "5360020901336084",
+      "mid": "5360020901336084",
+      "created_at": "2026-10-31T02:00:30.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/RpbpU5BzK",
+      "text": "你以为只有男生看女生颜值，不不不，现在女生一样看\n你以为只有女生看男生家境，不不不，现在男生一样看\n你以为只有男生看女生性格，不不不，现在女生一样看\n你以为只有女生看男生学历，不不不，现在男生一样看\n你以为只有男生想少做家务，不不不，现在女生一样不想做\n你以为只有女生想男生为她花钱， ...全文",
+      "source": "微博网页版",
+      "reposts": 50,
+      "comments": 68,
+      "attitudes": 569
+    },
+    {
+      "id": "5360013755549793",
+      "mid": "5360013755549793",
+      "created_at": "2026-10-31T01:32:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpbennhKN",
+      "text": "//@他回精神病院了://@林黎胜:人间",
+      "source": "微博网页版",
+      "reposts": 30,
+      "comments": 13,
+      "attitudes": 179
+    },
+    {
+      "id": "5360012216241311",
+      "mid": "5360012216241311",
+      "created_at": "2026-10-31T01:25:59.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpbbTqbEj",
+      "text": "2000年全球精炼铜消费量1500万吨     中国是180万吨\n2025年全球精炼铜消费量2683万吨     中国1658万吨\n\n过去25年全球精炼铜消费量增长1183万吨    中国精炼铜消费量增长1478万吨",
+      "source": "微博网页版",
+      "reposts": 38,
+      "comments": 73,
+      "attitudes": 592
+    },
+    {
+      "id": "5360010911550657",
+      "mid": "5360010911550657",
+      "created_at": "2026-10-31T01:20:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rpb9N6voB",
+      "text": "回复@滚滚铜钱:当然，所以要计算好重要节点//@滚滚铜钱:总仓位有限制不//@挖地瓜的超级鹿鼎公:回复@狙击索罗精英:自己看成本 评论配图 //@狙击索罗精英:回复@潘囍囍囍:-11%了，其实是加仓后的",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 16,
+      "attitudes": 205
+    },
+    {
+      "id": "5360010722807510",
+      "mid": "5360010722807510",
+      "created_at": "2026-10-31T01:20:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rpb9ubMmq",
+      "text": "回复@海大星爱拍照:都可以//@海大星爱拍照:减掉大部分？我总是加多少减多少，感觉就是抄底抄了个寂寞",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 12,
+      "comments": 1,
+      "attitudes": 145
+    },
+    {
+      "id": "5360009867428826",
+      "mid": "5360009867428826",
+      "created_at": "2026-10-31T01:16:39.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rpb86vazM",
+      "text": "有道理",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 320,
+      "comments": 68,
+      "attitudes": 731
+    },
+    {
+      "id": "5360008067812905",
+      "mid": "5360008067812905",
+      "created_at": "2026-10-31T01:09:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rpb5cwMuB",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 12,
+      "attitudes": 109
+    },
+    {
+      "id": "5360007646283387",
+      "mid": "5360007646283387",
+      "created_at": "2026-10-31T01:07:50.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rpb4wqmAX",
+      "text": "我觉得黄金，磷肥就应该金字塔建仓，每次反弹就将最后一次建仓的货减掉大部分，一旦卖掉涨上去买不回来，就拿着剩余的筹码慢慢等涨",
+      "source": "微博网页版",
+      "reposts": 176,
+      "comments": 110,
+      "attitudes": 1001
+    },
+    {
+      "id": "5360006686050664",
+      "mid": "5360006686050664",
+      "created_at": "2026-10-31T01:04:01.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rpb2Ypo3m",
+      "text": "回复@用户7421598272:就是这么神奇，数学规律//@用户7421598272:775/627分别是平台位置，神奇。",
+      "source": "微博网页版",
+      "reposts": 34,
+      "comments": 9,
+      "attitudes": 202
     }
   ]
 }
