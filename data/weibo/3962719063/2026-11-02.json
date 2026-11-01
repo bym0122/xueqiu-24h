@@ -1,0 +1,59 @@
+{
+  "user_id": "3962719063",
+  "profile_url": "https://weibo.com/u/3962719063",
+  "window": "last-24h",
+  "source": "api+xhr",
+  "crawled_at_beijing": "2026年11月2日星期一 01:06:22",
+  "crawled_date": "2026-11-02",
+  "post_count": 4,
+  "posts": [
+    {
+      "id": "5360548989370572",
+      "mid": "5360548989370572",
+      "created_at": "2026-11-01T12:58:55.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rpp9EDjIg",
+      "text": "早点睡觉，明天迎接暴风骤雨",
+      "source": "微博网页版",
+      "reposts": 20,
+      "comments": 137,
+      "attitudes": 1082
+    },
+    {
+      "id": "5360548392997588",
+      "mid": "5360548392997588",
+      "created_at": "2026-11-01T12:56:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rpp8HczOc",
+      "text": "回复@小盛是个:嗯，要点贵的那种献鸡的，鸡有鸡味//@小盛是个:浙工大门口那个吗，我觉得他们白斩鸡不错哈哈哈",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 4,
+      "attitudes": 116
+    },
+    {
+      "id": "5360541864035645",
+      "mid": "5360541864035645",
+      "created_at": "2026-11-01T12:30:37.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpoYagVR3",
+      "text": "被朋友约去留下彩娥饭店吃饭，菜虽然好吃，但是坐40分钟的车去，就不值了。累",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 51,
+      "attitudes": 373
+    },
+    {
+      "id": "5360487472824458",
+      "mid": "5360487472824458",
+      "created_at": "2026-11-01T08:54:28.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpnyrbQLM",
+      "text": "冬季将至，挪威大气田宣布阶段性大减产，欧洲的冬天怎么办",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 16,
+      "comments": 84,
+      "attitudes": 667
+    }
+  ]
+}
