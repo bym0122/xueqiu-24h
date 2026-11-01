@@ -3,8 +3,33 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月1日星期日 06:26:54",
+  "crawled_at_beijing": "2026年11月1日星期日 10:09:12",
   "crawled_date": "2026-11-01",
-  "post_count": 0,
-  "posts": []
+  "post_count": 2,
+  "posts": [
+    {
+      "id": "5360383879808582",
+      "mid": "5360383879808582",
+      "created_at": "2026-11-01T02:02:51.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpkRlF9EW",
+      "text": "#世界是个巨大的草台班子#\n职场骗子是导致公司实力弱化、劣币驱逐良币的主要原因之一。以前地产公司职场骗子特别多，有些年薪百万的财务连TMD财务报表都不会看。\n这些人不以为耻反以为荣。\n国内缺乏职场信用体系建设，这应该是一个蓝海。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 1
+    },
+    {
+      "id": "5360369962845200",
+      "mid": "5360369962845200",
+      "created_at": "2026-11-01T01:07:33.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpkuUbWak",
+      "text": "#美石油巨头靠美伊冲突赚得盆满钵满#\n加油站前哭一片？\n换算成人民币后：美国：约8.7元，日本：约7.2元，中国：92号8.98元，95号9.59元。\n国内这个油价傲视群雄。\n昨晚去加油一箱比去年贵了两百多……",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 9,
+      "attitudes": 22
+    }
+  ]
 }
