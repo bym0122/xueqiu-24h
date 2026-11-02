@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月2日星期一 05:58:32",
+  "crawled_at_beijing": "2026年11月2日星期一 09:29:20",
   "crawled_date": "2026-11-02",
-  "post_count": 4,
+  "post_count": 5,
   "posts": [
     {
       "id": "5360499893997364",
@@ -54,6 +54,18 @@
       "reposts": 1,
       "comments": 0,
       "attitudes": 10
+    },
+    {
+      "id": "5360717150815384",
+      "mid": "5360717150815384",
+      "created_at": "2026-11-02T00:07:09.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RptwT3q7m",
+      "text": "#上海82岁老姑娘养老方案全网想抄#\n老姑娘在我们老家是一种偏贬义的叫法，本身就带有独身、孤独、无助和老弱的意思。\n没想到有一天会宣传这种东西。\n82岁的姑娘？想靠着一点养老金和“外挂”就安享晚年？\n我见过很多没有子女的老人，晚年都比较凄惨。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 9,
+      "attitudes": 27
     }
   ]
 }

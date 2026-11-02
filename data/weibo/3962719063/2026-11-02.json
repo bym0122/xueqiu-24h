@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月2日星期一 05:58:15",
+  "crawled_at_beijing": "2026年11月2日星期一 09:29:04",
   "crawled_date": "2026-11-02",
-  "post_count": 7,
+  "post_count": 15,
   "posts": [
     {
       "id": "5360548989370572",
@@ -90,6 +90,102 @@
       "reposts": 0,
       "comments": 1,
       "attitudes": 3
+    },
+    {
+      "id": "5360737095516609",
+      "mid": "5360737095516609",
+      "created_at": "2026-11-02T01:26:24.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rpu33n97z",
+      "text": "某队资金开盘就进场，厉害",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 25,
+      "attitudes": 120
+    },
+    {
+      "id": "5360733459056680",
+      "mid": "5360733459056680",
+      "created_at": "2026-11-02T01:11:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RptXbC03u",
+      "text": "回复@笑猫兜:30%的分红，只能给12PE//@笑猫兜:广发环比下降主要还是自营盘的问题。如果能保持住40亿一季度的利润，一年150亿左右，给15pe不过分//@挖地瓜的超级鹿鼎公:回复@永不止步KEEPWALKING:兄弟，你就不看环比的吗//@永不止步KEEPWALKING:回复@挖地瓜的超级鹿鼎公:广发证券三季度同比还增长了 47%...全文",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 5,
+      "attitudes": 89
+    },
+    {
+      "id": "5360731717370680",
+      "mid": "5360731717370680",
+      "created_at": "2026-11-02T01:05:02.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RptUnuVrW",
+      "text": "终究是淡季到了，库存下降速度慢多了，上涨也是正常了",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 22,
+      "attitudes": 248
+    },
+    {
+      "id": "5360729052156012",
+      "mid": "5360729052156012",
+      "created_at": "2026-11-02T00:54:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RptQ592So",
+      "text": "回复@金城武瑞安本武:中美不在同一个时钟刻度上，却又互相影响，所以时钟慢慢在失效//@金城武瑞安本武:鹿公早，小学生又来请教了。时钟现在还有效吗？大概在几点位置啦 评论配图",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 4,
+      "attitudes": 111
+    },
+    {
+      "id": "5360725935787719",
+      "mid": "5360725935787719",
+      "created_at": "2026-11-02T00:42:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RptL3ohEj",
+      "text": "回复@永不止步KEEPWALKING:兄弟，你就不看环比的吗//@永不止步KEEPWALKING:回复@挖地瓜的超级鹿鼎公:广发证券三季度同比还增长了 47%，王总对业绩并没看错。只是被某队背刺了。",
+      "source": "微博网页版",
+      "reposts": 14,
+      "comments": 18,
+      "attitudes": 136
+    },
+    {
+      "id": "5360690044601304",
+      "mid": "5360690044601304",
+      "created_at": "2026-11-01T22:19:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpsPajj0A",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 31,
+      "comments": 10,
+      "attitudes": 200
+    },
+    {
+      "id": "5360689486758848",
+      "mid": "5360689486758848",
+      "created_at": "2026-11-01T22:17:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpsOgsmhG",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 52,
+      "comments": 22,
+      "attitudes": 334
+    },
+    {
+      "id": "5360687956099346",
+      "mid": "5360687956099346",
+      "created_at": "2026-11-01T22:11:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpsLNpAIy",
+      "text": "刚看到我还在脑子里过了一下中美GDP，后来看到了狗头//@奔跑在夏日里:挣美元花美元，按照美帝人均GDP是中国的六倍来算，中国20RMB一碗的牛肉面，在美帝应该120刀才对，否则都算便宜了",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 33,
+      "attitudes": 206
     }
   ]
 }
