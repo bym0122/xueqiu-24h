@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月2日星期一 09:29:20",
+  "crawled_at_beijing": "2026年11月2日星期一 17:22:40",
   "crawled_date": "2026-11-02",
-  "post_count": 5,
+  "post_count": 10,
   "posts": [
     {
       "id": "5360499893997364",
@@ -66,6 +66,66 @@
       "reposts": 0,
       "comments": 9,
       "attitudes": 27
+    },
+    {
+      "id": "5360853415101829",
+      "mid": "5360853415101829",
+      "created_at": "2026-11-02T09:08:37.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rpx4Flpdz",
+      "text": "#社保欠缴逾期不缴可罚1至3倍#\n结果就是工资下降，灵活就业越来越多，失业越来越多，考公越来越多。\n14亿人8亿考公。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 12
+    },
+    {
+      "id": "5360819316458305",
+      "mid": "5360819316458305",
+      "created_at": "2026-11-02T06:53:07.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpwbFr66d",
+      "text": "#A股 回购增持再贷款#\n所以，今天你追了吗？\n不对，换个问法。今天你听话了吗？",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 12,
+      "attitudes": 42
+    },
+    {
+      "id": "5360766966565833",
+      "mid": "5360766966565833",
+      "created_at": "2026-11-02T03:25:06.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpuPery4x",
+      "text": "#罗技广告再被指侮辱用户#\n罗技的东西感觉不好用啊，原来这么嚣张的吗？\n用过雷蛇的鼠标键盘后就再也回不到罗技了。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 16
+    },
+    {
+      "id": "5360765787966461",
+      "mid": "5360765787966461",
+      "created_at": "2026-11-02T03:20:25.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpuNkxqrj",
+      "text": "#万圣节不是巨婴发癫的地方#\n00后的万圣节和圣诞节比春节还要热闹，特别是城市里。\n以前有段时间主流媒体还疯狂批评过洋节，现在消费不行了啥节都能过了\n还是要注意秩序，但凡重大节日都容易出大问题。过去很多坏逼经常利用节庆日犯罪，坑蒙拐骗，强奸抢劫什么的。",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 30
+    },
+    {
+      "id": "5360763569177948",
+      "mid": "5360763569177948",
+      "created_at": "2026-11-02T03:11:36.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpuJKCvBq",
+      "text": "#A股#\n又上热搜了",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 22
     }
   ]
 }
