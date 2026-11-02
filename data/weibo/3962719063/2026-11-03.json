@@ -1,0 +1,71 @@
+{
+  "user_id": "3962719063",
+  "profile_url": "https://weibo.com/u/3962719063",
+  "window": "last-24h",
+  "source": "api+xhr",
+  "crawled_at_beijing": "2026年11月3日星期二 04:18:06",
+  "crawled_date": "2026-11-03",
+  "post_count": 5,
+  "posts": [
+    {
+      "id": "5360895158917042",
+      "mid": "5360895158917042",
+      "created_at": "2026-11-02T11:54:29.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rpy9ZBpJg",
+      "text": "全国KTV被扫，很多人担心小姐姐去婚恋市场赚财礼，哪知道猎手往往以猎物的姿态出现，猎手装成A8家庭的傻儿子，花钱大方，答应大额财礼，然后一起水到渠成，订婚前去普吉岛，去沙巴，去巴厘岛，回程去曼谷，然后上车，，，，，去了\n\n反正去了也是干老本行",
+      "source": "微博网页版",
+      "reposts": 31,
+      "comments": 60,
+      "attitudes": 800
+    },
+    {
+      "id": "5360883677006467",
+      "mid": "5360883677006467",
+      "created_at": "2026-11-02T11:08:52.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpxRttoHx",
+      "text": "电视里都是骗人的，实际心脏停止是这样的，深刻想一下也是惨烈的 挖地瓜的超级鹿鼎公的微博视频",
+      "source": "微博视频号",
+      "reposts": 62,
+      "comments": 54,
+      "attitudes": 540
+    },
+    {
+      "id": "5360879643918803",
+      "mid": "5360879643918803",
+      "created_at": "2026-11-02T10:52:50.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpxKYgrsv",
+      "text": "煤炭股除了盒饭，其他暂时不动，等10月，11月行业利润出来再考虑增减\n如果股价涨回去，也就算了，没有涨回去，而行业利润增加，山西月度产量恢复到9000万吨以上（9月是7880万吨），煤价没有下跌，则考虑增仓",
+      "source": "微博网页版",
+      "reposts": 150,
+      "comments": 94,
+      "attitudes": 1171
+    },
+    {
+      "id": "5360875909155017",
+      "mid": "5360875909155017",
+      "created_at": "2026-11-02T10:38:00.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpxEWCpDz",
+      "text": "2026年11月2日CCI指数\n5500大卡 1015 （-2）\n5000大卡 911 （-3）\n4500大卡 806 （-3）",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 6,
+      "attitudes": 294
+    },
+    {
+      "id": "5360861042705573",
+      "mid": "5360861042705573",
+      "created_at": "2026-11-02T09:38:54.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpxgYblQh",
+      "text": "回复@财生财啵:我指大额存单//@财生财啵:公公，我问银行了，说五年定存一直有啊",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 4,
+      "comments": 16,
+      "attitudes": 202
+    }
+  ]
+}
