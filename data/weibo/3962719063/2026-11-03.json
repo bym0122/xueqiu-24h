@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月3日星期二 04:18:06",
+  "crawled_at_beijing": "2026年11月3日星期二 10:53:10",
   "crawled_date": "2026-11-03",
-  "post_count": 5,
+  "post_count": 15,
   "posts": [
     {
       "id": "5360895158917042",
@@ -66,6 +66,126 @@
       "reposts": 4,
       "comments": 16,
       "attitudes": 202
+    },
+    {
+      "id": "5361118026662577",
+      "mid": "5361118026662577",
+      "created_at": "2026-11-03T02:40:04.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpDXsrXeV",
+      "text": "我没说过电解铝三年50%，我的目标是扣除三年分红实际目标也就32-33元",
+      "source": "微博网页版",
+      "reposts": 23,
+      "comments": 22,
+      "attitudes": 178
+    },
+    {
+      "id": "5361116507278678",
+      "mid": "5361116507278678",
+      "created_at": "2026-11-03T02:34:03.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpDV0uxw2",
+      "text": "回复@大跌庆幸还可以当牛马:不想拿几年的股票，其实最好一分钟都不要拿，我违背原则，错了就认，//@大跌庆幸还可以当牛马:公公没想到你对自己不熟悉的票也是这样，反弹割肉都要跑啊//@挖地瓜的超级鹿鼎公:回复@再盗号我要骂人了://@再盗号我要骂人了:鹿公，xx网络要回本了",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 13,
+      "attitudes": 100
+    },
+    {
+      "id": "5361113638109532",
+      "mid": "5361113638109532",
+      "created_at": "2026-11-03T02:22:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpDQny1EU",
+      "text": "回复@再盗号我要骂人了://@再盗号我要骂人了:鹿公，xx网络要回本了",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 22,
+      "attitudes": 100
+    },
+    {
+      "id": "5361112050827352",
+      "mid": "5361112050827352",
+      "created_at": "2026-11-03T02:16:19.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpDNP3teo",
+      "text": "虽然电解铝涨了，可是煤炭跌了，俺的市值永远跟乌龟一样慢吞吞的",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 82,
+      "attitudes": 396
+    },
+    {
+      "id": "5361104475653448",
+      "mid": "5361104475653448",
+      "created_at": "2026-11-03T01:46:14.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpDBBnIIE",
+      "text": "煤炭跌个啥啊，哎",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 84,
+      "attitudes": 451
+    },
+    {
+      "id": "5361097525167096",
+      "mid": "5361097525167096",
+      "created_at": "2026-11-03T01:18:37.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpDqolGcg",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 25,
+      "attitudes": 162
+    },
+    {
+      "id": "5361097435513178",
+      "mid": "5361097435513178",
+      "created_at": "2026-11-03T01:18:16.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpDqfn8ee",
+      "text": "伦铝大跌1%，沪铝完全不跟，小跌50元",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 25,
+      "attitudes": 403
+    },
+    {
+      "id": "5361092831216063",
+      "mid": "5361092831216063",
+      "created_at": "2026-11-03T00:59:57.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpDiP56lV",
+      "text": "回复@frankslq:我小时候不爱吃萝卜，所以认识//@frankslq:公公牛这是从小就吃的萝卜，心儿里美，卖萝卜的有时会削成萝卜花来招揽顾客//@挖地瓜的超级鹿鼎公:大萝卜，红心的",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 18,
+      "attitudes": 100
+    },
+    {
+      "id": "5361088394428420",
+      "mid": "5361088394428420",
+      "created_at": "2026-11-03T00:42:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpDbFiA28",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 47,
+      "comments": 48,
+      "attitudes": 236
+    },
+    {
+      "id": "5361083789083126",
+      "mid": "5361083789083126",
+      "created_at": "2026-11-03T00:24:01.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpD4eC6W2",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 23,
+      "comments": 31,
+      "attitudes": 211
     }
   ]
 }

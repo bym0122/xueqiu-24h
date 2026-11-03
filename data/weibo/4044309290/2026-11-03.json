@@ -3,8 +3,57 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月3日星期二 04:18:23",
+  "crawled_at_beijing": "2026年11月3日星期二 10:53:27",
   "crawled_date": "2026-11-03",
-  "post_count": 0,
-  "posts": []
+  "post_count": 4,
+  "posts": [
+    {
+      "id": "5361111310272415",
+      "mid": "5361111310272415",
+      "created_at": "2026-11-03T02:13:24.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpDMD18RN",
+      "text": "#红果这些短剧人气好高#\n看名字就没有看下去的欲望，还不如《立志成为恶兽》那种无厘头搞笑短片有意思。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 2
+    },
+    {
+      "id": "5361097496593258",
+      "mid": "5361097496593258",
+      "created_at": "2026-11-03T01:18:30.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpDqlrFcS",
+      "text": "#星巴克劝离未消费老人起争执#\n反正也没年轻人进来消费，老人们爱坐就坐呗。\n中国老龄化这么严重，星巴克最好出点“老人饮品”，不然光靠年轻人可能会遇到瓶颈。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 13
+    },
+    {
+      "id": "5361096856703670",
+      "mid": "5361096856703670",
+      "created_at": "2026-11-03T01:15:58.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/RpDpjs7VI",
+      "text": "#政务中心解释补办身份证要带身份证#\n想起疫情前各大学是随便进出后，疫情时加了闸机不允许外人随便进。疫情结束后，很多大学没有撤闸机，依旧卡着进出。后来虽然宽松了可以用身份证刷，但依旧远不如过去便利。\n现在不少地方变得越来越封闭而不是越来越开放了。其实就目前的AI和监控技术，你任何人进出 ...全文",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 15
+    },
+    {
+      "id": "5361096168835698",
+      "mid": "5361096168835698",
+      "created_at": "2026-11-03T01:13:14.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpDocB4zg",
+      "text": "#调杠杆给临近爆仓账户一线生机#\n那以后大家就会更加踊跃的用杠杆，更高的用杠杆。\n最后适得其反。",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 2,
+      "attitudes": 23
+    }
+  ]
 }
