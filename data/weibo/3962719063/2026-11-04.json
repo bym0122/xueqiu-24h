@@ -3,8 +3,33 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月4日星期三 02:23:44",
+  "crawled_at_beijing": "2026年11月4日星期三 07:58:12",
   "crawled_date": "2026-11-04",
-  "post_count": 0,
-  "posts": []
+  "post_count": 2,
+  "posts": [
+    {
+      "id": "5361410525888692",
+      "mid": "5361410525888692",
+      "created_at": "2026-11-03T22:02:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpLzeoHUU",
+      "text": "半年前开始的伯乐杯股票大赛，目前盈利选手仅占5%",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 35,
+      "attitudes": 363
+    },
+    {
+      "id": "5361403768342036",
+      "mid": "5361403768342036",
+      "created_at": "2026-11-03T21:35:31.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpLokz08Y",
+      "text": "共和党两院都要被民主党拿下了，川普又要变成坡脚鸭了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 16,
+      "comments": 55,
+      "attitudes": 402
+    }
+  ]
 }
