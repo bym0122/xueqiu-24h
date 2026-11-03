@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月3日星期二 10:53:10",
+  "crawled_at_beijing": "2026年11月3日星期二 18:44:40",
   "crawled_date": "2026-11-03",
-  "post_count": 15,
+  "post_count": 25,
   "posts": [
     {
       "id": "5360895158917042",
@@ -186,6 +186,126 @@
       "reposts": 23,
       "comments": 31,
       "attitudes": 211
+    },
+    {
+      "id": "5361236577617115",
+      "mid": "5361236577617115",
+      "created_at": "2026-11-03T10:31:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpH2FvXyH",
+      "text": "2026年11月3日CCI指数\n5500大卡 1013 （-2）\n5000大卡 909 （-2）\n4500大卡 804 （-2）",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 4,
+      "attitudes": 52
+    },
+    {
+      "id": "5361206397507139",
+      "mid": "5361206397507139",
+      "created_at": "2026-11-03T08:31:14.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpGfZvuWT",
+      "text": "没有拘留？？？",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 95,
+      "attitudes": 255
+    },
+    {
+      "id": "5361205963130083",
+      "mid": "5361205963130083",
+      "created_at": "2026-11-03T08:29:31.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpGfid8hd",
+      "text": "抖音直播总有小姐姐标注：刚离婚，离婚带娃，单身带娃，这感觉是招商大会招募标语一样",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 59,
+      "attitudes": 356
+    },
+    {
+      "id": "5361184436128418",
+      "mid": "5361184436128418",
+      "created_at": "2026-11-03T07:03:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpFGzpIhs",
+      "text": "回复@Aco____:1280是去年3月科创综指起步的地方//@Aco____:俺觉得，科创在这个位置下100点，远远没到位…//@挖地瓜的超级鹿鼎公:回复@秦北南:不知道，我测的是科创综指//@秦北南:公公，请教创业板指2100点是否是一个比较强力的支撑。",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 16,
+      "attitudes": 164
+    },
+    {
+      "id": "5361182087053324",
+      "mid": "5361182087053324",
+      "created_at": "2026-11-03T06:54:37.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpFCMtATi",
+      "text": "回复@秦北南:不知道，我测的是科创综指//@秦北南:公公，请教创业板指2100点是否是一个比较强力的支撑。",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 11,
+      "attitudes": 122
+    },
+    {
+      "id": "5361180220588753",
+      "mid": "5361180220588753",
+      "created_at": "2026-11-03T06:47:13.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpFzM2ta1",
+      "text": "瞎猜一个，科创和上证强力支撑都是往下100点左右 \n\n电解铝这种低估值的，已经有止跌的味道，哪怕电解铝期货下跌，股票却不怎么跌了",
+      "source": "微博网页版",
+      "reposts": 65,
+      "comments": 132,
+      "attitudes": 872
+    },
+    {
+      "id": "5361176699733082",
+      "mid": "5361176699733082",
+      "created_at": "2026-11-03T06:33:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpFu5EQ1c",
+      "text": "我有啥办法，据说是一个老太太收养的，看上去有点像混血//@流浪在tianya:@挖地瓜的超级鹿鼎公 老舅，这咋整啊",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 83,
+      "attitudes": 376
+    },
+    {
+      "id": "5361165207078066",
+      "mid": "5361165207078066",
+      "created_at": "2026-11-03T05:47:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpFbytHkm",
+      "text": "//@侏罗纪木质素:看看能不能全网通缉//@沈良-宏观价值投资:转发微博",
+      "source": "微博网页版",
+      "reposts": 38,
+      "comments": 47,
+      "attitudes": 245
+    },
+    {
+      "id": "5361164603359657",
+      "mid": "5361164603359657",
+      "created_at": "2026-11-03T05:45:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpFaAe601",
+      "text": "A00铝锭 无锡 23440 -70 11-03\n氧化铝 山西 2670 \n现货铝昨日大跌270后，今日再次小跌70",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 14,
+      "attitudes": 379
+    },
+    {
+      "id": "5361159718305884",
+      "mid": "5361159718305884",
+      "created_at": "2026-11-03T05:25:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpF2HyQJS",
+      "text": "回复@用户7698754703:睡醒了//@用户7698754703:老舅今天没午休啊",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 12,
+      "attitudes": 199
     }
   ]
 }

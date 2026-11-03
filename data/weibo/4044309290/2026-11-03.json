@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月3日星期二 10:53:27",
+  "crawled_at_beijing": "2026年11月3日星期二 18:44:56",
   "crawled_date": "2026-11-03",
-  "post_count": 4,
+  "post_count": 7,
   "posts": [
     {
       "id": "5361111310272415",
@@ -54,6 +54,42 @@
       "reposts": 1,
       "comments": 2,
       "attitudes": 23
+    },
+    {
+      "id": "5361213655747444",
+      "mid": "5361213655747444",
+      "created_at": "2026-11-03T09:00:05.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RpGrHo7aI",
+      "text": "医疗在全球都属于服务业，而且是对服务要求（身体+心理）最高的行业之一。 是你自己对服务业和医务工作者都有偏见和误解而已。 查看图片 //@厚芥末蛋烧:荒谬！医务工作者是救人的，不是服务者；医生不是服务员，医疗不是服务业。",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 9
+    },
+    {
+      "id": "5361146962903599",
+      "mid": "5361146962903599",
+      "created_at": "2026-11-03T04:35:03.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpEI8cbmf",
+      "text": "#华西医院的含金量还在不断上升#\n…………华西那医疗服务质量挺堪忧的。\n刚回成都时慕名去了几次，体验极差，从此再也没去了。\n一般是重症急诊才去华西，普通毛病去了不一定有啥用。",
+      "source": "iPhone 16",
+      "reposts": 8,
+      "comments": 67,
+      "attitudes": 407
+    },
+    {
+      "id": "5361145225677387",
+      "mid": "5361145225677387",
+      "created_at": "2026-11-03T04:28:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpEFknOWL",
+      "text": "#北京高考录取率高家长为什么还卷#\n北京最卷的就是北漂，大多数没啥关系背景，费心巴力想在首都长期定居下来。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 14
     }
   ]
 }
