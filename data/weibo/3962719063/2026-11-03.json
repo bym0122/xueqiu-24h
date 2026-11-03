@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月3日星期二 22:13:40",
+  "crawled_at_beijing": "2026年11月3日星期二 23:51:44",
   "crawled_date": "2026-11-03",
-  "post_count": 33,
+  "post_count": 37,
   "posts": [
     {
       "id": "5360895158917042",
@@ -402,6 +402,54 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 0
+    },
+    {
+      "id": "5361293752271364",
+      "mid": "5361293752271364",
+      "created_at": "2026-11-03T14:18:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpIwT9wSU",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 6,
+      "attitudes": 115
+    },
+    {
+      "id": "5361293519226897",
+      "mid": "5361293519226897",
+      "created_at": "2026-11-03T14:17:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpIwvCIkV",
+      "text": "//@燕公子钰09:转发微博",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 5,
+      "attitudes": 74
+    },
+    {
+      "id": "5361293404149091",
+      "mid": "5361293404149091",
+      "created_at": "2026-11-03T14:16:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpIwkhpmP",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 24,
+      "comments": 5,
+      "attitudes": 165
+    },
+    {
+      "id": "5361292940673598",
+      "mid": "5361292940673598",
+      "created_at": "2026-11-03T14:15:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpIvA2Peu",
+      "text": "//@股道热肠也:转发微博",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 4,
+      "attitudes": 65
     }
   ]
 }
