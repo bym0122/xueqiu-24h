@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月3日星期二 18:44:40",
+  "crawled_at_beijing": "2026年11月3日星期二 19:51:42",
   "crawled_date": "2026-11-03",
-  "post_count": 25,
+  "post_count": 27,
   "posts": [
     {
       "id": "5360895158917042",
@@ -306,6 +306,30 @@
       "reposts": 2,
       "comments": 12,
       "attitudes": 199
+    },
+    {
+      "id": "5361256752220758",
+      "mid": "5361256752220758",
+      "created_at": "2026-11-03T11:51:20.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpHzd9jIG",
+      "text": "亲子鉴定机构本周：\n两起亲子鉴定都是女方做的，都是前男友的，一个安全期带措施，照样中招，\n\n好奇的问一下，女人这么喜欢婚前找前男友大战三百回合吗",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
+    },
+    {
+      "id": "5361246552981960",
+      "mid": "5361246552981960",
+      "created_at": "2026-11-03T11:10:48.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpHiLcvK8",
+      "text": "这波科技大跌，又消灭了一批新韭菜",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 100,
+      "attitudes": 425
     }
   ]
 }
