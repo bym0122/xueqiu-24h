@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月3日星期二 19:51:42",
+  "crawled_at_beijing": "2026年11月3日星期二 22:13:40",
   "crawled_date": "2026-11-03",
-  "post_count": 27,
+  "post_count": 33,
   "posts": [
     {
       "id": "5360895158917042",
@@ -330,6 +330,78 @@
       "reposts": 7,
       "comments": 100,
       "attitudes": 425
+    },
+    {
+      "id": "5361292070356345",
+      "mid": "5361292070356345",
+      "created_at": "2026-11-03T14:11:40.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpIub1uHv",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 1,
+      "attitudes": 10
+    },
+    {
+      "id": "5361264152806996",
+      "mid": "5361264152806996",
+      "created_at": "2026-11-03T12:20:44.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpHL9bMe8",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 32,
+      "attitudes": 183
+    },
+    {
+      "id": "5361263490369306",
+      "mid": "5361263490369306",
+      "created_at": "2026-11-03T12:18:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpHK51y4y",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 10,
+      "attitudes": 117
+    },
+    {
+      "id": "5361262489765357",
+      "mid": "5361262489765357",
+      "created_at": "2026-11-03T12:14:08.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpHIsEYpL",
+      "text": "很多人女性找结婚对象有一个很重要的标准，就是结婚不能让我生活水平降低\n\n说句老实话，除非你找的对象，家庭经济状况远超你家和你的收入，否则普通人结婚，大概率是会让自己的生活水平降低的，结婚，办酒，生孩子，要养孩子，甚至付房贷，大概率是让双方生活水平都降低了，尤其男性，降得更多",
+      "source": "微博网页版",
+      "reposts": 29,
+      "comments": 51,
+      "attitudes": 489
+    },
+    {
+      "id": "5361258601649604",
+      "mid": "5361258601649604",
+      "created_at": "2026-11-03T11:58:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpHCc6V8w",
+      "text": "亲子鉴定机构：一个清华本硕博父亲，找了一个211老婆，孩子高中都没考上，把父亲焦虑的去做了亲子鉴定，亲生的",
+      "source": "微博网页版",
+      "reposts": 22,
+      "comments": 69,
+      "attitudes": 526
+    },
+    {
+      "id": "5361292540121676",
+      "mid": "5361292540121676",
+      "created_at": "2026-11-03T14:13:32.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpIuW0vEw",
+      "text": "打赢坐牢？不不不，九寨打赢不用坐牢，有没有赔钱，我不知道",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
     }
   ]
 }
