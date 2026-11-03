@@ -1,0 +1,23 @@
+{
+  "user_id": "4044309290",
+  "profile_url": "https://weibo.com/u/4044309290",
+  "window": "last-24h",
+  "source": "api+xhr",
+  "crawled_at_beijing": "2026年11月4日星期三 02:24:00",
+  "crawled_date": "2026-11-04",
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5361299584191673",
+      "mid": "5361299584191673",
+      "created_at": "2026-11-03T14:41:32.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RpIGihArD",
+      "text": "回复@李SI特特特:可以啊，我毫无意见//@李SI特特特:回复@四公里站:既然博主说全球医疗都是服务业，那就按全球的标准来收费呗，博主又不乐意",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 3
+    }
+  ]
+}
