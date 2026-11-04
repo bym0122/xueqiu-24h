@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月4日星期三 14:05:43",
+  "crawled_at_beijing": "2026年11月4日星期三 16:38:52",
   "crawled_date": "2026-11-04",
-  "post_count": 18,
+  "post_count": 21,
   "posts": [
     {
       "id": "5361410525888692",
@@ -222,6 +222,42 @@
       "reposts": 3,
       "comments": 5,
       "attitudes": 92
+    },
+    {
+      "id": "5361540161343455",
+      "mid": "5361540161343455",
+      "created_at": "2026-11-04T06:37:30.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpOWk5DuD",
+      "text": "回复@想好再来改_:一个全是穆斯林，黑人，阿三的美国，才是我们的最大幸事//@想好再来改_:最终决定因素还是人口，移民对民主是有利的，过30-50年，穆斯林，阿三等移民人口继续往上，红脖子要进博物馆了！",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 24,
+      "attitudes": 232
+    },
+    {
+      "id": "5361533561081454",
+      "mid": "5361533561081454",
+      "created_at": "2026-11-04T06:11:16.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpOLG4xkO",
+      "text": "利用个别数字，为其自身的说法服务，鸦片战争最大的损失是割地，赔钱多看辛丑条约，赔9.82亿两，甲午战争赔了2.6亿两",
+      "source": "微博网页版",
+      "reposts": 22,
+      "comments": 19,
+      "attitudes": 239
+    },
+    {
+      "id": "5361532630467278",
+      "mid": "5361532630467278",
+      "created_at": "2026-11-04T06:07:34.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpOKb1XyK",
+      "text": "川普对于我们是短期利好，长期利空，\n民主党对于我们是短期利空，长期利多\n\n那一天民主党在台上，我们最重要的事情是防止被内部爆破，被颜色革命，被各种邪门歪道思维入侵 ，省的他们自己没爆，我们先被他们渗透了",
+      "source": "微博网页版",
+      "reposts": 55,
+      "comments": 74,
+      "attitudes": 900
     }
   ]
 }
