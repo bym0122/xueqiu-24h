@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月4日星期三 07:58:12",
+  "crawled_at_beijing": "2026年11月4日星期三 10:46:14",
   "crawled_date": "2026-11-04",
-  "post_count": 2,
+  "post_count": 12,
   "posts": [
     {
       "id": "5361410525888692",
@@ -30,6 +30,126 @@
       "reposts": 16,
       "comments": 55,
       "attitudes": 402
+    },
+    {
+      "id": "5361464639750522",
+      "mid": "5361464639750522",
+      "created_at": "2026-11-04T01:37:24.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpMYvEUyu",
+      "text": "为什么会大跌，是因为涨的太多，涨的太快，当初把资金赶去科技，肯定不是对的事情",
+      "source": "微博网页版",
+      "reposts": 21,
+      "comments": 92,
+      "attitudes": 857
+    },
+    {
+      "id": "5361456099887611",
+      "mid": "5361456099887611",
+      "created_at": "2026-11-04T01:03:28.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpMKJFudB",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 21,
+      "attitudes": 160
+    },
+    {
+      "id": "5361455890171073",
+      "mid": "5361455890171073",
+      "created_at": "2026-11-04T01:02:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpMKp0Ivf",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 16,
+      "attitudes": 116
+    },
+    {
+      "id": "5361455782168048",
+      "mid": "5361455782168048",
+      "created_at": "2026-11-04T01:02:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpMKe960w",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 1,
+      "attitudes": 149
+    },
+    {
+      "id": "5361455736034036",
+      "mid": "5361455736034036",
+      "created_at": "2026-11-04T01:02:01.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpMK9pjJa",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 23,
+      "comments": 16,
+      "attitudes": 176
+    },
+    {
+      "id": "5361453942965112",
+      "mid": "5361453942965112",
+      "created_at": "2026-11-04T00:54:54.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpMHgcrmo",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 14,
+      "comments": 34,
+      "attitudes": 147
+    },
+    {
+      "id": "5361452501698088",
+      "mid": "5361452501698088",
+      "created_at": "2026-11-04T00:49:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpMEW77Kw",
+      "text": "回复@HuHu爱生活:并不是适用每一个人，大数据//@HuHu爱生活:我也是金牛可是我咋觉得我不合适老亏啊",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 34,
+      "attitudes": 153
+    },
+    {
+      "id": "5361452120282070",
+      "mid": "5361452120282070",
+      "created_at": "2026-11-04T00:47:39.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpMEk1bnw",
+      "text": "回复@BOB2B:土象都还行//@BOB2B:我摩羯，快说摩羯也合适",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 46,
+      "attitudes": 113
+    },
+    {
+      "id": "5361451661528085",
+      "mid": "5361451661528085",
+      "created_at": "2026-11-04T00:45:50.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpMDA6pwx",
+      "text": "回复@cang又加错:对于价值认知不足//@cang又加错:双子呢公公",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 17,
+      "attitudes": 110
+    },
+    {
+      "id": "5361451574233676",
+      "mid": "5361451574233676",
+      "created_at": "2026-11-04T00:45:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpMDrhLn6",
+      "text": "回复@秦璊:你思念亲人，但是孝顺吗，你内心深处最好父母是富一代而已//@秦璊:有异议，我自己的孝顺似乎是天生的，或者说是因为小时候胆小特别依赖父母，读书时候又12岁远离家乡，特别思念亲人。",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 12,
+      "attitudes": 118
     }
   ]
 }

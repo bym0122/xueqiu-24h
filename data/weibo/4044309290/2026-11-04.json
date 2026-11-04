@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月4日星期三 07:58:28",
+  "crawled_at_beijing": "2026年11月4日星期三 10:46:30",
   "crawled_date": "2026-11-04",
-  "post_count": 1,
+  "post_count": 6,
   "posts": [
     {
       "id": "5361299584191673",
@@ -18,6 +18,66 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 3
+    },
+    {
+      "id": "5361480648100017",
+      "mid": "5361480648100017",
+      "created_at": "2026-11-04T02:41:01.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpNokxZbr",
+      "text": "#认知高的人一个明显信号#\n是吗？\n其实马斯克如果换张脸到星巴克坐着聊天，周围人很容易把他当傻子的。\n他认知如何？",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 5
+    },
+    {
+      "id": "5361480098906551",
+      "mid": "5361480098906551",
+      "created_at": "2026-11-04T02:38:50.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpNnrBn03",
+      "text": "#A股下探3600点国家队买了谁#\n大A凶多吉少了？\n你们觉得A骨能逆外盘上涨吗？历史上有没有过？",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 8
+    },
+    {
+      "id": "5361451535697781",
+      "mid": "5361451535697781",
+      "created_at": "2026-11-04T00:45:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RpMDnnUfH",
+      "text": "回复@小坏小怪-雪球:这是被某些人误导的，当煤炭看了。 正常情况下，电解铝肯定是缓慢上升的态势，明年中枢比今年高。 电解铝和煤炭强相关，但他不是煤炭。 除非放开产能，但放开产能也是有利于云铝等。//@小坏小怪-雪球:明年预期铝价在21000-23000？都在看明年下半年国外复产//...全文",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 17
+    },
+    {
+      "id": "5361442179517259",
+      "mid": "5361442179517259",
+      "created_at": "2026-11-04T00:08:09.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpMohDVSb",
+      "text": "#贫穷不是努力可以抵消的事情#\n天天尽推广些傻X文。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 20
+    },
+    {
+      "id": "5361442049494776",
+      "mid": "5361442049494776",
+      "created_at": "2026-11-04T00:07:38.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RpMo4DQ1y",
+      "text": "目前的问题是分红增不增加，利润都是明牌。",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 5,
+      "attitudes": 17
     }
   ]
 }
