@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月4日星期三 16:38:52",
+  "crawled_at_beijing": "2026年11月4日星期三 20:43:45",
   "crawled_date": "2026-11-04",
-  "post_count": 21,
+  "post_count": 27,
   "posts": [
     {
       "id": "5361410525888692",
@@ -258,6 +258,78 @@
       "reposts": 55,
       "comments": 74,
       "attitudes": 900
+    },
+    {
+      "id": "5361625050648833",
+      "mid": "5361625050648833",
+      "created_at": "2026-11-04T12:14:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpR9f2IN3",
+      "text": "赵构48岁生的太子",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 14,
+      "attitudes": 53
+    },
+    {
+      "id": "5361624116628897",
+      "mid": "5361624116628897",
+      "created_at": "2026-11-04T12:11:06.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpR7JrOtH",
+      "text": "小仙女",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 28,
+      "attitudes": 60
+    },
+    {
+      "id": "5361600942572760",
+      "mid": "5361600942572760",
+      "created_at": "2026-11-04T10:39:01.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpQwmaNi8",
+      "text": "//@心医林霖:本来就是美国人造的病毒，现在还有人怀疑啊？？",
+      "source": "微博网页版",
+      "reposts": 55,
+      "comments": 25,
+      "attitudes": 221
+    },
+    {
+      "id": "5361600607555432",
+      "mid": "5361600607555432",
+      "created_at": "2026-11-04T10:37:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpQvOvHvO",
+      "text": "煤炭价格居然跌不下去，只要科技股一回调，煤炭应该有反弹",
+      "source": "微博网页版",
+      "reposts": 17,
+      "comments": 52,
+      "attitudes": 486
+    },
+    {
+      "id": "5361600487752863",
+      "mid": "5361600487752863",
+      "created_at": "2026-11-04T10:37:13.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpQvCwwSb",
+      "text": "2026年11月4日CCI指数\n5500大卡 1013 （-）\n5000大卡 909 （-）\n4500大卡 802 （-2）",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 7,
+      "attitudes": 187
+    },
+    {
+      "id": "5361591826516821",
+      "mid": "5361591826516821",
+      "created_at": "2026-11-04T10:02:48.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpQhErlk1",
+      "text": "回复@吃息等风来:是的，对券商没有好感，除非便宜到一塌糊涂//@吃息等风来:回复@评论罗脖特:广发有点无中生有了//@挖地瓜的超级鹿鼎公:这段话的含金量在上升",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 9,
+      "comments": 22,
+      "attitudes": 174
     }
   ]
 }
