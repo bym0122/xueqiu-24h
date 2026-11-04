@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月4日星期三 13:20:37",
+  "crawled_at_beijing": "2026年11月4日星期三 13:54:15",
   "crawled_date": "2026-11-04",
-  "post_count": 12,
+  "post_count": 15,
   "posts": [
     {
       "id": "5361410525888692",
@@ -150,6 +150,42 @@
       "reposts": 1,
       "comments": 12,
       "attitudes": 118
+    },
+    {
+      "id": "5361529202410240",
+      "mid": "5361529202410240",
+      "created_at": "2026-11-04T05:53:57.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpOEEa70Q",
+      "text": "科创一天ICU，一天KTV",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
+    },
+    {
+      "id": "5361523649677894",
+      "mid": "5361523649677894",
+      "created_at": "2026-11-04T05:31:53.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpOvGEBF4",
+      "text": "发现最近红利股，不管业绩，只要大跌暴跌去捞底，都赚的盆满钵满，山西煤矿除外 \n\n比如煤化工，金矿，磷矿也是",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 55,
+      "attitudes": 309
+    },
+    {
+      "id": "5361523463815464",
+      "mid": "5361523463815464",
+      "created_at": "2026-11-04T05:31:09.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpOvog0zK",
+      "text": "一觉睡醒，红了这么多，",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 30,
+      "attitudes": 187
     }
   ]
 }

@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月4日星期三 13:20:54",
+  "crawled_at_beijing": "2026年11月4日星期三 13:54:32",
   "crawled_date": "2026-11-04",
-  "post_count": 9,
+  "post_count": 10,
   "posts": [
     {
       "id": "5361299584191673",
@@ -114,6 +114,18 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 7
+    },
+    {
+      "id": "5361524025854054",
+      "mid": "5361524025854054",
+      "created_at": "2026-11-04T05:33:23.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/RpOwioyUe",
+      "text": "#吴恺遇害案关键在逃人员谢义辉##微剑##网传吴恺案主谋照片曝光# \n有一个关于美国人在国内被境外犯罪集团杀害的故事：\n曼努埃尔·德·迪奥斯·乌纳努埃，古巴裔美国记者，在纽约西班牙语大报《每日新闻报》从调查记者干到主编。这人拿笔当刀，专捅毒枭的老窝。他不光在报纸上骂，还办杂志、上电台，1988年 ...全文",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 0,
+      "attitudes": 4
     }
   ]
 }
