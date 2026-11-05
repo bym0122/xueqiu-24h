@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月5日星期四 10:20:12",
+  "crawled_at_beijing": "2026年11月5日星期四 13:47:22",
   "crawled_date": "2026-11-05",
-  "post_count": 2,
+  "post_count": 5,
   "posts": [
     {
       "id": "5361805253937237",
@@ -30,6 +30,42 @@
       "reposts": 0,
       "comments": 1,
       "attitudes": 24
+    },
+    {
+      "id": "5361887718146313",
+      "mid": "5361887718146313",
+      "created_at": "2026-11-05T05:38:33.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpXYTybe9",
+      "text": "#加州允许三人行四人行登记伴侣#\n牛逼，很快就要加速回到原始社会了。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 4
+    },
+    {
+      "id": "5361850875119244",
+      "mid": "5361850875119244",
+      "created_at": "2026-11-05T03:12:10.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpX1tltKs",
+      "text": "#陕西重大刑案嫌疑人弃车疑逃入山林#\n还没抓到？看来这人有很强的反侦察能力？",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 11
+    },
+    {
+      "id": "5361840775497696",
+      "mid": "5361840775497696",
+      "created_at": "2026-11-05T02:32:02.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RpWLbn4cw",
+      "text": "回复@俗心skr:你好好看看，网上案例还多得很。 运营商就是最大的个人隐私泄漏者。 评论配图 //@俗心skr:回复@小鱼爱吃鱼088:你想多了，三大运营商根本不会在乎卖信息这点儿钱的，而且对客户信息保密要求也很严格",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 8
     }
   ]
 }
