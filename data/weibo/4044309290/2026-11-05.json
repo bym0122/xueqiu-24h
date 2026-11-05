@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月5日星期四 14:40:23",
+  "crawled_at_beijing": "2026年11月5日星期四 18:45:27",
   "crawled_date": "2026-11-05",
-  "post_count": 5,
+  "post_count": 7,
   "posts": [
     {
       "id": "5361805253937237",
@@ -66,6 +66,30 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 8
+    },
+    {
+      "id": "5361932269781735",
+      "mid": "5361932269781735",
+      "created_at": "2026-11-05T08:35:35.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RpZ8KF2FV",
+      "text": "回复@雪球的润哥:任重而道远，只能个人自己多注意了。//@雪球的润哥:一个问题迟迟得不到解决，说明制造问题的人同时也是解决问题的人",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 9
+    },
+    {
+      "id": "5361914188137346",
+      "mid": "5361914188137346",
+      "created_at": "2026-11-05T07:23:45.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RpYFAy8Tw",
+      "text": "#民主党AI监管立法推进难#\n有多难？",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 5
     }
   ]
 }

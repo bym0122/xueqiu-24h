@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月5日星期四 14:40:07",
+  "crawled_at_beijing": "2026年11月5日星期四 18:45:10",
   "crawled_date": "2026-11-05",
-  "post_count": 13,
+  "post_count": 20,
   "posts": [
     {
       "id": "5361821930228053",
@@ -162,6 +162,90 @@
       "reposts": 1,
       "comments": 29,
       "attitudes": 402
+    },
+    {
+      "id": "5361957306897545",
+      "mid": "5361957306897545",
+      "created_at": "2026-11-05T10:15:05.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpZN8sWmJ",
+      "text": "六年前把川普纠错了，2年前川普又成了对的象征，现在又错了",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 23,
+      "attitudes": 117
+    },
+    {
+      "id": "5361956870685514",
+      "mid": "5361956870685514",
+      "created_at": "2026-11-05T10:13:21.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpZMr2SkG",
+      "text": "回复@江河湖海滚滚来:随他们来渗透，来掌控舆论？//@江河湖海滚滚来:教员说了，我们靠自己，做好自己的事，他们的事随它去",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 4,
+      "attitudes": 77
+    },
+    {
+      "id": "5361956508664185",
+      "mid": "5361956508664185",
+      "created_at": "2026-11-05T10:11:54.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RpZLQAlWV",
+      "text": "回复@华落海:产量不足造成的//@华落海:暖冬，但是惯性已经形成",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 2,
+      "attitudes": 52
+    },
+    {
+      "id": "5361939451478415",
+      "mid": "5361939451478415",
+      "created_at": "2026-11-05T09:04:08.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpZkl6cBp",
+      "text": "说美国有纠错机制，看来是民主党付的钱",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 34,
+      "attitudes": 286
+    },
+    {
+      "id": "5361938806870283",
+      "mid": "5361938806870283",
+      "created_at": "2026-11-05T09:01:34.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpZjisPh1",
+      "text": "共和党输了中期选举，万斯则把失败推给川普发动伊朗战争，呵呵",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 40,
+      "attitudes": 270
+    },
+    {
+      "id": "5361937845321969",
+      "mid": "5361937845321969",
+      "created_at": "2026-11-05T08:57:44.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpZhKmkud",
+      "text": "冬季来临，跌不下去啊，",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 49,
+      "attitudes": 283
+    },
+    {
+      "id": "5361908840662352",
+      "mid": "5361908840662352",
+      "created_at": "2026-11-05T07:02:30.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RpYwY2Mj6",
+      "text": "做股票耐心很重要，我反正仓位不算很轻，所以吧，不够便宜不买，或者底部走踏实了再买，当然盒饭不在其中",
+      "source": "微博网页版",
+      "reposts": 64,
+      "comments": 198,
+      "attitudes": 1205
     }
   ]
 }
