@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月6日星期五 08:09:17",
+  "crawled_at_beijing": "2026年11月6日星期五 16:01:42",
   "crawled_date": "2026-11-06",
-  "post_count": 7,
+  "post_count": 18,
   "posts": [
     {
       "id": "5362166112977078",
@@ -90,6 +90,138 @@
       "reposts": 41,
       "comments": 79,
       "attitudes": 635
+    },
+    {
+      "id": "5362284774031836",
+      "mid": "5362284774031836",
+      "created_at": "2026-11-06T07:56:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rq8jjgURC",
+      "text": "为了复查肺结节少吃射线，特意去做光子CT，结果护士看都不看清楚，直接发配到普通CT中，做完才反应过来（年纪大了，脑子不行了），白忙乎",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 20,
+      "attitudes": 85
+    },
+    {
+      "id": "5362240288719068",
+      "mid": "5362240288719068",
+      "created_at": "2026-11-06T04:59:32.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq79yAAe8",
+      "text": "//@专业戳轮胎熊律师:我现在都是拿DS当搜索用//@冥王星1974:微软现在管理一塌糊涂，你看bing搜索引擎就知道了，经常答非所问。",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 6,
+      "comments": 26,
+      "attitudes": 141
+    },
+    {
+      "id": "5362230699753524",
+      "mid": "5362230699753524",
+      "created_at": "2026-11-06T04:21:26.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq6U5EVkU",
+      "text": "回复@尹先生_2019:过去的收益率只代表过去，不代表未来，未来收益率是高是低，是正是负，天知道//@尹先生_2019:收益率是认知的体现，老舅的收益率说明一切",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 24,
+      "attitudes": 248
+    },
+    {
+      "id": "5362229605829458",
+      "mid": "5362229605829458",
+      "created_at": "2026-11-06T04:17:06.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/Rq6Skosvw",
+      "text": "投资是认知的折现\n你看到一篇文章，你信了，是你的认知决定，你不信，也是你的认知决定，\n别人的文章和认知，不管对错，你有没有认知，是分辨对错的根本。\n\n我是经常做错的，有认知不足的原因，也有随手棋性格的原因，所以你的认知够了，就能看出我的错，也看出我的对。\n\n我一直说，要相信自己的判断， ...全文",
+      "source": "微博网页版",
+      "reposts": 140,
+      "comments": 121,
+      "attitudes": 1499
+    },
+    {
+      "id": "5362224136979925",
+      "mid": "5362224136979925",
+      "created_at": "2026-11-06T03:55:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq6JvthNr",
+      "text": "//@沈良-宏观价值投资:转发微博",
+      "source": "微博网页版",
+      "reposts": 20,
+      "comments": 22,
+      "attitudes": 195
+    },
+    {
+      "id": "5362222958382889",
+      "mid": "5362222958382889",
+      "created_at": "2026-11-06T03:50:41.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq6HBzaLT",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 12,
+      "comments": 7,
+      "attitudes": 197
+    },
+    {
+      "id": "5362221781616218",
+      "mid": "5362221781616218",
+      "created_at": "2026-11-06T03:46:01.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rq6FI6Ms2",
+      "text": "00铝锭 无锡 23330 -40 11-06\n氧化铝 山西 2670",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 25,
+      "attitudes": 411
+    },
+    {
+      "id": "5362184903461217",
+      "mid": "5362184903461217",
+      "created_at": "2026-11-06T01:19:28.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq5Ieewq5",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 22,
+      "comments": 29,
+      "attitudes": 238
+    },
+    {
+      "id": "5362181593633612",
+      "mid": "5362181593633612",
+      "created_at": "2026-11-06T01:06:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq5CTffgE",
+      "text": "回复@始终有盼头:要发至本心，指导的肯定错的//@始终有盼头:鹿公，拜托你下次建议他买点大水电",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 64,
+      "attitudes": 355
+    },
+    {
+      "id": "5362181300293599",
+      "mid": "5362181300293599",
+      "created_at": "2026-11-06T01:05:09.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq5Cq1ent",
+      "text": "回复@章titi:人家公开场合已经2年半没有发言了//@章titi:牙医有账号么，我要去关注他，作为反向指标",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 10,
+      "attitudes": 185
+    },
+    {
+      "id": "5362286099173649",
+      "mid": "5362286099173649",
+      "created_at": "2026-11-06T08:01:35.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rq8lrCuu5",
+      "text": "我确认我过去错误一大堆，并且未来还会有更多错误，年纪大了，脑子不好使是正常的",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
     }
   ]
 }
