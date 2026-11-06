@@ -3,8 +3,57 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月6日星期五 16:01:58",
+  "crawled_at_beijing": "2026年11月6日星期五 23:53:18",
   "crawled_date": "2026-11-06",
-  "post_count": 0,
-  "posts": []
+  "post_count": 4,
+  "posts": [
+    {
+      "id": "5362345975222227",
+      "mid": "5362345975222227",
+      "created_at": "2026-11-06T11:59:31.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/Rq9U1lUxt",
+      "text": "#美学者建议中国建立通用语言环境#\n以前我们公司就是双语办公的，大家英语进步飞快，比中高考考试提升快100倍。\n中学大学那应试英语经常就是没法用的。\n真正想用好英语不是高考150，而是建立语言环境，从这个角度讲，这个学者的观点是对的，而且别人也没啥阴谋论。\n高考150事实上造成了巨大的城乡、贫 ...全文",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 13
+    },
+    {
+      "id": "5362344846690269",
+      "mid": "5362344846690269",
+      "created_at": "2026-11-06T11:55:02.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rq9Scs4rz",
+      "text": "#实验猴涨至26万一只#\n我也没想到A股有一天会炒🐒啊～",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 24
+    },
+    {
+      "id": "5362344393968404",
+      "mid": "5362344393968404",
+      "created_at": "2026-11-06T11:53:14.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/Rq9RtgEmw",
+      "text": "#黑龙江鹤岗一套房以11元拍出#\n真正的房价如葱了……\n主要是还有一个供暖费和物业，这种拿着就是赔钱资产。但是对于自由职业偶尔去黑龙江住一下的人而言是个好主意。\n刘经理称，拍得这套房屋的买家，除了要支付11元的购房款，过户时还要缴纳两千元左右的契税，除此之外再无其他费用，“这 ...全文",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 9
+    },
+    {
+      "id": "5362326039696196",
+      "mid": "5362326039696196",
+      "created_at": "2026-11-06T10:40:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rq9nREGqg",
+      "text": "#万斯与特朗普切割瞄准2028总统位#\n万斯这痞子要是当美国总统的话，那可真是天佑中华",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 22
+    }
+  ]
 }
