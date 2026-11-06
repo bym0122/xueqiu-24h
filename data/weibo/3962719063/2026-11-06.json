@@ -1,0 +1,95 @@
+{
+  "user_id": "3962719063",
+  "profile_url": "https://weibo.com/u/3962719063",
+  "window": "last-24h",
+  "source": "api+xhr",
+  "crawled_at_beijing": "2026年11月6日星期五 08:09:17",
+  "crawled_date": "2026-11-06",
+  "post_count": 7,
+  "posts": [
+    {
+      "id": "5362166112977078",
+      "mid": "5362166112977078",
+      "created_at": "2026-11-06T00:04:47.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rq5dVcuto",
+      "text": "一二不过三，第三次预测纳斯达克崩盘，总算对了。\n\n当然总是预测崩盘总会对一次",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 19,
+      "attitudes": 111
+    },
+    {
+      "id": "5362164049380770",
+      "mid": "5362164049380770",
+      "created_at": "2026-11-05T23:56:36.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq5aADmmK",
+      "text": "回复@大熊sdu:对，不会恢复到鼎盛的产量//@大熊sdu:老舅，山西煤三季度业绩会提到，各矿井均不同程度受到安监，地质构造，工作面搬家等因素影响，四季度仍存在不确定性",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 49
+    },
+    {
+      "id": "5362163718034250",
+      "mid": "5362163718034250",
+      "created_at": "2026-11-05T23:55:17.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rq5a3xI4G",
+      "text": "大A科技股应该庆幸有某队资金护驾",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 34,
+      "attitudes": 159
+    },
+    {
+      "id": "5362162893588075",
+      "mid": "5362162893588075",
+      "created_at": "2026-11-05T23:52:01.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rq58Jf3qb",
+      "text": "历史告诉我们，任何一轮新科技大发展，必然带来一轮大血洗。\n\n从美国铁路，到美国飞机制造，从中国股市，到全球互联网，AI不可能例外",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 30,
+      "comments": 22,
+      "attitudes": 278
+    },
+    {
+      "id": "5362146373797267",
+      "mid": "5362146373797267",
+      "created_at": "2026-11-05T22:46:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq4I5fVQf",
+      "text": "行业低谷，股价低谷后的趋势转势苗头出来//@欢行202009:鹿公早，请问一下，我一直有点不太明白趋势择时，想问问，这个趋势是指宏观的市场趋势+中观的行业趋势+微观的企业业绩趋势+技术指标的指标趋势吗还是单纯的行业趋势+企业业绩趋势，抑或其他",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 30,
+      "comments": 28,
+      "attitudes": 277
+    },
+    {
+      "id": "5362142091936124",
+      "mid": "5362142091936124",
+      "created_at": "2026-11-05T22:29:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rq4Bb87FO",
+      "text": "回复@A股冲浪的大海龟:沪铝昨晚强不强？//@A股冲浪的大海龟:云铝明天会跟着美股铝一样大跌吗 看着美股铝走得真拉垮//@挖地瓜的超级鹿鼎公:回复@华落海:产量不足造成的//@华落海:暖冬，但是惯性已经形成",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 19,
+      "attitudes": 173
+    },
+    {
+      "id": "5362141706061810",
+      "mid": "5362141706061810",
+      "created_at": "2026-11-05T22:27:49.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rq4AypqX8",
+      "text": "美股昨晚血流成河，不过杀的主要是硬件",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 41,
+      "comments": 79,
+      "attitudes": 635
+    }
+  ]
+}
