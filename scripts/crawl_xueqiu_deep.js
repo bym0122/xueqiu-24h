@@ -30,7 +30,7 @@ const PORT = 9600 + (process.pid % 300);
 const argv = process.argv.slice(2);
 const repoIdx = argv.indexOf("--repo");
 const REPO = repoIdx >= 0 ? path.resolve(argv[repoIdx + 1]) : path.resolve(__dirname, "..");
-const DEFAULT_UIDS = ["9493911686", "1910783512"];
+const DEFAULT_UIDS = ["9493911686", "1910783512", "8790885129"]; // 鹿鼎公雪球 ID: 8790885129（微博 ID 3962719063 在雪球不存在）
 const UIDS = argv.filter((a, i) => !a.startsWith("--") && argv[i - 1] !== "--repo");
 const targets = UIDS.length ? UIDS : DEFAULT_UIDS;
 
