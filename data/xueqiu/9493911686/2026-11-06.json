@@ -263,5 +263,6 @@
     "latest_page": 21,
     "added": 1
   },
-  "post_count": 36
+  "post_count": 36,
+  "merge_note": "merged ours+theirs by id; local was superset"
 }

@@ -1,0 +1,71 @@
+{
+  "user_id": "3962719063",
+  "profile_url": "https://weibo.com/u/3962719063",
+  "window": "last-24h",
+  "source": "api+xhr",
+  "crawled_at_beijing": "2026年11月7日星期六 09:51:17",
+  "crawled_date": "2026-11-07",
+  "post_count": 5,
+  "posts": [
+    {
+      "id": "5362546785649351",
+      "mid": "5362546785649351",
+      "created_at": "2026-11-07T01:17:28.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rqf7UnHEz",
+      "text": "红果能爆火，我个人觉得除了AI水平越来越高以外，成功最主要的原因是：三观正",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 45,
+      "attitudes": 316
+    },
+    {
+      "id": "5362546540022088",
+      "mid": "5362546540022088",
+      "created_at": "2026-11-07T01:16:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rqf7w05Kg",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 10,
+      "comments": 6,
+      "attitudes": 84
+    },
+    {
+      "id": "5362545997120367",
+      "mid": "5362545997120367",
+      "created_at": "2026-11-07T01:14:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rqf6DtSkD",
+      "text": "大郎，该吃药了",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 10,
+      "attitudes": 64
+    },
+    {
+      "id": "5362545567467860",
+      "mid": "5362545567467860",
+      "created_at": "2026-11-07T01:12:37.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rqf5WvkJm",
+      "text": "水电仓位不多了，大部分止盈了",
+      "source": "微博网页版",
+      "reposts": 5,
+      "comments": 70,
+      "attitudes": 364
+    },
+    {
+      "id": "5362522746258550",
+      "mid": "5362522746258550",
+      "created_at": "2026-11-06T23:41:56.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rqev8qg8m",
+      "text": "美国身份政治随着民主党的大胜，再次回潮，只要身份标签独特，就可以成为政治明星，获选州长，参议员，刺激",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 10,
+      "comments": 38,
+      "attitudes": 431
+    }
+  ]
+}
