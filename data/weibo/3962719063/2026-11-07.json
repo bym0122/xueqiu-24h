@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月7日星期六 09:51:17",
+  "crawled_at_beijing": "2026年11月7日星期六 16:41:24",
   "crawled_date": "2026-11-07",
-  "post_count": 5,
+  "post_count": 15,
   "posts": [
     {
       "id": "5362546785649351",
@@ -66,6 +66,126 @@
       "reposts": 10,
       "comments": 38,
       "attitudes": 431
+    },
+    {
+      "id": "5362658396344052",
+      "mid": "5362658396344052",
+      "created_at": "2026-11-07T08:40:58.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rqi1VqCnq",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 0
+    },
+    {
+      "id": "5362658300920027",
+      "mid": "5362658300920027",
+      "created_at": "2026-11-07T08:40:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rqi1M3Rl9",
+      "text": "//@不得鸟:不得不说，中国的短剧真的很神奇！",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 1
+    },
+    {
+      "id": "5362657307659143",
+      "mid": "5362657307659143",
+      "created_at": "2026-11-07T08:36:38.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rqi0aw8uz",
+      "text": "一个非伊斯兰教地区，一旦开始伊斯兰教化，基本上就远离科学，进步了\n\n希望下一个伊斯兰化的地区是美国",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 24
+    },
+    {
+      "id": "5362655578819639",
+      "mid": "5362655578819639",
+      "created_at": "2026-11-07T08:29:46.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqhXnB0of",
+      "text": "月薪7000元，差不多20两白银，差不多是清朝贵州县官收入的四分之一，江浙沪县官的八分之一",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 2,
+      "attitudes": 78
+    },
+    {
+      "id": "5362646515449863",
+      "mid": "5362646515449863",
+      "created_at": "2026-11-07T07:53:44.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqhILmRL1",
+      "text": "今年住户贷款余额同比少了1.1万亿，可怜的银行，现在买房都不愿意用贷款了吗",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 45,
+      "attitudes": 203
+    },
+    {
+      "id": "5362638038501610",
+      "mid": "5362638038501610",
+      "created_at": "2026-11-07T07:20:04.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rqhv5zFEK",
+      "text": "回复@塞上花开:糟卤汁这种传统东西，我肯定早就在用了，鸡翅，白切鸡，五花肉，猪耳朵，猪肚，//@塞上花开:之前买过咸亨的糟卤汁，再试试公公推荐的",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 11,
+      "attitudes": 65
+    },
+    {
+      "id": "5362637085083053",
+      "mid": "5362637085083053",
+      "created_at": "2026-11-07T07:16:17.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqhtylkkJ",
+      "text": "回复@在战永恒:半天以上，2,3天内吃完//@在战永恒:泡多久？没说老舅",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 1,
+      "attitudes": 59
+    },
+    {
+      "id": "5362635302241803",
+      "mid": "5362635302241803",
+      "created_at": "2026-11-07T07:09:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqhqG9pc7",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 6,
+      "attitudes": 89
+    },
+    {
+      "id": "5362633348746571",
+      "mid": "5362633348746571",
+      "created_at": "2026-11-07T07:01:26.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqhnwAHnJ",
+      "text": "普通朋友，普通网友，路人的些许善良，良言，当然很好，但是不用当作瑰宝。\n身边人，家里人的善意，付出，良言则要当作瑰宝，并且还以善意，还以付出，还以暖言，这才是家庭幸福美满的基础",
+      "source": "微博网页版",
+      "reposts": 35,
+      "comments": 32,
+      "attitudes": 519
+    },
+    {
+      "id": "5362600363954266",
+      "mid": "5362600363954266",
+      "created_at": "2026-11-07T04:50:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqgwkgAGu",
+      "text": "回复@田富力穷:黑虎虾和明虾即可，大沼虾肉容易莓//@田富力穷:回复@清风如徐淡淡怡人:一般是沼虾",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 4,
+      "attitudes": 120
     }
   ]
 }
