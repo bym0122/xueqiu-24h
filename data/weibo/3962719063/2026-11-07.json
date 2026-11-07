@@ -5,7 +5,7 @@
   "source": "local-chromium",
   "crawled_at_beijing": "2026年11月7日星期六 17:54:09",
   "crawled_date": "2026-11-07",
-  "post_count": 15,
+  "post_count": 21,
   "posts": [
     {
       "id": "5362546785649351",
@@ -206,6 +206,78 @@
       "attitudes": 177,
       "pics": [],
       "page_url": null
+    },
+    {
+      "id": "5362646515449863",
+      "mid": "5362646515449863",
+      "created_at": "2026-11-07T07:53:44.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqhILmRL1",
+      "text": "今年住户贷款余额同比少了1.1万亿，可怜的银行，现在买房都不愿意用贷款了吗",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 45,
+      "attitudes": 203
+    },
+    {
+      "id": "5362638038501610",
+      "mid": "5362638038501610",
+      "created_at": "2026-11-07T07:20:04.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rqhv5zFEK",
+      "text": "回复@塞上花开:糟卤汁这种传统东西，我肯定早就在用了，鸡翅，白切鸡，五花肉，猪耳朵，猪肚，//@塞上花开:之前买过咸亨的糟卤汁，再试试公公推荐的",
+      "source": "微博网页版",
+      "reposts": 8,
+      "comments": 11,
+      "attitudes": 65
+    },
+    {
+      "id": "5362637085083053",
+      "mid": "5362637085083053",
+      "created_at": "2026-11-07T07:16:17.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqhtylkkJ",
+      "text": "回复@在战永恒:半天以上，2,3天内吃完//@在战永恒:泡多久？没说老舅",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 1,
+      "attitudes": 59
+    },
+    {
+      "id": "5362635302241803",
+      "mid": "5362635302241803",
+      "created_at": "2026-11-07T07:09:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqhqG9pc7",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 6,
+      "attitudes": 89
+    },
+    {
+      "id": "5362633348746571",
+      "mid": "5362633348746571",
+      "created_at": "2026-11-07T07:01:26.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqhnwAHnJ",
+      "text": "普通朋友，普通网友，路人的些许善良，良言，当然很好，但是不用当作瑰宝。\n身边人，家里人的善意，付出，良言则要当作瑰宝，并且还以善意，还以付出，还以暖言，这才是家庭幸福美满的基础",
+      "source": "微博网页版",
+      "reposts": 35,
+      "comments": 32,
+      "attitudes": 519
+    },
+    {
+      "id": "5362600363954266",
+      "mid": "5362600363954266",
+      "created_at": "2026-11-07T04:50:22.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqgwkgAGu",
+      "text": "回复@田富力穷:黑虎虾和明虾即可，大沼虾肉容易莓//@田富力穷:回复@清风如徐淡淡怡人:一般是沼虾",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 4,
+      "attitudes": 120
     }
   ]
 }
