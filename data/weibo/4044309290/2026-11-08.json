@@ -2,8 +2,8 @@
   "user_id": "4044309290",
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
-  "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月8日星期日 15:15:08",
+  "source": "local-chromium",
+  "crawled_at_beijing": "2026年11月8日星期日 16:30:00",
   "crawled_date": "2026-11-08",
   "post_count": 0,
   "posts": []

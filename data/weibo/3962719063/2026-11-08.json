@@ -2,10 +2,10 @@
   "user_id": "3962719063",
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
-  "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月8日星期日 15:14:52",
+  "source": "local-chromium",
+  "crawled_at_beijing": "2026年11月8日星期日 16:29:59",
   "crawled_date": "2026-11-08",
-  "post_count": 13,
+  "post_count": 16,
   "posts": [
     {
       "id": "5362866293047969",
@@ -186,6 +186,48 @@
       "reposts": 36,
       "comments": 85,
       "attitudes": 414,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363016309673220",
+      "mid": "5363016309673220",
+      "created_at": "2026-11-08T08:23:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqrlcEArG",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 26,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363015912522531",
+      "mid": "5363015912522531",
+      "created_at": "2026-11-08T08:21:35.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqrkzaAdZ",
+      "text": "转发微博",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 1,
+      "attitudes": 18,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363005961538368",
+      "mid": "5363005961538368",
+      "created_at": "2026-11-08T07:42:04.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rqr4w6sco",
+      "text": "回复@情如止水5611795416:你这种还好，杭州可以查3倍//@情如止水5611795416:我家02年老小区，现在房价6000，马路对面明年新盖的楼盘。大概1.2万，没办法，我们老小区，没固定车位，地下停车位更别说了，也没啥绿化，下水道都有老化的风险，即时这样，新小区的溢价还是太多了",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 9,
+      "attitudes": 47,
       "pics": [],
       "page_url": null
     }
