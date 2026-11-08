@@ -2,10 +2,10 @@
   "user_id": "4044309290",
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
-  "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月8日星期日 21:09:51",
+  "source": "api+xhr",
+  "crawled_at_beijing": "2026年11月8日星期日 23:04:49",
   "crawled_date": "2026-11-08",
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
     {
       "id": "5363023782873219",
@@ -20,6 +20,18 @@
       "attitudes": 4,
       "pics": [],
       "page_url": null
+    },
+    {
+      "id": "5363103525247824",
+      "mid": "5363103525247824",
+      "created_at": "2026-11-08T14:09:45.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RqtBSm1ck",
+      "text": "#蓉城丢冠震惊中外#\n查一查赌球的？",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 5
     }
   ]
 }
