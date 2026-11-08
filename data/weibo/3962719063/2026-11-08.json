@@ -3,8 +3,69 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月8日星期日 04:11:16",
+  "crawled_at_beijing": "2026年11月8日星期日 08:29:32",
   "crawled_date": "2026-11-08",
-  "post_count": 0,
-  "posts": []
+  "post_count": 5,
+  "posts": [
+    {
+      "id": "5362880451969409",
+      "mid": "5362880451969409",
+      "created_at": "2026-11-07T23:23:19.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqnO58gkF",
+      "text": "//@专业戳轮胎熊律师:笑了//@史老柒:哈哈哈哈哈 //@唯有自由i:艹 //@Mourinholic:这场辩论赛，坐在他右边的四辩队友是周玄毅",
+      "source": "微博网页版",
+      "reposts": 17,
+      "comments": 7,
+      "attitudes": 65
+    },
+    {
+      "id": "5362872425382247",
+      "mid": "5362872425382247",
+      "created_at": "2026-11-07T22:51:26.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/RqnB8mAar",
+      "text": "台湾特斯拉女车主，把油门踩断，这个是真实应用场景中发生的，但是你看，有没有形成舆论？？有没有大批所谓追求汽车安全的各行人士跳出来？？？\n\n就是一帮拿着美日经费的汉奸走狗，带着一票被洗脑的恨国党，不断放大国内产品问题，完全无视美日欧产品的问题，这些不是智商问题，而是立场问题，是阶级问 ...全文",
+      "source": "微博网页版",
+      "reposts": 47,
+      "comments": 79,
+      "attitudes": 602
+    },
+    {
+      "id": "5362869412824569",
+      "mid": "5362869412824569",
+      "created_at": "2026-11-07T22:39:28.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqnwhbQNz",
+      "text": "大部分女性的核心利益是家庭，而不是国族",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 4,
+      "attitudes": 79
+    },
+    {
+      "id": "5362869097989370",
+      "mid": "5362869097989370",
+      "created_at": "2026-11-07T22:38:13.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqnvLxwoO",
+      "text": "市场长期：预判，预判你的预判，预判你的提前预判\n终有一天会被反噬",
+      "source": "微博网页版",
+      "reposts": 16,
+      "comments": 19,
+      "attitudes": 314
+    },
+    {
+      "id": "5362866293047969",
+      "mid": "5362866293047969",
+      "created_at": "2026-11-07T22:27:04.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqnrfcMUN",
+      "text": "塑料，原油，铜铝，到处都是弱预期，强现实",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 21,
+      "comments": 44,
+      "attitudes": 408
+    }
+  ]
 }
