@@ -3,8 +3,23 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月8日星期日 16:30:00",
+  "crawled_at_beijing": "2026年11月8日星期日 21:09:51",
   "crawled_date": "2026-11-08",
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5363023782873219",
+      "mid": "5363023782873219",
+      "created_at": "2026-11-08T08:52:53.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rqrxgc3sf",
+      "text": "#成都球迷#\n当大家不再关注国足和国际足球，那还是对足球很热情的。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 4,
+      "pics": [],
+      "page_url": null
+    }
+  ]
 }
