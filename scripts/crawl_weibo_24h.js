@@ -131,6 +131,7 @@ function extractPostsFromJson(j) {
 
   let posts = [];
   let freshSource = "none";
+  let harvestedCount = 0;
 
   try {
     console.log("Seeding m.weibo.cn home...");
@@ -247,8 +248,70 @@ function extractPostsFromJson(j) {
       );
       if (batch.length === 0) break;
       if (oldest !== Infinity && oldest < cutoff) break;
-      if (!sinceId && pageNo > 1) break;
+      // 匿名账号翻到第 2 页会被要求登录（ok=-100），上面的 batch.length===0 会 break。
+      // 注意：这里不要 `if (!sinceId && pageNo > 1) break;` —— 有些部署只在
+      // 下一页才给 since_id，提前 break 会漏掉第二页。
       await page.waitForTimeout(500);
+    }
+
+    // 兜底：page=1 只给最新 10 条，往下翻要登录。试试用「本页最旧一条的 id」
+    // 当 since_id 再打一次 page=1（部分部署支持这种游标式翻页）。
+    // 不支持就第一轮就拿到 ok!=1，立即退出，代价只有 1 个请求。
+    try {
+      const seenIds = new Set(harvested.map((p) => String(p.id)));
+      let cursor = null;
+      for (const p of harvested) {
+        const ms = parseWeiboTime(p.created_at);
+        if (ms !== null && (cursor === null || ms < cursor)) cursor = ms;
+      }
+      if (cursor !== null) {
+        const oldestPost = harvested
+          .filter((p) => parseWeiboTime(p.created_at) === cursor)
+          .sort((a, b) => Number(a.id) - Number(b.id))[0];
+        let sid = oldestPost ? oldestPost.id : null;
+        for (let round = 1; sid && round <= 6; round++) {
+          const url = `${API_BASE}&page=1&since_id=${encodeURIComponent(sid)}`;
+          const resp = await context.request.get(url, {
+            headers: {
+              Referer: PROFILE_URL,
+              "X-Requested-With": "XMLHttpRequest",
+              Accept: "application/json, text/plain, */*",
+              "MWeibo-Pwa": "1",
+              "X-XSRF-TOKEN":
+                (await context.cookies()).find((c) => c.name === "XSRF-TOKEN")
+                  ?.value || "",
+            },
+            timeout: 30000,
+          });
+          const text = await resp.text();
+          let j;
+          try {
+            j = JSON.parse(text);
+          } catch (_) {
+            break;
+          }
+          if (!j || j.ok !== 1) {
+            console.log(`[api] since_id 游标第 ${round} 轮被挡 ok=${j && j.ok}`);
+            break;
+          }
+          const batch = extractPostsFromJson(j);
+          const fresh = batch.filter((p) => !seenIds.has(String(p.id)));
+          if (!fresh.length) break;
+          for (const p of fresh) {
+            seenIds.add(String(p.id));
+            harvested.push(p);
+          }
+          console.log(`[api] since_id 游标第 ${round} 轮 +${fresh.length} 条`);
+          const times = fresh
+            .map((p) => parseWeiboTime(p.created_at))
+            .filter((t) => t !== null);
+          sid = fresh[fresh.length - 1].id;
+          if (times.length && Math.min(...times) < cutoff) break;
+          await page.waitForTimeout(400);
+        }
+      }
+    } catch (e) {
+      console.warn("[api] since_id 游标兜底失败:", e.message);
     }
 
     const map = new Map();
@@ -256,6 +319,7 @@ function extractPostsFromJson(j) {
       if (!map.has(p.id)) map.set(p.id, p);
     }
     const all = [...map.values()];
+    harvestedCount = all.length;
     const withTs = all.filter((p) => /^\d{4}-/.test(String(p.created_at)));
     if (withTs.length) {
       posts = withTs.filter(
@@ -304,6 +368,11 @@ function extractPostsFromJson(j) {
       source: freshSource,
       crawled_at_beijing: stamp.time,
       crawled_date: stamp.date,
+      // harvested = 本次从接口实际拿到几条（去重后）；in24h = 落在 24h 窗口内的条数。
+      // 两个数都写进文件，才能分清「他今天真没发」和「被登录墙/限流挡了」。
+      harvested: harvestedCount,
+      in24h: posts.length,
+      login_wall: harvestedCount === 0 && freshSource === "none",
       post_count: newPosts.length,
       posts: newPosts,
     };
@@ -322,9 +391,15 @@ function extractPostsFromJson(j) {
     }
     fs.writeFileSync(outputFile, JSON.stringify(mergedFile, null, 2), "utf8");
     console.log(
-      `Posts: source=${freshSource} captured=${posts.length} new=${newPosts.length}.`
+      `Posts: source=${freshSource} harvested=${harvestedCount} captured=${posts.length} new=${newPosts.length}.`
     );
     console.log(`Saved to: ${outputFile}`);
     await browser.close();
+    // 一条都没抓到 = 被登录墙/限流挡了，不是「他今天没发」。用退出码让 Actions 变红，
+    // 免得日志里一片绿、数据却是空的。
+    if (harvestedCount === 0) {
+      console.error("WARNING: harvested 0 posts — 大概率被登录墙挡了，不是作者没发帖。");
+      process.exitCode = 2;
+    }
   }
 })();

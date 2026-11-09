@@ -4,6 +4,20 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "415938415",
+      "created_at": "2026-11-06T15:48:21.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/415938415",
+      "text": "回复@逍遥股民老李: 我今晚上遛弯看见路边有个中年妇女带着一个穿校服的女孩子扒垃圾桶…… 我不确定她们是为了捡破烂赚钱还是找东西//@逍遥股民老李:回复@斯托伯的天空:今年是太难了，楼下的垃圾桶，每天都有好多人翻"
+    },
+    {
+      "id": "415933946",
+      "created_at": "2026-11-06T14:56:02.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/415933946",
+      "text": "川普全力支持AI快速发展，那民主D就是持续打压AI快速发展，因为反川是正确。 等民主D真上台了，可能反而不会打压了。"
+    },
+    {
       "id": "415906569",
       "created_at": "2026-11-06T10:34:26.000Z",
       "kind": "status",
@@ -256,13 +270,14 @@
       "text": "回复@小u梨_: 大手：我从来没说过，我只是提示风险。 后面黄金也和外股一样限制购买，每人每年5克，实名制。//@小u梨_:回复@斯托伯的天空:推荐买的都好坑，比如房子，不推荐买的都涨的很好，比如黄金和纳指"
     }
   ],
-  "crawled_at_beijing": "2026年11月6日星期五 19:03:40",
+  "crawled_at_beijing": "2026年11月9日星期一 10:17:43",
   "crawled_date": "2026-11-06",
   "deep": {
     "original_pages": 1,
     "latest_page": 21,
     "added": 1
   },
-  "post_count": 36,
-  "merge_note": "merged ours+theirs by id; local was superset"
+  "post_count": 38,
+  "merge_note": "merged ours+theirs by id; local was superset",
+  "source": "termux+backfill"
 }
