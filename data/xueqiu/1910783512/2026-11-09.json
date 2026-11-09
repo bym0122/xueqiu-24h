@@ -3,11 +3,18 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "termux+xq",
-  "crawled_at_beijing": "2026年11月9日星期一 10:41:41",
+  "crawled_at_beijing": "2026年11月9日星期一 11:12:40",
   "crawled_date": "2026-11-09",
   "pages_fetched": 1,
-  "post_count": 24,
+  "post_count": 25,
   "posts": [
+    {
+      "id": "416092267",
+      "created_at": "2026-11-09T02:57:02.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/416092267",
+      "text": "回复@复利长持: 家境A10及以上，要传承财富的，或家境普通，书读的好，英语好的年轻人可以，美国也不错。//@复利长持:回复@看好股市的新人:老师加拿大和澳洲的福利好，普通人能有机会出去应该更合适吧？"
+    },
     {
       "id": "416064122",
       "created_at": "2026-11-09T01:13:19.000Z",
@@ -180,6 +187,6 @@
   "deep": {
     "original_pages": 1,
     "latest_page": 20,
-    "added": 0
+    "added": 1
   }
 }
