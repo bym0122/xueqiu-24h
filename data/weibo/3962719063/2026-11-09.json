@@ -3,7 +3,7 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月9日星期一 10:23:01",
+  "crawled_at_beijing": "2026年11月9日星期一 10:32:25",
   "crawled_date": "2026-11-09",
   "post_count": 10,
   "posts": [
@@ -127,5 +127,8 @@
       "comments": 11,
       "attitudes": 105
     }
-  ]
+  ],
+  "harvested": 10,
+  "in24h": 10,
+  "login_wall": false
 }
