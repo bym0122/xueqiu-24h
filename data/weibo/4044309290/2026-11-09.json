@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月9日星期一 19:10:48",
+  "crawled_at_beijing": "2026年11月9日星期一 19:44:07",
   "crawled_date": "2026-11-09",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
     {
       "id": "5363300294461098",
@@ -47,9 +47,23 @@
       "reposts": 2,
       "comments": 5,
       "attitudes": 21
+    },
+    {
+      "id": "5363427520284041",
+      "mid": "5363427520284041",
+      "created_at": "2026-11-09T11:37:11.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RqC2s1bTj",
+      "text": "#太原一建筑火灾已致14死#\n那些人的呼救太绝望了，一直在耳边环绕。\n据说是因为消防通道被堵了大家逃不出去，但具体什么原因等调查清楚了才知道。\n这种写字楼经常是各种小公司扎堆，每个办公室一堆人一堆材料，火灾风险很大。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 2,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%BB%BA%E7%AD%91%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B414%E6%AD%BB%23&extparam=%23%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%BB%BA%E7%AD%91%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B414%E6%AD%BB%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ],
   "harvested": 12,
-  "in24h": 4,
+  "in24h": 5,
   "login_wall": false
 }
