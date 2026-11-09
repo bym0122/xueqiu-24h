@@ -3,11 +3,18 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "termux+backfill",
-  "crawled_at_beijing": "2026年11月9日星期一 18:15:39",
+  "crawled_at_beijing": "2026年11月9日星期一 19:11:04",
   "crawled_date": "2026-11-09",
   "pages_fetched": 1,
-  "post_count": 31,
+  "post_count": 32,
   "posts": [
+    {
+      "id": "416156426",
+      "created_at": "2026-11-09T10:35:03.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/416156426",
+      "text": "回复@独自旅行-: 我还没见过一个因为出去“商务应酬”被企业开除的。//@独自旅行-:回复@斯托伯的天空:应酬如果被抓会被公司开除吗"
+    },
     {
       "id": "416153791",
       "created_at": "2026-11-09T10:03:46.000Z",
@@ -229,6 +236,6 @@
   "deep": {
     "original_pages": 1,
     "latest_page": 21,
-    "added": 2
+    "added": 1
   }
 }
