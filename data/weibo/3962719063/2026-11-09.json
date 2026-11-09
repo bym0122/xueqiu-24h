@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月9日星期一 12:07:21",
+  "crawled_at_beijing": "2026年11月9日星期一 12:43:46",
   "crawled_date": "2026-11-09",
-  "post_count": 10,
+  "post_count": 13,
   "posts": [
     {
       "id": "5363280555541307",
@@ -126,6 +126,50 @@
       "reposts": 3,
       "comments": 11,
       "attitudes": 105
+    },
+    {
+      "id": "5363322780389133",
+      "mid": "5363322780389133",
+      "created_at": "2026-11-09T04:40:59.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rqzjw1Del",
+      "text": "不傻，是善良//@飞扬aaaaa:老舅，今早把女儿同学撞到了，擦伤淤青没有骨折，对方妈妈只要100块校服赔偿，我主动给了500块是不是很傻啊？//@挖地瓜的超级鹿鼎公:回复@幸运翡翠wfyan:诱惑很多，实在没有诱惑力//@幸运翡翠wfyan:公公面对过足够大的诱惑吗",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 11,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363322401589605",
+      "mid": "5363322401589605",
+      "created_at": "2026-11-09T04:39:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqziU6FwN",
+      "text": "回复@龙降祥云:富婆诱惑不了，纯洁富豪少女出马，还一片痴心，挖心挖肺的非卿不嫁，还带两亿嫁妆供你创业，还愿意给你生三个五个，我就不信你还能忠诚。当然如果不是祖坟青烟滚滚，一般来说这种傻妞也看不上你//@龙降祥云:让巨大的富婆来诱惑我吧",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 9,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363320188046042",
+      "mid": "5363320188046042",
+      "created_at": "2026-11-09T04:30:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqzfkxL8S",
+      "text": "现货大涨180元",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 2,
+      "comments": 14,
+      "attitudes": 125,
+      "pics": [
+        "https://wx2.sinaimg.cn/mw2000/ec324b57gy1iivtxetaz2j210k26o4ec.jpg"
+      ],
+      "page_url": null
     }
   ],
   "harvested": 10,
