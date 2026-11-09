@@ -3,11 +3,18 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "termux+xq",
-  "crawled_at_beijing": "2026年11月9日星期一 14:12:16",
+  "crawled_at_beijing": "2026年11月9日星期一 14:29:31",
   "crawled_date": "2026-11-09",
   "pages_fetched": 1,
-  "post_count": 36,
+  "post_count": 37,
   "posts": [
+    {
+      "id": "416121908",
+      "created_at": "2026-11-09T06:18:10.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/416121908",
+      "text": "回复@商都小散: 消费数据，不能看环比，因为有季节性和节假日因素，还是要看同比。//@商都小散:回复@看好股市的新人:越到年底销量本应越高，环比仅增长 3.2 万台，乘用车市场还会继续走低，明后年困难局面等着呢"
+    },
     {
       "id": "416120535",
       "created_at": "2026-11-09T06:09:42.000Z",
@@ -264,6 +271,6 @@
   "deep": {
     "original_pages": 1,
     "latest_page": 18,
-    "added": 5
+    "added": 1
   }
 }
