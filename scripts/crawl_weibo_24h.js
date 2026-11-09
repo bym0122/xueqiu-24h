@@ -386,6 +386,10 @@ function extractPostsFromJson(j) {
         prev.post_count = (prev.posts || []).length;
         prev.crawled_at_beijing = stamp.time;
         prev.source = freshSource;
+        // 诊断字段也要一并更新，否则合并到旧文件时永远缺这几个值。
+        prev.harvested = harvestedCount;
+        prev.in24h = posts.length;
+        prev.login_wall = harvestedCount === 0 && freshSource === "none";
         mergedFile = prev;
       } catch (_) {}
     }
