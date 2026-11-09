@@ -27,7 +27,7 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 const UA =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
-const PROFILE = path.join(os.tmpdir(), "xq-profile");
+const PROFILE = path.join(os.tmpdir(), "xq-profile-" + process.pid);
 const PORT = 9600 + (process.pid % 300);
 
 const argv = process.argv.slice(2);
@@ -95,7 +95,10 @@ function normalize(it, uid) {
     { stdio: "ignore", detached: true },
   );
   proc.unref();
-  const killAll = () => { try { process.kill(-proc.pid, "SIGKILL"); } catch {} };
+  const killAll = () => {
+    try { process.kill(-proc.pid, "SIGKILL"); } catch {}
+    try { fs.rmSync(PROFILE, { recursive: true, force: true }); } catch {}
+  };
   const guard = setTimeout(() => { killAll(); process.exit(1); }, 300000);
   guard.unref();
 

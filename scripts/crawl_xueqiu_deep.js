@@ -24,7 +24,9 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 const UA =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
-const PROFILE = path.join(os.tmpdir(), "xq-profile");
+// 每次跑用独立的 profile：复用同一个目录会把上一轮的 WAF 挑战 cookie 带过来，
+// 结果就是「一直撞验证页」。preflight 用独立 profile 就次次 OK，问题就出在这。
+const PROFILE = path.join(os.tmpdir(), "xq-profile-" + process.pid);
 const PORT = 9600 + (process.pid % 300);
 
 const argv = process.argv.slice(2);
@@ -84,7 +86,10 @@ function normalize(it, uid) {
     { stdio: "ignore", detached: true },
   );
   proc.unref();
-  const killAll = () => { try { process.kill(-proc.pid, "SIGKILL"); } catch {} };
+  const killAll = () => {
+    try { process.kill(-proc.pid, "SIGKILL"); } catch {}
+    try { fs.rmSync(PROFILE, { recursive: true, force: true }); } catch {}
+  };
   const guard = setTimeout(() => { killAll(); process.exit(1); }, 240000);
   guard.unref();
 
