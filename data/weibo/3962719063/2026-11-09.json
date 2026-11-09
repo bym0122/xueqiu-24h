@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月9日星期一 12:43:46",
+  "crawled_at_beijing": "2026年11月9日星期一 13:09:04",
   "crawled_date": "2026-11-09",
-  "post_count": 13,
+  "post_count": 16,
   "posts": [
     {
       "id": "5363280555541307",
@@ -168,6 +168,50 @@
       "attitudes": 125,
       "pics": [
         "https://wx2.sinaimg.cn/mw2000/ec324b57gy1iivtxetaz2j210k26o4ec.jpg"
+      ],
+      "page_url": null
+    },
+    {
+      "id": "5363329751319592",
+      "mid": "5363329751319592",
+      "created_at": "2026-11-09T05:08:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqzuL5xhK",
+      "text": "10月，中国CPI同比0.7%，前值0.9%;中国PPI同比5.7%，有意思的数据",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 6,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363329285489721",
+      "mid": "5363329285489721",
+      "created_at": "2026-11-09T05:06:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rqzu0n27T",
+      "text": "这个男性声音唱歌真的好迷人，",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 1,
+      "attitudes": 5,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363326177771987",
+      "mid": "5363326177771987",
+      "created_at": "2026-11-09T04:54:29.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqzoZwBQD",
+      "text": "虽然有几张照片不好看，但是这张确实很像红果里的女主建模，又是大长腿，虽然不知道学历，但是看工作也应该是名校高材生，加上年轻，大概率崇拜老黄，确实很容易吸引老黄",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 18,
+      "attitudes": 100,
+      "pics": [
+        "https://wx4.sinaimg.cn/mw2000/ec324b57ly1iivuu2zyp7j20ir0cz457.jpg"
       ],
       "page_url": null
     }
