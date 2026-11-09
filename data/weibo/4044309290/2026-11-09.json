@@ -3,8 +3,33 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "api+xhr",
-  "crawled_at_beijing": "2026年11月9日星期一 07:41:25",
+  "crawled_at_beijing": "2026年11月9日星期一 10:15:46",
   "crawled_date": "2026-11-09",
-  "post_count": 0,
-  "posts": []
+  "post_count": 2,
+  "posts": [
+    {
+      "id": "5363271976618933",
+      "mid": "5363271976618933",
+      "created_at": "2026-11-09T01:19:07.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RqxZzrLSZ",
+      "text": "#32岁男子赴泰失联俩孩子还在读小学#\n所以，这些人到底是以什么形式被骗的？\n我也听说有人要去缅北做生意的，怎么劝都劝不住，到底是多大的利益在诱惑他们？\n还有泰国对这地方对中国人犯罪如此普遍，为何还有这么多人络绎不绝的去？",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 5
+    },
+    {
+      "id": "5363258592592634",
+      "mid": "5363258592592634",
+      "created_at": "2026-11-09T00:25:55.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/RqxDZaSsG",
+      "text": "#黄仁勋承认出轨#\n黄仁勋的“深情丈夫”人设，在一份美国政府备忘录面前，碎得比英伟达股价还快。\n \n《金融时报》捅出的这份备忘录直指一个极具讽刺意味的事实：美国政府认为，这位已婚的AI芯片霸主，与新加坡数据中心公司Megaspeed的高管黄乐（Alice Huang）有过恋爱关系——而美国情报界认定，黄乐是 ...全文",
+      "source": "iPhone 16",
+      "reposts": 2,
+      "comments": 5,
+      "attitudes": 21
+    }
+  ]
 }
