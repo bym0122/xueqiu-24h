@@ -2,14 +2,17 @@ name: Weibo 24h Fetch
 
 on:
   workflow_dispatch:
-  schedule:
-    # 每小时一次（UTC :05，即北京 :05）。
-    #
-    # 注意：匿名只能拿到「最新 10 条」，第 2 页就会返回 ok=-100（要登录），
-    # 所以每次 run 的覆盖上限就是 10 条。GitHub 对 schedule 会降频，
-    # 实测实际间隔 4–8 小时；作者一天发 20–70 条，因此仍可能漏掉少量中间帖子。
-    # 这也是为什么脚本要在文件里写 harvested / in24h，用来区分「没发」和「被挡」。
-    - cron: "5 * * * *"
+  # ⚠️ schedule 已停用（2026-11-09）：微博改由本机 cron 抓（scripts/xq24-tick.sh）。
+  #
+  # 原因有两条：
+  #   1) GH 会把 schedule 降频到 4–8 小时一次，而匿名接口每次只回最新 10 条，
+  #      间隔越长中间漏得越多；
+  #   2) 本机和 GH 同时写同一批 JSON，会撞成 merge 冲突（11-09 11:17 实测撞了两次）。
+  #
+  # 本机路径已实测可用（chromium + visitor cookie），见 xq24-tick.sh 里的注释。
+  # 这个 workflow 保留，作为「手机挂了/抓不动」时的手动备用：workflow_dispatch 触发即可。
+  # schedule:
+  #   - cron: "5 * * * *"
 
 permissions:
   contents: write

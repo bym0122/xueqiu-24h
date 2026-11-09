@@ -217,6 +217,11 @@ function extractPosts(j, uid) {
         source: "local-chromium",
         crawled_at_beijing: stamp.time,
         crawled_date: stamp.date,
+        // 与 GH 版保持一致：harvested = 本次接口实际回了几条（去重前），
+        // in24h = 落在 24h 窗口内的条数。用来区分「没发帖」和「被挡」。
+        harvested: batch.length,
+        in24h: posts.length,
+        login_wall: batch.length === 0,
         post_count: newPosts.length,
         posts: newPosts,
       };
@@ -229,6 +234,9 @@ function extractPosts(j, uid) {
           prev.post_count = (prev.posts || []).length;
           prev.crawled_at_beijing = stamp.time;
           prev.source = "local-chromium";
+          prev.harvested = batch.length;
+          prev.in24h = posts.length;
+          prev.login_wall = batch.length === 0;
           merged = prev;
         } catch {}
       }
