@@ -122,9 +122,10 @@ function normalize(it, uid) {
     await client.close(); killAll(); process.exit(1);
   }
 
-  const cutoff = Date.now() - WINDOW_MS;
   const today = bjDate();
   let totalAdded = 0;
+
+  const cutoff = Date.now() - WINDOW_MS;
 
   for (const uid of targets) {
     const file = path.join(REPO, "data/xueqiu", uid, `${today}.json`);
