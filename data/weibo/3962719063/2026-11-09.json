@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月9日星期一 18:15:34",
+  "crawled_at_beijing": "2026年11月9日星期一 18:42:56",
   "crawled_date": "2026-11-09",
-  "post_count": 23,
+  "post_count": 25,
   "posts": [
     {
       "id": "5363280555541307",
@@ -310,6 +310,34 @@
       "reposts": 4,
       "comments": 17,
       "attitudes": 265,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363412235717376",
+      "mid": "5363412235717376",
+      "created_at": "2026-11-09T10:36:27.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqBDNnZlK",
+      "text": "你家没有大别墅，没有兰博基尼，没有劳斯莱斯，没有海洋之星，没有三个厨师八个阿姨，消费潜力也是很大的//@独立追随者:老舅，您感觉这场战争快结束了吗，战后重建拉动经济不容小视",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 31,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363408314828166",
+      "mid": "5363408314828166",
+      "created_at": "2026-11-09T10:20:52.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqBxtkg1E",
+      "text": "乌克兰基辅州已经全面停电，停水，停电梯，停地铁，除了少部分由柴油发电机保障的区域，其他公共设施已经基本上停电了",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 24,
+      "attitudes": 107,
       "pics": [],
       "page_url": null
     }
