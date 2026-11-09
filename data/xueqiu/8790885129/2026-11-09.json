@@ -3,9 +3,14 @@
   "profile_url": "https://xueqiu.com/u/8790885129",
   "window": "last-24h",
   "source": "termux+xq",
-  "crawled_at_beijing": "2026年11月9日星期一 10:03:00",
+  "crawled_at_beijing": "2026年11月9日星期一 10:12:06",
   "crawled_date": "2026-11-09",
-  "pages_fetched": 0,
+  "pages_fetched": 1,
   "post_count": 0,
-  "posts": []
+  "posts": [],
+  "deep": {
+    "original_pages": 1,
+    "latest_page": 19,
+    "added": 0
+  }
 }
