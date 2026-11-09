@@ -3,11 +3,18 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "termux+backfill",
-  "crawled_at_beijing": "2026年11月9日星期一 19:11:04",
+  "crawled_at_beijing": "2026年11月9日星期一 19:58:01",
   "crawled_date": "2026-11-09",
   "pages_fetched": 1,
-  "post_count": 32,
+  "post_count": 33,
   "posts": [
+    {
+      "id": "416161154",
+      "created_at": "2026-11-09T11:28:01.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/416161154",
+      "text": "写完了，自取。今天手冻的打字越来越慢（开着窗户），让我想起小时候寒冬腊月在教室坐着考试的场景，写那个作文都使不上劲儿，必须隔一会儿搓一下手才能继续写。四川这种湿冷天气，过去对学习的抑制作用还是很明显的。$标普油气ETF嘉实(SZ159518)$ $英伟达(NVDA)$ $中国海洋石油(00883)$"
+    },
     {
       "id": "416156426",
       "created_at": "2026-11-09T10:35:03.000Z",
