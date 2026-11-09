@@ -3,11 +3,18 @@
   "profile_url": "https://xueqiu.com/u/1910783512",
   "window": "last-24h",
   "source": "termux+xq",
-  "crawled_at_beijing": "2026年11月9日星期一 11:12:40",
+  "crawled_at_beijing": "2026年11月9日星期一 12:07:40",
   "crawled_date": "2026-11-09",
   "pages_fetched": 1,
-  "post_count": 25,
+  "post_count": 26,
   "posts": [
+    {
+      "id": "416103868",
+      "created_at": "2026-11-09T03:59:51.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/416103868",
+      "text": "站到老黄这个高度，要守身如玉，挺难的。"
+    },
     {
       "id": "416092267",
       "created_at": "2026-11-09T02:57:02.000Z",

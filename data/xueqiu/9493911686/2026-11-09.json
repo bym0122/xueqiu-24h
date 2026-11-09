@@ -3,11 +3,18 @@
   "profile_url": "https://xueqiu.com/u/9493911686",
   "window": "last-24h",
   "source": "termux+backfill",
-  "crawled_at_beijing": "2026年11月9日星期一 11:12:39",
+  "crawled_at_beijing": "2026年11月9日星期一 12:07:39",
   "crawled_date": "2026-11-09",
   "pages_fetched": 1,
-  "post_count": 21,
+  "post_count": 22,
   "posts": [
+    {
+      "id": "416097785",
+      "created_at": "2026-11-09T03:20:15.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/416097785",
+      "text": "回复@远驰bt3: 很有深度的作品，编得好，拍得好，演得好。//@远驰bt3:回复@斯托伯的天空:14年看过真探 ，当时没看懂，前段时间又看了一次，剧情是以破案为背景来探讨哲学的，很有深度"
+    },
     {
       "id": "416091364",
       "created_at": "2026-11-09T02:53:30.000Z",
