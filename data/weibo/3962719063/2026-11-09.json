@@ -3,9 +3,9 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月9日星期一 20:12:31",
+  "crawled_at_beijing": "2026年11月9日星期一 20:38:52",
   "crawled_date": "2026-11-09",
-  "post_count": 32,
+  "post_count": 35,
   "posts": [
     {
       "id": "5363280555541307",
@@ -436,6 +436,48 @@
       "reposts": 0,
       "comments": 1,
       "attitudes": 24,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363439389377015",
+      "mid": "5363439389377015",
+      "created_at": "2026-11-09T12:24:20.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqClADlob",
+      "text": "转发微博",
+      "source": "微博搜索",
+      "reposts": 1,
+      "comments": 6,
+      "attitudes": 19,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363437841684348",
+      "mid": "5363437841684348",
+      "created_at": "2026-11-09T12:18:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqCj674aU",
+      "text": "回复@怎么才能回本:我也不认识//@怎么才能回本:贾文革是谁？//@挖地瓜的超级鹿鼎公:回复@银色飞行器M-216:这些都平常手段，狠的不敢说，怕被人说，保证比贾文和更毒，更狠//@银色飞行器M-216:太狠了",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 12,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363437364578499",
+      "mid": "5363437364578499",
+      "created_at": "2026-11-09T12:16:18.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqCikjd4L",
+      "text": "回复@贾拉拉巴德滴大神:不不不，我希望俄罗斯占优，但是又打不穿乌克兰//@贾拉拉巴德滴大神:公公又开心了",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 4,
+      "attitudes": 29,
       "pics": [],
       "page_url": null
     }
