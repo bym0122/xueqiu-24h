@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月10日星期二 15:03:22",
+  "crawled_at_beijing": "2026年11月10日星期二 16:42:14",
   "crawled_date": "2026-11-10",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 20,
+  "post_count": 23,
   "posts": [
     {
       "id": "5363621007721811",
@@ -287,6 +287,48 @@
       "reposts": 0,
       "comments": 96,
       "attitudes": 118,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363739251711974",
+      "mid": "5363739251711974",
+      "created_at": "2026-11-10T08:15:54.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RqK9f7bmu",
+      "text": "对印度铝型材出口量一年也就2.3万吨//@二零二六否极泰来:图片评论 评论配图",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 3,
+      "comments": 25,
+      "attitudes": 97,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363726532479712",
+      "mid": "5363726532479712",
+      "created_at": "2026-11-10T07:25:21.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqJOJap5m",
+      "text": "男人有钱的时候，考验的是自己的人品\n男人没钱的时候，考验的是自己女人的人品",
+      "source": "微博网页版",
+      "reposts": 16,
+      "comments": 60,
+      "attitudes": 504,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5363722232008470",
+      "mid": "5363722232008470",
+      "created_at": "2026-11-10T07:08:16.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqJHN8quG",
+      "text": "印度本身就是电解铝生产大国，中国出口印度的电解铝也就40万吨左右，主要还是铝箔这种高技术产品，（医药包装），印度对华反倾销制裁又不是今天才有，都是21那边旧案到期，又延长了5年，即便有制裁，中国对印铝制品出口照样有40万吨一年。\n\n期货资金今天借着印度对华反倾销旧案，往下杀，有点过头了吧",
+      "source": "微博网页版",
+      "reposts": 24,
+      "comments": 140,
+      "attitudes": 873,
       "pics": [],
       "page_url": null
     }
