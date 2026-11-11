@@ -4,6 +4,13 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "416411070",
+      "created_at": "2026-11-11T05:37:29.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/416411070",
+      "text": "回复@小u梨_: 关键是你愿意听父母的或者你没法改变他们的想法，这种就极难改变了。//@小u梨_:回复@斯托伯的天空:我家就是这样，我对象卡我爸妈那里了"
+    },
+    {
       "id": "416402719",
       "created_at": "2026-11-11T04:42:56.000Z",
       "kind": "retweet",
@@ -263,12 +270,12 @@
       "text": "嬢嬢些挤闷了……非常难找的破街区，一大堆慕名而来的食客。"
     }
   ],
-  "crawled_at_beijing": "2026年11月11日星期三 13:17:26",
+  "crawled_at_beijing": "2026年11月11日星期三 14:21:31",
   "crawled_date": "2026-11-11",
   "deep": {
     "original_pages": 1,
     "latest_page": 21,
-    "added": 7
+    "added": 1
   },
-  "post_count": 37
+  "post_count": 38
 }
