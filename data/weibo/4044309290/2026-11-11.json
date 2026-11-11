@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月11日星期三 10:49:00",
+  "crawled_at_beijing": "2026年11月11日星期三 13:17:35",
   "crawled_date": "2026-11-11",
   "harvested": 11,
-  "in24h": 2,
+  "in24h": 4,
   "login_wall": false,
-  "post_count": 2,
+  "post_count": 4,
   "posts": [
     {
       "id": "5363994279281334",
@@ -37,6 +37,34 @@
       "attitudes": 14,
       "pics": [],
       "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E6%9C%9F%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E9%9B%86%E4%BD%93%E8%B7%B3%E6%B0%B4%23&extparam=%23%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E6%9C%9F%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E9%9B%86%E4%BD%93%E8%B7%B3%E6%B0%B4%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5364038263377210",
+      "mid": "5364038263377210",
+      "created_at": "2026-11-11T04:04:04.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RqRVweaz8",
+      "text": "#贾国龙质押西贝2660万股权#\n为啥还在苦苦硬撑，老贾主动下课换个新人啊。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 6,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%B4%A8%E6%8A%BC%E8%A5%BF%E8%B4%9D2660%E4%B8%87%E8%82%A1%E6%9D%83%23&extparam=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%B4%A8%E6%8A%BC%E8%A5%BF%E8%B4%9D2660%E4%B8%87%E8%82%A1%E6%9D%83%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5364038079086982",
+      "mid": "5364038079086982",
+      "created_at": "2026-11-11T04:03:19.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RqRVdC7We",
+      "text": "#黄仁勋被调查#\n特朗普说不用担心，那一般就没好事了",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 11,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A2%AB%E8%B0%83%E6%9F%A5%23&extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A2%AB%E8%B0%83%E6%9F%A5%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ]
 }
