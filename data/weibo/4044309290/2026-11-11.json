@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月11日星期三 14:21:39",
+  "crawled_at_beijing": "2026年11月11日星期三 23:23:26",
   "crawled_date": "2026-11-11",
   "harvested": 11,
-  "in24h": 4,
+  "in24h": 6,
   "login_wall": false,
-  "post_count": 4,
+  "post_count": 6,
   "posts": [
     {
       "id": "5363994279281334",
@@ -65,6 +65,36 @@
       "attitudes": 11,
       "pics": [],
       "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A2%AB%E8%B0%83%E6%9F%A5%23&extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A2%AB%E8%B0%83%E6%9F%A5%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5364198661948763",
+      "mid": "5364198661948763",
+      "created_at": "2026-11-11T14:41:26.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RqW6e8aXF",
+      "text": "#俄美乌三方会谈成果公布#\n这不就等于没有成果吗？\n俄罗斯要吞并乌克兰的领土，乌克兰不同意，这种核心利益怎么谈？",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 4,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BF%84%E7%BE%8E%E4%B9%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E6%88%90%E6%9E%9C%E5%85%AC%E5%B8%83%23&extparam=%23%E4%BF%84%E7%BE%8E%E4%B9%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E6%88%90%E6%9E%9C%E5%85%AC%E5%B8%83%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5364155842303030",
+      "mid": "5364155842303030",
+      "created_at": "2026-11-11T11:51:17.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RqUZa9F7E",
+      "text": "#离岸信托收益征税过渡期结束#AI算的，与我无关。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 9,
+      "pics": [
+        "https://wx1.sinaimg.cn/mw2000/f10f432agy1iiyhwh3gtjj20wr14wjww.jpg"
+      ],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%A6%BB%E5%B2%B8%E4%BF%A1%E6%89%98%E6%94%B6%E7%9B%8A%E5%BE%81%E7%A8%8E%E8%BF%87%E6%B8%A1%E6%9C%9F%E7%BB%93%E6%9D%9F%23&extparam=%23%E7%A6%BB%E5%B2%B8%E4%BF%A1%E6%89%98%E6%94%B6%E7%9B%8A%E5%BE%81%E7%A8%8E%E8%BF%87%E6%B8%A1%E6%9C%9F%E7%BB%93%E6%9D%9F%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ]
 }
