@@ -1,0 +1,22 @@
+{
+  "user_id": "8790885129",
+  "profile_url": "https://xueqiu.com/u/8790885129",
+  "window": "last-24h",
+  "posts": [
+    {
+      "id": "416302314",
+      "created_at": "2026-11-10T10:09:58.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/8790885129/416302314",
+      "text": "冬天来了，又到了我被群嘲的季节，"
+    }
+  ],
+  "crawled_at_beijing": "2026年11月11日星期三 09:30:57",
+  "crawled_date": "2026-11-11",
+  "deep": {
+    "original_pages": 1,
+    "latest_page": 19,
+    "added": 1
+  },
+  "post_count": 1
+}
