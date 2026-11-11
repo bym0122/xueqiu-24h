@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月11日星期三 09:31:03",
+  "crawled_at_beijing": "2026年11月11日星期三 10:49:00",
   "crawled_date": "2026-11-11",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 6,
+  "post_count": 9,
   "posts": [
     {
       "id": "5363976410234961",
@@ -94,6 +94,48 @@
       "reposts": 9,
       "comments": 85,
       "attitudes": 675,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5364005473617557",
+      "mid": "5364005473617557",
+      "created_at": "2026-11-11T01:53:46.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqR4Dfb5H",
+      "text": "疾病的AI俺推荐蚂蚁阿福，专业",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 29,
+      "comments": 68,
+      "attitudes": 464,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5364004421633004",
+      "mid": "5364004421633004",
+      "created_at": "2026-11-11T01:49:35.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqR2W6QOM",
+      "text": "看病还是找40多的好口碑医生，精力充沛，不容易出错，几百块挂号费开药都能开错，要不是俺自己懂，后面麻烦事就多了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 12,
+      "comments": 75,
+      "attitudes": 506,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5364000651218283",
+      "mid": "5364000651218283",
+      "created_at": "2026-11-11T01:34:36.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RqQWR56VJ",
+      "text": "主仓磷肥居赚钱走人，妹想到",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 5,
+      "comments": 105,
+      "attitudes": 567,
       "pics": [],
       "page_url": null
     }
