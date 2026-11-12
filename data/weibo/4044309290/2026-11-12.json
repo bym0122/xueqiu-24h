@@ -3,11 +3,26 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月12日星期四 09:46:33",
+  "crawled_at_beijing": "2026年11月12日星期四 13:56:21",
   "crawled_date": "2026-11-12",
   "harvested": 11,
-  "in24h": 4,
+  "in24h": 3,
   "login_wall": false,
-  "post_count": 0,
-  "posts": []
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5364418247658355",
+      "mid": "5364418247658355",
+      "created_at": "2026-11-12T05:13:59.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rr1Oow8hR",
+      "text": "#黄仁勋再曝出轨涉事女高管取消行程#\n一件接一件？\n最后如果曝光黄仁勋就是特务，那就刺激了。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 6,
+      "attitudes": 13,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E6%9B%9D%E5%87%BA%E8%BD%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E9%AB%98%E7%AE%A1%E5%8F%96%E6%B6%88%E8%A1%8C%E7%A8%8B%23&extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E6%9B%9D%E5%87%BA%E8%BD%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E9%AB%98%E7%AE%A1%E5%8F%96%E6%B6%88%E8%A1%8C%E7%A8%8B%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    }
+  ]
 }
