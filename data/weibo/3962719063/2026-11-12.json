@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月12日星期四 18:56:19",
+  "crawled_at_beijing": "2026年11月12日星期四 23:17:20",
   "crawled_date": "2026-11-12",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 30,
+  "post_count": 37,
   "posts": [
     {
       "id": "5364359233799752",
@@ -436,6 +436,108 @@
       "reposts": 6,
       "comments": 12,
       "attitudes": 100,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5364548416834889",
+      "mid": "5364548416834889",
+      "created_at": "2026-11-12T13:51:14.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rr5clsG49",
+      "text": "英伟达：CEO黄仁勋即日起辞去总裁、首席执行官及董事会成员职务。",
+      "source": "微博网页版",
+      "reposts": 11,
+      "comments": 87,
+      "attitudes": 476,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5364546883290213",
+      "mid": "5364546883290213",
+      "created_at": "2026-11-12T13:45:07.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rr59SdNVX",
+      "text": "换我也装没看到，主动追着来的肯定是猎手，而不是猎物，这么开放的女人，谁扛得住，玩玩也怕有艾滋//@康米照耀自由:20年前还行//@红烧肉崇拜者:太危险了。差点成强奸犯。//@西西厮福:这种不提条件主动献身的，100%有问题",
+      "source": "微博网页版",
+      "reposts": 7,
+      "comments": 9,
+      "attitudes": 113,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5364538478166349",
+      "mid": "5364538478166349",
+      "created_at": "2026-11-12T13:11:43.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rr4Wjygrj",
+      "text": "现实中这么漂亮应该有9分了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 88,
+      "attitudes": 180,
+      "pics": [
+        "https://wx3.sinaimg.cn/mw2000/ec324b57gy1iizpuh51c3j210k26o1a4.jpg"
+      ],
+      "page_url": null
+    },
+    {
+      "id": "5364534388984386",
+      "mid": "5364534388984386",
+      "created_at": "2026-11-12T12:55:29.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/Rr4PIBHfs",
+      "text": "人口比例上海排第一//@求诚斋:按人口比例算，北京比浙江还高。北京是最卷的。",
+      "source": "微博网页版",
+      "reposts": 3,
+      "comments": 18,
+      "attitudes": 89,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5364533494547224",
+      "mid": "5364533494547224",
+      "created_at": "2026-11-12T12:51:56.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rr4Ohj4Wk",
+      "text": "北方的谁再喊全国统一一张卷，你就是搬起石头打自己的脚。整个北方31人入选国家集训队，占比15.5%",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 38,
+      "comments": 101,
+      "attitudes": 223,
+      "pics": [
+        "https://wx2.sinaimg.cn/mw2000/ec324b57gy1iizp9dpmotj210k26owtn.jpg"
+      ],
+      "page_url": null
+    },
+    {
+      "id": "5364527160099520",
+      "mid": "5364527160099520",
+      "created_at": "2026-11-12T12:26:46.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rr4E40pTa",
+      "text": "科创看上去上行压力很重啊，红利是不是应该表现一下了",
+      "source": "微博网页版",
+      "reposts": 11,
+      "comments": 113,
+      "attitudes": 685,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5364524198925969",
+      "mid": "5364524198925969",
+      "created_at": "2026-11-12T12:15:00.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/3962719063/Rr4zhBs3f",
+      "text": "商业地产：10月份公司实现合同销售金额约10.30亿元，比上年同期下降27.41%；销售面积约15.22万平方米，比上年同期下降20.52%。1-10月公司累计实现合同销售金额约98.56亿元，比上年同期下降40.15%；累计合同销售面积约156.50万平方米，比上年同期下降27.23%。\n\n零零散散总能卖一点，单月下降幅度收窄， ...全文",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 17,
+      "attitudes": 203,
       "pics": [],
       "page_url": null
     }

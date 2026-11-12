@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月12日星期四 18:56:20",
+  "crawled_at_beijing": "2026年11月12日星期四 23:17:21",
   "crawled_date": "2026-11-12",
-  "harvested": 11,
-  "in24h": 3,
+  "harvested": 12,
+  "in24h": 4,
   "login_wall": false,
-  "post_count": 1,
+  "post_count": 4,
   "posts": [
     {
       "id": "5364418247658355",
@@ -23,6 +23,50 @@
       "attitudes": 13,
       "pics": [],
       "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E6%9B%9D%E5%87%BA%E8%BD%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E9%AB%98%E7%AE%A1%E5%8F%96%E6%B6%88%E8%A1%8C%E7%A8%8B%23&extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E6%9B%9D%E5%87%BA%E8%BD%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E9%AB%98%E7%AE%A1%E5%8F%96%E6%B6%88%E8%A1%8C%E7%A8%8B%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5364552964244764",
+      "mid": "5364552964244764",
+      "created_at": "2026-11-12T14:09:18.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/Rr5jGhOfW",
+      "text": "#黄仁勋辞职#\n黄仁勋辞职，等于AI盛宴吃到一半，炉子被扛走了。\n英伟达是整个AI产业链的输血管、总闸和信用印章；黄仁勋就是那个插头。\n插头一拔，数据中心、模型公司、融资循环全成串在一个人裤腰带上的蚂蚱。这对快速发展的AI肯定是一个利空。\n大家现在都看到民主党的强势来袭了，也看到 ...全文",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 16,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%23&extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5364550404934320",
+      "mid": "5364550404934320",
+      "created_at": "2026-11-12T13:59:08.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rr5fykHDO",
+      "text": "老黄下课了，惨。\n后面还要面临刑事调查。\n#英伟达##黄仁勋##黄仁勋再曝出轨涉事女高管取消行程#美股",
+      "source": "美股超话",
+      "reposts": 0,
+      "comments": 3,
+      "attitudes": 12,
+      "pics": [
+        "https://wx4.sinaimg.cn/mw2000/f10f432agy1iizr77fralj20wr1z0apn.jpg"
+      ],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E6%9B%9D%E5%87%BA%E8%BD%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E9%AB%98%E7%AE%A1%E5%8F%96%E6%B6%88%E8%A1%8C%E7%A8%8B%23&extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E6%9B%9D%E5%87%BA%E8%BD%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E9%AB%98%E7%AE%A1%E5%8F%96%E6%B6%88%E8%A1%8C%E7%A8%8B%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5364513092142308",
+      "mid": "5364513092142308",
+      "created_at": "2026-11-12T11:30:52.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rr4hn8Zjm",
+      "text": "#德芙广告宣扬错误婚恋观被罚80万元#\n现在各行各业的宣传口都堆满了拳师，德芙、Oppo的文案都不是偶然，背后就是一种田园女拳文化在泛滥。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 26,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BE%B7%E8%8A%99%E5%B9%BF%E5%91%8A%E5%AE%A3%E6%89%AC%E9%94%99%E8%AF%AF%E5%A9%9A%E6%81%8B%E8%A7%82%E8%A2%AB%E7%BD%9A80%E4%B8%87%E5%85%83%23&extparam=%23%E5%BE%B7%E8%8A%99%E5%B9%BF%E5%91%8A%E5%AE%A3%E6%89%AC%E9%94%99%E8%AF%AF%E5%A9%9A%E6%81%8B%E8%A7%82%E8%A2%AB%E7%BD%9A80%E4%B8%87%E5%85%83%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ]
 }
