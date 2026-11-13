@@ -228,12 +228,12 @@
       "text": "我刚刚关注了股票$东鹏饮料(SH605499)$，当前价 ¥110.41。"
     }
   ],
-  "crawled_at_beijing": "2026年11月13日星期五 14:10:12",
+  "crawled_at_beijing": "2026年11月13日星期五 16:20:08",
   "crawled_date": "2026-11-13",
   "deep": {
     "original_pages": 1,
     "latest_page": 21,
-    "added": 2
+    "added": 0
   },
   "post_count": 32
 }
