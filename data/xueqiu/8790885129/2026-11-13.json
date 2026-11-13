@@ -1,0 +1,22 @@
+{
+  "user_id": "8790885129",
+  "profile_url": "https://xueqiu.com/u/8790885129",
+  "window": "last-24h",
+  "posts": [
+    {
+      "id": "416680596",
+      "created_at": "2026-11-13T01:02:38.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/8790885129/416680596",
+      "text": "回复@franklin24wh: 求套牢 //@franklin24wh:回复@超级鹿鼎公:公公三进紫金后恐怕又要止损了"
+    }
+  ],
+  "crawled_at_beijing": "2026年11月13日星期五 11:25:12",
+  "crawled_date": "2026-11-13",
+  "deep": {
+    "original_pages": 1,
+    "latest_page": 19,
+    "added": 1
+  },
+  "post_count": 1
+}

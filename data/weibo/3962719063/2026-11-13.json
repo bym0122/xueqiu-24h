@@ -1,0 +1,58 @@
+{
+  "user_id": "3962719063",
+  "profile_url": "https://weibo.com/u/3962719063",
+  "window": "last-24h",
+  "source": "local-chromium",
+  "crawled_at_beijing": "2026年11月13日星期五 11:25:27",
+  "crawled_date": "2026-11-13",
+  "harvested": 10,
+  "in24h": 10,
+  "login_wall": false,
+  "post_count": 3,
+  "posts": [
+    {
+      "id": "5364745085389377",
+      "mid": "5364745085389377",
+      "created_at": "2026-11-13T02:52:43.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrajymC1r",
+      "text": "旧爱盒饭到手，不看股票了",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 61,
+      "attitudes": 287,
+      "pics": [
+        "https://wx2.sinaimg.cn/mw2000/ec324b57gy1ij0dkprblrj20u01400wa.jpg"
+      ],
+      "page_url": null
+    },
+    {
+      "id": "5364715291150178",
+      "mid": "5364715291150178",
+      "created_at": "2026-11-13T00:54:20.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rr9xv4Pdg",
+      "text": "美国总统，全球最有权势的人，失去了他的国会\n黄仁勋，全球科技最风光的大佬，失去了他的CEO职位\n\n有钱有势的人也面临人生挫折，我们二级市场做股票的，遇上挫折太正常了",
+      "source": "微博网页版",
+      "reposts": 83,
+      "comments": 87,
+      "attitudes": 1377,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5364689095885486",
+      "mid": "5364689095885486",
+      "created_at": "2026-11-12T23:10:14.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rr8RfoH5c",
+      "text": "风不在，就老老实实吃息，算股息",
+      "source": "微博网页版",
+      "reposts": 70,
+      "comments": 146,
+      "attitudes": 1630,
+      "pics": [],
+      "page_url": null
+    }
+  ]
+}

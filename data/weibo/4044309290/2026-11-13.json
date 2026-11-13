@@ -1,0 +1,28 @@
+{
+  "user_id": "4044309290",
+  "profile_url": "https://weibo.com/u/4044309290",
+  "window": "last-24h",
+  "source": "local-chromium",
+  "crawled_at_beijing": "2026年11月13日星期五 11:25:28",
+  "crawled_date": "2026-11-13",
+  "harvested": 12,
+  "in24h": 5,
+  "login_wall": false,
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5364736522980086",
+      "mid": "5364736522980086",
+      "created_at": "2026-11-13T02:18:42.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rra5KcvfU",
+      "text": "#缅甸电诈园区水牢真实情况#\n缅北那些电炸团伙应该定性为恐怖组织和恐怖分子了，而不是单纯电炸。\n哪里的电炸动不动杀人强奸的？这明显是恐怖分子干的活。",
+      "source": "iPhone 16",
+      "reposts": 2,
+      "comments": 5,
+      "attitudes": 26,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E6%B0%B4%E7%89%A2%E7%9C%9F%E5%AE%9E%E6%83%85%E5%86%B5%23&extparam=%23%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E6%B0%B4%E7%89%A2%E7%9C%9F%E5%AE%9E%E6%83%85%E5%86%B5%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    }
+  ]
+}
