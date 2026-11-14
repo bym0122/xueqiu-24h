@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月14日星期六 12:32:58",
+  "crawled_at_beijing": "2026年11月14日星期六 19:14:11",
   "crawled_date": "2026-11-14",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 10,
+  "post_count": 12,
   "posts": [
     {
       "id": "5365129441184381",
@@ -149,6 +149,34 @@
       "reposts": 3,
       "comments": 2,
       "attitudes": 46,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5365174882011802",
+      "mid": "5365174882011802",
+      "created_at": "2026-11-14T07:20:35.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RrluM8rmq",
+      "text": "回复@打团不要激动:这个土地不能直接种粮食，需要补有机物，益生菌，需要改善改良土地//@打团不要激动:每亩才2000？我们天津良田租出去一亩才1200，2000成本真不高。//@挖地瓜的超级鹿鼎公:回复@城市人城中事-:种牧草，改善土地，养牛羊//@城市人城中事-:老舅粮食主要还是看水，地其实没有那么缺，最缺...全文",
+      "source": "微博网页版",
+      "reposts": 1,
+      "comments": 8,
+      "attitudes": 88,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5365151383685945",
+      "mid": "5365151383685945",
+      "created_at": "2026-11-14T05:47:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RrkSSfsSJ",
+      "text": "//@汉族之声://@墨镜一带谁也不爱2024:现在东大的女人独立有工作，有事业，有钱，瑜伽，健身，旅游，养狗养猫，就是不生孩子",
+      "source": "微博网页版",
+      "reposts": 17,
+      "comments": 26,
+      "attitudes": 154,
       "pics": [],
       "page_url": null
     }
