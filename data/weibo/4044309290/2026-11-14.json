@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月14日星期六 19:14:12",
+  "crawled_at_beijing": "2026年11月14日星期六 21:10:10",
   "crawled_date": "2026-11-14",
   "harvested": 12,
   "in24h": 1,
   "login_wall": false,
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
     {
       "id": "5364889122242693",
@@ -23,6 +23,20 @@
       "attitudes": 30,
       "pics": [],
       "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%A4%E5%A4%A7%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91+%E7%BD%95%E8%A7%81%E7%97%85%E6%82%A3%E5%84%BF%23&extparam=%23%E4%BA%A4%E5%A4%A7%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91+%E7%BD%95%E8%A7%81%E7%97%85%E6%82%A3%E5%84%BF%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5365247871550109",
+      "mid": "5365247871550109",
+      "created_at": "2026-11-14T12:10:36.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rrnov6vfL",
+      "text": "#全美停飞亲历者称机场找不到机长飞#\n美国有海量的基建更新需求……\n美国国土安全部长马克韦恩・马林则表示，美国联邦航空管理局（FAA）在现有框架中添加了新技术，导致旧系统不堪重负。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 4,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E%E4%BA%B2%E5%8E%86%E8%80%85%E7%A7%B0%E6%9C%BA%E5%9C%BA%E6%89%BE%E4%B8%8D%E5%88%B0%E6%9C%BA%E9%95%BF%E9%A3%9E%23&extparam=%23%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E%E4%BA%B2%E5%8E%86%E8%80%85%E7%A7%B0%E6%9C%BA%E5%9C%BA%E6%89%BE%E4%B8%8D%E5%88%B0%E6%9C%BA%E9%95%BF%E9%A3%9E%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ]
 }
