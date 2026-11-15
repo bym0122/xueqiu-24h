@@ -1,0 +1,56 @@
+{
+  "user_id": "3962719063",
+  "profile_url": "https://weibo.com/u/3962719063",
+  "window": "last-24h",
+  "source": "local-chromium",
+  "crawled_at_beijing": "2026年11月15日星期日 12:57:08",
+  "crawled_date": "2026-11-15",
+  "harvested": 10,
+  "in24h": 5,
+  "login_wall": false,
+  "post_count": 3,
+  "posts": [
+    {
+      "id": "5365489662692707",
+      "mid": "5365489662692707",
+      "created_at": "2026-11-15T04:11:24.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrtGubiuL",
+      "text": "【印尼总统下令提高国家在矿业收益中的分成比例】\n印尼是全球最大镍土出产国，最大煤炭出口国，全球第二大氧化铝出口国",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 26,
+      "attitudes": 180,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5365383416512829",
+      "mid": "5365383416512829",
+      "created_at": "2026-11-14T21:09:13.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RrqV7rkhD",
+      "text": "//@他回精神病院了:真的吗？//@威士忌斯基:真坏啊//@美食家大雄:太欺负人了吧，这是诈骗了@浙江理工大学 //@蘸盐:@小红书薯管家 贵宝地还真是类人生物云集呀@浙江理工大学 @杭州公安 @杭州网警",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 47,
+      "comments": 55,
+      "attitudes": 271,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5365376034799927",
+      "mid": "5365376034799927",
+      "created_at": "2026-11-14T20:39:53.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RrqJdk8Gb",
+      "text": "转发微博",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 13,
+      "comments": 35,
+      "attitudes": 194,
+      "pics": [],
+      "page_url": null
+    }
+  ]
+}

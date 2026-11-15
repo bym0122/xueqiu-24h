@@ -1,0 +1,28 @@
+{
+  "user_id": "4044309290",
+  "profile_url": "https://weibo.com/u/4044309290",
+  "window": "last-24h",
+  "source": "local-chromium",
+  "crawled_at_beijing": "2026年11月15日星期日 12:57:09",
+  "crawled_date": "2026-11-15",
+  "harvested": 12,
+  "in24h": 2,
+  "login_wall": false,
+  "post_count": 1,
+  "posts": [
+    {
+      "id": "5365468865235009",
+      "mid": "5365468865235009",
+      "created_at": "2026-11-15T02:48:46.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/Rrt8WlXRD",
+      "text": "#黄仁勋一走英伟达的中枢瘫了#\n卷入英伟达首席执行官黄仁勋婚外情风波的超速国际前高管黄乐，此前接受新加坡警方调查时提供不实信息，被予严厉警告，并禁止入境新加坡。\n\n新加坡内政部星期四（11月12日）晚间发声明说，新加坡警察部队和海关去年2月对超速国际（Megaspeed International）等多家公司及 ...全文",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 4,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%80%E8%B5%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E4%B8%AD%E6%9E%A2%E7%98%AB%E4%BA%86%23&extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%80%E8%B5%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E4%B8%AD%E6%9E%A2%E7%98%AB%E4%BA%86%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    }
+  ]
+}
