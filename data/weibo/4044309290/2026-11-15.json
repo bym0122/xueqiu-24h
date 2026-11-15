@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月15日星期日 12:57:09",
+  "crawled_at_beijing": "2026年11月15日星期日 21:34:03",
   "crawled_date": "2026-11-15",
   "harvested": 12,
   "in24h": 2,
   "login_wall": false,
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
     {
       "id": "5365468865235009",
@@ -23,6 +23,20 @@
       "attitudes": 4,
       "pics": [],
       "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%80%E8%B5%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E4%B8%AD%E6%9E%A2%E7%98%AB%E4%BA%86%23&extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%80%E8%B5%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E4%B8%AD%E6%9E%A2%E7%98%AB%E4%BA%86%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5365603552727595",
+      "mid": "5365603552727595",
+      "created_at": "2026-11-15T11:43:58.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/RrwEbbrzt",
+      "text": "#新加坡公布黄乐调查结果#\n新加坡这个也算撇清关系的操作吧：\n1、证明了她是香港人，并且属于超速国际的老板之一。\n2、没有调查她是不是间谍的问题，只是调查她购买服务器时是虚假申报，涉嫌不实申报被查；\n3、已经被驱逐出境，很久都没来过新加坡了；\n延伸阅读\n4、新加坡调查Megaspeed案向美索取Super ...全文",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 17,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/p/index?containerid=10080814bf5c897776f11648134a65c8365b77_-_lbs&lcardid=frompoi&extparam=frompoi&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ]
 }
