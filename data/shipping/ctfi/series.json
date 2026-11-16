@@ -772,5 +772,48 @@
         "tce_eco_chg": -29787
       }
     }
+  },
+  {
+    "date": "2026-11-16",
+    "crawled_at": "2026-11-16T23:28:15.123Z",
+    "source": "上海航运交易所 CTFI",
+    "comprehensive_index": 12635.74,
+    "comprehensive_index_chg": -68.29,
+    "routes": {
+      "CT1": {
+        "index": 16919.07,
+        "index_chg": -182.47,
+        "ws": 1003.64,
+        "ws_chg": -10.83,
+        "usd_per_ton": 202.84,
+        "usd_per_ton_chg": -2.18,
+        "tce": 1067454,
+        "tce_chg": -13480,
+        "tce_eco": 1033974,
+        "tce_eco_chg": -12976
+      },
+      "CT2": {
+        "index": 6210.73,
+        "index_chg": 102.96,
+        "ws": 294.14,
+        "ws_chg": 4.87,
+        "usd_per_ton": 117.13,
+        "usd_per_ton_chg": 1.94,
+        "tce": 340179,
+        "tce_chg": 5212,
+        "tce_eco": 330372,
+        "tce_eco_chg": 5089
+      },
+      "CT4": {
+        "index": 3282.14,
+        "index_chg": -103.93,
+        "usd_per_ton": 121.56,
+        "usd_per_ton_chg": -3.85,
+        "tce": 218816,
+        "tce_chg": -10095,
+        "tce_eco": 206468,
+        "tce_eco_chg": -9277
+      }
+    }
   }
 ]
