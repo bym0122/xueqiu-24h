@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月16日星期一 14:36:16",
+  "crawled_at_beijing": "2026年11月16日星期一 22:19:08",
   "crawled_date": "2026-11-16",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 19,
+  "post_count": 23,
   "posts": [
     {
       "id": "5365801851027854",
@@ -275,6 +275,65 @@
       "reposts": 27,
       "comments": 44,
       "attitudes": 469,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5365996793891499",
+      "mid": "5365996793891499",
+      "created_at": "2026-11-16T13:46:34.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RrGSrgkm7",
+      "text": "回复@追踪少年01:当然会，当铝价去2万左右的时候，投资就立刻少了//@追踪少年01:变量是现在铝价高的情况下，国外产能投产速度是否会加快？",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 3,
+      "attitudes": 78,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5365995635999474",
+      "mid": "5365995635999474",
+      "created_at": "2026-11-16T13:41:58.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrGQzpaJI",
+      "text": "2026年11月16日CCI指数\n5500大卡 1020 （-5）\n5000大卡 913 （-4）\n4500大卡 797 （-5）",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 2,
+      "attitudes": 110,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5365952126389265",
+      "mid": "5365952126389265",
+      "created_at": "2026-11-16T10:49:04.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrFIoqO8F",
+      "text": "现货价格与世界产量（扣除中国）",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 23,
+      "comments": 78,
+      "attitudes": 490,
+      "pics": [
+        "https://wx2.sinaimg.cn/mw2000/ec324b57gy1ij4879424wj210k26oapt.jpg",
+        "https://wx3.sinaimg.cn/mw2000/ec324b57gy1ij4879sm5bj210k26oqiw.jpg"
+      ],
+      "page_url": null
+    },
+    {
+      "id": "5365918255548414",
+      "mid": "5365918255548414",
+      "created_at": "2026-11-16T08:34:29.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrEPLnhoy",
+      "text": "10月火电发电量大降7%，明年火电上网电价必须大涨，否则火电全行业亏损",
+      "source": "微博网页版",
+      "reposts": 55,
+      "comments": 80,
+      "attitudes": 858,
       "pics": [],
       "page_url": null
     }

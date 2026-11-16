@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月16日星期一 14:36:16",
+  "crawled_at_beijing": "2026年11月16日星期一 22:19:08",
   "crawled_date": "2026-11-16",
   "harvested": 12,
   "in24h": 6,
   "login_wall": false,
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
     {
       "id": "5365791536975365",
@@ -79,6 +79,20 @@
       "attitudes": 4,
       "pics": [],
       "page_url": null
+    },
+    {
+      "id": "5365962192982208",
+      "mid": "5365962192982208",
+      "created_at": "2026-11-16T11:29:04.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RrFYDcvO8",
+      "text": "#传腾讯内部空前危机感#\n怎么感觉马化腾这次梭哈AI不是很理性呢\n不过好在腾讯盘子大，而且大股东也不是马化腾，折腾不死。",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 23,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BC%A0%E8%85%BE%E8%AE%AF%E5%86%85%E9%83%A8%E7%A9%BA%E5%89%8D%E5%8D%B1%E6%9C%BA%E6%84%9F%23&extparam=%23%E4%BC%A0%E8%85%BE%E8%AE%AF%E5%86%85%E9%83%A8%E7%A9%BA%E5%89%8D%E5%8D%B1%E6%9C%BA%E6%84%9F%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ]
 }
