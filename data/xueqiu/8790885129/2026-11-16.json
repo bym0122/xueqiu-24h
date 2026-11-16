@@ -2,13 +2,28 @@
   "user_id": "8790885129",
   "profile_url": "https://xueqiu.com/u/8790885129",
   "window": "last-24h",
-  "posts": [],
-  "crawled_at_beijing": "2026年11月16日星期一 08:57:10",
+  "posts": [
+    {
+      "id": "416968171",
+      "created_at": "2026-11-16T02:05:44.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/8790885129/416968171",
+      "text": "$陕西煤业(SH601225)$ 大笔仙晶拿着等，俺有的是耐心等美国降息，等行业部分企业亏损，等全球经济好转，后两个估计难度高，美国降息应该1-2年内可以看到，到时候看看能不能买到股价杀到惨不忍睹的有色，黄金"
+    },
+    {
+      "id": "416962105",
+      "created_at": "2026-11-16T01:51:38.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/8790885129/416962105",
+      "text": "$长江电力(SH600900)$ 谢谢长电，半年收到2年的预期收益，下次再来爱你"
+    }
+  ],
+  "crawled_at_beijing": "2026年11月16日星期一 10:14:43",
   "crawled_date": "2026-11-16",
   "deep": {
     "original_pages": 1,
     "latest_page": 19,
-    "added": 0
+    "added": 2
   },
-  "post_count": 0
+  "post_count": 2
 }
