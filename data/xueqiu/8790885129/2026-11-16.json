@@ -4,6 +4,13 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "416977391",
+      "created_at": "2026-11-16T02:32:52.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/8790885129/416977391",
+      "text": "回复@玉环小青年: 我觉得很便宜，但是市场有时候是精神病//@玉环小青年:回复@超级鹿鼎公:公公，铝便宜还杀的不够惨烈吗"
+    },
+    {
       "id": "416968171",
       "created_at": "2026-11-16T02:05:44.000Z",
       "kind": "status",
@@ -18,12 +25,12 @@
       "text": "$长江电力(SH600900)$ 谢谢长电，半年收到2年的预期收益，下次再来爱你"
     }
   ],
-  "crawled_at_beijing": "2026年11月16日星期一 10:14:43",
+  "crawled_at_beijing": "2026年11月16日星期一 14:36:10",
   "crawled_date": "2026-11-16",
   "deep": {
     "original_pages": 1,
     "latest_page": 19,
-    "added": 2
+    "added": 1
   },
-  "post_count": 2
+  "post_count": 3
 }

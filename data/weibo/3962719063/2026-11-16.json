@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月16日星期一 10:14:48",
+  "crawled_at_beijing": "2026年11月16日星期一 14:36:16",
   "crawled_date": "2026-11-16",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 18,
+  "post_count": 19,
   "posts": [
     {
       "id": "5365801851027854",
@@ -262,6 +262,20 @@
       "pics": [
         "https://wx1.sinaimg.cn/mw2000/ec324b57ly1ij3r93df8oj210k1d0dtu.jpg"
       ],
+      "page_url": null
+    },
+    {
+      "id": "5365845457114577",
+      "mid": "5365845457114577",
+      "created_at": "2026-11-16T03:45:12.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RrCWltQPf",
+      "text": "回复@轻胜马走泥丸:人总要学会自己才成长，看的远一点，就拿得住现金或者股票了//@轻胜马走泥丸:向公公请教，我感觉自己拿不住现金，总想满仓，没有杠杆，高股息和现金之间怎么平衡？",
+      "source": "微博网页版",
+      "reposts": 27,
+      "comments": 44,
+      "attitudes": 469,
+      "pics": [],
       "page_url": null
     }
   ]

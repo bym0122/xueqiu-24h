@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月16日星期一 10:14:49",
+  "crawled_at_beijing": "2026年11月16日星期一 14:36:16",
   "crawled_date": "2026-11-16",
   "harvested": 12,
-  "in24h": 5,
+  "in24h": 6,
   "login_wall": false,
-  "post_count": 3,
+  "post_count": 5,
   "posts": [
     {
       "id": "5365791536975365",
@@ -49,6 +49,34 @@
       "reposts": 0,
       "comments": 0,
       "attitudes": 2,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5365869616301524",
+      "mid": "5365869616301524",
+      "created_at": "2026-11-16T05:21:11.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RrDzjqrju",
+      "text": "回复@左岸右转_1979:她在湖南长得也不算好看的，其实。 但是老黄很爱这一口：体型高大、威猛的。//@左岸右转_1979:她是湖南湘潭人，我们的厂矿子弟",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 5,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5365856834161032",
+      "mid": "5365856834161032",
+      "created_at": "2026-11-16T04:30:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/RrDeHhstq",
+      "text": "回复@穿越的虾仁:持有香港特区护照去国外入境，就是被认定为香港居民，但是中国籍香港居民，你们香港没有单独的“国籍”的说法。 所以新加坡说的香港人或者香港居民都没问题，只是少了一个中国前缀。全世界哪个国家地区不知道香港是我们中国人的领土吗？它的意思就是说她是中国人。 一个港人身份还能争...全文",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 0,
+      "attitudes": 4,
       "pics": [],
       "page_url": null
     }
