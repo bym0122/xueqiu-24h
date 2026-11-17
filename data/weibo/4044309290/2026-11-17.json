@@ -3,11 +3,44 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月17日星期二 13:43:22",
+  "crawled_at_beijing": "2026年11月17日星期二 15:45:01",
   "crawled_date": "2026-11-17",
   "harvested": 12,
-  "in24h": 1,
+  "in24h": 3,
   "login_wall": false,
-  "post_count": 0,
-  "posts": []
+  "post_count": 2,
+  "posts": [
+    {
+      "id": "5366265481004163",
+      "mid": "5366265481004163",
+      "created_at": "2026-11-17T07:34:14.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RrNRO4deb",
+      "text": "#共和党人坚决反对黄仁勋重返英伟达#\n干掉黄仁勋，限制英伟达是两党共识，因为英伟达对美国经济目前的影响力太大了，对AI产业链形成了极大的话语权，也把AI产业链的钱赚爆了。\n老美对私人产业资本做太大历来都很警惕，有苗头直接打服，黄仁勋前很多人都遭过。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 5,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%23&extparam=%23%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5366264742547686",
+      "mid": "5366264742547686",
+      "created_at": "2026-11-17T07:31:18.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RrNQCaGLI",
+      "text": "#美联储将AI列为头号风险#\n最后受伤买单的都是大A股民\n对面美股纳斯达克才跌多少？双创都腰斩了还没跌够。\n多担忧担忧自己的钱包吧，韭菜们。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 8,
+      "pics": [
+        "https://wx2.sinaimg.cn/mw2000/f10f432agy1ij582g6x1dj20wr1jhtjl.jpg",
+        "https://wx3.sinaimg.cn/mw2000/f10f432agy1ij582xplgwj20wr1z04mp.jpg",
+        "https://wx4.sinaimg.cn/mw2000/f10f432agy1ij582y69x0j20k017c0ya.jpg"
+      ],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%B0%86AI%E5%88%97%E4%B8%BA%E5%A4%B4%E5%8F%B7%E9%A3%8E%E9%99%A9%23&extparam=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%B0%86AI%E5%88%97%E4%B8%BA%E5%A4%B4%E5%8F%B7%E9%A3%8E%E9%99%A9%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    }
+  ]
 }
