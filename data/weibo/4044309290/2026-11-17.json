@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月17日星期二 15:45:01",
+  "crawled_at_beijing": "2026年11月17日星期二 17:34:54",
   "crawled_date": "2026-11-17",
   "harvested": 12,
-  "in24h": 3,
+  "in24h": 4,
   "login_wall": false,
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
     {
       "id": "5366265481004163",
@@ -41,6 +41,20 @@
         "https://wx4.sinaimg.cn/mw2000/f10f432agy1ij582y69x0j20k017c0ya.jpg"
       ],
       "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%B0%86AI%E5%88%97%E4%B8%BA%E5%A4%B4%E5%8F%B7%E9%A3%8E%E9%99%A9%23&extparam=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%B0%86AI%E5%88%97%E4%B8%BA%E5%A4%B4%E5%8F%B7%E9%A3%8E%E9%99%A9%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5366277128323647",
+      "mid": "5366277128323647",
+      "created_at": "2026-11-17T08:20:30.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RrOaAyVmn",
+      "text": "#早生娃是她们自己的人生#\n现实中发现直接报警啊，还讨论个球。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 10,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%97%A9%E7%94%9F%E5%A8%83%E6%98%AF%E5%A5%B9%E4%BB%AC%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E7%94%9F%23&extparam=%23%E6%97%A9%E7%94%9F%E5%A8%83%E6%98%AF%E5%A5%B9%E4%BB%AC%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E7%94%9F%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ]
 }
