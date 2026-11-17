@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月17日星期二 11:40:37",
+  "crawled_at_beijing": "2026年11月17日星期二 13:43:22",
   "crawled_date": "2026-11-17",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 10,
+  "post_count": 12,
   "posts": [
     {
       "id": "5366197018431414",
@@ -147,6 +147,34 @@
       "reposts": 21,
       "comments": 13,
       "attitudes": 299,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5366217566323834",
+      "mid": "5366217566323834",
+      "created_at": "2026-11-17T04:23:50.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrMCwqx7k",
+      "text": "现货铝锭无锡价今年下半年第一次跌破23000",
+      "source": "微博网页版",
+      "reposts": 9,
+      "comments": 51,
+      "attitudes": 440,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5366217288192535",
+      "mid": "5366217288192535",
+      "created_at": "2026-11-17T04:22:44.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrMC4ynfF",
+      "text": "A00铝锭 无锡 22870 -90 11-17\n氧化铝 山西 2670",
+      "source": "微博网页版",
+      "reposts": 4,
+      "comments": 5,
+      "attitudes": 237,
       "pics": [],
       "page_url": null
     }
