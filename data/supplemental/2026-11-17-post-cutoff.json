@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-11-17",
+  "report_cutoff_cst": "2026-11-17T18:00:00+08:00",
+  "main_window_cst": {
+    "start": "2026-11-16T18:00:00+08:00",
+    "end": "2026-11-17T18:00:00+08:00"
+  },
+  "verification_as_of_cst": "2026-11-17T20:36:43+08:00",
+  "purpose": "仅补录18:00报告截点后的公开主页增量；这些记录不计入18:00主窗口条数。",
+  "source_method": "TinyFish public-profile/page extraction only; no login, no interactive browser operations.",
+  "posts": [
+    {
+      "platform": "xueqiu",
+      "author_id": "9493911686",
+      "author_name": "斯托伯的天空",
+      "id": "417265069",
+      "created_at_utc": "2026-11-17T10:44:09Z",
+      "created_at_cst": "2026-11-17 18:44:09",
+      "kind": "reply",
+      "url": "https://xueqiu.com/9493911686/417265069",
+      "raw_text": "回复@关山: 亚美尼亚和土耳其+阿塞拜疆是世仇，土阿关系很好，阿塞拜疆的很多武器是从以色列买的，但土耳其和以色列关系不好，而两家和美国关系又都很好。亚美尼亚过去和俄罗斯关系很好，经济联系紧密，但政治上更向欧盟靠拢，而欧盟和伊朗长期不对付。但是过去伊朗的超市经常有欧盟的进口商品，还比较畅销，伊朗战前大量用欧元结算。这世界从来不是非黑即白，更不是“敌人的敌人就是我的朋友”这么简单。//@关山:回复@7X24快讯:亚美尼亚是个基督教国家，但是和伊斯兰国家伊朗关系却极好，伊朗甚至还有两个议员席位专门给境内的亚美尼亚族人。反而是以色列关系和亚美尼亚一般，因为以色列出售军火给阿塞拜疆",
+      "attribution": "明确回复记录；作者评论可见，引用上下文保留在原始抓取文本中。",
+      "included_in_main_window": false
+    },
+    {
+      "platform": "xueqiu",
+      "author_id": "9493911686",
+      "author_name": "斯托伯的天空",
+      "id": "417269804",
+      "created_at_utc": "2026-11-17T11:20:29Z",
+      "created_at_cst": "2026-11-17 19:20:29",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/417269804",
+      "raw_text": "刚一朋友给我说一个TOP2大学的应届生来他们公司面试被刷了，人力觉得很好，但是技术主管认为路线不太合适。他说现在也太难找工作了，他们这种小公司都这么牛气了，直接刷顶尖高校的。我觉得也正常的，时代在变化嘛，大家对很多事儿都祛魅了。我刚上班那会儿，要是中小企业来个清北的，公司巴不得挂横幅呢，老板巴不得天天带身边吹牛逼。但是现在名校溢价没那么强了，大家更看重实际效益。而且我认为名校的学生不要轻易下沉，特别是清北复交这种，尽量不要去一般的中小企业，那很容易让你变得更暗淡的。黄金本身不会发光，只有在有光的地方才会发光。而且如果去一些完全脱离你校友圈层的地方，你的很多资源就被用不上了，毕业证学位证严重缩水。当然，你要是去自家企业或者去老丈人企业准备接班，那另说。实在想到基层锻炼就去大单位（不敢企业、事业单位还是ZF）的基层，这样上面有人看着你，给你打着伞。",
+      "attribution": "原创状态；就业与名校溢价的社会观察，不是直接交易信号。",
+      "included_in_main_window": false
+    },
+    {
+      "platform": "xueqiu",
+      "author_id": "9493911686",
+      "author_name": "斯托伯的天空",
+      "id": "417271530",
+      "created_at_utc": "2026-11-17T11:36:49Z",
+      "created_at_cst": "2026-11-17 19:36:49",
+      "kind": "reply",
+      "url": "https://xueqiu.com/9493911686/417271530",
+      "raw_text": "回复@看好股市的新人: 我认为不会有什么人看了这帖子后会产生你说的这种心态的。//@看好股市的新人:这个帖子又让没学历的有机会嘲笑清北的了。",
+      "attribution": "明确回复记录；个人日报仅摘录作者自己的回应，不展开被回复用户的原帖。",
+      "included_in_main_window": false
+    },
+    {
+      "platform": "xueqiu",
+      "author_id": "1910783512",
+      "author_name": null,
+      "id": "417272595",
+      "created_at_utc": "2026-11-17T11:46:47Z",
+      "created_at_cst": "2026-11-17 19:46:47",
+      "kind": "reply",
+      "url": "https://xueqiu.com/1910783512/417272595",
+      "raw_text": "回复@MW文: 降息周期，通过减少拨备来对抗息差下降的负面影响，从操作上没啥问题。但是，后面必须进入升息周期，把历年少提的拨备回拨回去。//@MW文:回复@看好股市的新人:账面好看了，所以一直涨。",
+      "attribution": "明确回复记录；银行拨备与利率周期的判断，未提供具体银行标的。",
+      "included_in_main_window": false
+    },
+    {
+      "platform": "xueqiu",
+      "author_id": "1910783512",
+      "author_name": null,
+      "id": "417272672",
+      "created_at_utc": "2026-11-17T11:47:35Z",
+      "created_at_cst": "2026-11-17 19:47:35",
+      "kind": "reply",
+      "url": "https://xueqiu.com/1910783512/417272672",
+      "raw_text": "回复@海边生煎鱼: 不奖励好人现实版。//@海边生煎鱼:回复@看好股市的新人:这个世界就是这么荒谬。作为个西安交大本科、浙大硕士的打工人，在国企单位里忍受了中专毕业顶父母岗上班的领导，欺压和辱骂了许多年。",
+      "attribution": "明确回复记录；仅记录作者自己的短评，不复制被回复用户的其他内容。",
+      "included_in_main_window": false
+    },
+    {
+      "platform": "xueqiu",
+      "author_id": "1910783512",
+      "author_name": null,
+      "id": "417272826",
+      "created_at_utc": "2026-11-17T11:49:07Z",
+      "created_at_cst": "2026-11-17 19:49:07",
+      "kind": "status",
+      "url": "https://xueqiu.com/1910783512/417272826",
+      "raw_text": "X上看到了，估计要大幅裁员。",
+      "attribution": "原创状态；未经核实的裁员推测。",
+      "included_in_main_window": false
+    },
+    {
+      "platform": "xueqiu",
+      "author_id": "1910783512",
+      "author_name": null,
+      "id": "417273454",
+      "created_at_utc": "2026-11-17T11:54:19Z",
+      "created_at_cst": "2026-11-17 19:54:19",
+      "kind": "status",
+      "url": "https://xueqiu.com/1910783512/417273454",
+      "raw_text": "加州原则上不允许离职竞业限制。",
+      "attribution": "原创状态；法律陈述未作本轮独立法律核验。",
+      "included_in_main_window": false
+    },
+    {
+      "platform": "xueqiu",
+      "author_id": "1910783512",
+      "author_name": null,
+      "id": "417273624",
+      "created_at_utc": "2026-11-17T11:55:39Z",
+      "created_at_cst": "2026-11-17 19:55:39",
+      "kind": "reply",
+      "url": "https://xueqiu.com/1910783512/417273624",
+      "raw_text": "回复@投资新手-小白: 只能自己走出来。但是能走出来的，初心也变了。//@投资新手-小白:[该内容已被作者删除]",
+      "attribution": "明确回复记录；被回复内容已删除，上下文缺失。",
+      "included_in_main_window": false
+    },
+    {
+      "platform": "xueqiu",
+      "author_id": "1910783512",
+      "author_name": null,
+      "id": "417273867",
+      "created_at_utc": "2026-11-17T11:58:15Z",
+      "created_at_cst": "2026-11-17 19:58:15",
+      "kind": "reply",
+      "url": "https://xueqiu.com/1910783512/417273867",
+      "raw_text": "回复@笨笨的投资者2: 占了护盘的光。但是我觉得，这个世上没有免费的好事，任何非正常收益，都会有代价，而且往往代价不菲。//@笨笨的投资者2:回复@笨笨的投资者2:一般来说，按正常的逻辑：你股价创了历史或者年内新高，要么是估值极具吸引力，要么是有美好的前景和增长预期；两头至少要站一头。可是现在现实的情况是，那些牛股不仅估值处在历史的高水位上，而且预期也并不怎么美好，还很可能是一年不如一年。",
+      "attribution": "明确回复记录；作者对异常上涨/高估值提出代价风险，具体标的未在作者评论中点明。",
+      "included_in_main_window": false
+    },
+    {
+      "platform": "xueqiu",
+      "author_id": "1910783512",
+      "author_name": null,
+      "id": "417274865",
+      "created_at_utc": "2026-11-17T12:04:33Z",
+      "created_at_cst": "2026-11-17 20:04:33",
+      "kind": "reply",
+      "url": "https://xueqiu.com/1910783512/417274865",
+      "raw_text": "回复@博士王神经: 看到说，企鹅目前内部程序，80%用Ai写。//@博士王神经:回复@看好股市的新人:想起来微软，。。AI替代的人太多了，尤其是基层程序员，我现在用AI写pyhton程序分析数据，用自然语言就可以了，主要是知道目的，AI就能够替你实现",
+      "attribution": "明确回复记录；“80%”为转述消息，未核实，不能当作腾讯内部事实。",
+      "included_in_main_window": false
+    }
+  ],
+  "profile_checks": [
+    {
+      "platform": "weibo",
+      "author_id": "3962719063",
+      "profile_url": "https://weibo.com/u/3962719063",
+      "status": "login_required",
+      "last_repository_record_cst": "2026-11-17 17:28:08",
+      "cutoff_gap_minutes": 31.9,
+      "notes": "公开主页提取要求登录；搜索未找到可靠的当日新增记录。不能据此认定无新增。"
+    }
+  ]
+}
