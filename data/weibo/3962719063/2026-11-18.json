@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月18日星期三 17:30:59",
+  "crawled_at_beijing": "2026年11月18日星期三 20:19:10",
   "crawled_date": "2026-11-18",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 16,
+  "post_count": 19,
   "posts": [
     {
       "id": "5366538900603159",
@@ -231,6 +231,48 @@
       "reposts": 5,
       "comments": 52,
       "attitudes": 379,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5366684512945168",
+      "mid": "5366684512945168",
+      "created_at": "2026-11-18T11:19:19.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrYLFcmaI",
+      "text": "最近是股，债，商品一起跌，很少见",
+      "source": "微博网页版",
+      "reposts": 13,
+      "comments": 89,
+      "attitudes": 451,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5366683092385910",
+      "mid": "5366683092385910",
+      "created_at": "2026-11-18T11:13:39.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrYJna0Gq",
+      "text": "2026年11月18日CCI指数\n5500大卡 1011 （-4）\n5000大卡 903 （-5）\n4500大卡 786 （-5）",
+      "source": "微博网页版",
+      "reposts": 0,
+      "comments": 5,
+      "attitudes": 146,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5366666591732053",
+      "mid": "5366666591732053",
+      "created_at": "2026-11-18T10:08:05.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RrYiL7gAl",
+      "text": "最近银行理财好像也亏钱，而且亏不少，这是真的吗",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 13,
+      "comments": 195,
+      "attitudes": 566,
       "pics": [],
       "page_url": null
     }
