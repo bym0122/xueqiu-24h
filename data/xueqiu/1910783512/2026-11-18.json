@@ -4,6 +4,27 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "417475365",
+      "created_at": "2026-11-18T13:17:06.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/417475365",
+      "text": "回复@francis的投资苦旅: 对于黄金，我也是小学生，一起跟着学习即可。//@francis的投资苦旅:回复@看好股市的新人:能介绍下看好黄金的大概逻辑吗"
+    },
+    {
+      "id": "417473672",
+      "created_at": "2026-11-18T13:01:02.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/417473672",
+      "text": "跟"
+    },
+    {
+      "id": "417473297",
+      "created_at": "2026-11-18T12:58:52.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/417473297",
+      "text": "回复@韭韭久久久: 所处的位置不同。当时，8年没涨了。//@韭韭久久久:回复@看好股市的新人:新人兄，口罩后加息对黄金走势没啥影响，这个背后是有什么不同吗？ 查看图片"
+    },
+    {
       "id": "417468986",
       "created_at": "2026-11-18T12:18:20.000Z",
       "kind": "retweet",
@@ -326,12 +347,12 @@
       "text": "X上看到了，估计要大幅裁员。"
     }
   ],
-  "crawled_at_beijing": "2026年11月18日星期三 20:19:04",
+  "crawled_at_beijing": "2026年11月18日星期三 22:34:24",
   "crawled_date": "2026-11-18",
   "deep": {
     "original_pages": 1,
     "latest_page": 21,
-    "added": 9
+    "added": 3
   },
-  "post_count": 46
+  "post_count": 49
 }
