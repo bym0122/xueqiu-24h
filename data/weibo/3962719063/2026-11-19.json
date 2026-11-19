@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月19日星期四 13:24:29",
+  "crawled_at_beijing": "2026年11月19日星期四 14:20:34",
   "crawled_date": "2026-11-19",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 17,
+  "post_count": 18,
   "posts": [
     {
       "id": "5366891948279832",
@@ -252,6 +252,20 @@
       "pics": [
         "https://wx1.sinaimg.cn/mw2000/ec324b57gy1ij7ap2fh34j210k26oh2u.jpg"
       ],
+      "page_url": null
+    },
+    {
+      "id": "5366968332849599",
+      "mid": "5366968332849599",
+      "created_at": "2026-11-19T06:07:07.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/Rs69rbXjh",
+      "text": "A00铝锭 无锡 22280 -260 11-19\n氧化铝 山西 2670 0",
+      "source": "微博网页版",
+      "reposts": 2,
+      "comments": 29,
+      "attitudes": 180,
+      "pics": [],
       "page_url": null
     }
   ]
