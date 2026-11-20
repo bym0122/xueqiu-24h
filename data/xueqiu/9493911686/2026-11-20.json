@@ -4,6 +4,13 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "417856113",
+      "created_at": "2026-11-20T08:47:14.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/417856113",
+      "text": "月亮出的真早啊。"
+    },
+    {
       "id": "417791049",
       "created_at": "2026-11-20T04:40:57.000Z",
       "kind": "retweet",
@@ -179,12 +186,12 @@
       "text": "现在市场上私人已经没啥增量资金的，要么套着要么割肉跑了。新开的各种资金基本都是受大手干预过的，额度很小而且猛干银行。真正有活钱的就是险资、前面跑掉的两金和跟屁虫机构。量化那几个钢镚冲进来也是被反收割。查看图片"
     }
   ],
-  "crawled_at_beijing": "2026年11月20日星期五 13:18:22",
+  "crawled_at_beijing": "2026年11月20日星期五 17:45:54",
   "crawled_date": "2026-11-20",
   "deep": {
     "original_pages": 1,
-    "latest_page": 20,
-    "added": 6
+    "latest_page": 21,
+    "added": 1
   },
-  "post_count": 25
+  "post_count": 26
 }
