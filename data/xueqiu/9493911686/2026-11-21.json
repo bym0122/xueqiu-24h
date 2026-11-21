@@ -4,6 +4,13 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "417982000",
+      "created_at": "2026-11-21T10:07:38.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/417982000",
+      "text": "回复@强悍的股票小耐心: 完全两码事，成因和背景都不一样。//@强悍的股票小耐心:回复@斯托伯的天空:这位置基本明牌对应4月7日那会儿的行情了吧，就是不知道会不会为了爆融资盘强行开盘砸穿。"
+    },
+    {
       "id": "417972476",
       "created_at": "2026-11-21T07:28:52.000Z",
       "kind": "retweet",
@@ -186,12 +193,12 @@
       "text": "足够硬的产业逻辑，足够优秀的企业基本面，足够低的估值。迎接狂风暴雨。"
     }
   ],
-  "crawled_at_beijing": "2026年11月21日星期六 15:58:39",
+  "crawled_at_beijing": "2026年11月21日星期六 18:11:04",
   "crawled_date": "2026-11-21",
   "deep": {
     "original_pages": 1,
-    "latest_page": 21,
-    "added": 7
+    "latest_page": 20,
+    "added": 1
   },
-  "post_count": 26
+  "post_count": 27
 }
