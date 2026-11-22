@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月22日星期日 11:32:02",
+  "crawled_at_beijing": "2026年11月22日星期日 13:55:59",
   "crawled_date": "2026-11-22",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 10,
+  "post_count": 11,
   "posts": [
     {
       "id": "5368011164746431",
@@ -148,6 +148,22 @@
       "comments": 7,
       "attitudes": 114,
       "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5368050360778878",
+      "mid": "5368050360778878",
+      "created_at": "2026-11-22T05:46:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RsyiE3gCy",
+      "text": "钱老的手稿",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 1,
+      "comments": 3,
+      "attitudes": 59,
+      "pics": [
+        "https://wx4.sinaimg.cn/mw2000/ec324b57gy1ijax6i4yqpj20u01400wh.jpg"
+      ],
       "page_url": null
     }
   ]
