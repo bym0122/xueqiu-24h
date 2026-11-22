@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月22日星期日 13:55:59",
+  "crawled_at_beijing": "2026年11月22日星期日 18:29:29",
   "crawled_date": "2026-11-22",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 11,
+  "post_count": 12,
   "posts": [
     {
       "id": "5368011164746431",
@@ -164,6 +164,20 @@
       "pics": [
         "https://wx4.sinaimg.cn/mw2000/ec324b57gy1ijax6i4yqpj20u01400wh.jpg"
       ],
+      "page_url": null
+    },
+    {
+      "id": "5368108164579488",
+      "mid": "5368108164579488",
+      "created_at": "2026-11-22T09:36:23.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RszNSjdkI",
+      "text": "回复@财福州:博物馆的文件//@财福州:老舅旧居在翠花新村吧",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 46,
+      "pics": [],
       "page_url": null
     }
   ]
