@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月23日星期一 19:15:18",
+  "crawled_at_beijing": "2026年11月23日星期一 23:25:55",
   "crawled_date": "2026-11-23",
   "harvested": 12,
-  "in24h": 1,
+  "in24h": 4,
   "login_wall": false,
-  "post_count": 1,
+  "post_count": 4,
   "posts": [
     {
       "id": "5368483139294629",
@@ -23,6 +23,48 @@
       "attitudes": 13,
       "pics": [],
       "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E4%B8%A5%E6%A0%BC%E6%89%A7%E8%A1%8C%E5%85%AB%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E5%88%B6%23&extparam=%23%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E4%B8%A5%E6%A0%BC%E6%89%A7%E8%A1%8C%E5%85%AB%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E5%88%B6%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5368511816795304",
+      "mid": "5368511816795304",
+      "created_at": "2026-11-23T12:20:22.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RsKiVsvLG",
+      "text": "#俄军对乌克兰实施大规模打击#\n2022年开始的战争，已经足足打了四年多，还没分出胜负。\n老毛子属于下不来台，退也不是进也不是，油价高企有人买那就有军费。乌克兰没可能放弃合法领土，特别是乌东四州。\n民主党上台后会加大对乌和欧盟的援助。\n战争还要继续，还没结束。\n最后一定会分出个胜负的。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 18,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BF%84%E5%86%9B%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB%23&extparam=%23%E4%BF%84%E5%86%9B%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5368510146679536",
+      "mid": "5368510146679536",
+      "created_at": "2026-11-23T12:13:44.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RsKges1Es",
+      "text": "#晚自习倒地猝死女教师多次说好累#\n想起双减政策之后，老师、学生和家长范儿，变得越来越累越来越憔悴了。\n减了个寂寞。",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 24,
+      "attitudes": 233,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%99%9A%E8%87%AA%E4%B9%A0%E5%80%92%E5%9C%B0%E7%8C%9D%E6%AD%BB%E5%A5%B3%E6%95%99%E5%B8%88%E5%A4%9A%E6%AC%A1%E8%AF%B4%E5%A5%BD%E7%B4%AF%23&extparam=%23%E6%99%9A%E8%87%AA%E4%B9%A0%E5%80%92%E5%9C%B0%E7%8C%9D%E6%AD%BB%E5%A5%B3%E6%95%99%E5%B8%88%E5%A4%9A%E6%AC%A1%E8%AF%B4%E5%A5%BD%E7%B4%AF%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5368508869509594",
+      "mid": "5368508869509594",
+      "created_at": "2026-11-23T12:08:38.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RsKeaDTSy",
+      "text": "#城乡居民养老金中位数每月125元#\n把体制内最高的那几个段位的降下来，然后发给农村老人，社会扶助效果一下子就起来了。\n但喊了这么多年也没下文的。",
+      "source": "iPhone 16",
+      "reposts": 3,
+      "comments": 14,
+      "attitudes": 130,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E4%B8%AD%E4%BD%8D%E6%95%B0%E6%AF%8F%E6%9C%88125%E5%85%83%23&extparam=%23%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E4%B8%AD%E4%BD%8D%E6%95%B0%E6%AF%8F%E6%9C%88125%E5%85%83%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ]
 }

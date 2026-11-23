@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月23日星期一 19:15:18",
+  "crawled_at_beijing": "2026年11月23日星期一 23:25:55",
   "crawled_date": "2026-11-23",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 23,
+  "post_count": 25,
   "posts": [
     {
       "id": "5368340245906994",
@@ -331,6 +331,34 @@
       "reposts": 3,
       "comments": 10,
       "attitudes": 127,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5368517667064706",
+      "mid": "5368517667064706",
+      "created_at": "2026-11-23T12:43:37.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RsKsmtDQS",
+      "text": "不可能，我是那个时代的人//@不是人工智能:也可能是摆拍，和现在把劳力士故意露出来一样 //@挖地瓜的超级鹿鼎公:瞎扯淡，女性BB机都是放包里的，没见过女的这么别，绝对AI",
+      "source": "微博网页版",
+      "reposts": 6,
+      "comments": 59,
+      "attitudes": 152,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5368508910150415",
+      "mid": "5368508910150415",
+      "created_at": "2026-11-23T12:08:49.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/3962719063/RsKef0D83",
+      "text": "瞎扯淡，女性BB机都是放包里的，没见过女的这么别，绝对AI",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 13,
+      "comments": 39,
+      "attitudes": 174,
       "pics": [],
       "page_url": null
     }
