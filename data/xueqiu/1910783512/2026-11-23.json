@@ -4,6 +4,13 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "418099111",
+      "created_at": "2026-11-23T02:07:07.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/1910783512/418099111",
+      "text": "回复@只因买得青山好: 谁接盘呢？韭菜够不够呢？//@只因买得青山好:回复@看好股市的新人:我估计会有一个像样的反弹，强度足以让大部分机构趁机跑路"
+    },
+    {
       "id": "418073052",
       "created_at": "2026-11-23T00:43:40.000Z",
       "kind": "retweet",
@@ -144,12 +151,12 @@
       "text": ""
     }
   ],
-  "crawled_at_beijing": "2026年11月23日星期一 08:59:37",
+  "crawled_at_beijing": "2026年11月23日星期一 11:07:58",
   "crawled_date": "2026-11-23",
   "deep": {
     "original_pages": 1,
     "latest_page": 21,
-    "added": 20
+    "added": 1
   },
-  "post_count": 20
+  "post_count": 21
 }
