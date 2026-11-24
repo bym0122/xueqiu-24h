@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月24日星期二 11:52:15",
+  "crawled_at_beijing": "2026年11月24日星期二 14:41:56",
   "crawled_date": "2026-11-24",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 12,
+  "post_count": 14,
   "posts": [
     {
       "id": "5368706906719242",
@@ -179,6 +179,34 @@
       "reposts": 9,
       "comments": 464,
       "attitudes": 1678,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5368777144536105",
+      "mid": "5368777144536105",
+      "created_at": "2026-11-24T05:54:41.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RsRcSj22Z",
+      "text": "我水平差，被嘲笑也是正常，无所谓\n\n但是我不说谎，不骗人，就算输，输在哪里都明明白白",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 23,
+      "comments": 284,
+      "attitudes": 1640,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5368747734860171",
+      "mid": "5368747734860171",
+      "created_at": "2026-11-24T03:57:49.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RsQrrkolR",
+      "text": "游戏仓开始亏钱了，主仓春节以来也早两天亏钱了\n\n幸好我在两年前已经给自己放宽了心理限制，不再追求年度绝对不亏损的KPI",
+      "source": "HUAWEI Mate 70 Pro",
+      "reposts": 18,
+      "comments": 212,
+      "attitudes": 1383,
       "pics": [],
       "page_url": null
     }
