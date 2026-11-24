@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/3962719063",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月24日星期二 14:41:56",
+  "crawled_at_beijing": "2026年11月24日星期二 16:04:49",
   "crawled_date": "2026-11-24",
   "harvested": 10,
   "in24h": 10,
   "login_wall": false,
-  "post_count": 14,
+  "post_count": 15,
   "posts": [
     {
       "id": "5368706906719242",
@@ -207,6 +207,20 @@
       "reposts": 18,
       "comments": 212,
       "attitudes": 1383,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5368792550215383",
+      "mid": "5368792550215383",
+      "created_at": "2026-11-24T06:55:54.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/3962719063/RsRBJ0U1V",
+      "text": "长电，工行，神华还是红的，但是我觉得他们红不了多久了",
+      "source": "微博网页版",
+      "reposts": 19,
+      "comments": 142,
+      "attitudes": 881,
       "pics": [],
       "page_url": null
     }
