@@ -4,6 +4,27 @@
   "window": "last-24h",
   "posts": [
     {
+      "id": "418552325",
+      "created_at": "2026-11-25T06:44:25.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/418552325",
+      "text": "谁在做空？把那些卖了一两万亿的人找出来，查一查。"
+    },
+    {
+      "id": "418540182",
+      "created_at": "2026-11-25T06:12:17.000Z",
+      "kind": "status",
+      "url": "https://xueqiu.com/9493911686/418540182",
+      "text": "昨天清仓的今天又赚了1-3个点，一块钱的价值增加3%。"
+    },
+    {
+      "id": "418539664",
+      "created_at": "2026-11-25T06:11:07.000Z",
+      "kind": "retweet",
+      "url": "https://xueqiu.com/9493911686/418539664",
+      "text": "汤姆的我说九阳的股东搞市值管理也给我删了 这不很明显的吗，A股哪有什么巧合，都是策划好的"
+    },
+    {
       "id": "418533471",
       "created_at": "2026-11-25T05:53:43.000Z",
       "kind": "retweet",
@@ -186,12 +207,12 @@
       "text": "二逼市场+一堆二逼机构。国外这么多烂车厂都没你们跌得猛"
     }
   ],
-  "crawled_at_beijing": "2026年11月25日星期三 13:57:30",
+  "crawled_at_beijing": "2026年11月25日星期三 15:10:44",
   "crawled_date": "2026-11-25",
   "deep": {
     "original_pages": 1,
     "latest_page": 21,
-    "added": 6
+    "added": 3
   },
-  "post_count": 26
+  "post_count": 29
 }
