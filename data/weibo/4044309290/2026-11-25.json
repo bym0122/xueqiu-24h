@@ -3,12 +3,12 @@
   "profile_url": "https://weibo.com/u/4044309290",
   "window": "last-24h",
   "source": "local-chromium",
-  "crawled_at_beijing": "2026年11月25日星期三 16:26:47",
+  "crawled_at_beijing": "2026年11月25日星期三 18:16:46",
   "crawled_date": "2026-11-25",
   "harvested": 12,
-  "in24h": 4,
+  "in24h": 6,
   "login_wall": false,
-  "post_count": 4,
+  "post_count": 6,
   "posts": [
     {
       "id": "5368932766059434",
@@ -65,6 +65,34 @@
       "attitudes": 21,
       "pics": [],
       "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%BA%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A6%BB%E8%81%8C%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A7%B0%E8%87%AA%E5%B7%B1%E8%A1%8C%E5%8A%A8%E5%A4%AA%E5%BF%AB%23&extparam=%23%E4%B8%BA%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A6%BB%E8%81%8C%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A7%B0%E8%87%AA%E5%B7%B1%E8%A1%8C%E5%8A%A8%E5%A4%AA%E5%BF%AB%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5369204249203128",
+      "mid": "5369204249203128",
+      "created_at": "2026-11-25T10:11:51.000Z",
+      "kind": "long",
+      "url": "https://weibo.com/4044309290/Rt2jKCC9y",
+      "text": "#九阳回应暴涨称不涉及光刻机#\n其实这也是A股常年走的烂的原因之一，监管太弱了。\n这么侮辱智商和市场的事情，为什么没有调查？\n这种明显有问题的炒作，直接停牌就得了，停半年一年，让那些投机的资金出不来，好好惩戒一下，自然就没人炒了。\n更重要的是，一定要放开做空，没有做空的市场这种事只会频 ...全文",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 1,
+      "attitudes": 6,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B9%9D%E9%98%B3%E5%9B%9E%E5%BA%94%E6%9A%B4%E6%B6%A8%E7%A7%B0%E4%B8%8D%E6%B6%89%E5%8F%8A%E5%85%89%E5%88%BB%E6%9C%BA%23&extparam=%23%E4%B9%9D%E9%98%B3%E5%9B%9E%E5%BA%94%E6%9A%B4%E6%B6%A8%E7%A7%B0%E4%B8%8D%E6%B6%89%E5%8F%8A%E5%85%89%E5%88%BB%E6%9C%BA%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    },
+    {
+      "id": "5369183647042458",
+      "mid": "5369183647042458",
+      "created_at": "2026-11-25T08:49:59.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rt1Mwty42",
+      "text": "#湖北文科状元自述月薪7000多#\n这个人可能是个例，但当前学历贬值确实非常严重。\n以前你读个清北复交随便找工作，现在不是了，你就算清华北大毕业的遇到行情不好也比较难找到合适工作，还不如考公靠谱，很多走选调起点高。\n普通211更不说了，有些学校的部分专业基本毕业就失业。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 4,
+      "attitudes": 10,
+      "pics": [],
+      "page_url": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%B9%96%E5%8C%97%E6%96%87%E7%A7%91%E7%8A%B6%E5%85%83%E8%87%AA%E8%BF%B0%E6%9C%88%E8%96%AA7000%E5%A4%9A%23&extparam=%23%E6%B9%96%E5%8C%97%E6%96%87%E7%A7%91%E7%8A%B6%E5%85%83%E8%87%AA%E8%BF%B0%E6%9C%88%E8%96%AA7000%E5%A4%9A%23&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
     }
   ]
 }
