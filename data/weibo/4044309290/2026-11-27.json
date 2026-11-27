@@ -1,0 +1,45 @@
+{
+  "user_id": "4044309290",
+  "profile_url": "https://weibo.com/u/4044309290",
+  "window": "last-24h",
+  "source": "local-chromium",
+  "crawled_at_beijing": "2026年11月27日星期五 18:55:48",
+  "crawled_date": "2026-11-27",
+  "harvested": 12,
+  "in24h": 2,
+  "login_wall": false,
+  "post_count": 2,
+  "posts": [
+    {
+      "id": "5369889662959727",
+      "mid": "5369889662959727",
+      "created_at": "2026-11-27T07:35:25.000Z",
+      "kind": "retweet",
+      "url": "https://weibo.com/4044309290/Rtk9gcpXx",
+      "text": "李光耀搞过“去中国化”运动，有段时间学校不教华文，所以有一部分人不会讲华语正常。后来90年代开始中国强大了，新加坡又开始推广华语和华文教育。  如果你去新加坡会发现，很多路边和车站表示上都没有中文，只有英语。  新加坡是新加坡，中国是中国。//@蘸盐://@Zazou:人家明明英文很好 人家尊重你...全文",
+      "source": "iPhone 16",
+      "reposts": 1,
+      "comments": 1,
+      "attitudes": 11,
+      "pics": [],
+      "page_url": null
+    },
+    {
+      "id": "5369811114658395",
+      "mid": "5369811114658395",
+      "created_at": "2026-11-27T02:23:19.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rti6zjxRp",
+      "text": "可怜的孩子，遇到了暴躁的唯利是图的父母真是倒大霉。\n现在不知道多少这种为了流量逼迫孩子拍视频的父母，好多育儿的亲子的视频都是摆拍，最终给孩子带来一个终生阴影。\n#超10万赞的帮扶留守儿童视频系摆拍##亲子教育##父母#",
+      "source": "微博视频号",
+      "reposts": 6,
+      "comments": 13,
+      "attitudes": 28,
+      "pics": [
+        "https://wx4.sinaimg.cn/large/f10f432aly1ijgjaujpehj20k00zk3zp.jpg",
+        "https://wx4.sinaimg.cn/large/f10f432aly1ijgjb5apnkj20k00zk75t.jpg"
+      ],
+      "page_url": "https://video.weibo.com/show?fid=1034%3A5369810197086310&luicode=10000011&lfid=1076033962719063&launchid=10000360-page_H5"
+    }
+  ]
+}

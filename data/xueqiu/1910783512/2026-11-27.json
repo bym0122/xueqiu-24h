@@ -1,0 +1,19 @@
+{
+  "user_id": "1910783512",
+  "profile_url": "https://xueqiu.com/u/1910783512",
+  "window": "today",
+  "posts": [
+    {
+      "id": "418966498",
+      "created_at": "",
+      "kind": "status",
+      "url": "https://www.xueqiu.com/1910783512/418966498",
+      "text": "9.24-11.27。继续下潜。"
+    }
+  ],
+  "crawled_at_beijing": "2026-11-27T10:56:49.857Z",
+  "crawled_date": "2026-11-27",
+  "deep": false,
+  "post_count": 1,
+  "source": "登录态 xq-cdp 抓取(雪球作者主页,全部tab,下一页翻页)"
+}
