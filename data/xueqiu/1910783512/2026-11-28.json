@@ -1,0 +1,12 @@
+{
+  "user_id": "1910783512",
+  "profile_url": "https://xueqiu.com/u/1910783512",
+  "window": "today",
+  "posts": [],
+  "crawled_at_beijing": "2026-11-28T13:03:00.641Z",
+  "crawled_date": "2026-11-28",
+  "deep": false,
+  "post_count": 0,
+  "source": "登录态 xq-cdp(API /v4/statuses/user_timeline.json,按今天北京日期筛)",
+  "stop_reason": "reached-yesterday"
+}
