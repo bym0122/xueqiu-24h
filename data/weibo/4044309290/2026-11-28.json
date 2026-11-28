@@ -1,0 +1,50 @@
+{
+  "user_id": "4044309290",
+  "profile_url": "https://weibo.com/u/4044309290",
+  "window": "today",
+  "source": "local-chromium-logged-in-paged",
+  "crawled_at_beijing": "2026/11/28 21:20:48",
+  "crawled_date": "2026-11-28",
+  "harvested": 12,
+  "in24h": 3,
+  "login_wall": false,
+  "post_count": 3,
+  "posts": [
+    {
+      "id": "5370291959108563",
+      "created_at": "2026-11-28T10:14:01.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/RtuC7Cdyj",
+      "text": "#2025年北京强奸案立案数腰斩#\n感觉这个下降原因是男性法律意识大幅度提高了。",
+      "source": "iPhone 16",
+      "reposts": 3,
+      "comments": 12,
+      "attitudes": 56,
+      "pics": []
+    },
+    {
+      "id": "5370234657572915",
+      "created_at": "2026-11-28T06:26:19.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rtt7HvM3N",
+      "text": "#杨兰兰悉尼酒驾案出庭#\n杨兰兰、X宝宝、X瓜瓜、X点点、X豆豆、X平平……",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 2,
+      "attitudes": 34,
+      "pics": []
+    },
+    {
+      "id": "5370157304120067",
+      "created_at": "2026-11-28T01:18:57.000Z",
+      "kind": "status",
+      "url": "https://weibo.com/4044309290/Rtr6WhhOH",
+      "text": "#武契奇称一旦绝食将不接受救治#武契奇和欧尔班都在被新政府清算，匈牙利那边已经把欧尔班的旧势力进行了大规模彻底的清算，抓了很多前政府的官员。\n在东欧南欧这些地方做官风险还是很高的。",
+      "source": "iPhone 16",
+      "reposts": 0,
+      "comments": 0,
+      "attitudes": 14,
+      "pics": []
+    }
+  ]
+}
